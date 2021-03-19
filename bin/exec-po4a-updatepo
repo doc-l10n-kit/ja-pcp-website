@@ -15,5 +15,8 @@ for ITEM in `\find upstream -name "*.html"` ; do
         mkdir -p "$L10N_HOME/l10n/po/$TARGET_LANG/$RELATIVE_FILE_DIR"
         html2po --input="upstream/$RELATIVE_FILE_PATH" --output="l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po"
         msgcat --to-code=utf-8 --no-wrap -o l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po
+        if [ ! -s l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po ]; then
+          rm l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po
+        fi
     fi
 done
