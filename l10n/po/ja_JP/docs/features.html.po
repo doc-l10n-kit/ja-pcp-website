@@ -13,42 +13,48 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/features.html%2Bhtml.head.title:7-1
+#, fuzzy
 msgctxt "upstream/docs/features.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "Performance Co-Pilot"
 
 #: upstream/docs/features.html%2Bhtml.body.header.div.h1:16-1
+#, fuzzy
 msgctxt "upstream/docs/features.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "Performance Co-Pilot"
 
 #: upstream/docs/features.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
 msgctxt "upstream/docs/features.html+html.body.header.div.nav.ul.li:21-1upstream/docs/features.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/features.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
 msgctxt "upstream/docs/features.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/features.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
 msgctxt "upstream/docs/features.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/features.html%2Bhtml.body.header.div.nav.ul.li:30-1
 msgid "Get Involved"
 msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.h2:45-1
+#, fuzzy
 msgctxt "upstream/docs/features.html+html.body.div.div.div.div.section.div.div.h2:45-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.h2:53-1
 msgid "Collect"
-msgstr ""
+msgstr "収集"
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:64-1
 msgid "<strong>Kernel agents</strong> for each supported platform. The Linux agent exports a broad range of performance data from kernels since 2.0.36 or later. This includes coverage of activity in the areas of: CPU, disk, memory, swapping, network, NFS, RPC, filesystems, and per-process statistics."
@@ -64,7 +70,7 @@ msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.h2:95-1
 msgid "Analyze"
-msgstr ""
+msgstr "分析"
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:106-1
 msgid "A single <strong>API</strong> for accessing the performance data that hides details of where the data comes from and how it was captured and imported into the PCP framework."
@@ -100,7 +106,7 @@ msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.h2:171-1
 msgid "Extend"
-msgstr ""
+msgstr "拡張"
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:182-1
 msgid "A \"plugin\" framework (libraries, APIs, agents and daemon) to collect performance data from multiple sources on a single host, e.g. from the hardware, the kernel, the service layers, the application libraries, and the applications themselves."
@@ -115,19 +121,22 @@ msgid "Main Menu"
 msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:211-1
+#, fuzzy
 msgctxt "upstream/docs/features.html+html.body.footer.div.div.section.div.div.ul.li:211-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:214-1
+#, fuzzy
 msgctxt "upstream/docs/features.html+html.body.footer.div.div.section.div.div.ul.li:214-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:217-1
+#, fuzzy
 msgctxt "upstream/docs/features.html+html.body.footer.div.div.section.div.div.ul.li:217-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.h4:225-1
 msgid "Developers"

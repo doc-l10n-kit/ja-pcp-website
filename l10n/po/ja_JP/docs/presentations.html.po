@@ -13,29 +13,34 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/presentations.html%2Bhtml.head.title:7-1
+#, fuzzy
 msgctxt "upstream/docs/presentations.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "Performance Co-Pilot"
 
 #: upstream/docs/presentations.html%2Bhtml.body.header.div.h1:16-1
+#, fuzzy
 msgctxt "upstream/docs/presentations.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "Performance Co-Pilot"
 
 #: upstream/docs/presentations.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
 msgctxt "upstream/docs/presentations.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/presentations.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
 msgctxt "upstream/docs/presentations.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/presentations.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
 msgctxt "upstream/docs/presentations.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/presentations.html%2Bhtml.body.header.div.nav.ul.li:30-1
 msgid "Get Involved"
@@ -194,19 +199,22 @@ msgid "Main Menu"
 msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:437-1
+#, fuzzy
 msgctxt "upstream/docs/presentations.html+html.body.footer.div.div.section.div.div.ul.li:437-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:440-1
+#, fuzzy
 msgctxt "upstream/docs/presentations.html+html.body.footer.div.div.section.div.div.ul.li:440-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:443-1
+#, fuzzy
 msgctxt "upstream/docs/presentations.html+html.body.footer.div.div.section.div.div.ul.li:443-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.h4:451-1
 msgid "Developers"

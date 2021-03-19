@@ -13,38 +13,44 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/documentation.html%2Bhtml.head.title:7-1
+#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "Performance Co-Pilot"
 
 #: upstream/docs/documentation.html%2Bhtml.body.header.div.h1:16-1
+#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "Performance Co-Pilot"
 
 #: upstream/docs/documentation.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/documentation.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.body.header.div.nav.ul.li:24-1upstream/docs/documentation.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/documentation.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/documentation.html%2Bhtml.body.header.div.nav.ul.li:30-1
 msgid "Get Involved"
 msgstr ""
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.h1:41-1
+#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.body.div.div.div.h1:41-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:42-1
 msgid "Introduction to PCP"
@@ -215,19 +221,22 @@ msgid "Main Menu"
 msgstr ""
 
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:315-1
+#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.body.footer.div.div.section.div.div.ul.li:315-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:318-1
+#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.body.footer.div.div.section.div.div.ul.li:318-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:321-1
+#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.body.footer.div.div.section.div.div.ul.li:321-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:329-1
 msgid "Developers"

@@ -13,29 +13,34 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/faq.html%2Bhtml.head.title:7-1
+#, fuzzy
 msgctxt "upstream/docs/faq.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "Performance Co-Pilot"
 
 #: upstream/docs/faq.html%2Bhtml.body.header.div.h1:16-1
+#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "Performance Co-Pilot"
 
 #: upstream/docs/faq.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/faq.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/faq.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/faq.html%2Bhtml.body.header.div.nav.ul.li:30-1
 msgid "Get Involved"
@@ -1082,19 +1087,22 @@ msgid "Main Menu"
 msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1319-1
+#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.footer.div.div.section.div.div.ul.li:1319-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1322-1
+#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.footer.div.div.section.div.div.ul.li:1322-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1325-1
+#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.footer.div.div.section.div.div.ul.li:1325-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.h4:1333-1
 msgid "Developers"

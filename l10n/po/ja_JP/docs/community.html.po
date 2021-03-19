@@ -13,29 +13,34 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/community.html%2Bhtml.head.title:7-1
+#, fuzzy
 msgctxt "upstream/docs/community.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "Performance Co-Pilot"
 
 #: upstream/docs/community.html%2Bhtml.body.header.div.h1:16-1
+#, fuzzy
 msgctxt "upstream/docs/community.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "Performance Co-Pilot"
 
 #: upstream/docs/community.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
 msgctxt "upstream/docs/community.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/community.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
 msgctxt "upstream/docs/community.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/community.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
 msgctxt "upstream/docs/community.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/community.html%2Bhtml.body.header.div.nav.ul.li:30-1
 msgid "Get Involved"
@@ -102,19 +107,22 @@ msgid "Main Menu"
 msgstr ""
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:185-1
+#, fuzzy
 msgctxt "upstream/docs/community.html+html.body.footer.div.div.section.div.div.ul.li:185-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:188-1
+#, fuzzy
 msgctxt "upstream/docs/community.html+html.body.footer.div.div.section.div.div.ul.li:188-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:191-1
+#, fuzzy
 msgctxt "upstream/docs/community.html+html.body.footer.div.div.section.div.div.ul.li:191-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.h4:199-1
 msgid "Developers"

@@ -13,29 +13,34 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/testimonials.html%2Bhtml.head.title:7-1
+#, fuzzy
 msgctxt "upstream/docs/testimonials.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "Performance Co-Pilot"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.header.div.h1:16-1
+#, fuzzy
 msgctxt "upstream/docs/testimonials.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "Performance Co-Pilot"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
 msgctxt "upstream/docs/testimonials.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
 msgctxt "upstream/docs/testimonials.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
 msgctxt "upstream/docs/testimonials.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.header.div.nav.ul.li:30-1
 msgid "Get Involved"
@@ -127,19 +132,22 @@ msgid "Main Menu"
 msgstr ""
 
 #: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:305-1
+#, fuzzy
 msgctxt "upstream/docs/testimonials.html+html.body.footer.div.div.section.div.div.ul.li:305-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:308-1
+#, fuzzy
 msgctxt "upstream/docs/testimonials.html+html.body.footer.div.div.section.div.div.ul.li:308-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:311-1
+#, fuzzy
 msgctxt "upstream/docs/testimonials.html+html.body.footer.div.div.section.div.div.ul.li:311-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.h4:319-1
 msgid "Developers"
