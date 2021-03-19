@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-19 09:05+0000\n"
+"POT-Creation-Date: 2021-03-19 10:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,44 +13,38 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/download.html%2Bhtml.head.title:7-1
-#, fuzzy
 msgctxt "upstream/docs/download.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr "Performance Co-Pilot"
+msgstr ""
 
 #: upstream/docs/download.html%2Bhtml.body.header.div.h1:16-1
-#, fuzzy
 msgctxt "upstream/docs/download.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr "Performance Co-Pilot"
+msgstr ""
 
 #: upstream/docs/download.html%2Bhtml.body.header.div.nav.ul.li:21-1
-#, fuzzy
 msgctxt "upstream/docs/download.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/download.html%2Bhtml.body.header.div.nav.ul.li:24-1
-#, fuzzy
 msgctxt "upstream/docs/download.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr "ドキュメント"
+msgstr ""
 
 #: upstream/docs/download.html%2Bhtml.body.header.div.nav.ul.li:27-1
-#, fuzzy
 msgctxt "upstream/docs/download.html+html.body.header.div.nav.ul.li:27-1upstream/docs/download.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/download.html%2Bhtml.body.header.div.nav.ul.li:30-1
 msgid "Get Involved"
 msgstr ""
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.h2:45-1
-#, fuzzy
 msgctxt "upstream/docs/download.html+html.body.div.div.div.div.section.div.div.h2:45-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.p:47-1
 msgid "Pre-built Performance Co-Pilot packages and containers can be installed from <a href=\"https://bintray.com/pcp\">BinTray</a>"
@@ -161,22 +155,19 @@ msgid "Main Menu"
 msgstr ""
 
 #: upstream/docs/download.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:207-1
-#, fuzzy
 msgctxt "upstream/docs/download.html+html.body.footer.div.div.section.div.div.ul.li:207-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/download.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:210-1
-#, fuzzy
 msgctxt "upstream/docs/download.html+html.body.footer.div.div.section.div.div.ul.li:210-1"
 msgid "Documentation"
-msgstr "ドキュメント"
+msgstr ""
 
 #: upstream/docs/download.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:213-1
-#, fuzzy
 msgctxt "upstream/docs/download.html+html.body.footer.div.div.section.div.div.ul.li:213-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/download.html%2Bhtml.body.footer.div.div.section.div.div.h4:221-1
 msgid "Developers"

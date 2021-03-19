@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-19 09:05+0000\n"
+"POT-Creation-Date: 2021-03-19 10:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,34 +13,29 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.head.title:7-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/contact.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr "Performance Co-Pilot"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.header.div.h1:16-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/contact.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr "Performance Co-Pilot"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.header.div.nav.ul.li:21-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/contact.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.header.div.nav.ul.li:24-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/contact.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr "ドキュメント"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.header.div.nav.ul.li:27-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/contact.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.header.div.nav.ul.li:30-1
 msgid "Get Involved"
@@ -123,22 +118,19 @@ msgid "Main Menu"
 msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:143-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/contact.html+html.body.footer.div.div.section.div.div.ul.li:143-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:146-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/contact.html+html.body.footer.div.div.section.div.div.ul.li:146-1"
 msgid "Documentation"
-msgstr "ドキュメント"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:149-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/contact.html+html.body.footer.div.div.section.div.div.ul.li:149-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.h4:157-1
 msgid "Developers"
