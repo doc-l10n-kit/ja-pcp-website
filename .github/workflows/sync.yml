@@ -50,10 +50,10 @@ jobs:
       - name: Push changes
         run: bin/push-changes "Apply translation memory"
 
-#      - name: Machine translate
-#        run: bin/machine-translate
-#        env:
-#          TRANSLATOR_DEEPL_APIKEY: ${{ secrets.TRANSLATOR_DEEPL_APIKEY }}
+      - name: Machine translate
+        run: bin/machine-translate
+        env:
+          TRANSLATOR_DEEPL_APIKEY: ${{ secrets.TRANSLATOR_DEEPL_APIKEY }}
 
       - name: Push changes
         run: bin/push-changes "Add machine translation"
