@@ -1,0 +1,201 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-19 15:03+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: upstream/docs/testimonials.html%2Bhtml.head.title:7-1
+msgctxt "upstream/docs/testimonials.html+html.head.title:7-1"
+msgid "Performance Co-Pilot"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.header.div.h1:16-1
+msgctxt "upstream/docs/testimonials.html+html.body.header.div.h1:16-1"
+msgid "Performance Co-Pilot"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
+msgctxt "upstream/docs/testimonials.html+html.body.header.div.nav.ul.li:21-1"
+msgid "Features"
+msgstr "特徴"
+
+#: upstream/docs/testimonials.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
+msgctxt "upstream/docs/testimonials.html+html.body.header.div.nav.ul.li:24-1"
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: upstream/docs/testimonials.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
+msgctxt "upstream/docs/testimonials.html+html.body.header.div.nav.ul.li:27-1"
+msgid "Download"
+msgstr "ダウンロード"
+
+#: upstream/docs/testimonials.html%2Bhtml.body.header.div.nav.ul.li:30-1
+msgid "Get Involved"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div.h2:45-1
+msgctxt "upstream/docs/testimonials.html+html.body.div.div.div.div.section.div.div.h2:45-1"
+msgid "Testimonials"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div.p:46-1
+msgid "See who is using Performance Co-Pilot right now"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div:58-1
+msgid "David Chatterton at Aconex"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div.p:65-1
+msgid "\"Performance Co-Pilot has been in production at Aconex for 10 years and has proved invaluable in alerting and diagnosing complex performance issues within the many services that make up our SaaS applications. In particular, we use PCP to determine what has changed in behaviour since yesterday, last month or several years ago in our applications, operating systems, networks and storage.\""
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div:84-1
+msgid "Dave Chinner, Linux kernel developer"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div.p:90-1
+msgid "\"PCP has been central to my daily workflow as a filesystem developer for more than 10 years. PCP's ability to graph system metrics in real time at high resolution remotely from multiple machines is unmatched. PCP provides me with a deep understanding of how the system performs without interfering in the behaviour I'm trying to observe and so allows me to quickly identify differences in system behaviour, balance and variability in a way that no other tool does. PCP is a tool every engineer should have in their toolkit.\""
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div:111-1
+msgid "Martins Innus at Buffalo"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div.p:118-1
+msgid "\"PCP allows us to monitor 1000 Linux machines, 750 TB of storage, Ethernet and Infiniband networks and GPU utilization with an easy to configure and expand system. We log all this information to a central repository and use it to analyze performance and alert us to faults. The PCP software is easily extensible to add specialized data collection for our needs. The PCP team is always responsive to any help requests and willing to assist with development and additions to the software. PCP has decreased the amount of effort we need to expend for site monitoring while providing more metrics on the status of our systems.\""
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div:141-1
+msgid "Amer Ather at Netflix"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div.p:148-1
+msgid "\"At Netflix, PCP is mainly used for collecting high resolution performance metrics to perform cross-metric correlation and to detect anomalies. PCP stateless model makes it lightweight and robust. Clients are responsible for keeping track of state, sampling rate and computation. We built a web client that fetches performance metrics published by PCP running on cloud instances. It offers self service to Netflix teams to capture on-demand performance metrics from a cloud instance. PCP offers a rich set of performance monitoring agents (PMDA) and libraries to build custom PMDAs. With the integration of Brendan Gregg's <a href=\"http://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html\">FlameGraph</a> and <a href=\"http://www.brendangregg.com/HeatMaps/latency.html\">Heat Maps</a> into PCP, capturing and analyzing low level profiling data is simply a matter of a mouse click in Vector. We greatly appreciate all the support provided by PCP community. We have plans to contribute to PCP and open source Vector and custom PCP PMDA once tested and ready.\""
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div:177-1
+msgid "Yoram Kulbak, Software Developer"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div.p:183-1
+msgid "\"We use PCP to monitor Java-based web applications. It was very easy to integrate PCP with the Codahale-Metrics library so that developers can use a familiar interface.\""
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div:197-1
+msgid "Chandana De Silva at MessageMedia"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div.p:204-1
+msgid "\"We have found that PCP's ability to collect data at very high resolution to be very helpful in debugging critical issues where values change at one second intervals. PCP's set of query tools have been very useful in rapidly cutting through a large amount of data and focus on the most important information. pmdiff(1) and pmlogsummary(1) have been most helpful. pmie(1) is another powerful tool which we use both for historical data analysis, and to tie in with our Nagios alerts.\""
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div:224-1
+msgid "Ryan Doyle, Sysadmin"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div.p:230-1
+msgid "\"Without Performance-Co Pilot there are some production bugs that would have been next to impossible to identify and solve. It is extremely useful to be able to correlate metrics from different systems and domains in the one view. Performance Co-Pilot has been and will continue to be a critical component in the operation of our production systems.\""
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div:248-1
+msgid "Mark Goodwin, Support Engineer"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div.p:255-1
+msgid "\"Here in Red Hat Global Support Services, we're actively moving our Red Hat Enterprise Linux customers to the next generation of open source performance monitoring and analysis tools. PCP is a perfect fit to replace the outgoing sysstat legacy tools, especially now that PCP is fully supported in RHEL 6.6, RHEL 7 and onward. Compelling features such as broad and easily extensible metrics coverage, fully distributed operation, uniform metric naming and meta-data, APIs with multiple language bindings, robust configurable logging services, and secure authenticated IPC protocols are essential in the modern enterprise environment. In our business of providing critical support services, the ability to capture archive logs on customer systems for off-site retrospective analysis is an especially important feature where PCP excels.\""
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div.p:284-1
+msgid "Netflix is a registered trademark of Netflix, Inc."
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div.p:287-1
+msgid "Red Hat is a registered trademark of Red Hat, Inc."
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.h4:303-1
+msgid "Main Menu"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:305-1
+#, fuzzy
+msgctxt "upstream/docs/testimonials.html+html.body.footer.div.div.section.div.div.ul.li:305-1"
+msgid "Features"
+msgstr "特徴"
+
+#: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:308-1
+#, fuzzy
+msgctxt "upstream/docs/testimonials.html+html.body.footer.div.div.section.div.div.ul.li:308-1"
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:311-1
+#, fuzzy
+msgctxt "upstream/docs/testimonials.html+html.body.footer.div.div.section.div.div.ul.li:311-1"
+msgid "Download"
+msgstr "ダウンロード"
+
+#: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.h4:319-1
+msgid "Developers"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:321-1
+msgid "Report an issue"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:324-1
+msgid "Roadmap"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:327-1
+msgid "Contributing"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:330-1
+msgid "Team"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.h4:338-1
+msgid "About"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:340-1
+msgctxt "upstream/docs/testimonials.html+html.body.footer.div.div.section.div.div.ul.li:340-1"
+msgid "Testimonials"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:343-1
+msgid "FAQ"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:346-1
+msgid "Website"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.h4:354-1
+msgid "Get Social"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:356-1
+msgid "Twitter"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:359-1
+msgid "Github"
+msgstr ""
+
+#: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.div.p:369-1
+msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
+msgstr ""

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.2.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Features</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>特徴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ドキュメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Performance Co-Pilot is a system performance analysis toolkit.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>Performance Co-Pilotはシステムパフォーマンス解析ツールキットです。</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

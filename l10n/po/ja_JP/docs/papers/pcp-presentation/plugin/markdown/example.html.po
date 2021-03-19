@@ -1,0 +1,45 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-19 15:03+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml[lang]:2-1
+msgid "en"
+msgstr ""
+
+#: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.head.title:7-3
+msgid "reveal.js - Markdown Demo"
+msgstr ""
+
+#: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.body.div.div.section:25-17
+msgid "## Demo 1 Slide 1 --- ## Demo 1 Slide 2 --- ## Demo 1 Slide 3"
+msgstr ""
+
+#: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.body.div.div.section:39-17
+msgid "## Demo 2 Slide 1.1 -- ## Demo 2 Slide 1.2 --- ## Demo 2 Slide 2"
+msgstr ""
+
+#: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.body.div.div.section:57-17
+msgid "A --- B --- C"
+msgstr ""
+
+#: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.body.div.div.section:72-17
+msgid "<!-- .slide: data-background=\"#000000\" --> ## Slide attributes"
+msgstr ""
+
+#: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.body.div.div.section:80-17
+msgid "## Element attributes - Item 1 <!-- .element: class=\"fragment\" data-fragment-index=\"2\" --> - Item 2 <!-- .element: class=\"fragment\" data-fragment-index=\"1\" -->"
+msgstr ""
+
+#: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.body.div.div.section:89-17
+msgid "```php public function foo() { $foo = array( 'bar' => 'bar' ) } ```"
+msgstr ""

@@ -1,0 +1,171 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-19 15:03+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.head.title:7-1
+msgctxt "upstream/docs/conference/2018/home.html+html.head.title:7-1"
+msgid "Performance Co-Pilot"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.header.div.h1:16-1
+msgctxt "upstream/docs/conference/2018/home.html+html.body.header.div.h1:16-1"
+msgid "Performance Co-Pilot"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
+msgctxt "upstream/docs/conference/2018/home.html+html.body.header.div.nav.ul.li:21-1"
+msgid "Features"
+msgstr "特徴"
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
+msgctxt "upstream/docs/conference/2018/home.html+html.body.header.div.nav.ul.li:24-1"
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
+msgctxt "upstream/docs/conference/2018/home.html+html.body.header.div.nav.ul.li:27-1"
+msgid "Download"
+msgstr "ダウンロード"
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.header.div.nav.ul.li:30-1
+msgid "Get Involved"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.h1:42-1
+msgid "pcp.conf 2018"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div:43-1
+msgid "Home"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div:46-1
+msgid "Photos"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div:49-1
+msgid "Schedule"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div:52-1
+msgid "Contact"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div:55-1
+msgid "Registration"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.h3:68-1
+msgid "Where? When?"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:69-1
+msgid "<a href=\"http://tokyobay.washington-hotels.jp/location\">Tokyo Bay Ariake Washington Hotel</a> <br> Maple Room"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:74-1
+msgid "Friday 22nd June <br> 9am - 5pm"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:83-1
+msgid "The inaugural Performance Co-Pilot conference is bringing together developers and performance analysts to collaborate and learn about recent and future PCP developments."
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:88-1
+msgid "Co-located with the Linux Foundation <a href=\"http://events.linuxfoundation.org/events/open-source-summit-japan/\">Open Source Summit</a> in Japan, this conference also has a deeply technical focus."
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:93-1
+msgid "Your attendence is free of charge thanks to our generous <a href=\"https://www.spi-inc.org/projects/pcp/\">sponsors</a> and all attendees must be <a href=\"https://www.eventbrite.com/e/performance-co-pilot-conference-tickets-42620817011\">registered</a>"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:99-1
+msgid "All delegates and speakers are required to agree with the Linux Foundation events <a href=\"https://events.linuxfoundation.org/code-of-conduct/\">Code of Conduct .</a>"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.h4:117-1
+msgid "Main Menu"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:119-1
+#, fuzzy
+msgctxt "upstream/docs/conference/2018/home.html+html.body.footer.div.div.section.div.div.ul.li:119-1"
+msgid "Features"
+msgstr "特徴"
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:122-1
+#, fuzzy
+msgctxt "upstream/docs/conference/2018/home.html+html.body.footer.div.div.section.div.div.ul.li:122-1"
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:125-1
+#, fuzzy
+msgctxt "upstream/docs/conference/2018/home.html+html.body.footer.div.div.section.div.div.ul.li:125-1"
+msgid "Download"
+msgstr "ダウンロード"
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.h4:133-1
+msgid "Developers"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:135-1
+msgid "Report an issue"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:138-1
+msgid "Roadmap"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:141-1
+msgid "Contributing"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:144-1
+msgid "Team"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.h4:152-1
+msgid "About"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:154-1
+msgid "Testimonials"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:157-1
+msgid "FAQ"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:160-1
+msgid "Website"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.h4:168-1
+msgid "Get Social"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:170-1
+msgid "Twitter"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:173-1
+msgid "Github"
+msgstr ""
+
+#: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.div.p:183-1
+msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
+msgstr ""

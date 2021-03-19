@@ -1,0 +1,275 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-19 15:03+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.head.title:7-1
+msgctxt "upstream/docs/gsod/2021/ideas.html+html.head.title:7-1"
+msgid "Performance Co-Pilot"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.header.div.h1:16-1
+msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.header.div.h1:16-1"
+msgid "Performance Co-Pilot"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
+msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.header.div.nav.ul.li:21-1"
+msgid "Features"
+msgstr "特徴"
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
+msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.header.div.nav.ul.li:24-1"
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
+msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.header.div.nav.ul.li:27-1"
+msgid "Download"
+msgstr "ダウンロード"
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.header.div.nav.ul.li:30-1
+msgid "Get Involved"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.section.div.div.h2:48-1
+msgid "Task-based Guides for Performance Co-Pilot"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.h3:56-1
+msgid "About Performance Co-Pilot"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.p:57-1
+msgid "Performance Co-Pilot (PCP) is an open-source distributed system performance analysis toolkit. It efficiently collects metrics from multiple systems and provides a variety of web, graphical and console tools for analysis of live and historical data."
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.p:64-1
+msgid "The suite begun production use over 20 years ago primarily in the High Performance Computing arena, however its customizable and lightweight design has proven popular on everything from tiny system-on-a-chip machines through to vast databases and number-crunching super computers. It is included in all Linux distributions and has an active base of users and developers."
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.p:73-1
+msgid "Writers interested in contributing to the project described here are encouraged to contact the volunteers listed below, and join the PCP <a href=\"https://pcp.io/community.html\">community</a> for further discussion."
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.h3:83-1
+msgid "Participants"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.section.div.div.p:89-1
+msgid "<strong>Volunteers:</strong> <a href=\"mailto:abhide@redhat.com\">Apurva Bhide</a> , <a href=\"mailto:chorn@redhat.com\">Christian Horn</a> and <a href=\"mailto:scott.nato@gmail.com\">Nathan Scott</a>"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.section.div.div.p:101-1
+msgid "Three volunteers have come forward to assist once again - a PCP maintainer, a developer and a documentation specialist - all of whom volunteered last year as well."
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.h3:111-1
+msgid "About Task-based Guides"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:114-1
+msgid "In our previous Google Season of Docs project, we converted two freely-available books (the \"Users and Administrators Guide\" and the \"Programmers Guide\") into <a href=\"https://pcp.readthedocs.io/\">pcp.readthedocs.io</a> content. We also extended this documentation with a new REST API guide, and made many other improvements."
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:123-1
+msgid "However, due to the many available tools, daemons, integrations and APIs we still find a high barrier to entry for new PCP users."
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:128-1
+msgid "It is this we plan to tackle next with our writer - curating a new series of focussed, task-oriented \"How To\" guides that will assist new users in engaging immediately, by clearly showing how to solve specific problem scenarios that users encounter frequently."
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:135-1
+msgid "The goals of the project are this to assist first-time users to become more productive right away, while also increasing traffic to the more detailed books in the same location (readthedocs.io). We plan to undertake this project over three months."
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.h4:142-1
+msgid "The Task-based Guides project will:"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:143-1
+msgid "Pair developers with the writer to produce succinct step-by-step recipes showing how to perform certain tasks with PCP."
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:147-1
+msgid "Task-based topics include:"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.p:152-1
+msgid "How do I ..."
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.ul.li:156-1
+msgid "List the available performance metrics?"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.ul.li:157-1
+msgid "Add new metrics to the available set?"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.ul.li:158-1
+msgid "Record metrics on my local system?"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.ul.li:159-1
+msgid "Record metrics from a remote system?"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.ul.li:160-1
+msgid "Graph a performance metric?"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.ul.li:161-1
+msgid "Automate performance problem detection?"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.ul.li:162-1
+msgid "Setup automated rules to write to the system log?"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.ul.li:163-1
+msgid "Record historical values for use with the <a href=\"https://man7.org/linux/man-pages/man1/pcp-dstat.1.html\">pcp-dstat</a> tool?"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.ul.li:168-1
+msgid "Export metric values in a comma-separated format?"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:174-1
+msgid "Additionally, the writer will:"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.ul.li:178-1
+msgid "Canvas the community for additional topics beyond the set above to produce an initial set of high-value guides"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.ul.li:182-1
+msgid "Provide feedback to developers about potential areas of improvements in the tools to create more satisfying early user experiences."
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.ul.li:187-1
+msgid "Audit existing documentation for tutorial content to add into the new <a href=\"https://pcp.readthedocs.io/\">readthedocs</a> guide format. This involves an assessment of the existing <a href=\"https://pcp.io/documentation.html\">Short Guides</a> and refactoring these into the <strong>\"How do I...\"</strong> form."
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.ul.li:198-1
+msgid "Introduce consistency into all Tutorials and Guides across the project, by using a single readthedocs.io landing page for all guides (same location, format, look-and-feel)."
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:206-1
+msgid "Work that is out-of-scope for this project:"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:209-1
+msgid "This project will focus on core PCP functionality, and not on integration with (for example) 3rd party sources of metrics, or sending PCP metrics to other analysis systems."
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.h3:219-1
+msgid "Measuring Success"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.p:220-1
+msgid "We anticipate the How To pages will provide a better suited entry point for both new and some existing users. We will measure this by first enabling <a href=\"https://docs.readthedocs.io/en/latest/guides/google-analytics.html\">Google analytics</a> on our readthedocs pages to begin tracking page accesses."
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.p:227-1
+msgid "Success will be indicated by:"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.ul.li:231-1
+msgid "The largest number of hits to documentation pages being to the new Task-based Guides pages (we expect greater than double any other books as a measure of success). This success measure will be presented as a graph showing the spread of hits, with the most being attributed to the new Task-based Guides."
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.ul.li:239-1
+msgid "A correlated increase in the number of hits to the existing PCP documentation - the <a href=\"https://pcp.readthedocs.io/UAG/AboutUserAdministratorsGuide.html\">Users Guide ,</a> <a href=\"https://pcp.readthedocs.io/PG/AboutProgrammersGuide.html\">Programmers Guide</a> and <a href=\"https://pcp.readthedocs.io/en/latest/api/\">REST API Guide</a> as a result of the new (shorter, focussed) guides. We aim for a 20% increase in access to the other Guides as our success measure."
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.ul.li:250-1
+msgid "Some guides will be in different forms - video-based vs text - we'll also use the analytics to determine which formats are more successful than others. This will be presented as a graph also; simply having this breakdown will indicate success to us, we can use that information to decide future documentation styles to prefer."
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.h4:269-1
+msgid "Main Menu"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:271-1
+#, fuzzy
+msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.footer.div.div.section.div.div.ul.li:271-1"
+msgid "Features"
+msgstr "特徴"
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:274-1
+#, fuzzy
+msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.footer.div.div.section.div.div.ul.li:274-1"
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:277-1
+#, fuzzy
+msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.footer.div.div.section.div.div.ul.li:277-1"
+msgid "Download"
+msgstr "ダウンロード"
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.h4:285-1
+msgid "Developers"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:287-1
+msgid "Report an issue"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:290-1
+msgid "Roadmap"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:293-1
+msgid "Contributing"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:296-1
+msgid "Team"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.h4:304-1
+msgid "About"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:306-1
+msgid "Testimonials"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:309-1
+msgid "FAQ"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:312-1
+msgid "Website"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.h4:320-1
+msgid "Get Social"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:322-1
+msgid "Twitter"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:325-1
+msgid "Github"
+msgstr ""
+
+#: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.div.p:335-1
+msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
+msgstr ""

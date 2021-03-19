@@ -1,0 +1,1831 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-19 15:03+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.head.title:8-2
+msgid "PCP Manual"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.table.tr.td.a.img[alt]:12-56
+msgid "pmcharticon"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.table.tr.td.p:14-16
+msgid "<a href=\"index.html\"><font color=\"#cc0000\">Home</font></a> · <a href=\"lab.pmchart.html\"><font color=\"#cc0000\">Charts</font></a> · <a href=\"timecontrol.html\"><font color=\"#cc0000\">Time Control</font></a>"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.h1:17-1
+msgid "QWT License (and LGPL)"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.p:18-1
+msgid "The <i>pmchart</i> and <i>pmtime</i> utilities makes extensive use of the <i>Qt Widgets for Technical applications</i> (QWT) library. QWT is Copyright (C) 1997 Josef Wilgen and Copyright (C) 2002 Uwe Rathman."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.p:19-1
+msgid "You may use, distribute and copy QWT under the terms of the QWT License version 1, which is displayed below."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:21-1
+msgid "Qwt License"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:22-1
+msgid "Version 1.0, January 1, 2003"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:24-1
+msgid "The Qwt library and included programs are provided under the terms"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:25-1
+msgid "of the GNU LESSER GENERAL PUBLIC LICENSE (LGPL) with the following"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:26-1
+msgid "exceptions:"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:28-1
+msgid "1. Widgets that are subclassed from Qwt widgets do not"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:29-1
+msgid "constitute a derivative work."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:31-1
+msgid "2. Static linking of applications and widgets to the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:32-1
+msgid "Qwt library does not constitute a derivative work"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:33-1
+msgid "and does not require the author to provide source"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:34-1
+msgid "code for the application or widget, use the shared"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:35-1
+msgid "Qwt libraries, or link their applications or"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:36-1
+msgid "widgets against a user-supplied version of Qwt."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:38-1
+msgid "If you link the application or widget to a modified"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:39-1
+msgid "version of Qwt, then the changes to Qwt must be"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:40-1
+msgid "provided under the terms of the LGPL in sections"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:41-1
+msgid "1, 2, and 4."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:43-1
+msgid "3. You do not have to provide a copy of the Qwt license"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:44-1
+msgid "with programs that are linked to the Qwt library, nor"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:45-1
+msgid "do you have to identify the Qwt license in your"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:46-1
+msgid "program or documentation as required by section 6"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:47-1
+msgid "of the LGPL."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:50-1
+msgid "However, programs must still identify their use of Qwt."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:51-1
+msgid "The following example statement can be included in user"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:52-1
+msgid "documentation to satisfy this requirement:"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:54-1
+msgid "[program/widget] is based in part on the work of"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:55-1
+msgid "the Qwt project (http://qwt.sf.net)."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:57-1
+msgid "----------------------------------------------------------------------"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:60-1
+msgctxt "upstream/docs/docs/qwtlicense.html+html.body.pre:60-1"
+msgid "GNU LESSER GENERAL PUBLIC LICENSE"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:61-1
+msgid "Version 2.1, February 1999"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:63-1
+msgid "Copyright (C) 1991, 1999 Free Software Foundation, Inc."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:64-1
+msgid "51 Franklin Street, Fifth Floor, Boston, MA 02110, USA"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:65-1
+msgid "Everyone is permitted to copy and distribute verbatim copies"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:66-1
+msgid "of this license document, but changing it is not allowed."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:68-1
+msgid "[This is the first released version of the Lesser GPL. It also counts"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:69-1
+msgid "as the successor of the GNU Library Public License, version 2, hence"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:70-1
+msgid "the version number 2.1.]"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:72-1
+msgid "Preamble"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:74-1
+msgid "The licenses for most software are designed to take away your"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:75-1
+msgid "freedom to share and change it. By contrast, the GNU General Public"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:76-1
+msgid "Licenses are intended to guarantee your freedom to share and change"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:77-1
+msgid "free software--to make sure the software is free for all its users."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:79-1
+msgid "This license, the Lesser General Public License, applies to some"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:80-1
+msgid "specially designated software packages--typically libraries--of the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:81-1
+msgid "Free Software Foundation and other authors who decide to use it. You"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:82-1
+msgid "can use it too, but we suggest you first think carefully about whether"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:83-1
+msgid "this license or the ordinary General Public License is the better"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:84-1
+msgid "strategy to use in any particular case, based on the explanations below."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:86-1
+msgid "When we speak of free software, we are referring to freedom of use,"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:87-1
+msgid "not price. Our General Public Licenses are designed to make sure that"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:88-1
+msgid "you have the freedom to distribute copies of free software (and charge"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:89-1
+msgid "for this service if you wish); that you receive source code or can get"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:90-1
+msgid "it if you want it; that you can change the software and use pieces of"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:91-1
+msgid "it in new free programs; and that you are informed that you can do"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:92-1
+msgid "these things."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:94-1
+msgid "To protect your rights, we need to make restrictions that forbid"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:95-1
+msgid "distributors to deny you these rights or to ask you to surrender these"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:96-1
+msgid "rights. These restrictions translate to certain responsibilities for"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:97-1
+msgid "you if you distribute copies of the library or if you modify it."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:99-1
+msgid "For example, if you distribute copies of the library, whether gratis"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:100-1
+msgid "or for a fee, you must give the recipients all the rights that we gave"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:101-1
+msgid "you. You must make sure that they, too, receive or can get the source"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:102-1
+msgid "code. If you link other code with the library, you must provide"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:103-1
+msgid "complete object files to the recipients, so that they can relink them"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:104-1
+msgid "with the library after making changes to the library and recompiling"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:105-1
+msgid "it. And you must show them these terms so they know their rights."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:107-1
+msgid "We protect your rights with a two-step method: (1) we copyright the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:108-1
+msgid "library, and (2) we offer you this license, which gives you legal"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:109-1
+msgid "permission to copy, distribute and/or modify the library."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:111-1
+msgid "To protect each distributor, we want to make it very clear that"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:112-1
+msgid "there is no warranty for the free library. Also, if the library is"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:113-1
+msgid "modified by someone else and passed on, the recipients should know"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:114-1
+msgid "that what they have is not the original version, so that the original"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:115-1
+msgid "author's reputation will not be affected by problems that might be"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:116-1
+msgid "introduced by others."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:118-1
+msgid "Finally, software patents pose a constant threat to the existence of"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:119-1
+msgid "any free program. We wish to make sure that a company cannot"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:120-1
+msgid "effectively restrict the users of a free program by obtaining a"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:121-1
+msgid "restrictive license from a patent holder. Therefore, we insist that"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:122-1
+msgid "any patent license obtained for a version of the library must be"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:123-1
+msgid "consistent with the full freedom of use specified in this license."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:125-1
+msgid "Most GNU software, including some libraries, is covered by the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:126-1
+msgid "ordinary GNU General Public License. This license, the GNU Lesser"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:127-1
+msgid "General Public License, applies to certain designated libraries, and"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:128-1
+msgid "is quite different from the ordinary General Public License. We use"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:129-1
+msgid "this license for certain libraries in order to permit linking those"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:130-1
+msgid "libraries into non-free programs."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:132-1
+msgid "When a program is linked with a library, whether statically or using"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:133-1
+msgid "a shared library, the combination of the two is legally speaking a"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:134-1
+msgid "combined work, a derivative of the original library. The ordinary"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:135-1
+msgid "General Public License therefore permits such linking only if the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:136-1
+msgid "entire combination fits its criteria of freedom. The Lesser General"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:137-1
+msgid "Public License permits more lax criteria for linking other code with"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:138-1
+msgid "the library."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:140-1
+msgid "We call this license the \"Lesser\" General Public License because it"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:141-1
+msgid "does Less to protect the user's freedom than the ordinary General"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:142-1
+msgid "Public License. It also provides other free software developers Less"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:143-1
+msgid "of an advantage over competing non-free programs. These disadvantages"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:144-1
+msgid "are the reason we use the ordinary General Public License for many"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:145-1
+msgid "libraries. However, the Lesser license provides advantages in certain"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:146-1
+msgid "special circumstances."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:148-1
+msgid "For example, on rare occasions, there may be a special need to"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:149-1
+msgid "encourage the widest possible use of a certain library, so that it becomes"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:150-1
+msgid "a de-facto standard. To achieve this, non-free programs must be"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:151-1
+msgid "allowed to use the library. A more frequent case is that a free"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:152-1
+msgid "library does the same job as widely used non-free libraries. In this"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:153-1
+msgid "case, there is little to gain by limiting the free library to free"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:154-1
+msgid "software only, so we use the Lesser General Public License."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:156-1
+msgid "In other cases, permission to use a particular library in non-free"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:157-1
+msgid "programs enables a greater number of people to use a large body of"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:158-1
+msgid "free software. For example, permission to use the GNU C Library in"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:159-1
+msgid "non-free programs enables many more people to use the whole GNU"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:160-1
+msgid "operating system, as well as its variant, the GNU/Linux operating"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:161-1
+msgid "system."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:163-1
+msgid "Although the Lesser General Public License is Less protective of the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:164-1
+msgid "users' freedom, it does ensure that the user of a program that is"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:165-1
+msgid "linked with the Library has the freedom and the wherewithal to run"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:166-1
+msgid "that program using a modified version of the Library."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:168-1
+msgid "The precise terms and conditions for copying, distribution and"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:169-1
+msgid "modification follow. Pay close attention to the difference between a"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:170-1
+msgid "\"work based on the library\" and a \"work that uses the library\". The"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:171-1
+msgid "former contains code derived from the library, whereas the latter must"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:172-1
+msgid "be combined with the library in order to run."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:174-1
+msgctxt "upstream/docs/docs/qwtlicense.html+html.body.pre:174-1"
+msgid "GNU LESSER GENERAL PUBLIC LICENSE"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:175-1
+msgid "TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:177-1
+msgid "0. This License Agreement applies to any software library or other"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:178-1
+msgid "program which contains a notice placed by the copyright holder or"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:179-1
+msgid "other authorized party saying it may be distributed under the terms of"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:180-1
+msgid "this Lesser General Public License (also called \"this License\")."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:181-1
+msgid "Each licensee is addressed as \"you\"."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:183-1
+msgid "A \"library\" means a collection of software functions and/or data"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:184-1
+msgid "prepared so as to be conveniently linked with application programs"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:185-1
+msgid "(which use some of those functions and data) to form executables."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:187-1
+msgid "The \"Library\", below, refers to any such software library or work"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:188-1
+msgid "which has been distributed under these terms. A \"work based on the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:189-1
+msgid "Library\" means either the Library or any derivative work under"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:190-1
+msgid "copyright law: that is to say, a work containing the Library or a"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:191-1
+msgid "portion of it, either verbatim or with modifications and/or translated"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:192-1
+msgid "straightforwardly into another language. (Hereinafter, translation is"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:193-1
+msgid "included without limitation in the term \"modification\".)"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:195-1
+msgid "\"Source code\" for a work means the preferred form of the work for"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:196-1
+msgid "making modifications to it. For a library, complete source code means"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:197-1
+msgid "all the source code for all modules it contains, plus any associated"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:198-1
+msgid "interface definition files, plus the scripts used to control compilation"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:199-1
+msgid "and installation of the library."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:201-1
+msgid "Activities other than copying, distribution and modification are not"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:202-1
+msgid "covered by this License; they are outside its scope. The act of"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:203-1
+msgid "running a program using the Library is not restricted, and output from"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:204-1
+msgid "such a program is covered only if its contents constitute a work based"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:205-1
+msgid "on the Library (independent of the use of the Library in a tool for"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:206-1
+msgid "writing it). Whether that is true depends on what the Library does"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:207-1
+msgid "and what the program that uses the Library does."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:209-1
+msgid "1. You may copy and distribute verbatim copies of the Library's"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:210-1
+msgid "complete source code as you receive it, in any medium, provided that"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:211-1
+msgid "you conspicuously and appropriately publish on each copy an"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:212-1
+msgid "appropriate copyright notice and disclaimer of warranty; keep intact"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:213-1
+msgid "all the notices that refer to this License and to the absence of any"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:214-1
+msgid "warranty; and distribute a copy of this License along with the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:215-1
+msgid "Library."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:217-1
+msgid "You may charge a fee for the physical act of transferring a copy,"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:218-1
+msgid "and you may at your option offer warranty protection in exchange for a"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:219-1
+msgid "fee."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:221-1
+msgid "2. You may modify your copy or copies of the Library or any portion"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:222-1
+msgid "of it, thus forming a work based on the Library, and copy and"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:223-1
+msgid "distribute such modifications or work under the terms of Section 1"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:224-1
+msgid "above, provided that you also meet all of these conditions:"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:226-1
+msgid "a) The modified work must itself be a software library."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:228-1
+msgid "b) You must cause the files modified to carry prominent notices"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:229-1
+msgid "stating that you changed the files and the date of any change."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:231-1
+msgid "c) You must cause the whole of the work to be licensed at no"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:232-1
+msgid "charge to all third parties under the terms of this License."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:234-1
+msgid "d) If a facility in the modified Library refers to a function or a"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:235-1
+msgid "table of data to be supplied by an application program that uses"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:236-1
+msgid "the facility, other than as an argument passed when the facility"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:237-1
+msgid "is invoked, then you must make a good faith effort to ensure that,"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:238-1
+msgid "in the event an application does not supply such function or"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:239-1
+msgid "table, the facility still operates, and performs whatever part of"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:240-1
+msgid "its purpose remains meaningful."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:242-1
+msgid "(For example, a function in a library to compute square roots has"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:243-1
+msgid "a purpose that is entirely well-defined independent of the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:244-1
+msgid "application. Therefore, Subsection 2d requires that any"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:245-1
+msgid "application-supplied function or table used by this function must"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:246-1
+msgid "be optional: if the application does not supply it, the square"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:247-1
+msgid "root function must still compute square roots.)"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:249-1
+msgid "These requirements apply to the modified work as a whole. If"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:250-1
+msgid "identifiable sections of that work are not derived from the Library,"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:251-1
+msgid "and can be reasonably considered independent and separate works in"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:252-1
+msgid "themselves, then this License, and its terms, do not apply to those"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:253-1
+msgid "sections when you distribute them as separate works. But when you"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:254-1
+msgid "distribute the same sections as part of a whole which is a work based"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:255-1
+msgid "on the Library, the distribution of the whole must be on the terms of"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:256-1
+msgid "this License, whose permissions for other licensees extend to the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:257-1
+msgid "entire whole, and thus to each and every part regardless of who wrote"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:258-1
+msgid "it."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:260-1
+msgid "Thus, it is not the intent of this section to claim rights or contest"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:261-1
+msgid "your rights to work written entirely by you; rather, the intent is to"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:262-1
+msgid "exercise the right to control the distribution of derivative or"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:263-1
+msgid "collective works based on the Library."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:265-1
+msgid "In addition, mere aggregation of another work not based on the Library"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:266-1
+msgid "with the Library (or with a work based on the Library) on a volume of"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:267-1
+msgid "a storage or distribution medium does not bring the other work under"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:268-1
+msgid "the scope of this License."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:270-1
+msgid "3. You may opt to apply the terms of the ordinary GNU General Public"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:271-1
+msgid "License instead of this License to a given copy of the Library. To do"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:272-1
+msgid "this, you must alter all the notices that refer to this License, so"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:273-1
+msgid "that they refer to the ordinary GNU General Public License, version 2,"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:274-1
+msgid "instead of to this License. (If a newer version than version 2 of the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:275-1
+msgid "ordinary GNU General Public License has appeared, then you can specify"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:276-1
+msgid "that version instead if you wish.) Do not make any other change in"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:277-1
+msgid "these notices."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:279-1
+msgid "Once this change is made in a given copy, it is irreversible for"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:280-1
+msgid "that copy, so the ordinary GNU General Public License applies to all"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:281-1
+msgid "subsequent copies and derivative works made from that copy."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:283-1
+msgid "This option is useful when you wish to copy part of the code of"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:284-1
+msgid "the Library into a program that is not a library."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:286-1
+msgid "4. You may copy and distribute the Library (or a portion or"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:287-1
+msgid "derivative of it, under Section 2) in object code or executable form"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:288-1
+msgid "under the terms of Sections 1 and 2 above provided that you accompany"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:289-1
+msgid "it with the complete corresponding machine-readable source code, which"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:290-1
+msgid "must be distributed under the terms of Sections 1 and 2 above on a"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:291-1
+msgid "medium customarily used for software interchange."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:293-1
+msgid "If distribution of object code is made by offering access to copy"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:294-1
+msgid "from a designated place, then offering equivalent access to copy the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:295-1
+msgid "source code from the same place satisfies the requirement to"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:296-1
+msgid "distribute the source code, even though third parties are not"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:297-1
+msgid "compelled to copy the source along with the object code."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:299-1
+msgid "5. A program that contains no derivative of any portion of the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:300-1
+msgid "Library, but is designed to work with the Library by being compiled or"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:301-1
+msgid "linked with it, is called a \"work that uses the Library\". Such a"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:302-1
+msgid "work, in isolation, is not a derivative work of the Library, and"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:303-1
+msgid "therefore falls outside the scope of this License."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:305-1
+msgid "However, linking a \"work that uses the Library\" with the Library"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:306-1
+msgid "creates an executable that is a derivative of the Library (because it"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:307-1
+msgid "contains portions of the Library), rather than a \"work that uses the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:308-1
+msgid "library\". The executable is therefore covered by this License."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:309-1
+msgid "Section 6 states terms for distribution of such executables."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:311-1
+msgid "When a \"work that uses the Library\" uses material from a header file"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:312-1
+msgid "that is part of the Library, the object code for the work may be a"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:313-1
+msgid "derivative work of the Library even though the source code is not."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:314-1
+msgid "Whether this is true is especially significant if the work can be"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:315-1
+msgid "linked without the Library, or if the work is itself a library. The"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:316-1
+msgid "threshold for this to be true is not precisely defined by law."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:318-1
+msgid "If such an object file uses only numerical parameters, data"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:319-1
+msgid "structure layouts and accessors, and small macros and small inline"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:320-1
+msgid "functions (ten lines or less in length), then the use of the object"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:321-1
+msgid "file is unrestricted, regardless of whether it is legally a derivative"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:322-1
+msgid "work. (Executables containing this object code plus portions of the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:323-1
+msgid "Library will still fall under Section 6.)"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:325-1
+msgid "Otherwise, if the work is a derivative of the Library, you may"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:326-1
+msgid "distribute the object code for the work under the terms of Section 6."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:327-1
+msgid "Any executables containing that work also fall under Section 6,"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:328-1
+msgid "whether or not they are linked directly with the Library itself."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:330-1
+msgid "6. As an exception to the Sections above, you may also combine or"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:331-1
+msgid "link a \"work that uses the Library\" with the Library to produce a"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:332-1
+msgid "work containing portions of the Library, and distribute that work"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:333-1
+msgid "under terms of your choice, provided that the terms permit"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:334-1
+msgid "modification of the work for the customer's own use and reverse"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:335-1
+msgid "engineering for debugging such modifications."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:337-1
+msgid "You must give prominent notice with each copy of the work that the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:338-1
+msgid "Library is used in it and that the Library and its use are covered by"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:339-1
+msgid "this License. You must supply a copy of this License. If the work"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:340-1
+msgid "during execution displays copyright notices, you must include the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:341-1
+msgid "copyright notice for the Library among them, as well as a reference"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:342-1
+msgid "directing the user to the copy of this License. Also, you must do one"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:343-1
+msgid "of these things:"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:345-1
+msgid "a) Accompany the work with the complete corresponding"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:346-1
+msgid "machine-readable source code for the Library including whatever"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:347-1
+msgid "changes were used in the work (which must be distributed under"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:348-1
+msgid "Sections 1 and 2 above); and, if the work is an executable linked"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:349-1
+msgid "with the Library, with the complete machine-readable \"work that"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:350-1
+msgid "uses the Library\", as object code and/or source code, so that the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:351-1
+msgid "user can modify the Library and then relink to produce a modified"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:352-1
+msgid "executable containing the modified Library. (It is understood"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:353-1
+msgid "that the user who changes the contents of definitions files in the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:354-1
+msgid "Library will not necessarily be able to recompile the application"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:355-1
+msgid "to use the modified definitions.)"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:357-1
+msgid "b) Use a suitable shared library mechanism for linking with the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:358-1
+msgid "Library. A suitable mechanism is one that (1) uses at run time a"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:359-1
+msgid "copy of the library already present on the user's computer system,"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:360-1
+msgid "rather than copying library functions into the executable, and (2)"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:361-1
+msgid "will operate properly with a modified version of the library, if"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:362-1
+msgid "the user installs one, as long as the modified version is"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:363-1
+msgid "interface-compatible with the version that the work was made with."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:365-1
+msgid "c) Accompany the work with a written offer, valid for at"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:366-1
+msgid "least three years, to give the same user the materials"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:367-1
+msgid "specified in Subsection 6a, above, for a charge no more"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:368-1
+msgid "than the cost of performing this distribution."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:370-1
+msgid "d) If distribution of the work is made by offering access to copy"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:371-1
+msgid "from a designated place, offer equivalent access to copy the above"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:372-1
+msgid "specified materials from the same place."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:374-1
+msgid "e) Verify that the user has already received a copy of these"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:375-1
+msgid "materials or that you have already sent this user a copy."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:377-1
+msgid "For an executable, the required form of the \"work that uses the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:378-1
+msgid "Library\" must include any data and utility programs needed for"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:379-1
+msgid "reproducing the executable from it. However, as a special exception,"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:380-1
+msgid "the materials to be distributed need not include anything that is"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:381-1
+msgid "normally distributed (in either source or binary form) with the major"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:382-1
+msgid "components (compiler, kernel, and so on) of the operating system on"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:383-1
+msgid "which the executable runs, unless that component itself accompanies"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:384-1
+msgid "the executable."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:386-1
+msgid "It may happen that this requirement contradicts the license"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:387-1
+msgid "restrictions of other proprietary libraries that do not normally"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:388-1
+msgid "accompany the operating system. Such a contradiction means you cannot"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:389-1
+msgid "use both them and the Library together in an executable that you"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:390-1
+msgid "distribute."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:392-1
+msgid "7. You may place library facilities that are a work based on the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:393-1
+msgid "Library side-by-side in a single library together with other library"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:394-1
+msgid "facilities not covered by this License, and distribute such a combined"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:395-1
+msgid "library, provided that the separate distribution of the work based on"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:396-1
+msgid "the Library and of the other library facilities is otherwise"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:397-1
+msgid "permitted, and provided that you do these two things:"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:399-1
+msgid "a) Accompany the combined library with a copy of the same work"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:400-1
+msgid "based on the Library, uncombined with any other library"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:401-1
+msgid "facilities. This must be distributed under the terms of the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:402-1
+msgid "Sections above."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:404-1
+msgid "b) Give prominent notice with the combined library of the fact"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:405-1
+msgid "that part of it is a work based on the Library, and explaining"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:406-1
+msgid "where to find the accompanying uncombined form of the same work."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:408-1
+msgid "8. You may not copy, modify, sublicense, link with, or distribute"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:409-1
+msgid "the Library except as expressly provided under this License. Any"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:410-1
+msgid "attempt otherwise to copy, modify, sublicense, link with, or"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:411-1
+msgid "distribute the Library is void, and will automatically terminate your"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:412-1
+msgid "rights under this License. However, parties who have received copies,"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:413-1
+msgid "or rights, from you under this License will not have their licenses"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:414-1
+msgid "terminated so long as such parties remain in full compliance."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:416-1
+msgid "9. You are not required to accept this License, since you have not"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:417-1
+msgid "signed it. However, nothing else grants you permission to modify or"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:418-1
+msgid "distribute the Library or its derivative works. These actions are"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:419-1
+msgid "prohibited by law if you do not accept this License. Therefore, by"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:420-1
+msgid "modifying or distributing the Library (or any work based on the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:421-1
+msgid "Library), you indicate your acceptance of this License to do so, and"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:422-1
+msgid "all its terms and conditions for copying, distributing or modifying"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:423-1
+msgid "the Library or works based on it."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:425-1
+msgid "10. Each time you redistribute the Library (or any work based on the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:426-1
+msgid "Library), the recipient automatically receives a license from the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:427-1
+msgid "original licensor to copy, distribute, link with or modify the Library"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:428-1
+msgid "subject to these terms and conditions. You may not impose any further"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:429-1
+msgid "restrictions on the recipients' exercise of the rights granted herein."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:430-1
+msgid "You are not responsible for enforcing compliance by third parties with"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:431-1
+msgid "this License."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:433-1
+msgid "11. If, as a consequence of a court judgment or allegation of patent"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:434-1
+msgid "infringement or for any other reason (not limited to patent issues),"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:435-1
+msgid "conditions are imposed on you (whether by court order, agreement or"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:436-1
+msgid "otherwise) that contradict the conditions of this License, they do not"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:437-1
+msgid "excuse you from the conditions of this License. If you cannot"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:438-1
+msgid "distribute so as to satisfy simultaneously your obligations under this"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:439-1
+msgid "License and any other pertinent obligations, then as a consequence you"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:440-1
+msgid "may not distribute the Library at all. For example, if a patent"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:441-1
+msgid "license would not permit royalty-free redistribution of the Library by"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:442-1
+msgid "all those who receive copies directly or indirectly through you, then"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:443-1
+msgid "the only way you could satisfy both it and this License would be to"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:444-1
+msgid "refrain entirely from distribution of the Library."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:446-1
+msgid "If any portion of this section is held invalid or unenforceable under any"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:447-1
+msgid "particular circumstance, the balance of the section is intended to apply,"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:448-1
+msgid "and the section as a whole is intended to apply in other circumstances."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:450-1
+msgid "It is not the purpose of this section to induce you to infringe any"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:451-1
+msgid "patents or other property right claims or to contest validity of any"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:452-1
+msgid "such claims; this section has the sole purpose of protecting the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:453-1
+msgid "integrity of the free software distribution system which is"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:454-1
+msgid "implemented by public license practices. Many people have made"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:455-1
+msgid "generous contributions to the wide range of software distributed"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:456-1
+msgid "through that system in reliance on consistent application of that"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:457-1
+msgid "system; it is up to the author/donor to decide if he or she is willing"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:458-1
+msgid "to distribute software through any other system and a licensee cannot"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:459-1
+msgid "impose that choice."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:461-1
+msgid "This section is intended to make thoroughly clear what is believed to"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:462-1
+msgid "be a consequence of the rest of this License."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:464-1
+msgid "12. If the distribution and/or use of the Library is restricted in"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:465-1
+msgid "certain countries either by patents or by copyrighted interfaces, the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:466-1
+msgid "original copyright holder who places the Library under this License may add"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:467-1
+msgid "an explicit geographical distribution limitation excluding those countries,"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:468-1
+msgid "so that distribution is permitted only in or among countries not thus"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:469-1
+msgid "excluded. In such case, this License incorporates the limitation as if"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:470-1
+msgid "written in the body of this License."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:472-1
+msgid "13. The Free Software Foundation may publish revised and/or new"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:473-1
+msgid "versions of the Lesser General Public License from time to time."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:474-1
+msgid "Such new versions will be similar in spirit to the present version,"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:475-1
+msgid "but may differ in detail to address new problems or concerns."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:477-1
+msgid "Each version is given a distinguishing version number. If the Library"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:478-1
+msgid "specifies a version number of this License which applies to it and"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:479-1
+msgid "\"any later version\", you have the option of following the terms and"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:480-1
+msgid "conditions either of that version or of any later version published by"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:481-1
+msgid "the Free Software Foundation. If the Library does not specify a"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:482-1
+msgid "license version number, you may choose any version ever published by"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:483-1
+msgid "the Free Software Foundation."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:485-1
+msgid "14. If you wish to incorporate parts of the Library into other free"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:486-1
+msgid "programs whose distribution conditions are incompatible with these,"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:487-1
+msgid "write to the author to ask for permission. For software which is"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:488-1
+msgid "copyrighted by the Free Software Foundation, write to the Free"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:489-1
+msgid "Software Foundation; we sometimes make exceptions for this. Our"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:490-1
+msgid "decision will be guided by the two goals of preserving the free status"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:491-1
+msgid "of all derivatives of our free software and of promoting the sharing"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:492-1
+msgid "and reuse of software generally."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:494-1
+msgid "NO WARRANTY"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:496-1
+msgid "15. BECAUSE THE LIBRARY IS LICENSED FREE OF CHARGE, THERE IS NO"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:497-1
+msgid "WARRANTY FOR THE LIBRARY, TO THE EXTENT PERMITTED BY APPLICABLE LAW."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:498-1
+msgid "EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:499-1
+msgid "OTHER PARTIES PROVIDE THE LIBRARY \"AS IS\" WITHOUT WARRANTY OF ANY"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:500-1
+msgid "KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:501-1
+msgid "IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:502-1
+msgid "PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:503-1
+msgid "LIBRARY IS WITH YOU. SHOULD THE LIBRARY PROVE DEFECTIVE, YOU ASSUME"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:504-1
+msgid "THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:506-1
+msgid "16. IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:507-1
+msgid "WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:508-1
+msgid "AND/OR REDISTRIBUTE THE LIBRARY AS PERMITTED ABOVE, BE LIABLE TO YOU"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:509-1
+msgid "FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:510-1
+msgid "CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:511-1
+msgid "LIBRARY (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:512-1
+msgid "RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:513-1
+msgid "FAILURE OF THE LIBRARY TO OPERATE WITH ANY OTHER SOFTWARE), EVEN IF"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:514-1
+msgid "SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:515-1
+msgid "DAMAGES."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:517-1
+msgid "END OF TERMS AND CONDITIONS"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:519-1
+msgid "How to Apply These Terms to Your New Libraries"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:521-1
+msgid "If you develop a new library, and you want it to be of the greatest"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:522-1
+msgid "possible use to the public, we recommend making it free software that"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:523-1
+msgid "everyone can redistribute and change. You can do so by permitting"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:524-1
+msgid "redistribution under these terms (or, alternatively, under the terms of the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:525-1
+msgid "ordinary General Public License)."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:527-1
+msgid "To apply these terms, attach the following notices to the library. It is"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:528-1
+msgid "safest to attach them to the start of each source file to most effectively"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:529-1
+msgid "convey the exclusion of warranty; and each file should have at least the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:530-1
+msgid "\"copyright\" line and a pointer to where the full notice is found."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:532-1
+msgid "&lt;one line to give the library's name and a brief idea of what it does.&gt;"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:533-1
+msgid "Copyright (C) &lt;year&gt; &lt;name of author&gt;"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:535-1
+msgid "This library is free software; you can redistribute it and/or"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:536-1
+msgid "modify it under the terms of the GNU Lesser General Public"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:537-1
+msgid "License as published by the Free Software Foundation; either"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:538-1
+msgid "version 2.1 of the License, or (at your option) any later version."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:540-1
+msgid "This library is distributed in the hope that it will be useful,"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:541-1
+msgid "but WITHOUT ANY WARRANTY; without even the implied warranty of"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:542-1
+msgid "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:543-1
+msgid "Lesser General Public License for more details."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:545-1
+msgid "You should have received a copy of the GNU Lesser General Public"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:546-1
+msgid "License along with this library; if not, write to the Free Software"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:547-1
+msgid "Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110, USA"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:549-1
+msgid "Also add information on how to contact you by electronic and paper mail."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:551-1
+msgid "You should also get your employer (if you work as a programmer) or your"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:552-1
+msgid "school, if any, to sign a \"copyright disclaimer\" for the library, if"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:553-1
+msgid "necessary. Here is a sample; alter the names:"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:555-1
+msgid "Yoyodyne, Inc., hereby disclaims all copyright interest in the"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:556-1
+msgid "library `Frob' (a library for tweaking knobs) written by James Random Hacker."
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:558-1
+msgid "&lt;signature of Ty Coon&gt;, 1 April 1990"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:559-1
+msgid "Ty Coon, President of Vice"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:561-1
+msgid "That's all there is to it!"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.center.table.tr.td.p:567-23
+msgid "Copyright © 2007-2010 <a href=\"https://www.aconex.com/\"><font color=\"#000060\">Aconex</font></a><br>Copyright © 2000-2004 <a href=\"https://www.sgi.com/\"><font color=\"#000060\">Silicon Graphics Inc</font></a>"
+msgstr ""
+
+#: upstream/docs/docs/qwtlicense.html%2Bhtml.body.center.table.tr.td.p:568-18
+msgid "<a href=\"https://pcp.io/\"><font color=\"#000060\">PCP Site</font></a><br>Copyright © 2012-2018 <a href=\"https://www.redhat.com/\"><font color=\"#000060\">Red Hat</font></a>"
+msgstr ""

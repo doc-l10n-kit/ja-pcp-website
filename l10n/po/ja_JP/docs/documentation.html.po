@@ -1,0 +1,289 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-19 15:03+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: upstream/docs/documentation.html%2Bhtml.head.title:7-1
+msgctxt "upstream/docs/documentation.html+html.head.title:7-1"
+msgid "Performance Co-Pilot"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.header.div.h1:16-1
+msgctxt "upstream/docs/documentation.html+html.body.header.div.h1:16-1"
+msgid "Performance Co-Pilot"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
+msgctxt "upstream/docs/documentation.html+html.body.header.div.nav.ul.li:21-1"
+msgid "Features"
+msgstr "特徴"
+
+#: upstream/docs/documentation.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
+msgctxt "upstream/docs/documentation.html+html.body.header.div.nav.ul.li:24-1upstream/docs/documentation.html+html.body.header.div.nav.ul.li:24-1"
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: upstream/docs/documentation.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
+msgctxt "upstream/docs/documentation.html+html.body.header.div.nav.ul.li:27-1"
+msgid "Download"
+msgstr "ダウンロード"
+
+#: upstream/docs/documentation.html%2Bhtml.body.header.div.nav.ul.li:30-1
+msgid "Get Involved"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.h1:41-1
+#, fuzzy
+msgctxt "upstream/docs/documentation.html+html.body.div.div.div.h1:41-1"
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:42-1
+msgid "Introduction to PCP"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:45-1
+msgid "Installation"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:48-1
+msgid "Quick Reference Guide"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:51-1
+msgid "Charts Overview"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:54-1
+msgid "Time Control Overview"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.h3:67-1
+msgid "Man pages"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.p:70-1
+msgid "All of the manual pages for PCP tools and APIs"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.h3:74-1
+msgid "Guides"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.p:77-1
+msgid "Users and Administrators Guide, Programmers and REST API Guides"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.h3:81-1
+msgid "Slides"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.p:84-1
+msgid "An online presentation about PCP"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.h3:88-1
+msgid "Papers"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.p:91-1
+msgid "Reference papers and presentations we have permission to reproduce."
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.h3:95-1
+msgid "Screenshots"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.p:98-1
+msgid "Screenshots from a handful of PCP GUI and console tools, and the more recent <a href=\"https://grafana-pcp.readthedocs.io/en/latest/screenshots.html\">Grafana PCP</a> plugin."
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.h3:109-1
+msgid "Short Guides"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:111-1
+msgid "Using Charts"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:114-1
+msgid "Logging Basics"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:117-1
+msgid "Automated Reasoning Basics"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:120-1
+msgid "Configuring Automated Reasoning"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:123-1
+msgid "Analysis of Linux Containers"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:126-1
+msgid "Secure Connections"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:129-1
+msgid "Secure Client Connections"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:132-1
+msgid "Authenticated Connections"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:135-1
+msgid "Importing data and creating PCP archives (C, Perl, Python)"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:138-1
+msgid "Using 3D Views (experimental, source only)"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.h1:152-1
+msgid "Case Studies"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:153-1
+msgid "Analysing processor utilization"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:156-1
+msgid "Analysing storage performance"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:159-1
+msgid "System Event Log Instrumentation"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:162-1
+msgid "Comparing storage performance"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:165-1
+msgid "Management framework integration"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:168-1
+msgid "Setting Up PCP with Vector"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.h1:177-1
+msgid "Videos"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:190-1
+msgid "Ansible 'metrics' Role"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:208-1
+msgid "Practical Performance Co-Pilot and Grafana"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:226-1
+msgid "Performance Co-Pilot and Vector new features in RHEL-8.0"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:244-1
+msgid "Exploratory Performance Analysis with Performance Co-Pilot"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:262-1
+msgid "Evaluating Red Hat Storage Performance using Performance Co-Pilot"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:280-1
+msgid "Programming the Performance Co-Pilot toolkit"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:298-1
+msgid "Regression Analysis with Performance Co-Pilot"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:313-1
+msgid "Main Menu"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:315-1
+#, fuzzy
+msgctxt "upstream/docs/documentation.html+html.body.footer.div.div.section.div.div.ul.li:315-1"
+msgid "Features"
+msgstr "特徴"
+
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:318-1
+#, fuzzy
+msgctxt "upstream/docs/documentation.html+html.body.footer.div.div.section.div.div.ul.li:318-1"
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:321-1
+#, fuzzy
+msgctxt "upstream/docs/documentation.html+html.body.footer.div.div.section.div.div.ul.li:321-1"
+msgid "Download"
+msgstr "ダウンロード"
+
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:329-1
+msgid "Developers"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:331-1
+msgid "Report an issue"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:334-1
+msgid "Roadmap"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:337-1
+msgid "Contributing"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:340-1
+msgid "Team"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:348-1
+msgid "About"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:350-1
+msgid "Testimonials"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:353-1
+msgid "FAQ"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:356-1
+msgid "Website"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:364-1
+msgid "Get Social"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:366-1
+msgid "Twitter"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:369-1
+msgid "Github"
+msgstr ""
+
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.div.p:379-1
+msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
+msgstr ""

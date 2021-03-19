@@ -1,0 +1,119 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-19 15:03+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml[lang]:2-1
+msgid "en"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.head.title:7-3
+msgid "reveal.js - Slide Backgrounds"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:32-6
+msgid "data-background: #00ffff"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:36-6
+msgid "data-background: #bb00bb"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:40-6
+msgid "data-background: lightblue"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:45-7
+msgid "data-background: #ff0000"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:48-7
+msgid "data-background: rgba(0, 0, 0, 0.2)"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:51-7
+msgid "data-background: salmon"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:57-7
+msgctxt "upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html+html.body.div.div.section.section.h2:57-7"
+msgid "Background applied to stack"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:60-7
+msgctxt "upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html+html.body.div.div.section.section.h2:60-7"
+msgid "Background applied to stack"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:63-7
+msgid "Background applied to slide inside of stack"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:68-6
+msgctxt "upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html+html.body.div.div.section.h2:68-6upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html+html.body.div.div.section.h2:68-6upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html+html.body.div.div.section.h2:68-6"
+msgid "Background image"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:73-7
+msgctxt "upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html+html.body.div.div.section.section.h2:73-7"
+msgid "Background image"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:76-7
+msgctxt "upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html+html.body.div.div.section.section.h2:76-7"
+msgid "Background image"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:81-6
+msgctxt "upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html+html.body.div.div.section.h2:81-6"
+msgid "Background image"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.pre:82-6
+msgid "data-background-size=\"100px\" data-background-repeat=\"repeat\" data-background-color=\"#111\""
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:86-6
+msgid "Same background twice (1/2)"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:89-6
+msgid "Same background twice (2/2)"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:93-6
+msgid "Video background"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:97-6
+msgid "Iframe background"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:102-7
+msgid "Same background twice vertical (1/2)"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:105-7
+msgid "Same background twice vertical (2/2)"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:110-6
+msgid "Same background from horizontal to vertical (1/3)"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:114-7
+msgid "Same background from horizontal to vertical (2/3)"
+msgstr ""
+
+#: upstream/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:117-7
+msgid "Same background from horizontal to vertical (3/3)"
+msgstr ""

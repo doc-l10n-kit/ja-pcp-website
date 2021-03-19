@@ -1,0 +1,111 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-19 15:03+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: upstream/docs/docs/glossary.html%2Bhtml.head.title:8-2
+msgctxt "upstream/docs/docs/glossary.html+html.head.title:8-2"
+msgid "PCP Glossary"
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.table.tr.td.font.a.img[alt]:12-78
+msgid "pmcharticon"
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.table.tr.td.p:14-16
+msgid "<a href=\"index.html\"><font color=\"#cc0000\">Home</font></a> · <a href=\"lab.pmchart.html\"><font color=\"#cc0000\">Charts</font></a> · <a href=\"timecontrol.html\"><font color=\"#cc0000\">Time Control</font></a>"
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.h1:17-1
+msgctxt "upstream/docs/docs/glossary.html+html.body.h1:17-1"
+msgid "PCP Glossary"
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.p:19-1
+msgid "<b>archive folio</b> - a collection of PCP <a href=\"#archive\">archive logs</a> that can be processed as a group using <i>pmafm</i>."
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.p:20-1
+msgid "<b><a name=\"archive\">archive log</a></b> - a set of physical files containing a collection of <a href=\"#metric\">performance metrics</a> from a single <a href=\"#collector\">collector system</a>. Archive logs are created by the program <i>pmlogger</i> and may be used with any PCP tools to provide retrospective performance analysis."
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.p:21-1
+msgid "<b><a name=\"domain\">domain</a> number</b> - each <a href=\"#PMDA\">PMDA</a> is assigned a unique identifier (or domain number) that differentiates PMDAs on a collector system. For global consistency, a particular PMDA will be assigned the same domain number for <b>all</b> <a href=\"#collector\">collector systems</a> on which it is installed."
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.p:22-1
+msgid "<b><a name=\"collector\">collector system</a></b> - a host upon which a <a href=\"#PMCD\">PMCD</a> is running to collect and export <a href=\"#metric\">performance metrics</a> using the locally configured <a href=\"#PMDA\">PMDAs</a>."
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.p:23-1
+msgid "<b><a name=\"instance identifiers\">instance</a></b> <b>identifiers</b>- some <a href=\"#metric\">performance metrics</a> have an associated <b>set</b> of values, e.g. the number of I/O disk operations is a metric, that has a set of values, one per disk spindle on any particular system. Each value is associated with an instance identifier that may be used to differentiate between the values that particular performance metric. Instance identifiers have both an internal (integer) encoding and an external (textual) name."
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.p:24-1
+msgid "<b>instance domain</b> - the set of <a href=\"#instance\">instance identifiers</a> for a single <a href=\"#metric\">performance metric</a>. Note that many metrics may share the same instance domain, e.g. per CPU, or per network interface, or per Web server, and the members of an instance domain are likely to be different on different hosts."
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.p:25-1
+msgid "<b><a name=\"monitor\">monitor system</a></b> - a host upon which the PCP monitor tools are installed to support the display, plotting, visualization and automated reasoning, using <a href=\"#metric\">performance metrics</a> fetched from a <a href=\"#PMDA\">PMDA</a>, or from a PCP archive log."
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.p:26-1
+msgid "<b><a name=\"PCP\">PCP</a></b> - the Performance Co-Pilot toolkit, a suite of tools useful for system level performance management."
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.p:27-1
+msgid "<b>PCP GUI</b> - utilities that build on the base PCP software providing additional <a href=\"#monitor\">monitor</a> functionality, graphical user interface (GUI) tools in particular."
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.p:28-1
+msgid "<b>PCP Glider</b> - a distribution of software that provides PCP and PCP GUI, along with essential supporting tools and libraries for the Microsoft Windows platform."
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.p:29-1
+msgid "<b><a name=\"metric\">performance metric</a></b> - any performance-related measurement of activity or resource utilization."
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.p:30-1
+msgid "<b>PDU</b> - Protocol Data Unit. In the PCP context this relates to the encoding of PCP requests into messages for transmission via TCP/IP. PDUs are used to implement all communication between the PCP monitor tools and a <a href=\"#PMCD\">PMCD</a>, and between a PMCD and those <a href=\"#PMDA\">PMDAs</a> that execute as separate processes."
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.p:31-1
+msgid "<b><a name=\"PMAPI\">PMAPI</a></b> - Performance Metrics Application Programming Interface. The interface by which an application developer gains access to PCP services that relate to the fetching of <a href=\"#metric\">performance metrics</a>."
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.p:32-1
+msgid "<b><a name=\"PMCD\">PMCD</a></b> - Performance Metrics Collection Daemon. On each host configured as a PCP <a href=\"#collector\">collector</a>, the PMCD services in-coming requests and controls the operation of the <a href=\"#PMDA\">PMDAs</a>."
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.p:33-1
+msgid "<b><a name=\"PMDA\">PMDA</a></b> - Performance Metrics Domain Agent. Each PMDA includes the methods necessary to instantiate <a href=\"#metric\">performance metrics</a> from a particular subsystem, e.g. the kernel or a RDBMS or an application, and is launched by the <a href=\"#PMCD\">PMCD</a>. It is expected that customized PMDAs will be developed for applications with critical performance impacts."
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.p:34-1
+msgid "<b>PMCS</b> - Performance Metrics Collection System. The infrastructure used to collect, export and transport <a href=\"#metric\">performance metrics</a>, usually the combination of <a href=\"#PMCD\">PMCD</a>, <a href=\"#PMDA\">PMDAs</a> and <a href=\"#PMAPI\">PMAPI</a> services."
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.p:35-1
+msgid "<b>PMNS</b> - Performance Metrics Name Space. A user-visible mapping between external names and PMIDs for <a href=\"#metric\">performance metrics</a>. The PMNS is managed by <a href=\"#pmcd\">PMCD</a> and its <a href=\"#PMDA\">PMDAs</a>."
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.p:36-1
+msgid "<b>PMID</b> - Performance Metrics Identifier. Every <a href=\"#metric\">performance metric</a> has an associated unique identifier. The high-order bits of the PMID encode the corresponding <a href=\"#PMDA\">PMDA</a>'s <a href=\"#domain\">domain</a> number."
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.center.table.tr.td.p:42-23
+msgid "Copyright © 2007-2010 <a href=\"https://www.aconex.com/\"><font color=\"#000060\">Aconex</font></a><br>Copyright © 2000-2004 <a href=\"https://www.sgi.com/\"><font color=\"#000060\">Silicon Graphics Inc</font></a>"
+msgstr ""
+
+#: upstream/docs/docs/glossary.html%2Bhtml.body.center.table.tr.td.p:43-18
+msgid "<a href=\"https://pcp.io/\"><font color=\"#000060\">PCP Site</font></a><br>Copyright © 2012-2018 <a href=\"https://www.redhat.com/\"><font color=\"#000060\">Red Hat</font></a>"
+msgstr ""

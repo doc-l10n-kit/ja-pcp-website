@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -eu
+
+SCRIPT_DIR=$(cd $(dirname $0); pwd)
+L10N_HOME=$(cd $(dirname $SCRIPT_DIR); pwd)
+cd $L10N_HOME
+
+source config/l10n-kit.conf
+
+rm -rf $L10N_HOME/translated/$TARGET_LANG
+mkdir -p $L10N_HOME/translated
+cp -p -R $L10N_HOME/upstream $L10N_HOME/translated/$TARGET_LANG
+
+for ITEM in `\find upstream -name "*.html"`; do
+    if [ -f $ITEM ] ; then
+        RELATIVE_FILE_PATH=`echo $ITEM | sed -e "s|^upstream\/||"`
+        RELATIVE_FILE_DIR=$(dirname $RELATIVE_FILE_PATH);
+
+        if [ -f "l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po" ] ; then
+            mkdir -p "translated/$TARGET_LANG/$RELATIVE_FILE_DIR"
+            po2html --template="upstream/$RELATIVE_FILE_PATH" --input="l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po" --output="translated/$TARGET_LANG/$RELATIVE_FILE_PATH"
+        fi
+    fi
+done

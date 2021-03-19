@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -eu
+
+SCRIPT_DIR=$(cd $(dirname $0); pwd)
+L10N_HOME=$(cd $(dirname $SCRIPT_DIR); pwd)
+cd $L10N_HOME
+
+source config/l10n-kit.conf
+
+cd translated/$TARGET_LANG
+
+set +e
+make default
+set -e
