@@ -53,6 +53,7 @@ jobs:
       - name: Machine translate
         run: bin/machine-translate
         env:
+          TRANSLATOR_ENGINE: deepL
           TRANSLATOR_DEEPL_APIKEY: ${{ secrets.TRANSLATOR_DEEPL_APIKEY }}
 
       - name: Push changes
