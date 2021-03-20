@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-20 19:04+0000\n"
+"POT-Creation-Date: 2021-03-20 20:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,47 +48,47 @@ msgstr ""
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.section.div.div.p:49-1
 msgid "Performance Co-Pilot is a system performance analysis toolkit."
-msgstr "Performance Co-Pilotはシステムパフォーマンス解析ツールキットです。"
+msgstr ""
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.section.div.div.h3:61-1
 msgid "Collect"
-msgstr "収集"
+msgstr ""
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:63-1
 msgid "<strong>Lightweight</strong> : <a href=\"/features.html#collect\">Collect</a> performance metrics from your systems efficiently."
-msgstr "<strong>軽量</strong>: システムのパフォーマンス・メトリクスを効率的に<a href=\"/features.html#collect\">収集</a>します。"
+msgstr ""
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:69-1
 msgid "<strong>Distributed</strong> : Collate metrics from <a href=\"/features.html#distributed\">multiple hosts</a> and a variety of operating systems."
-msgstr "<strong>分散</strong>:<a href=\"/features.html#distributed\">複数のホスト</a>や様々なOSからのメトリクスを照合します。"
+msgstr ""
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:75-1
 msgid "<strong>Included</strong> : Everything you need is already included in the major distributions: Fedora, RHEL, Debian, SUSE, Ubuntu, Gentoo"
-msgstr "<strong>組込済</strong>: 主要なディストリビューション:Fedora, RHEL, Debian, SUSE, Ubuntu, Gentooで必要なものがすべて組込済です。"
+msgstr ""
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.section.div.div.h3:85-1
 msgid "Analyze"
-msgstr "分析"
+msgstr ""
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.section.div.div.p:86-1
 msgid "<a href=\"/features.html#analyze\">Analyze</a> systems' performance metrics in real-time or using historical data."
-msgstr "システムのパフォーマンスメトリクスをリアルタイムまたは過去のデータを使って<a href=\"/features.html#analyze\">分析</a>します。"
+msgstr ""
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.section.div.div.p:90-1
 msgid "Compare performance metrics between different hosts and different intervals. Observe trends and identify abnormal patterns."
-msgstr "異なるホストや異なる間隔でのパフォーマンスメトリクスを比較し、トレンドを観察、異常なパターンを特定します。"
+msgstr ""
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.section.div.div.h3:99-1
 msgid "Extend"
-msgstr "拡張"
+msgstr ""
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.section.div.div.p:100-1
 msgid "<a href=\"/features.html#extend\">Extend</a> the collected performance metrics in a simple way."
-msgstr "収集したパフォーマンス指標をシンプルな方法で<a href=\"/features.html#extend\">拡張</a>します。"
+msgstr ""
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.section.div.div.p:104-1
 msgid "PCP offers a multitude of APIs and libraries to extract and make use of performance metrics from your own application."
-msgstr "PCPは、独自のアプリケーションからパフォーマンスメトリクスを抽出して利用するための多数のAPIとライブラリを提供しています。"
+msgstr ""
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.h1:118-1
 msgid "Use Performance Co-Pilot Now"
