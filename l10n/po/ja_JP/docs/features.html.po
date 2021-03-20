@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-20 11:05+0000\n"
+"POT-Creation-Date: 2021-03-20 12:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,7 +48,7 @@ msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.h2:53-1
 msgid "Collect"
-msgstr "収集"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:64-1
 msgid "<strong>Kernel agents</strong> for each supported platform. The Linux agent exports a broad range of performance data from kernels since 2.0.36 or later. This includes coverage of activity in the areas of: CPU, disk, memory, swapping, network, NFS, RPC, filesystems, and per-process statistics."
@@ -64,7 +64,7 @@ msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.h2:95-1
 msgid "Analyze"
-msgstr "分析"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:106-1
 msgid "A single <strong>API</strong> for accessing the performance data that hides details of where the data comes from and how it was captured and imported into the PCP framework."
@@ -100,7 +100,7 @@ msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.h2:171-1
 msgid "Extend"
-msgstr "拡張"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:182-1
 msgid "A \"plugin\" framework (libraries, APIs, agents and daemon) to collect performance data from multiple sources on a single host, e.g. from the hardware, the kernel, the service layers, the application libraries, and the applications themselves."
