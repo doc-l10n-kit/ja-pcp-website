@@ -13,17 +13,21 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/papers/pcp-presentation/test/examples/embedded-media.html%2Bhtml[lang]:2-1
+#, fuzzy
 msgid "en"
-msgstr ""
+msgstr "エン"
 
 #: upstream/docs/papers/pcp-presentation/test/examples/embedded-media.html%2Bhtml.head.title:7-3
+#, fuzzy
 msgid "reveal.js - Embedded Media"
-msgstr ""
+msgstr "reveal.js - 埋め込みメディア"
 
 #: upstream/docs/papers/pcp-presentation/test/examples/embedded-media.html%2Bhtml.body.div.div.section.h2:22-6
+#, fuzzy
 msgid "Embedded Media Test"
-msgstr ""
+msgstr "エンベデッドメディアテスト"
 
 #: upstream/docs/papers/pcp-presentation/test/examples/embedded-media.html%2Bhtml.body.div.div.section.h2:30-6
+#, fuzzy
 msgid "Empty Slide"
-msgstr ""
+msgstr "空のスライド"
