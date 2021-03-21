@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-21 12:16+0000\n"
+"POT-Creation-Date: 2021-03-21 13:15+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,21 +13,17 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/papers/pcp-presentation/test/examples/embedded-media.html%2Bhtml[lang]:2-1
-#, fuzzy
 msgid "en"
-msgstr "エン"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/embedded-media.html%2Bhtml.head.title:7-3
-#, fuzzy
 msgid "reveal.js - Embedded Media"
-msgstr "reveal.js - 埋め込みメディア"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/embedded-media.html%2Bhtml.body.div.div.section.h2:22-6
-#, fuzzy
 msgid "Embedded Media Test"
-msgstr "エンベデッドメディアテスト"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/embedded-media.html%2Bhtml.body.div.div.section.h2:30-6
-#, fuzzy
 msgid "Empty Slide"
-msgstr "空のスライド"
+msgstr ""
