@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-21 21:05+0000\n"
+"POT-Creation-Date: 2021-03-21 22:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,31 +13,25 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/papers/pcp-presentation/test/examples/barebones.html%2Bhtml[lang]:2-1
-#, fuzzy
 msgid "en"
-msgstr "エン"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/barebones.html%2Bhtml.head.title:7-3
-#, fuzzy
 msgid "reveal.js - Barebones"
-msgstr "reveal.js - Barebones"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/barebones.html%2Bhtml.body.div.div.section.h2:19-6
-#, fuzzy
 msgid "Barebones Presentation"
-msgstr "ベアボーン・プレゼンテーション"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/barebones.html%2Bhtml.body.div.div.section.p:20-6
-#, fuzzy
 msgid "This example contains the bare minimum includes and markup required to run a reveal.js presentation."
-msgstr "この例では、 reveal.js のプレゼンテーションを実行するために必要な最低限のインクルードとマークアップが含まれています。"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/barebones.html%2Bhtml.body.div.div.section.h2:24-6
-#, fuzzy
 msgid "No Theme"
-msgstr "テーマなし"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/barebones.html%2Bhtml.body.div.div.section.p:25-6
-#, fuzzy
 msgid "There's no theme included, so it will fall back on browser defaults."
-msgstr "テーマは含まれていないので、ブラウザのデフォルトに頼ることになります。"
+msgstr ""
