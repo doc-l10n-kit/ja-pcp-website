@@ -13,25 +13,31 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/papers/pcp-presentation/test/examples/barebones.html%2Bhtml[lang]:2-1
+#, fuzzy
 msgid "en"
-msgstr ""
+msgstr "エン"
 
 #: upstream/docs/papers/pcp-presentation/test/examples/barebones.html%2Bhtml.head.title:7-3
+#, fuzzy
 msgid "reveal.js - Barebones"
-msgstr ""
+msgstr "reveal.js - Barebones"
 
 #: upstream/docs/papers/pcp-presentation/test/examples/barebones.html%2Bhtml.body.div.div.section.h2:19-6
+#, fuzzy
 msgid "Barebones Presentation"
-msgstr ""
+msgstr "ベアボーン・プレゼンテーション"
 
 #: upstream/docs/papers/pcp-presentation/test/examples/barebones.html%2Bhtml.body.div.div.section.p:20-6
+#, fuzzy
 msgid "This example contains the bare minimum includes and markup required to run a reveal.js presentation."
-msgstr ""
+msgstr "この例では、 reveal.js のプレゼンテーションを実行するのに必要な最低限のインクルードとマークアップが含まれています。"
 
 #: upstream/docs/papers/pcp-presentation/test/examples/barebones.html%2Bhtml.body.div.div.section.h2:24-6
+#, fuzzy
 msgid "No Theme"
-msgstr ""
+msgstr "テーマなし"
 
 #: upstream/docs/papers/pcp-presentation/test/examples/barebones.html%2Bhtml.body.div.div.section.p:25-6
+#, fuzzy
 msgid "There's no theme included, so it will fall back on browser defaults."
-msgstr ""
+msgstr "テーマは含まれていないので、ブラウザのデフォルトに頼ることになります。"
