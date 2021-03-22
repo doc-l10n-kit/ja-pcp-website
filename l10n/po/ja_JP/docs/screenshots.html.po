@@ -13,105 +13,129 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/screenshots.html%2Bhtml.head.title:7-1
+#, fuzzy
 msgctxt "upstream/docs/screenshots.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "パフォーマンス・コパイロット"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.header.div.h1:16-1
+#, fuzzy
 msgctxt "upstream/docs/screenshots.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "パフォーマンス・コパイロット"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
 msgctxt "upstream/docs/screenshots.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
 msgctxt "upstream/docs/screenshots.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
 msgctxt "upstream/docs/screenshots.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.header.div.nav.ul.li:30-1
+#, fuzzy
 msgid "Get Involved"
-msgstr ""
+msgstr "参加する"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.div.div.div.div.section.div.div.h2:45-1
+#, fuzzy
 msgid "Screenshots"
-msgstr ""
+msgstr "スクリーンショット"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.h4:151-1
+#, fuzzy
 msgid "Main Menu"
-msgstr ""
+msgstr "メインメニュー"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:153-1
+#, fuzzy
 msgctxt "upstream/docs/screenshots.html+html.body.footer.div.div.section.div.div.ul.li:153-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:156-1
+#, fuzzy
 msgctxt "upstream/docs/screenshots.html+html.body.footer.div.div.section.div.div.ul.li:156-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:159-1
+#, fuzzy
 msgctxt "upstream/docs/screenshots.html+html.body.footer.div.div.section.div.div.ul.li:159-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.h4:167-1
+#, fuzzy
 msgid "Developers"
-msgstr ""
+msgstr "開発者"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:169-1
+#, fuzzy
 msgid "Report an issue"
-msgstr ""
+msgstr "問題を報告する"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:172-1
+#, fuzzy
 msgid "Roadmap"
-msgstr ""
+msgstr "ロードマップ"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:175-1
+#, fuzzy
 msgid "Contributing"
-msgstr ""
+msgstr "貢献度"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:178-1
+#, fuzzy
 msgid "Team"
-msgstr ""
+msgstr "チーム"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.h4:186-1
+#, fuzzy
 msgid "About"
-msgstr ""
+msgstr "について"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:188-1
+#, fuzzy
 msgid "Testimonials"
-msgstr ""
+msgstr "お客様の声"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:191-1
+#, fuzzy
 msgid "FAQ"
-msgstr ""
+msgstr "よくある質問"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:194-1
+#, fuzzy
 msgid "Website"
-msgstr ""
+msgstr "ウェブサイト"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.h4:202-1
+#, fuzzy
 msgid "Get Social"
-msgstr ""
+msgstr "Get Social"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:204-1
+#, fuzzy
 msgid "Twitter"
-msgstr ""
+msgstr "ツイッター"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:207-1
+#, fuzzy
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.div.p:217-1
+#, fuzzy
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
-msgstr ""
+msgstr "このウェブサイトの著作権は、2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat に帰属します。"
