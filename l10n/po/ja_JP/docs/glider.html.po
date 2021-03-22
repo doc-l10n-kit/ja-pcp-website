@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-22 18:10+0000\n"
+"POT-Creation-Date: 2021-03-22 19:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,174 +13,141 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/glider.html%2Bhtml.head.title:7-1
-#, fuzzy
 msgctxt "upstream/docs/glider.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr "パフォーマンス・コパイロット"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.header.div.h1:16-1
-#, fuzzy
 msgctxt "upstream/docs/glider.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr "パフォーマンス・コパイロット"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.header.div.nav.ul.li:21-1
-#, fuzzy
 msgctxt "upstream/docs/glider.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.header.div.nav.ul.li:24-1
-#, fuzzy
 msgctxt "upstream/docs/glider.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr "ドキュメント"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.header.div.nav.ul.li:27-1
-#, fuzzy
 msgctxt "upstream/docs/glider.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.header.div.nav.ul.li:30-1
-#, fuzzy
 msgid "Get Involved"
-msgstr "参加する"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.div.div.div.div.section.div.div.h2:45-1
-#, fuzzy
 msgid "Glider"
-msgstr "グライダー"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.div.div.div.div.section.div.div.p:61-1
-#, fuzzy
 msgid "PCP Glider is a binary distribution of PCP for the Windows operating system. It includes a bundled compiler, Perl runtime (and pre-installed modules that offer the ability to install XS CPAN modules directly from CPAN), a POSIX shell environment and the Performance Co-Pilot toolkit."
-msgstr "PCP Gliderは、Windowsオペレーティング・システム用のPCPのバイナリ・ディストリビューションです。同梱のコンパイラ、Perlランタイム（およびCPANから直接XS CPANモジュールをインストールする機能を提供するプレインストールされたモジュール）、POSIXシェル環境、Performance Co-Pilotツールキットが含まれています。"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.div.div.div.div.section.div.div.p:68-1
-#, fuzzy
 msgid "The purpose of the Glider package is to provide a practical Win32 environment for performance engineers experienced with either the POSIX platform or the Win32 environment to run the Performance Co-Pilot toolkit on Windows. It provides both the PCP monitor and collector components."
-msgstr "Gliderパッケージの目的は、POSIXプラットフォームまたはWin32環境のいずれかで経験を積んだパフォーマンスエンジニアが、Windows上でPerformance Co-Pilotツールキットを実行するための、実用的なWin32環境を提供することです。このパッケージは、PCPモニタとコレクタの両方のコンポーネントを提供します。"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.div.div.div.div.section.div.div.p:75-1
-#, fuzzy
 msgid "Installation is as simple as:"
-msgstr "インストールは簡単です。"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.div.div.div.div.section.div.div.p.pre:77-1
-#, fuzzy
 msgid "C:> msiexec /i pcp-glider-*.msi C:> cd \\Glider\\scripts C:> .\\postinst.bat"
-msgstr "C:&gt; msiexec /i pcp-glider-*.msi C:&gt; cd ˶ˆ꒳ˆ˵ C:&gt; .postinst.bat"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.div.div.div.div.section.div.div.p:79-1
-#, fuzzy
 msgid "PCP Glider includes:"
-msgstr "PCPグライダーには"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:81-1
-#, fuzzy
 msgid "<a href=\"http://www.mingw.org\">Mingw</a> GCC C/C++ compiler"
-msgstr "C/C++コンパイラ「<a href=\"http://www.mingw.org\">Mingw</a>GCC"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:85-1
-#, fuzzy
 msgid "<a href=\"http://www.mingw.org/wiki/msys\">MSYS</a> Core System"
-msgstr "<a href=\"http://www.mingw.org/wiki/msys\">MSYS</a>コアシステム"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:89-1
-#, fuzzy
 msgid "<a href=\"http://www.qtsoftware.com\">Qt</a> toolkit runtime"
-msgstr "<a href=\"http://www.qtsoftware.com\">Qt</a>ツールキットランタイム"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:93-1
-#, fuzzy
 msgid "Performance Co-Pilot with GUI"
-msgstr "GUI付きパフォーマンスコパイロット"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.h4:110-1
-#, fuzzy
 msgid "Main Menu"
-msgstr "メインメニュー"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:112-1
-#, fuzzy
 msgctxt "upstream/docs/glider.html+html.body.footer.div.div.section.div.div.ul.li:112-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:115-1
-#, fuzzy
 msgctxt "upstream/docs/glider.html+html.body.footer.div.div.section.div.div.ul.li:115-1"
 msgid "Documentation"
-msgstr "ドキュメンテーション"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:118-1
-#, fuzzy
 msgctxt "upstream/docs/glider.html+html.body.footer.div.div.section.div.div.ul.li:118-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.h4:126-1
-#, fuzzy
 msgid "Developers"
-msgstr "開発者"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:128-1
-#, fuzzy
 msgid "Report an issue"
-msgstr "問題を報告する"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:131-1
-#, fuzzy
 msgid "Roadmap"
-msgstr "ロードマップ"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:134-1
-#, fuzzy
 msgid "Contributing"
-msgstr "貢献度"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:137-1
-#, fuzzy
 msgid "Team"
-msgstr "チーム"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.h4:145-1
-#, fuzzy
 msgid "About"
-msgstr "について"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:147-1
-#, fuzzy
 msgid "Testimonials"
-msgstr "お客様の声"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:150-1
-#, fuzzy
 msgid "FAQ"
-msgstr "よくある質問"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:153-1
-#, fuzzy
 msgid "Website"
-msgstr "ウェブサイト"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.h4:161-1
-#, fuzzy
 msgid "Get Social"
-msgstr "Get Social"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:163-1
-#, fuzzy
 msgid "Twitter"
-msgstr "ツイッター"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:166-1
-#, fuzzy
 msgid "Github"
-msgstr "Github"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.div.p:176-1
-#, fuzzy
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
-msgstr "このウェブサイトの著作権は、2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat に帰属します。"
+msgstr ""
