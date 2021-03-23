@@ -13,257 +13,319 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.head.title:7-1
+#, fuzzy
 msgctxt "upstream/docs/gsod/2021/ideas.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "パフォーマンス・コパイロット"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.header.div.h1:16-1
+#, fuzzy
 msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "パフォーマンス・コパイロット"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
 msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
 msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
 msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.header.div.nav.ul.li:30-1
+#, fuzzy
 msgid "Get Involved"
-msgstr ""
+msgstr "参加する"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.section.div.div.h2:48-1
+#, fuzzy
 msgid "Task-based Guides for Performance Co-Pilot"
-msgstr ""
+msgstr "タスクベースのガイドによるパフォーマンスの向上 Co-Pilot"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.h3:56-1
+#, fuzzy
 msgid "About Performance Co-Pilot"
-msgstr ""
+msgstr "Performance Co-Pilotについて"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.p:57-1
+#, fuzzy
 msgid "Performance Co-Pilot (PCP) is an open-source distributed system performance analysis toolkit. It efficiently collects metrics from multiple systems and provides a variety of web, graphical and console tools for analysis of live and historical data."
-msgstr ""
+msgstr "Performance Co-Pilot (PCP) は、オープンソースの分散システム・パフォーマンス解析ツールキットです。複数のシステムから効率的にメトリクスを収集し、ライブデータや履歴データを分析するためのさまざまなウェブ、グラフィカル、コンソールツールを提供します。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.p:64-1
+#, fuzzy
 msgid "The suite begun production use over 20 years ago primarily in the High Performance Computing arena, however its customizable and lightweight design has proven popular on everything from tiny system-on-a-chip machines through to vast databases and number-crunching super computers. It is included in all Linux distributions and has an active base of users and developers."
-msgstr ""
+msgstr "20年以上前に主にハイパフォーマンス・コンピューティングの分野で使用され始めましたが、カスタマイズ可能で軽量なデザインは、小さなシステムオンチップ・マシンから膨大なデータベースや数値計算を行うスーパーコンピュータまで、あらゆる場面で人気を博しています。すべてのLinuxディストリビューションに含まれており、活発なユーザーと開発者が存在します。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.p:73-1
+#, fuzzy
 msgid "Writers interested in contributing to the project described here are encouraged to contact the volunteers listed below, and join the PCP <a href=\"https://pcp.io/community.html\">community</a> for further discussion."
-msgstr ""
+msgstr "今回のプロジェクトに興味のあるライターの方は、下記のボランティアに連絡を取り、PCP<a href=\"https://pcp.io/community.html\">コミュニティ</a>に参加して議論を深めてください。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.h3:83-1
+#, fuzzy
 msgid "Participants"
-msgstr ""
+msgstr "参加者"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.section.div.div.p:89-1
+#, fuzzy
 msgid "<strong>Volunteers:</strong> <a href=\"mailto:abhide@redhat.com\">Apurva Bhide</a> , <a href=\"mailto:chorn@redhat.com\">Christian Horn</a> and <a href=\"mailto:scott.nato@gmail.com\">Nathan Scott</a>"
-msgstr ""
+msgstr "<strong>ボランティア</strong> <a href=\"mailto:abhide@redhat.com\">Apurva Bhide</a>氏、<a href=\"mailto:chorn@redhat.com\">Christian Horn</a>氏、<a href=\"mailto:scott.nato@gmail.com\">Nathan Scott</a>氏"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.section.div.div.p:101-1
+#, fuzzy
 msgid "Three volunteers have come forward to assist once again - a PCP maintainer, a developer and a documentation specialist - all of whom volunteered last year as well."
-msgstr ""
+msgstr "昨年に引き続き、PCPメンテナー、開発者、ドキュメントスペシャリストの3名がボランティアとして参加してくれました。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.h3:111-1
+#, fuzzy
 msgid "About Task-based Guides"
-msgstr ""
+msgstr "タスクベースガイドについて"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:114-1
+#, fuzzy
 msgid "In our previous Google Season of Docs project, we converted two freely-available books (the \"Users and Administrators Guide\" and the \"Programmers Guide\") into <a href=\"https://pcp.readthedocs.io/\">pcp.readthedocs.io</a> content. We also extended this documentation with a new REST API guide, and made many other improvements."
-msgstr ""
+msgstr "前回のGoogle Season of Docsプロジェクトでは、自由に利用できる2冊の書籍（「ユーザーズ＆アドミニストレーターズガイド」と「プログラマーズガイド」）を、<a href=\"https://pcp.readthedocs.io/\">pcp.readthedocs.io</a>のコンテンツに変換しました。また、このドキュメントを拡張して新しいREST APIガイドを作成するなど、多くの改善を行いました。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:123-1
+#, fuzzy
 msgid "However, due to the many available tools, daemons, integrations and APIs we still find a high barrier to entry for new PCP users."
-msgstr ""
+msgstr "しかし、多くの利用可能なツール、デーモン、統合、APIがあるため、新しいPCPユーザーにとっては参入障壁が高いことがわかりました。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:128-1
+#, fuzzy
 msgid "It is this we plan to tackle next with our writer - curating a new series of focussed, task-oriented \"How To\" guides that will assist new users in engaging immediately, by clearly showing how to solve specific problem scenarios that users encounter frequently."
-msgstr ""
+msgstr "これは、ユーザーが頻繁に遭遇する特定の問題シナリオを解決する方法を明確に示すことで、新しいユーザーがすぐに使用できるようにするための、焦点を絞ったタスク指向の「ハウツー」ガイドの新シリーズを作成することです。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:135-1
+#, fuzzy
 msgid "The goals of the project are this to assist first-time users to become more productive right away, while also increasing traffic to the more detailed books in the same location (readthedocs.io). We plan to undertake this project over three months."
-msgstr ""
+msgstr "このプロジェクトの目的は、初めてのユーザーがすぐに生産性を高められるように支援すると同時に、同じ場所（readthedocs.io）にあるより詳細な書籍へのアクセスを増やすことです。このプロジェクトは、3ヶ月かけて実施する予定です。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.h4:142-1
+#, fuzzy
 msgid "The Task-based Guides project will:"
-msgstr ""
+msgstr "タスクベースのガイドプロジェクトでは"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:143-1
+#, fuzzy
 msgid "Pair developers with the writer to produce succinct step-by-step recipes showing how to perform certain tasks with PCP."
-msgstr ""
+msgstr "開発者とライターがペアになって、PCPを使った作業方法をステップ・バイ・ステップで簡潔に説明するレシピを作成します。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:147-1
+#, fuzzy
 msgid "Task-based topics include:"
-msgstr ""
+msgstr "タスクベースのトピックは以下の通りです。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.p:152-1
+#, fuzzy
 msgid "How do I ..."
-msgstr ""
+msgstr "どうすればいいのでしょうか？"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.ul.li:156-1
+#, fuzzy
 msgid "List the available performance metrics?"
-msgstr ""
+msgstr "利用可能なパフォーマンス・メトリクスをリストアップしてください。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.ul.li:157-1
+#, fuzzy
 msgid "Add new metrics to the available set?"
-msgstr ""
+msgstr "利用可能なセットに新しいメトリクスを追加するか？"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.ul.li:158-1
+#, fuzzy
 msgid "Record metrics on my local system?"
-msgstr ""
+msgstr "メトリクスの記録は、私のローカルシステム上で行いますか？"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.ul.li:159-1
+#, fuzzy
 msgid "Record metrics from a remote system?"
-msgstr ""
+msgstr "リモートシステムからメトリクスを記録する？"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.ul.li:160-1
+#, fuzzy
 msgid "Graph a performance metric?"
-msgstr ""
+msgstr "グラフはパフォーマンス指標？"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.ul.li:161-1
+#, fuzzy
 msgid "Automate performance problem detection?"
-msgstr ""
+msgstr "パフォーマンス問題の検出を自動化するには？"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.ul.li:162-1
+#, fuzzy
 msgid "Setup automated rules to write to the system log?"
-msgstr ""
+msgstr "自動化されたルールを設定して、システムログに書き込む？"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.ul.li:163-1
+#, fuzzy
 msgid "Record historical values for use with the <a href=\"https://man7.org/linux/man-pages/man1/pcp-dstat.1.html\">pcp-dstat</a> tool?"
-msgstr ""
+msgstr " <a href=\"https://man7.org/linux/man-pages/man1/pcp-dstat.1.html\">pcp-dstat</a>ツールで使用するために過去の値を記録しますか？"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.ul.li:168-1
+#, fuzzy
 msgid "Export metric values in a comma-separated format?"
-msgstr ""
+msgstr "メトリック値をカンマ区切りのフォーマットで出力することができますか？"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:174-1
+#, fuzzy
 msgid "Additionally, the writer will:"
-msgstr ""
+msgstr "さらに、ライターは"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.ul.li:178-1
+#, fuzzy
 msgid "Canvas the community for additional topics beyond the set above to produce an initial set of high-value guides"
-msgstr ""
+msgstr "上記以外のトピックをコミュニティで募集し、価値の高いガイドの初期セットを作成する"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.ul.li:182-1
+#, fuzzy
 msgid "Provide feedback to developers about potential areas of improvements in the tools to create more satisfying early user experiences."
-msgstr ""
+msgstr "初期のユーザー体験をより満足のいくものにするために、ツールの改善点を開発者にフィードバックする。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.ul.li:187-1
+#, fuzzy
 msgid "Audit existing documentation for tutorial content to add into the new <a href=\"https://pcp.readthedocs.io/\">readthedocs</a> guide format. This involves an assessment of the existing <a href=\"https://pcp.io/documentation.html\">Short Guides</a> and refactoring these into the <strong>\"How do I...\"</strong> form."
-msgstr ""
+msgstr "新しい<a href=\"https://pcp.readthedocs.io/\">readthedocs</a>ガイド形式に追加するチュートリアルコンテンツのために、既存のドキュメントを監査する。これには、既存の<a href=\"https://pcp.io/documentation.html\">ショートガイド</a>の評価と、それらを<strong>「How do I...」</strong>形式にリファクタリングすることが含まれます。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.ul.li:198-1
+#, fuzzy
 msgid "Introduce consistency into all Tutorials and Guides across the project, by using a single readthedocs.io landing page for all guides (same location, format, look-and-feel)."
-msgstr ""
+msgstr "プロジェクト全体で、すべてのチュートリアルとガイドに一貫性を持たせ、すべてのガイドに単一の readthedocs.io ランディングページを使用する（同じ場所、フォーマット、ルックアンドフィール）。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:206-1
+#, fuzzy
 msgid "Work that is out-of-scope for this project:"
-msgstr ""
+msgstr "このプロジェクトのスコープ外にある作業。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:209-1
+#, fuzzy
 msgid "This project will focus on core PCP functionality, and not on integration with (for example) 3rd party sources of metrics, or sending PCP metrics to other analysis systems."
-msgstr ""
+msgstr "このプロジェクトでは、PCPのコア機能に焦点を当て、サードパーティのメトリクス・ソースとの統合や、PCPのメトリクスを他の分析システムに送信することは行いません。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.h3:219-1
+#, fuzzy
 msgid "Measuring Success"
-msgstr ""
+msgstr "成功の測定"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.p:220-1
+#, fuzzy
 msgid "We anticipate the How To pages will provide a better suited entry point for both new and some existing users. We will measure this by first enabling <a href=\"https://docs.readthedocs.io/en/latest/guides/google-analytics.html\">Google analytics</a> on our readthedocs pages to begin tracking page accesses."
-msgstr ""
+msgstr "ハウツーページは、新規ユーザーと一部の既存ユーザーの両方にとって、より適したエントリーポイントになると考えています。そのためには、まず「readthedocs」のページで<a href=\"https://docs.readthedocs.io/en/latest/guides/google-analytics.html\">Google Analytics</a>を有効にして、ページへのアクセスを追跡する必要があります。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.p:227-1
+#, fuzzy
 msgid "Success will be indicated by:"
-msgstr ""
+msgstr "成功は以下のように示されます。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.ul.li:231-1
+#, fuzzy
 msgid "The largest number of hits to documentation pages being to the new Task-based Guides pages (we expect greater than double any other books as a measure of success). This success measure will be presented as a graph showing the spread of hits, with the most being attributed to the new Task-based Guides."
-msgstr ""
+msgstr "ドキュメントページへのアクセス数が最も多いのは、新しい「タスクベースガイド」のページです（成功の指標として、他の書籍の2倍以上を期待しています）。この成功指標は、ヒット数の広がりを示すグラフとして表示され、最も多くのヒットが新しい「タスクベースガイド」に起因していることがわかります。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.ul.li:239-1
+#, fuzzy
 msgid "A correlated increase in the number of hits to the existing PCP documentation - the <a href=\"https://pcp.readthedocs.io/UAG/AboutUserAdministratorsGuide.html\">Users Guide ,</a> <a href=\"https://pcp.readthedocs.io/PG/AboutProgrammersGuide.html\">Programmers Guide</a> and <a href=\"https://pcp.readthedocs.io/en/latest/api/\">REST API Guide</a> as a result of the new (shorter, focussed) guides. We aim for a 20% increase in access to the other Guides as our success measure."
-msgstr ""
+msgstr "既存のPCPドキュメントである「<a href=\"https://pcp.readthedocs.io/UAG/AboutUserAdministratorsGuide.html\">ユーザーズガイド」、</a>「<a href=\"https://pcp.readthedocs.io/PG/AboutProgrammersGuide.html\">プログラマーズガイド」</a>、「<a href=\"https://pcp.readthedocs.io/en/latest/api/\">REST APIガイド</a>」へのアクセス数が、新しい（より短く、焦点を絞った）ガイドの結果、相関的に増加すること。成功の指標としては、他のガイドへのアクセスが20％増加することを目指しています。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.ul.li:250-1
+#, fuzzy
 msgid "Some guides will be in different forms - video-based vs text - we'll also use the analytics to determine which formats are more successful than others. This will be presented as a graph also; simply having this breakdown will indicate success to us, we can use that information to decide future documentation styles to prefer."
-msgstr ""
+msgstr "また、どの形式が他の形式よりも成功しているかを判断するために分析を行います。これはグラフでも表示されます。この内訳を見るだけでも成功していることがわかりますので、今後のドキュメントスタイルを決定する際にこの情報を利用することができます。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.h4:269-1
+#, fuzzy
 msgid "Main Menu"
-msgstr ""
+msgstr "メインメニュー"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:271-1
+#, fuzzy
 msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.footer.div.div.section.div.div.ul.li:271-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:274-1
+#, fuzzy
 msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.footer.div.div.section.div.div.ul.li:274-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメンテーション"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:277-1
+#, fuzzy
 msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.footer.div.div.section.div.div.ul.li:277-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.h4:285-1
+#, fuzzy
 msgid "Developers"
-msgstr ""
+msgstr "開発者"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:287-1
+#, fuzzy
 msgid "Report an issue"
-msgstr ""
+msgstr "問題を報告する"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:290-1
+#, fuzzy
 msgid "Roadmap"
-msgstr ""
+msgstr "ロードマップ"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:293-1
+#, fuzzy
 msgid "Contributing"
-msgstr ""
+msgstr "貢献度"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:296-1
+#, fuzzy
 msgid "Team"
-msgstr ""
+msgstr "チーム"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.h4:304-1
+#, fuzzy
 msgid "About"
-msgstr ""
+msgstr "について"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:306-1
+#, fuzzy
 msgid "Testimonials"
-msgstr ""
+msgstr "お客様の声"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:309-1
+#, fuzzy
 msgid "FAQ"
-msgstr ""
+msgstr "よくある質問"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:312-1
+#, fuzzy
 msgid "Website"
-msgstr ""
+msgstr "ウェブサイト"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.h4:320-1
+#, fuzzy
 msgid "Get Social"
-msgstr ""
+msgstr "Get Social"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:322-1
+#, fuzzy
 msgid "Twitter"
-msgstr ""
+msgstr "ツイッター"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:325-1
+#, fuzzy
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.div.p:335-1
+#, fuzzy
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
-msgstr ""
+msgstr "このウェブサイトの著作権は、2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat に帰属します。"
