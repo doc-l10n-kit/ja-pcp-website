@@ -13,33 +13,41 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml[lang]:2-1
+#, fuzzy
 msgid "en"
-msgstr ""
+msgstr "エン"
 
 #: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.head.title:7-3
+#, fuzzy
 msgid "reveal.js - Markdown Demo"
-msgstr ""
+msgstr "reveal.js - Markdownデモ"
 
 #: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.body.div.div.section:25-17
+#, fuzzy
 msgid "## Demo 1 Slide 1 --- ## Demo 1 Slide 2 --- ## Demo 1 Slide 3"
-msgstr ""
+msgstr "## デモ1スライド1 --- ## デモ1スライド2 --- ## デモ1スライド3"
 
 #: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.body.div.div.section:39-17
+#, fuzzy
 msgid "## Demo 2 Slide 1.1 -- ## Demo 2 Slide 1.2 --- ## Demo 2 Slide 2"
-msgstr ""
+msgstr "## Demo 2 Slide 1.1 -- ## Demo 2 Slide 1.2 --- ## Demo 2 Slide 2"
 
 #: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.body.div.div.section:57-17
+#, fuzzy
 msgid "A --- B --- C"
-msgstr ""
+msgstr "A --- B --- C"
 
 #: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.body.div.div.section:72-17
+#, fuzzy
 msgid "<!-- .slide: data-background=\"#000000\" --> ## Slide attributes"
-msgstr ""
+msgstr "<!-- .slide: data-background=\"#000000\" --> ## スライドの属性"
 
 #: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.body.div.div.section:80-17
+#, fuzzy
 msgid "## Element attributes - Item 1 <!-- .element: class=\"fragment\" data-fragment-index=\"2\" --> - Item 2 <!-- .element: class=\"fragment\" data-fragment-index=\"1\" -->"
-msgstr ""
+msgstr "## 要素の属性 - 項目1<!-- .element: class=\"fragment\" data-fragment-index=\"2\" --> - 項目2<!-- .element: class=\"fragment\" data-fragment-index=\"1\" -->"
 
 #: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.body.div.div.section:89-17
+#, fuzzy
 msgid "```php public function foo() { $foo = array( 'bar' => 'bar' ) } ```"
-msgstr ""
+msgstr "``php public function foo() { $foo = array( 'bar' =&gt; 'bar' ) }.```"
