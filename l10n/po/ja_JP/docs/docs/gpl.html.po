@@ -13,1167 +13,1458 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.head.title:8-2
+#, fuzzy
 msgid "PCP Manual"
-msgstr ""
+msgstr "PCPマニュアル"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.table.tr.td.a.img[alt]:12-56
+#, fuzzy
 msgid "pcpicon"
-msgstr ""
+msgstr "pcpicon"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.table.tr.td.p:14-16
+#, fuzzy
 msgid "<a href=\"index.html\"><font color=\"#cc0000\">Home</font></a> · <a href=\"lab.pmchart.html\"><font color=\"#cc0000\">Charts</font></a> · <a href=\"timecontrol.html\"><font color=\"#cc0000\">Time Control</font></a>"
-msgstr ""
+msgstr "<a href=\"index.html\"><font color=\"#cc0000\">ホーム</font></a>· <a href=\"lab.pmchart.html\"><font color=\"#cc0000\">チャート</font></a>· <a href=\"timecontrol.html\"><font color=\"#cc0000\">タイムコントロール</font></a>"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.h1:17-1
+#, fuzzy
 msgid "GNU General Public License (GPL)"
-msgstr ""
+msgstr "GNU General Public License (GPL)"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.p:18-1
+#, fuzzy
 msgid "The PCP software is copyright SGI, and many portions are copyright by other companies and individuals, including IBM, Aconex, Evostor, Red Hat, Nathan Scott and Ken McDonell, amongst others."
-msgstr ""
+msgstr "PCPソフトウェアの著作権はSGIにあり、多くの部分の著作権はIBM、Aconex、Evostor、Red Hat、Nathan Scott、Ken McDonellなど、他の企業や個人にあります。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.p:19-1
+#, fuzzy
 msgid "Several libraries in PCP are licensed under the GNU Lesser General Public License (LGPL)."
-msgstr ""
+msgstr "PCPのいくつかのライブラリはGNU Lesser General Public License (LGPL)でライセンスされています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.p:20-1
+#, fuzzy
 msgid "The PCP GUI software is copyright Aconex and Red Hat, with portions copyright Ken McDonell and Nathan Scott."
-msgstr ""
+msgstr "PCPのGUIソフトウェアの著作権はAconexとRed Hatにあり、一部の著作権はKen McDonellとNathan Scottにあります。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.p:21-1
+#, fuzzy
 msgid "The terms of the GNU General Public License version 2 follow."
-msgstr ""
+msgstr "GNU General Public License version 2の条項に従います。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:23-1
+#, fuzzy
 msgctxt "upstream/docs/docs/gpl.html+html.body.pre:23-1"
 msgid "GNU GENERAL PUBLIC LICENSE"
-msgstr ""
+msgstr "gnu general public license"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:24-1
+#, fuzzy
 msgid "Version 2, June 1991"
-msgstr ""
+msgstr "バージョン2、1991年6月"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:26-1
+#, fuzzy
 msgid "Copyright (C) 1989, 1991 Free Software Foundation, Inc."
-msgstr ""
+msgstr "Copyright (C) 1989, 1991 Free Software Foundation, Inc."
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:27-1
+#, fuzzy
 msgid "51 Franklin Street, Fifth Floor, Boston, MA 02110, USA"
-msgstr ""
+msgstr "51 Franklin Street, Fifth Floor, Boston, MA 02110, USA"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:28-1
+#, fuzzy
 msgid "Everyone is permitted to copy and distribute verbatim copies"
-msgstr ""
+msgstr "逐語的にコピーして配布することができます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:29-1
+#, fuzzy
 msgid "of this license document, but changing it is not allowed."
-msgstr ""
+msgstr "を変更することはできませんが、このライセンス文書の"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:31-1
+#, fuzzy
 msgid "Preamble"
-msgstr ""
+msgstr "プリアンブル"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:33-1
+#, fuzzy
 msgid "The licenses for most software are designed to take away your"
-msgstr ""
+msgstr "ほとんどのソフトウェアのライセンスは、あなたの権利を奪うように設計されています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:34-1
+#, fuzzy
 msgid "freedom to share and change it. By contrast, the GNU General Public"
-msgstr ""
+msgstr "それを共有したり変更したりする自由があります。対照的に、GNU General Public"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:35-1
+#, fuzzy
 msgid "License is intended to guarantee your freedom to share and change free"
-msgstr ""
+msgstr "ライセンスは、あなたが自由に共有し、変更する自由を保証することを目的としています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:36-1
+#, fuzzy
 msgid "software--to make sure the software is free for all its users. This"
-msgstr ""
+msgstr "ソフトウェアを、すべてのユーザーが自由に使えるようにするためです。この"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:37-1
+#, fuzzy
 msgid "General Public License applies to most of the Free Software"
-msgstr ""
+msgstr "一般公衆利用許諾契約書は、ほとんどのフリーソフトウェアに適用されます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:38-1
+#, fuzzy
 msgid "Foundation's software and to any other program whose authors commit to"
-msgstr ""
+msgstr "ファウンデーションのソフトウェアや、作者が以下のことを約束している他のプログラムにも適用されます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:39-1
+#, fuzzy
 msgid "using it. (Some other Free Software Foundation software is covered by"
-msgstr ""
+msgstr "を使用しています。(他のフリーソフトウェアファウンデーションのソフトウェアの中には、次のようなものがあります。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:40-1
+#, fuzzy
 msgid "the GNU Library General Public License instead.) You can apply it to"
-msgstr ""
+msgstr "の代わりにGNU Library General Public Licenseを採用しています)。に適用することができます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:41-1
+#, fuzzy
 msgid "your programs, too."
-msgstr ""
+msgstr "あなたのプログラムも"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:43-1
+#, fuzzy
 msgid "When we speak of free software, we are referring to freedom, not"
-msgstr ""
+msgstr "私たちがフリーソフトウェアについて語るとき、私たちは自由について言及しています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:44-1
+#, fuzzy
 msgid "price. Our General Public Licenses are designed to make sure that you"
-msgstr ""
+msgstr "価格で提供しています。当社の一般公開ライセンスは、以下のことを確実にするために設計されています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:45-1
+#, fuzzy
 msgid "have the freedom to distribute copies of free software (and charge for"
-msgstr ""
+msgstr "は、フリーソフトウェアのコピーを配布する自由があります（そして、そのコピーに対して課金することができます）。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:46-1
+#, fuzzy
 msgid "this service if you wish), that you receive source code or can get it"
-msgstr ""
+msgstr "このサービスを希望する場合は、ソースコードを受け取るか、またはソースコードを入手することができます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:47-1
+#, fuzzy
 msgid "if you want it, that you can change the software or use pieces of it"
-msgstr ""
+msgstr "欲しければ、ソフトウェアを変更したり、ソフトウェアの一部を使用することができます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:48-1
+#, fuzzy
 msgid "in new free programs; and that you know you can do these things."
-msgstr ""
+msgstr "新しい無料プログラムに参加して、自分にはこれらのことができるとわかっていること。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:50-1
+#, fuzzy
 msgid "To protect your rights, we need to make restrictions that forbid"
-msgstr ""
+msgstr "お客様の権利を保護するために、当社は以下を禁止する制限を設ける必要があります。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:51-1
+#, fuzzy
 msgid "anyone to deny you these rights or to ask you to surrender the rights."
-msgstr ""
+msgstr "誰もがこれらの権利を否定したり、権利を放棄するよう求めることができます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:52-1
+#, fuzzy
 msgid "These restrictions translate to certain responsibilities for you if you"
-msgstr ""
+msgstr "これらの制限は、次のような場合に一定の責任を負うことになります。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:53-1
+#, fuzzy
 msgid "distribute copies of the software, or if you modify it."
-msgstr ""
+msgstr "本ソフトウェアの複製物を頒布したり、本ソフトウェアを改変したりすることはできません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:55-1
+#, fuzzy
 msgid "For example, if you distribute copies of such a program, whether"
-msgstr ""
+msgstr "例えば、そのようなプログラムのコピーを配布した場合、以下のようなことが考えられます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:56-1
+#, fuzzy
 msgid "gratis or for a fee, you must give the recipients all the rights that"
-msgstr ""
+msgstr "無償または有償のいずれの場合でも、受信者には、以下の権利をすべて与えなければなりません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:57-1
+#, fuzzy
 msgid "you have. You must make sure that they, too, receive or can get the"
-msgstr ""
+msgstr "あなたが持っている。あなたは、彼らも受け取るか、または取得できるようにしなければなりません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:58-1
+#, fuzzy
 msgid "source code. And you must show them these terms so they know their"
-msgstr ""
+msgstr "のソースコードを使用しています。そして、これらの用語を彼らに示して、彼らが自分の"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:59-1
+#, fuzzy
 msgid "rights."
-msgstr ""
+msgstr "の権利を有しています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:61-1
+#, fuzzy
 msgid "We protect your rights with two steps: (1) copyright the software, and"
-msgstr ""
+msgstr "私たちは、2つのステップでお客様の権利を守ります。(1)ソフトウェアの著作権を取得して"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:62-1
+#, fuzzy
 msgid "(2) offer you this license which gives you legal permission to copy,"
-msgstr ""
+msgstr "(2)本ライセンスを提供し、お客様に複製を合法的に許可すること。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:63-1
+#, fuzzy
 msgid "distribute and/or modify the software."
-msgstr ""
+msgstr "本ソフトウェアを頒布または変更すること。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:65-1
+#, fuzzy
 msgid "Also, for each author's protection and ours, we want to make certain"
-msgstr ""
+msgstr "また、各著者の保護と我々の保護のために、以下の点を確認したいと思います。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:66-1
+#, fuzzy
 msgid "that everyone understands that there is no warranty for this free"
-msgstr ""
+msgstr "この無料配布物には一切の保証がないことをご了承ください。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:67-1
+#, fuzzy
 msgid "software. If the software is modified by someone else and passed on, we"
-msgstr ""
+msgstr "のソフトウェアを使用しています。そのソフトウェアが誰かに改変されて渡された場合、私たちは"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:68-1
+#, fuzzy
 msgid "want its recipients to know that what they have is not the original, so"
-msgstr ""
+msgstr "受け取った人が、自分の持っているものがオリジナルではないことを知ってほしいので"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:69-1
+#, fuzzy
 msgid "that any problems introduced by others will not reflect on the original"
-msgstr ""
+msgstr "他の人が問題を起こしても、元の製品に影響を与えないようにするためです。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:70-1
+#, fuzzy
 msgid "authors' reputations."
-msgstr ""
+msgstr "著者の評判を聞いて"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:72-1
+#, fuzzy
 msgid "Finally, any free program is threatened constantly by software"
-msgstr ""
+msgstr "最後に、どのようなフリープログラムも、常にソフトウェアの脅威にさらされています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:73-1
+#, fuzzy
 msgid "patents. We wish to avoid the danger that redistributors of a free"
-msgstr ""
+msgstr "の特許を取得しました。の再配布者が自由に使えるようになる危険性を避けたいのです。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:74-1
+#, fuzzy
 msgid "program will individually obtain patent licenses, in effect making the"
-msgstr ""
+msgstr "プログラムは、個々に特許ライセンスを取得し、実質的には"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:75-1
+#, fuzzy
 msgid "program proprietary. To prevent this, we have made it clear that any"
-msgstr ""
+msgstr "プログラムを専有することになります。これを防ぐために、私たちは、いかなる"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:76-1
+#, fuzzy
 msgid "patent must be licensed for everyone's free use or not licensed at all."
-msgstr ""
+msgstr "特許は、誰もが自由に使用できるようにライセンスされていなければなりませんし、全くライセンスされていません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:78-1
+#, fuzzy
 msgid "The precise terms and conditions for copying, distribution and"
-msgstr ""
+msgstr "複製、頒布、配布に関する正確な条件は"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:79-1
+#, fuzzy
 msgid "modification follow."
-msgstr ""
+msgstr "修正が続く。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:81-1
+#, fuzzy
 msgctxt "upstream/docs/docs/gpl.html+html.body.pre:81-1"
 msgid "GNU GENERAL PUBLIC LICENSE"
-msgstr ""
+msgstr "gnu general public license"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:82-1
+#, fuzzy
 msgid "TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION"
-msgstr ""
+msgstr "複製、配布、変更に関する条件"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:84-1
+#, fuzzy
 msgid "0. This License applies to any program or other work which contains"
-msgstr ""
+msgstr "0.本ライセンスは、以下を含むプログラムまたはその他の作品に適用されます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:85-1
+#, fuzzy
 msgid "a notice placed by the copyright holder saying it may be distributed"
-msgstr ""
+msgstr "著作権者が「配布してもよい」と表示したもの。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:86-1
+#, fuzzy
 msgid "under the terms of this General Public License. The \"Program\", below,"
-msgstr ""
+msgstr "この一般公衆利用許諾書の条件の下で。以下、「プログラム」といいます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:87-1
+#, fuzzy
 msgid "refers to any such program or work, and a \"work based on the Program\""
-msgstr ""
+msgstr "は、そのようなプログラムや作品を指しており、「プログラムを基にした作品」は"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:88-1
+#, fuzzy
 msgid "means either the Program or any derivative work under copyright law:"
-msgstr ""
+msgstr "とは、「プログラム」または「著作権法上の派生物」のいずれかを意味します。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:89-1
+#, fuzzy
 msgid "that is to say, a work containing the Program or a portion of it,"
-msgstr ""
+msgstr "つまり、本プログラムまたはその一部を含む作品です。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:90-1
+#, fuzzy
 msgid "either verbatim or with modifications and/or translated into another"
-msgstr ""
+msgstr "一字一句そのまま、または修正を加えて、他の言語に翻訳されています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:91-1
+#, fuzzy
 msgid "language. (Hereinafter, translation is included without limitation in"
-msgstr ""
+msgstr "の言語を使用しています。(以下、翻訳とは、制限なく"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:92-1
+#, fuzzy
 msgid "the term \"modification\".) Each licensee is addressed as \"you\"."
-msgstr ""
+msgstr "を「修正」と呼びます)。各ライセンシーは、「あなた」として扱われます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:94-1
+#, fuzzy
 msgid "Activities other than copying, distribution and modification are not"
-msgstr ""
+msgstr "複製、頒布、改変以外の行為は"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:95-1
+#, fuzzy
 msgid "covered by this License; they are outside its scope. The act of"
-msgstr ""
+msgstr "本ライセンスの対象ではなく、その範囲外となります。の行為は"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:96-1
+#, fuzzy
 msgid "running the Program is not restricted, and the output from the Program"
-msgstr ""
+msgstr "プログラムの実行は制限されず、プログラムからの出力は"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:97-1
+#, fuzzy
 msgid "is covered only if its contents constitute a work based on the"
-msgstr ""
+msgstr "を基にした作品である場合のみ対象となります。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:98-1
+#, fuzzy
 msgid "Program (independent of having been made by running the Program)."
-msgstr ""
+msgstr "プログラムを実行して作られたものであるかどうかは別にして）。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:99-1
+#, fuzzy
 msgid "Whether that is true depends on what the Program does."
-msgstr ""
+msgstr "それが本当かどうかは、プログラムが何をするかによります。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:101-1
+#, fuzzy
 msgid "1. You may copy and distribute verbatim copies of the Program's"
-msgstr ""
+msgstr "1.お客様は、本プログラムの逐語的なコピーを複製し、配布することができます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:102-1
+#, fuzzy
 msgid "source code as you receive it, in any medium, provided that you"
-msgstr ""
+msgstr "ソースコードを受け取ったときに、どのような媒体であっても、あなたが"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:103-1
+#, fuzzy
 msgid "conspicuously and appropriately publish on each copy an appropriate"
-msgstr ""
+msgstr "各々のコピーには、目立つように、そして適切に、適切な情報を掲載します。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:104-1
+#, fuzzy
 msgid "copyright notice and disclaimer of warranty; keep intact all the"
-msgstr ""
+msgstr "著作権表示と保証の免責事項を明記した上で、すべての内容をそのまま維持してください。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:105-1
+#, fuzzy
 msgid "notices that refer to this License and to the absence of any warranty;"
-msgstr ""
+msgstr "また、本ライセンスに言及し、いかなる保証も存在しないことを示す表示もあります。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:106-1
+#, fuzzy
 msgid "and give any other recipients of the Program a copy of this License"
-msgstr ""
+msgstr "また、「プログラム」の他の受信者にも本ライセンスのコピーを渡します。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:107-1
+#, fuzzy
 msgid "along with the Program."
-msgstr ""
+msgstr "プログラムと一緒に"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:109-1
+#, fuzzy
 msgid "You may charge a fee for the physical act of transferring a copy, and"
-msgstr ""
+msgstr "コピーを転送する物理的な行為に対して料金を請求することができます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:110-1
+#, fuzzy
 msgid "you may at your option offer warranty protection in exchange for a fee."
-msgstr ""
+msgstr "お客様は、お客様の選択により、有料で保証を提供することができます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:112-1
+#, fuzzy
 msgid "2. You may modify your copy or copies of the Program or any portion"
-msgstr ""
+msgstr "2.あなたは、「プログラム」の複製物またはコピー、あるいはその一部を変更することができます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:113-1
+#, fuzzy
 msgid "of it, thus forming a work based on the Program, and copy and"
-msgstr ""
+msgstr "その結果、プログラムに基づいた作品が形成され、コピーや"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:114-1
+#, fuzzy
 msgid "distribute such modifications or work under the terms of Section 1"
-msgstr ""
+msgstr "第1項の条件に基づいて、当該修正物または著作物を頒布すること。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:115-1
+#, fuzzy
 msgid "above, provided that you also meet all of these conditions:"
-msgstr ""
+msgstr "ただし、上記の条件をすべて満たしていることが条件です。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:117-1
+#, fuzzy
 msgid "a) You must cause the modified files to carry prominent notices"
-msgstr ""
+msgstr "a) 変更されたファイルに著名な表示をさせなければならない。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:118-1
+#, fuzzy
 msgid "stating that you changed the files and the date of any change."
-msgstr ""
+msgstr "ファイルを変更したことと、変更した日を明記してください。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:120-1
+#, fuzzy
 msgid "b) You must cause any work that you distribute or publish, that in"
-msgstr ""
+msgstr "b) あなたは、あなたが配布または公開するすべての作品を、以下のようにしなければなりません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:121-1
+#, fuzzy
 msgid "whole or in part contains or is derived from the Program or any"
-msgstr ""
+msgstr "全体または一部が「プログラム」または「プログラム」から派生したものであること。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:122-1
+#, fuzzy
 msgid "part thereof, to be licensed as a whole at no charge to all third"
-msgstr ""
+msgstr "その一部として、すべての第三者に無償でライセンスされること。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:123-1
+#, fuzzy
 msgid "parties under the terms of this License."
-msgstr ""
+msgstr "本ライセンスの条件の下で、当事者。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:125-1
+#, fuzzy
 msgid "c) If the modified program normally reads commands interactively"
-msgstr ""
+msgstr "c) 変更したプログラムが、通常、対話的にコマンドを読み取る場合"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:126-1
+#, fuzzy
 msgid "when run, you must cause it, when started running for such"
-msgstr ""
+msgstr "実行する際には、このような理由で実行を開始した場合には、その原因を作らなければなりません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:127-1
+#, fuzzy
 msgid "interactive use in the most ordinary way, to print or display an"
-msgstr ""
+msgstr "インタラクティブな使用は、ごく普通の方法で、印刷や表示をすることです。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:128-1
+#, fuzzy
 msgid "announcement including an appropriate copyright notice and a"
-msgstr ""
+msgstr "適切な著作権表示を含む発表と"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:129-1
+#, fuzzy
 msgid "notice that there is no warranty (or else, saying that you provide"
-msgstr ""
+msgstr "保証がないことを告知する（さもなくば、あなたが提供していると言う）。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:130-1
+#, fuzzy
 msgid "a warranty) and that users may redistribute the program under"
-msgstr ""
+msgstr "の下でプログラムを再配布することができること。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:131-1
+#, fuzzy
 msgid "these conditions, and telling the user how to view a copy of this"
-msgstr ""
+msgstr "また、この条件を満たしているかどうか、また、この条件のコピーを閲覧する方法を教えてください。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:132-1
+#, fuzzy
 msgid "License. (Exception: if the Program itself is interactive but"
-msgstr ""
+msgstr "ライセンス例外として、プログラム自体がインタラクティブなものであっても"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:133-1
+#, fuzzy
 msgid "does not normally print such an announcement, your work based on"
-msgstr ""
+msgstr "通常、このような発表はありませんが、あなたの作品には"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:134-1
+#, fuzzy
 msgid "the Program is not required to print an announcement.)"
-msgstr ""
+msgstr "プログラムはアナウンスを印刷する必要はありません)。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:136-1
+#, fuzzy
 msgid "These requirements apply to the modified work as a whole. If"
-msgstr ""
+msgstr "これらの要件は、修正された作品全体に適用されます。もし"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:137-1
+#, fuzzy
 msgid "identifiable sections of that work are not derived from the Program,"
-msgstr ""
+msgstr "その作品の識別可能な部分は、「プログラム」から派生したものではありません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:138-1
+#, fuzzy
 msgid "and can be reasonably considered independent and separate works in"
-msgstr ""
+msgstr "の独立した別個の作品であると合理的に考えられるものです。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:139-1
+#, fuzzy
 msgid "themselves, then this License, and its terms, do not apply to those"
-msgstr ""
+msgstr "その場合、本ライセンスおよびその条件は、それらの者には適用されません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:140-1
+#, fuzzy
 msgid "sections when you distribute them as separate works. But when you"
-msgstr ""
+msgstr "のセクションは、別の作品として配布する場合にはしかし、あなたが"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:141-1
+#, fuzzy
 msgid "distribute the same sections as part of a whole which is a work based"
-msgstr ""
+msgstr "同一のセクションを全体の一部として配布することで、ワークベースの"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:142-1
+#, fuzzy
 msgid "on the Program, the distribution of the whole must be on the terms of"
-msgstr ""
+msgstr "プログラム上では、全体の配布は、以下の条件でなければなりません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:143-1
+#, fuzzy
 msgid "this License, whose permissions for other licensees extend to the"
-msgstr ""
+msgstr "本ライセンスでは、他のライセンシーに対する許可が以下のように拡張されます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:144-1
+#, fuzzy
 msgid "entire whole, and thus to each and every part regardless of who wrote it."
-msgstr ""
+msgstr "全体、つまり誰が書いたかに関わらず、それぞれのパーツに。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:146-1
+#, fuzzy
 msgid "Thus, it is not the intent of this section to claim rights or contest"
-msgstr ""
+msgstr "したがって、本項の意図するところは、権利を主張したり、争ったりすることではありません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:147-1
+#, fuzzy
 msgid "your rights to work written entirely by you; rather, the intent is to"
-msgstr ""
+msgstr "意図しているのは、あなたが書いた作品に対するあなたの権利ではありません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:148-1
+#, fuzzy
 msgid "exercise the right to control the distribution of derivative or"
-msgstr ""
+msgstr "誘導体の分配をコントロールする権利を行使したり"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:149-1
+#, fuzzy
 msgid "collective works based on the Program."
-msgstr ""
+msgstr "本プログラムに基づいて作成された集合著作物。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:151-1
+#, fuzzy
 msgid "In addition, mere aggregation of another work not based on the Program"
-msgstr ""
+msgstr "また、本プログラムに基づかない他の作品の単なる集合体である"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:152-1
+#, fuzzy
 msgid "with the Program (or with a work based on the Program) on a volume of"
-msgstr ""
+msgstr "のボリュームで、プログラム（またはプログラムを基にした作品）と一緒に"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:153-1
+#, fuzzy
 msgid "a storage or distribution medium does not bring the other work under"
-msgstr ""
+msgstr "記憶媒体や頒布媒体に入れても、他の著作物を下敷きにすることはできません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:154-1
+#, fuzzy
 msgid "the scope of this License."
-msgstr ""
+msgstr "は、本ライセンスの範囲内です。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:156-1
+#, fuzzy
 msgid "3. You may copy and distribute the Program (or a work based on it,"
-msgstr ""
+msgstr "3.お客様は、「プログラム」（またはそれを基にした著作物）を複製・頒布することができます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:157-1
+#, fuzzy
 msgid "under Section 2) in object code or executable form under the terms of"
-msgstr ""
+msgstr "の条件の下、オブジェクトコードまたは実行可能な形式で、第2項の"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:158-1
+#, fuzzy
 msgid "Sections 1 and 2 above provided that you also do one of the following:"
-msgstr ""
+msgstr "上記のセクション1および2は、以下のいずれかを行うことを条件としています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:160-1
+#, fuzzy
 msgid "a) Accompany it with the complete corresponding machine-readable"
-msgstr ""
+msgstr "a) 対応する機械読取式の完全版を添付してください。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:161-1
+#, fuzzy
 msgid "source code, which must be distributed under the terms of Sections"
-msgstr ""
+msgstr "ソースコードを配布する際には、セクション"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:162-1
+#, fuzzy
 msgid "1 and 2 above on a medium customarily used for software interchange; or,"
-msgstr ""
+msgstr "上記1および2を、ソフトウェアの交換に慣用的に使用される媒体で行うこと、または"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:164-1
+#, fuzzy
 msgid "b) Accompany it with a written offer, valid for at least three"
-msgstr ""
+msgstr "b) 少なくとも3年間有効な書面による申し出を添付すること。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:165-1
+#, fuzzy
 msgid "years, to give any third party, for a charge no more than your"
-msgstr ""
+msgstr "年以内に第三者に提供することができますが、その際の料金はお客様のご負担となります。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:166-1
+#, fuzzy
 msgid "cost of physically performing source distribution, a complete"
-msgstr ""
+msgstr "ソース配布を物理的に行うためのコストは、完全な"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:167-1
+#, fuzzy
 msgid "machine-readable copy of the corresponding source code, to be"
-msgstr ""
+msgstr "対応するソースコードの機械読み取り可能なコピーを"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:168-1
+#, fuzzy
 msgid "distributed under the terms of Sections 1 and 2 above on a medium"
-msgstr ""
+msgstr "上記第1項および第2項の条件に基づいて配布される媒体での"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:169-1
+#, fuzzy
 msgid "customarily used for software interchange; or,"
-msgstr ""
+msgstr "ソフトウェアの交換のために慣習的に使用されるもの、または"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:171-1
+#, fuzzy
 msgid "c) Accompany it with the information you received as to the offer"
-msgstr ""
+msgstr "c) あなたが受け取ったオファーに関する情報を添付すること"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:172-1
+#, fuzzy
 msgid "to distribute corresponding source code. (This alternative is"
-msgstr ""
+msgstr "をクリックすると、対応するソースコードが配布されます。(この選択肢は"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:173-1
+#, fuzzy
 msgid "allowed only for noncommercial distribution and only if you"
-msgstr ""
+msgstr "非営利目的の配布に限り、また、以下の条件を満たす場合にのみ許可されます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:174-1
+#, fuzzy
 msgid "received the program in object code or executable form with such"
-msgstr ""
+msgstr "受け取ったプログラムをオブジェクトコードまたは実行可能な形式で、そのような"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:175-1
+#, fuzzy
 msgid "an offer, in accord with Subsection b above.)"
-msgstr ""
+msgstr "上記b項に基づき、オファーを行う)。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:177-1
+#, fuzzy
 msgid "The source code for a work means the preferred form of the work for"
-msgstr ""
+msgstr "著作物のソースコードとは、その著作物の好ましい形態を意味します。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:178-1
+#, fuzzy
 msgid "making modifications to it. For an executable work, complete source"
-msgstr ""
+msgstr "変更を加えることができます。実行可能な作品の場合、完全なソース"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:179-1
+#, fuzzy
 msgid "code means all the source code for all modules it contains, plus any"
-msgstr ""
+msgstr "コードとは、その中に含まれるすべてのモジュールのソースコードに加えて、すべての"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:180-1
+#, fuzzy
 msgid "associated interface definition files, plus the scripts used to"
-msgstr ""
+msgstr "関連するインターフェース定義ファイルと、その定義ファイルを作成するためのスクリプト。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:181-1
+#, fuzzy
 msgid "control compilation and installation of the executable. However, as a"
-msgstr ""
+msgstr "は、実行ファイルのコンパイルとインストールを制御します。しかし、そのような"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:182-1
+#, fuzzy
 msgid "special exception, the source code distributed need not include"
-msgstr ""
+msgstr "特別な例外として、配布されるソースコードには以下が含まれている必要はありません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:183-1
+#, fuzzy
 msgid "anything that is normally distributed (in either source or binary"
-msgstr ""
+msgstr "正規分布しているもの（ソースでもバイナリでも"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:184-1
+#, fuzzy
 msgid "form) with the major components (compiler, kernel, and so on) of the"
-msgstr ""
+msgstr "の主要コンポーネント（コンパイラー、カーネルなど）を使用しています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:185-1
+#, fuzzy
 msgid "operating system on which the executable runs, unless that component"
-msgstr ""
+msgstr "実行ファイルが実行されるオペレーティング・システム上では、そのコンポーネントが"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:186-1
+#, fuzzy
 msgid "itself accompanies the executable."
-msgstr ""
+msgstr "自体が実行ファイルに付属しています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:188-1
+#, fuzzy
 msgid "If distribution of executable or object code is made by offering"
-msgstr ""
+msgstr "実行可能コードやオブジェクトコードを提供して配布する場合は"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:189-1
+#, fuzzy
 msgid "access to copy from a designated place, then offering equivalent"
-msgstr ""
+msgstr "指定された場所からアクセスしてコピーを取ることができ、それと同等のサービスを提供します。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:190-1
+#, fuzzy
 msgid "access to copy the source code from the same place counts as"
-msgstr ""
+msgstr "同じ場所からソースコードをコピーするためのアクセス権を持っていることがカウントされます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:191-1
+#, fuzzy
 msgid "distribution of the source code, even though third parties are not"
-msgstr ""
+msgstr "第三者がソースコードを配布していないにもかかわらず"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:192-1
+#, fuzzy
 msgid "compelled to copy the source along with the object code."
-msgstr ""
+msgstr "オブジェクトコードと一緒にソースもコピーしなければなりません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:194-1
+#, fuzzy
 msgid "4. You may not copy, modify, sublicense, or distribute the Program"
-msgstr ""
+msgstr "4.お客様は、本プログラムを複製、変更、サブライセンス、または配布することはできません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:195-1
+#, fuzzy
 msgid "except as expressly provided under this License. Any attempt"
-msgstr ""
+msgstr "本ライセンスで明示的に規定されている場合を除きます。いかなる試みも"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:196-1
+#, fuzzy
 msgid "otherwise to copy, modify, sublicense or distribute the Program is"
-msgstr ""
+msgstr "プログラムをコピー、変更、サブライセンス、配布することは"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:197-1
+#, fuzzy
 msgid "void, and will automatically terminate your rights under this License."
-msgstr ""
+msgstr "は無効であり、本ライセンスに基づくお客様の権利は自動的に終了します。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:198-1
+#, fuzzy
 msgid "However, parties who have received copies, or rights, from you under"
-msgstr ""
+msgstr "ただし、以下の条件であなたからコピーまたは権利を受け取った当事者は、その権利を行使することができます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:199-1
+#, fuzzy
 msgid "this License will not have their licenses terminated so long as such"
-msgstr ""
+msgstr "本ライセンスは、そのようなライセンスが存在する限り、そのライセンスが終了することはありません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:200-1
+#, fuzzy
 msgid "parties remain in full compliance."
-msgstr ""
+msgstr "は完全に遵守しています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:202-1
+#, fuzzy
 msgid "5. You are not required to accept this License, since you have not"
-msgstr ""
+msgstr "5.あなたは、このライセンスを受け入れる必要はありません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:203-1
+#, fuzzy
 msgid "signed it. However, nothing else grants you permission to modify or"
-msgstr ""
+msgstr "サインをしました。しかし、他の何者も、あなたに修正や変更の許可を与えるものではありません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:204-1
+#, fuzzy
 msgid "distribute the Program or its derivative works. These actions are"
-msgstr ""
+msgstr "本プログラムまたはその派生物を配布すること。これらの行為は"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:205-1
+#, fuzzy
 msgid "prohibited by law if you do not accept this License. Therefore, by"
-msgstr ""
+msgstr "本ライセンスに同意されない場合は、法律で禁止されています。したがって、以下の方法で"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:206-1
+#, fuzzy
 msgid "modifying or distributing the Program (or any work based on the"
-msgstr ""
+msgstr "プログラム（またはプログラムに基づいた作品）を修正または配布すること。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:207-1
+#, fuzzy
 msgid "Program), you indicate your acceptance of this License to do so, and"
-msgstr ""
+msgstr "プログラム）を行うためには、本ライセンスに同意したことを示し、かつ"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:208-1
+#, fuzzy
 msgid "all its terms and conditions for copying, distributing or modifying"
-msgstr ""
+msgstr "複製、頒布、改変に関するすべての規約"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:209-1
+#, fuzzy
 msgid "the Program or works based on it."
-msgstr ""
+msgstr "本プログラムまたは本プログラムに基づく作品。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:211-1
+#, fuzzy
 msgid "6. Each time you redistribute the Program (or any work based on the"
-msgstr ""
+msgstr "6.あなたが「プログラム」（または「プログラム」を基にした著作物）を再配布するたびに、あなたは「プログラム」を再配布します。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:212-1
+#, fuzzy
 msgid "Program), the recipient automatically receives a license from the"
-msgstr ""
+msgstr "プログラム）のライセンスを自動的に受け取ることができます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:213-1
+#, fuzzy
 msgid "original licensor to copy, distribute or modify the Program subject to"
-msgstr ""
+msgstr "オリジナルのライセンサーは、以下の条件でプログラムをコピー、配布、変更することができます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:214-1
+#, fuzzy
 msgid "these terms and conditions. You may not impose any further"
-msgstr ""
+msgstr "本規約。あなたは、これ以上、何かを課すことはできません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:215-1
+#, fuzzy
 msgid "restrictions on the recipients' exercise of the rights granted herein."
-msgstr ""
+msgstr "受信者がここで付与された権利を行使することを制限します。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:216-1
+#, fuzzy
 msgid "You are not responsible for enforcing compliance by third parties to"
-msgstr ""
+msgstr "お客様は、第三者が以下の事項を遵守することを強制する責任を負いません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:217-1
+#, fuzzy
 msgid "this License."
-msgstr ""
+msgstr "本ライセンス。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:219-1
+#, fuzzy
 msgid "7. If, as a consequence of a court judgment or allegation of patent"
-msgstr ""
+msgstr "7.裁判所の判決または特許権の申し立ての結果としての"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:220-1
+#, fuzzy
 msgid "infringement or for any other reason (not limited to patent issues),"
-msgstr ""
+msgstr "侵害またはその他の理由（特許問題に限らない）で。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:221-1
+#, fuzzy
 msgid "conditions are imposed on you (whether by court order, agreement or"
-msgstr ""
+msgstr "条件がお客様に課せられている場合（裁判所の命令、合意、または"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:222-1
+#, fuzzy
 msgid "otherwise) that contradict the conditions of this License, they do not"
-msgstr ""
+msgstr "本ライセンスの条件に反している場合は、以下のようになります。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:223-1
+#, fuzzy
 msgid "excuse you from the conditions of this License. If you cannot"
-msgstr ""
+msgstr "は、本ライセンスの条件から免れることができます。もしあなたが"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:224-1
+#, fuzzy
 msgid "distribute so as to satisfy simultaneously your obligations under this"
-msgstr ""
+msgstr "本契約に基づくあなたの義務を同時に満たすように配布します。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:225-1
+#, fuzzy
 msgid "License and any other pertinent obligations, then as a consequence you"
-msgstr ""
+msgstr "ライセンスやその他の関連する義務を負うことになり、結果的にお客様は"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:226-1
+#, fuzzy
 msgid "may not distribute the Program at all. For example, if a patent"
-msgstr ""
+msgstr "は、「プログラム」を一切配布しないことができます。例えば、もし特許"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:227-1
+#, fuzzy
 msgid "license would not permit royalty-free redistribution of the Program by"
-msgstr ""
+msgstr "がプログラムをロイヤリティーフリーで再配布することはできません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:228-1
+#, fuzzy
 msgid "all those who receive copies directly or indirectly through you, then"
-msgstr ""
+msgstr "あなたを介して直接または間接的にコピーを受け取ったすべての人は"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:229-1
+#, fuzzy
 msgid "the only way you could satisfy both it and this License would be to"
-msgstr ""
+msgstr "このライセンスとこのライセンスの両方を満足させるには、次のような方法しかありません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:230-1
+#, fuzzy
 msgid "refrain entirely from distribution of the Program."
-msgstr ""
+msgstr "プログラムの配布を全面的に中止すること。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:232-1
+#, fuzzy
 msgid "If any portion of this section is held invalid or unenforceable under"
-msgstr ""
+msgstr "本節のいずれかの部分が、以下のように無効または執行不能とされた場合は"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:233-1
+#, fuzzy
 msgid "any particular circumstance, the balance of the section is intended to"
-msgstr ""
+msgstr "どんな特定の状況でも、このセクションのバランスは次のように意図されています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:234-1
+#, fuzzy
 msgid "apply and the section as a whole is intended to apply in other"
-msgstr ""
+msgstr "が適用され、セクション全体が他の場所で適用されることを意図しています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:235-1
+#, fuzzy
 msgid "circumstances."
-msgstr ""
+msgstr "の状況になっています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:237-1
+#, fuzzy
 msgid "It is not the purpose of this section to induce you to infringe any"
-msgstr ""
+msgstr "本項の目的は、お客さまに以下のような侵害行為をさせることではありません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:238-1
+#, fuzzy
 msgid "patents or other property right claims or to contest validity of any"
-msgstr ""
+msgstr "特許やその他の財産権の主張、またはその有効性を争うためのものです。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:239-1
+#, fuzzy
 msgid "such claims; this section has the sole purpose of protecting the"
-msgstr ""
+msgstr "本項は、そのようなクレームを保護することを唯一の目的としています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:240-1
+#, fuzzy
 msgid "integrity of the free software distribution system, which is"
-msgstr ""
+msgstr "フリーソフトウェアの配布システムの完全性は"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:241-1
+#, fuzzy
 msgid "implemented by public license practices. Many people have made"
-msgstr ""
+msgstr "パブリック・ライセンスの実施により多くの人が作った"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:242-1
+#, fuzzy
 msgid "generous contributions to the wide range of software distributed"
-msgstr ""
+msgstr "広範なソフトウェアの配布に多大な貢献をしています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:243-1
+#, fuzzy
 msgid "through that system in reliance on consistent application of that"
-msgstr ""
+msgstr "の一貫した適用に依存して、そのシステムを通じて"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:244-1
+#, fuzzy
 msgid "system; it is up to the author/donor to decide if he or she is willing"
-msgstr ""
+msgstr "システムを利用するかどうかは、著者やドナーの判断に委ねられています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:245-1
+#, fuzzy
 msgid "to distribute software through any other system and a licensee cannot"
-msgstr ""
+msgstr "他のシステムを通じてソフトウェアを配布することができず、ライセンシーは"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:246-1
+#, fuzzy
 msgid "impose that choice."
-msgstr ""
+msgstr "その選択を迫る。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:248-1
+#, fuzzy
 msgid "This section is intended to make thoroughly clear what is believed to"
-msgstr ""
+msgstr "本項では、何が信じられているかを徹底的に明らかにすることを目的としています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:249-1
+#, fuzzy
 msgid "be a consequence of the rest of this License."
-msgstr ""
+msgstr "は、このライセンスの残りの部分の結果となります。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:251-1
+#, fuzzy
 msgid "8. If the distribution and/or use of the Program is restricted in"
-msgstr ""
+msgstr "8.プログラムの配布および/または使用が以下のように制限されている場合。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:252-1
+#, fuzzy
 msgid "certain countries either by patents or by copyrighted interfaces, the"
-msgstr ""
+msgstr "一部の国では、特許または著作権で保護されたインターフェースを使用しています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:253-1
+#, fuzzy
 msgid "original copyright holder who places the Program under this License"
-msgstr ""
+msgstr "本ライセンスの下でプログラムを配置する原著作権者"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:254-1
+#, fuzzy
 msgid "may add an explicit geographical distribution limitation excluding"
-msgstr ""
+msgstr "を除く、明確な地理的分布制限を加えることができます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:255-1
+#, fuzzy
 msgid "those countries, so that distribution is permitted only in or among"
-msgstr ""
+msgstr "これらの国では、国内または国外でのみ配布が許可されています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:256-1
+#, fuzzy
 msgid "countries not thus excluded. In such case, this License incorporates"
-msgstr ""
+msgstr "このように除外されていない国々。このような場合、本ライセンスは以下の内容を含みます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:257-1
+#, fuzzy
 msgid "the limitation as if written in the body of this License."
-msgstr ""
+msgstr "この制限は、あたかも本ライセンスの本文に書かれているかのように見えます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:259-1
+#, fuzzy
 msgid "9. The Free Software Foundation may publish revised and/or new versions"
-msgstr ""
+msgstr "9.フリーソフトウェアファウンデーションは、改訂版や新版を発行することがあります。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:260-1
+#, fuzzy
 msgid "of the General Public License from time to time. Such new versions will"
-msgstr ""
+msgstr "の一般公衆利用許諾契約書の新バージョンが随時発行されます。そのような新しいバージョンは"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:261-1
+#, fuzzy
 msgid "be similar in spirit to the present version, but may differ in detail to"
-msgstr ""
+msgstr "は、現在のバージョンと精神的には類似していますが、細部は以下のように異なる可能性があります。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:262-1
+#, fuzzy
 msgid "address new problems or concerns."
-msgstr ""
+msgstr "新しい問題や懸念を解決する。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:264-1
+#, fuzzy
 msgid "Each version is given a distinguishing version number. If the Program"
-msgstr ""
+msgstr "各バージョンには、区別できるバージョン番号が付けられています。プログラムが"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:265-1
+#, fuzzy
 msgid "specifies a version number of this License which applies to it and \"any"
-msgstr ""
+msgstr "は、それに適用される本契約のバージョン番号を指定し、「あらゆる"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:266-1
+#, fuzzy
 msgid "later version\", you have the option of following the terms and conditions"
-msgstr ""
+msgstr "later version \"では、お客様は規約に従うことができます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:267-1
+#, fuzzy
 msgid "either of that version or of any later version published by the Free"
-msgstr ""
+msgstr "そのバージョン、またはフリーソフトが発行した後のバージョンのいずれかです。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:268-1
+#, fuzzy
 msgid "Software Foundation. If the Program does not specify a version number of"
-msgstr ""
+msgstr "ソフトウェア財団。プログラムがバージョン番号を指定していない場合は"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:269-1
+#, fuzzy
 msgid "this License, you may choose any version ever published by the Free Software"
-msgstr ""
+msgstr "本ライセンスでは、フリーソフトウェ ア協会がこれまでに発行したあらゆるバージョンを選択することができます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:270-1
+#, fuzzy
 msgid "Foundation."
-msgstr ""
+msgstr "ファンデーションです。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:272-1
+#, fuzzy
 msgid "10. If you wish to incorporate parts of the Program into other free"
-msgstr ""
+msgstr "10.本プログラムの一部を他の無料のプログラムに組み込むことを希望する場合"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:273-1
+#, fuzzy
 msgid "programs whose distribution conditions are different, write to the author"
-msgstr ""
+msgstr "配布条件が異なるプログラムの場合は、作者に連絡してください。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:274-1
+#, fuzzy
 msgid "to ask for permission. For software which is copyrighted by the Free"
-msgstr ""
+msgstr "をクリックして許可を得てください。フリーソフトで著作権があるものは"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:275-1
+#, fuzzy
 msgid "Software Foundation, write to the Free Software Foundation; we sometimes"
-msgstr ""
+msgstr "フリーソフトウェアーファウンデーションに手紙を書いてください。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:276-1
+#, fuzzy
 msgid "make exceptions for this. Our decision will be guided by the two goals"
-msgstr ""
+msgstr "このような場合は例外となります。私たちの決定は、次の2つの目標によって導かれます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:277-1
+#, fuzzy
 msgid "of preserving the free status of all derivatives of our free software and"
-msgstr ""
+msgstr "私たちのフリーソフトウェアのすべての派生物の自由な状態を維持することと"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:278-1
+#, fuzzy
 msgid "of promoting the sharing and reuse of software generally."
-msgstr ""
+msgstr "ソフトウェアの共有と再利用を促進するためのものです。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:280-1
+#, fuzzy
 msgid "NO WARRANTY"
-msgstr ""
+msgstr "無保証"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:282-1
+#, fuzzy
 msgid "11. BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY"
-msgstr ""
+msgstr "11.本プログラムは無償で提供されているため、いかなる保証もありません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:283-1
+#, fuzzy
 msgid "FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN"
-msgstr ""
+msgstr "適用される法律で認められている範囲内で、プログラムのためのものです。ただし、以下の場合を除く。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:284-1
+#, fuzzy
 msgid "OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES"
-msgstr ""
+msgstr "著作権者および/または他の当事者が、書面で別途記載されている場合は"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:285-1
+#, fuzzy
 msgid "PROVIDE THE PROGRAM \"AS IS\" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED"
-msgstr ""
+msgstr "本プログラムは、「現状のまま」で提供され、いかなる種類の保証もありません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:286-1
+#, fuzzy
 msgid "OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF"
-msgstr ""
+msgstr "の暗黙の保証を含むがこれに限定されない。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:287-1
+#, fuzzy
 msgid "MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS"
-msgstr ""
+msgstr "特定目的のための商品性および適合性。すべてのリスクは"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:288-1
+#, fuzzy
 msgid "TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE"
-msgstr ""
+msgstr "プログラムの品質とパフォーマンスには、あなたが関わっています。SHOULD THE"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:289-1
+#, fuzzy
 msgid "PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING,"
-msgstr ""
+msgstr "欠陥がある場合は、必要な修理費用を負担していただきます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:290-1
+#, fuzzy
 msgid "REPAIR OR CORRECTION."
-msgstr ""
+msgstr "補修・修正"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:292-1
+#, fuzzy
 msgid "12. IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING"
-msgstr ""
+msgstr "12.適用される法律で要求されるか、または書面で合意しない限り、いかなる場合も"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:293-1
+#, fuzzy
 msgid "WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR"
-msgstr ""
+msgstr "は、著作権者や、修正や変更を行う可能性のある他の当事者には、影響を与えません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:294-1
+#, fuzzy
 msgid "REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES,"
-msgstr ""
+msgstr "上記で許可されたとおりにプログラムを再配布すると、お客様に損害を与える可能性があります。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:295-1
+#, fuzzy
 msgid "INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING"
-msgstr ""
+msgstr "一般的、特殊的、偶発的または結果的に生じる損害を含む。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:296-1
+#, fuzzy
 msgid "OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED"
-msgstr ""
+msgstr "プログラムの使用または使用できないことに起因する（以下を含むがこれに限定されない）。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:297-1
+#, fuzzy
 msgid "TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY"
-msgstr ""
+msgstr "データの損失、データが不正確になること、または損失を被ることで"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:298-1
+#, fuzzy
 msgid "YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER"
-msgstr ""
+msgstr "あなたや第三者、またはプログラムが他のいかなる"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:299-1
+#, fuzzy
 msgid "PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE"
-msgstr ""
+msgstr "プログラム）について助言を受けていたとしても、そのような保有者または他の当事者が"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:300-1
+#, fuzzy
 msgid "POSSIBILITY OF SUCH DAMAGES."
-msgstr ""
+msgstr "そのような損害の可能性があります。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:302-1
+#, fuzzy
 msgid "END OF TERMS AND CONDITIONS"
-msgstr ""
+msgstr "規約の終了"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:304-1
+#, fuzzy
 msgid "Appendix: How to Apply These Terms to Your New Programs"
-msgstr ""
+msgstr "付録これらの用語を新しいプログラムに適用する方法"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:306-1
+#, fuzzy
 msgid "If you develop a new program, and you want it to be of the greatest"
-msgstr ""
+msgstr "もしあなたが新しいプログラムを開発し、それを最高のものにしたいとしたら"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:307-1
+#, fuzzy
 msgid "possible use to the public, the best way to achieve this is to make it"
-msgstr ""
+msgstr "可能な限り公共の場で使用できるようにすることが、そのための最良の方法です。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:308-1
+#, fuzzy
 msgid "free software which everyone can redistribute and change under these terms."
-msgstr ""
+msgstr "このような条件のもと、誰もが再配布や変更を行うことができるフリーソフトウェアです。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:310-1
+#, fuzzy
 msgid "To do so, attach the following notices to the program. It is safest"
-msgstr ""
+msgstr "そのためには、次のような注意事項をプログラムに添付してください。それは最も安全な"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:311-1
+#, fuzzy
 msgid "to attach them to the start of each source file to most effectively"
-msgstr ""
+msgstr "各ソースファイルの先頭に添付すると、最も効果的です。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:312-1
+#, fuzzy
 msgid "convey the exclusion of warranty; and each file should have at least"
-msgstr ""
+msgstr "また、各ファイルには最低でも"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:313-1
+#, fuzzy
 msgid "the \"copyright\" line and a pointer to where the full notice is found."
-msgstr ""
+msgstr "のように、\"copyright \"の行と、完全な通知がある場所へのポインタを表示します。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:315-1
+#, fuzzy
 msgid "&lt;one line to give the program's name and a brief idea of what it does.&gt;"
-msgstr ""
+msgstr "&lt;プログラムの名前と、それが何をするのかという簡単なアイデアを示す1行&gt;。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:316-1
+#, fuzzy
 msgid "Copyright (C) 19yy &lt;name of author&gt;"
-msgstr ""
+msgstr "Copyright (C) 19yy &lt;著者名&gt; All Rights Reserved."
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:318-1
+#, fuzzy
 msgid "This program is free software; you can redistribute it and/or modify"
-msgstr ""
+msgstr "このプログラムはフリーソフトですので、再配布や変更が可能です。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:319-1
+#, fuzzy
 msgid "it under the terms of the GNU General Public License as published by"
-msgstr ""
+msgstr "によって発行されたGNU General Public Licenseの条項に基づいています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:320-1
+#, fuzzy
 msgid "the Free Software Foundation; either version 2 of the License, or"
-msgstr ""
+msgstr "Free Software Foundation；ライセンスのバージョン2、または"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:321-1
+#, fuzzy
 msgid "(at your option) any later version."
-msgstr ""
+msgstr "(お客様の選択により)それ以降のバージョンもあります。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:323-1
+#, fuzzy
 msgid "This program is distributed in the hope that it will be useful,"
-msgstr ""
+msgstr "このプログラムは、役に立つことを期待して配布しています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:324-1
+#, fuzzy
 msgid "but WITHOUT ANY WARRANTY; without even the implied warranty of"
-msgstr ""
+msgstr "しかし、いかなる保証もなく、暗黙の保証もない。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:325-1
+#, fuzzy
 msgid "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the"
-msgstr ""
+msgstr "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE（商品性または特定目的への適合性）。をご覧ください。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:326-1
+#, fuzzy
 msgid "GNU General Public License for more details."
-msgstr ""
+msgstr "詳細はGNU General Public Licenseを参照してください。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:328-1
+#, fuzzy
 msgid "You should have received a copy of the GNU General Public License"
-msgstr ""
+msgstr "GNU General Public Licenseのコピーを受け取っているはずです。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:329-1
+#, fuzzy
 msgid "along with this program; if not, write to the Free Software"
-msgstr ""
+msgstr "このプログラムと一緒に、もしそうでなければ、Free Software"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:330-1
+#, fuzzy
 msgid "Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA"
-msgstr ""
+msgstr "Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:332-1
+#, fuzzy
 msgid "Also add information on how to contact you by electronic and paper mail."
-msgstr ""
+msgstr "また、電子メールや紙のメールでの連絡方法についての情報も追加します。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:334-1
+#, fuzzy
 msgid "If the program is interactive, make it output a short notice like this"
-msgstr ""
+msgstr "インタラクティブなプログラムの場合は、次のように短い告知を出力させます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:335-1
+#, fuzzy
 msgid "when it starts in an interactive mode:"
-msgstr ""
+msgstr "インタラクティブモードで起動した場合"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:337-1
+#, fuzzy
 msgid "Gnomovision version 69, Copyright (C) 19yy name of author"
-msgstr ""
+msgstr "Gnomovision version 69, Copyright (C) 19yy name of author"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:338-1
+#, fuzzy
 msgid "Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'."
-msgstr ""
+msgstr "Gnomovisionは無保証です。詳細は「show w」と入力してください。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:339-1
+#, fuzzy
 msgid "This is free software, and you are welcome to redistribute it"
-msgstr ""
+msgstr "これはフリーソフトウェアであり、再配布が可能です。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:340-1
+#, fuzzy
 msgid "under certain conditions; type `show c' for details."
-msgstr ""
+msgstr "特定の条件下では、詳細は `show c' と入力してください。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:342-1
+#, fuzzy
 msgid "The hypothetical commands `show w' and `show c' should show the appropriate"
-msgstr ""
+msgstr "仮想的なコマンドである「show w」と「show c」では、適切な"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:343-1
+#, fuzzy
 msgid "parts of the General Public License. Of course, the commands you use may"
-msgstr ""
+msgstr "の部分は、General Public Licenseに基づいています。もちろん、あなたが使用するコマンドは"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:344-1
+#, fuzzy
 msgid "be called something other than `show w' and `show c'; they could even be"
-msgstr ""
+msgstr "は、「show w」や「show c」以外の名前で呼ばれることもあります。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:345-1
+#, fuzzy
 msgid "mouse-clicks or menu items--whatever suits your program."
-msgstr ""
+msgstr "マウス・クリックやメニュー・アイテムなど、プログラムに合わせて自由に設定できます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:347-1
+#, fuzzy
 msgid "You should also get your employer (if you work as a programmer) or your"
-msgstr ""
+msgstr "また、あなたの雇用主（プログラマーとして働いている場合）やあなたの"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:348-1
+#, fuzzy
 msgid "school, if any, to sign a \"copyright disclaimer\" for the program, if"
-msgstr ""
+msgstr "学校がある場合は、番組の「著作権免責事項」に署名していただくことになります。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:349-1
+#, fuzzy
 msgid "necessary. Here is a sample; alter the names:"
-msgstr ""
+msgstr "が必要です。以下はサンプルで、名前を変えています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:351-1
+#, fuzzy
 msgid "Yoyodyne, Inc., hereby disclaims all copyright interest in the program"
-msgstr ""
+msgstr "Yoyodyne, Inc.は、ここにプログラムのすべての著作権利益を放棄します。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:352-1
+#, fuzzy
 msgid "`Gnomovision' (which makes passes at compilers) written by James Hacker."
-msgstr ""
+msgstr "James Hackerが書いた`Gnomovision'(コンパイラを作る)。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:354-1
+#, fuzzy
 msgid "&lt;signature of Ty Coon&gt;, 1 April 1989"
-msgstr ""
+msgstr "&lt;タイ・クーンのサイン&gt;、1989年4月1日"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:355-1
+#, fuzzy
 msgid "Ty Coon, President of Vice"
-msgstr ""
+msgstr "タイ・クーン、副社長"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:357-1
+#, fuzzy
 msgid "This General Public License does not permit incorporating your program into"
-msgstr ""
+msgstr "このGeneral Public Licenseでは、あなたのプログラムを"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:358-1
+#, fuzzy
 msgid "proprietary programs. If your program is a subroutine library, you may"
-msgstr ""
+msgstr "プロプライエタリなプログラムプログラムがサブルーチン・ライブラリの場合は"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:359-1
+#, fuzzy
 msgid "consider it more useful to permit linking proprietary applications with the"
-msgstr ""
+msgstr "とのリンクを許可することがより有用であると考えています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:360-1
+#, fuzzy
 msgid "library. If this is what you want to do, use the GNU Library General"
-msgstr ""
+msgstr "ライブラリを使っています。このような場合は、GNU Library General"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:361-1
+#, fuzzy
 msgid "Public License instead of this License."
-msgstr ""
+msgstr "このライセンスの代わりに、Public Licenseを使用します。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.center.table.tr.td.p:367-23
+#, fuzzy
 msgid "Copyright © 2007-2010 <a href=\"https://www.aconex.com/\"><font color=\"#000060\">Aconex</font></a><br>Copyright © 2000-2004 <a href=\"https://www.sgi.com/\"><font color=\"#000060\">Silicon Graphics Inc</font></a>"
-msgstr ""
+msgstr "著作権 © 2007-2010 <a href=\"https://www.aconex.com/\"><font color=\"#000060\">アコニックス</font></a><br>Copyright © 2000-2004<a href=\"https://www.sgi.com/\"><font color=\"#000060\">Silicon Graphics Inc</font></a></br>."
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.center.table.tr.td.p:368-18
+#, fuzzy
 msgid "<a href=\"https://pcp.io/\"><font color=\"#000060\">PCP Site</font></a><br>Copyright © 2012-2018 <a href=\"https://www.redhat.com/\"><font color=\"#000060\">Red Hat</font></a>"
-msgstr ""
+msgstr "<a href=\"https://pcp.io/\"><font color=\"#000060\">PCPサイト</font></a><br>著作権 © 2012-2018<a href=\"https://www.redhat.com/\"><font color=\"#000060\">Red Hat</font></a></br>"
