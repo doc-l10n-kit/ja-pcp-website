@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-23 13:18+0000\n"
+"POT-Creation-Date: 2021-03-23 14:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,41 +13,33 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml[lang]:2-1
-#, fuzzy
 msgid "en"
-msgstr "エン"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.head.title:7-3
-#, fuzzy
 msgid "reveal.js - Markdown Demo"
-msgstr "reveal.js - Markdownデモ"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.body.div.div.section:25-17
-#, fuzzy
 msgid "## Demo 1 Slide 1 --- ## Demo 1 Slide 2 --- ## Demo 1 Slide 3"
-msgstr "## デモ1スライド1 --- ## デモ1スライド2 --- ## デモ1スライド3"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.body.div.div.section:39-17
-#, fuzzy
 msgid "## Demo 2 Slide 1.1 -- ## Demo 2 Slide 1.2 --- ## Demo 2 Slide 2"
-msgstr "## Demo 2 Slide 1.1 -- ## Demo 2 Slide 1.2 --- ## Demo 2 Slide 2"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.body.div.div.section:57-17
-#, fuzzy
 msgid "A --- B --- C"
-msgstr "A --- B --- C"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.body.div.div.section:72-17
-#, fuzzy
 msgid "<!-- .slide: data-background=\"#000000\" --> ## Slide attributes"
-msgstr "<!-- .slide: data-background=\"#000000\" --> ## スライドの属性"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.body.div.div.section:80-17
-#, fuzzy
 msgid "## Element attributes - Item 1 <!-- .element: class=\"fragment\" data-fragment-index=\"2\" --> - Item 2 <!-- .element: class=\"fragment\" data-fragment-index=\"1\" -->"
-msgstr "## 要素の属性 - 項目1<!-- .element: class=\"fragment\" data-fragment-index=\"2\" --> - 項目2<!-- .element: class=\"fragment\" data-fragment-index=\"1\" -->"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml.body.div.div.section:89-17
-#, fuzzy
 msgid "```php public function foo() { $foo = array( 'bar' => 'bar' ) } ```"
-msgstr "``php public function foo() { $foo = array( 'bar' =&gt; 'bar' ) }.```"
+msgstr ""
