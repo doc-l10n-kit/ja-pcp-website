@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-23 22:06+0000\n"
+"POT-Creation-Date: 2021-03-23 23:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,214 +13,173 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.head.title:7-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/contact.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr "パフォーマンス・コパイロット"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.header.div.h1:16-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/contact.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr "パフォーマンス・コパイロット"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.header.div.nav.ul.li:21-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/contact.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.header.div.nav.ul.li:24-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/contact.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr "ドキュメント"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.header.div.nav.ul.li:27-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/contact.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.header.div.nav.ul.li:30-1
-#, fuzzy
 msgid "Get Involved"
-msgstr "参加する"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.h1:42-1
-#, fuzzy
 msgid "pcp.conf 2018"
-msgstr "pcp.conf 2018"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.div:43-1
-#, fuzzy
 msgid "Home"
-msgstr "ホーム"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.div:46-1
-#, fuzzy
 msgid "Photos"
-msgstr "写真"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.div:49-1
-#, fuzzy
 msgid "Schedule"
-msgstr "スケジュール"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.div:52-1
-#, fuzzy
 msgid "Contact"
-msgstr "連絡先"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.div:55-1
-#, fuzzy
 msgid "Registration"
-msgstr "登録"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.div.section.div.div.h3:68-1
-#, fuzzy
 msgid "Contacts"
-msgstr "連絡先"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.div.section.div.div.p:69-1
-#, fuzzy
 msgid "<a href=\"mailto:pcp-conf@groups.io\">Organising Committee</a> <br> pcp-conf@groups.io"
-msgstr "<a href=\"mailto:pcp-conf@groups.io\">組織委員会</a> <br>pcp-conf@groups.io</br> "
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.div.section.div.div.p:74-1
-#, fuzzy
 msgid "<a href=\"mailto:nathans@redhat.com\">Nathan Scott</a> <br> nathans@redhat.com"
-msgstr "<a href=\"mailto:nathans@redhat.com\">Nathan Scott</a> <br>nathans@redhat.com</br> "
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.div.section.div.div.p:79-1
-#, fuzzy
 msgid "Tokyo Bay Washington Hotel"
-msgstr "東京ベイワシントンホテル"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.div.section.div.div.p:82-1
-#, fuzzy
 msgid "<a href=\"https://events.linuxfoundation.org/contact-us/\">Linux Foundation</a> <br> events@linuxfoundation.org"
-msgstr "<a href=\"https://events.linuxfoundation.org/contact-us/\">Linux Foundation</a> <br>events@linuxfoundation.org</br> "
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.div.section.div.div.p:91-1
-#, fuzzy
 msgid "Thank you for your interest in the Performance Co-Pilot conference!"
-msgstr "Performance Co-Pilotカンファレンスにご興味をお持ちいただき、ありがとうございます。"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.div.section.div.div.p:94-1
-#, fuzzy
 msgid "If you would like to join our group of presenters, we would love to hear from you."
-msgstr "私たちのプレゼンターの仲間入りをしたい方は、ぜひご連絡ください。"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.div.section.div.div.p:98-1
-#, fuzzy
 msgid "You are encouraged to present on new development, production system deployment and anaylsis with PCP, or provide a hands-on tutorial."
-msgstr "PCPを使った新規開発、プロダクションシステムへの展開、分析などの発表や、ハンズオン形式のチュートリアルを行うことができます。"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.div.section.div.div.p:102-1
-#, fuzzy
 msgid "Talks on technologies closely related to PCP, such as <a href=\"http://getvector.io/\">Vector</a> , <a href=\"https://grafana.com\">Grafana</a> and <a href=\"https://redis.io/\">Redis</a> are also entirely appropriate, as are topics related to the PCP organisations involvement in the <a href=\"https://summerofcode.withgoogle.com/\">Google Summer of Code</a> program."
-msgstr "また、<a href=\"http://getvector.io/\">Vector</a>、<a href=\"https://grafana.com\">Grafana</a>、<a href=\"https://redis.io/\">Redis</a>など、PCPと密接に関連する技術に関する講演も適切であり、PCP組織の<a href=\"https://summerofcode.withgoogle.com/\">Google Summer of Code</a>プログラムへの参加に関する話題も適切です。"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.div.section.div.div.p:114-1
-#, fuzzy
 msgid "Slots of 15, 30 and 45 minutes are available and all presenters are guaranteed registration."
-msgstr "15分、30分、45分の枠が用意されており、すべてのプレゼンターに登録が保証されています。"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.div.section.div.div.p:118-1
-#, fuzzy
 msgid "To register your interest in presenting, please send an email to the <a href=\"mailto:pcp-conf@groups.io\">organising committee</a> members to discuss further."
-msgstr "発表を希望される方は、<a href=\"mailto:pcp-conf@groups.io\">実行委員会</a>メンバーにメールでご連絡ください。"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.div.section.div.div.p:124-1
-#, fuzzy
 msgid "This is a highly targetted and deeply technical conference. Advertising or marketing style presentations would be unsuitable."
-msgstr "この会議は、非常にターゲットが絞られた、深い技術的な会議です。広告やマーケティングスタイルのプレゼンテーションは不向きです。"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.h4:141-1
-#, fuzzy
 msgid "Main Menu"
-msgstr "メインメニュー"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:143-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/contact.html+html.body.footer.div.div.section.div.div.ul.li:143-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:146-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/contact.html+html.body.footer.div.div.section.div.div.ul.li:146-1"
 msgid "Documentation"
-msgstr "ドキュメンテーション"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:149-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/contact.html+html.body.footer.div.div.section.div.div.ul.li:149-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.h4:157-1
-#, fuzzy
 msgid "Developers"
-msgstr "開発者"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:159-1
-#, fuzzy
 msgid "Report an issue"
-msgstr "問題を報告する"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:162-1
-#, fuzzy
 msgid "Roadmap"
-msgstr "ロードマップ"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:165-1
-#, fuzzy
 msgid "Contributing"
-msgstr "貢献度"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:168-1
-#, fuzzy
 msgid "Team"
-msgstr "チーム"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.h4:176-1
-#, fuzzy
 msgid "About"
-msgstr "について"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:178-1
-#, fuzzy
 msgid "Testimonials"
-msgstr "お客様の声"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:181-1
-#, fuzzy
 msgid "FAQ"
-msgstr "よくある質問"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:184-1
-#, fuzzy
 msgid "Website"
-msgstr "ウェブサイト"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.h4:192-1
-#, fuzzy
 msgid "Get Social"
-msgstr "Get Social"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:194-1
-#, fuzzy
 msgid "Twitter"
-msgstr "ツイッター"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:197-1
-#, fuzzy
 msgid "Github"
-msgstr "Github"
+msgstr ""
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.footer.div.div.div.p:207-1
-#, fuzzy
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
-msgstr "このウェブサイトの著作権は、2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat に帰属します。"
+msgstr ""
