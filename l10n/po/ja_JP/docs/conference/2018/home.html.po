@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-23 04:06+0000\n"
+"POT-Creation-Date: 2021-03-23 05:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,189 +13,153 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.head.title:7-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/home.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr "パフォーマンス・コパイロット"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.header.div.h1:16-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/home.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr "パフォーマンス・コパイロット"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.header.div.nav.ul.li:21-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/home.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.header.div.nav.ul.li:24-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/home.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr "ドキュメント"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.header.div.nav.ul.li:27-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/home.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.header.div.nav.ul.li:30-1
-#, fuzzy
 msgid "Get Involved"
-msgstr "参加する"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.h1:42-1
-#, fuzzy
 msgid "pcp.conf 2018"
-msgstr "pcp.conf 2018"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div:43-1
-#, fuzzy
 msgid "Home"
-msgstr "ホーム"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div:46-1
-#, fuzzy
 msgid "Photos"
-msgstr "写真"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div:49-1
-#, fuzzy
 msgid "Schedule"
-msgstr "スケジュール"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div:52-1
-#, fuzzy
 msgid "Contact"
-msgstr "連絡先"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div:55-1
-#, fuzzy
 msgid "Registration"
-msgstr "登録"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.h3:68-1
-#, fuzzy
 msgid "Where? When?"
-msgstr "どこで？いつ？"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:69-1
-#, fuzzy
 msgid "<a href=\"http://tokyobay.washington-hotels.jp/location\">Tokyo Bay Ariake Washington Hotel</a> <br> Maple Room"
-msgstr "<a href=\"http://tokyobay.washington-hotels.jp/location\">東京ベイ有明ワシントンホテル</a> <br>メイプルルーム</br> "
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:74-1
-#, fuzzy
 msgid "Friday 22nd June <br> 9am - 5pm"
-msgstr "6月22日（金）<br>9:00～17:</br>00"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:83-1
-#, fuzzy
 msgid "The inaugural Performance Co-Pilot conference is bringing together developers and performance analysts to collaborate and learn about recent and future PCP developments."
-msgstr "第1回Performance Co-Pilotカンファレンスは、開発者とパフォーマンス・アナリストが一堂に会し、最近のPCPの開発状況や今後の展開について意見交換を行います。"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:88-1
-#, fuzzy
 msgid "Co-located with the Linux Foundation <a href=\"http://events.linuxfoundation.org/events/open-source-summit-japan/\">Open Source Summit</a> in Japan, this conference also has a deeply technical focus."
-msgstr "このカンファレンスは、Linux Foundation<a href=\"http://events.linuxfoundation.org/events/open-source-summit-japan/\">Open Source Summit</a>in Japanと同時開催で、技術的にも深い内容となっています。"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:93-1
-#, fuzzy
 msgid "Your attendence is free of charge thanks to our generous <a href=\"https://www.spi-inc.org/projects/pcp/\">sponsors</a> and all attendees must be <a href=\"https://www.eventbrite.com/e/performance-co-pilot-conference-tickets-42620817011\">registered</a>"
-msgstr " <a href=\"https://www.spi-inc.org/projects/pcp/\">協賛</a>企業のご協力により、参加費は無料となっておりますが、参加される方は必ず<a href=\"https://www.eventbrite.com/e/performance-co-pilot-conference-tickets-42620817011\">登録</a>が必要です。"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:99-1
-#, fuzzy
 msgid "All delegates and speakers are required to agree with the Linux Foundation events <a href=\"https://events.linuxfoundation.org/code-of-conduct/\">Code of Conduct .</a>"
-msgstr "すべての代表者および講演者は、Linux Foundation イベントの<a href=\"https://events.linuxfoundation.org/code-of-conduct/\">Code of</a>Conduct に同意する必要があります。"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.h4:117-1
-#, fuzzy
 msgid "Main Menu"
-msgstr "メインメニュー"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:119-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/home.html+html.body.footer.div.div.section.div.div.ul.li:119-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:122-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/home.html+html.body.footer.div.div.section.div.div.ul.li:122-1"
 msgid "Documentation"
-msgstr "ドキュメント"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:125-1
-#, fuzzy
 msgctxt "upstream/docs/conference/2018/home.html+html.body.footer.div.div.section.div.div.ul.li:125-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.h4:133-1
-#, fuzzy
 msgid "Developers"
-msgstr "開発者"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:135-1
-#, fuzzy
 msgid "Report an issue"
-msgstr "問題を報告する"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:138-1
-#, fuzzy
 msgid "Roadmap"
-msgstr "ロードマップ"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:141-1
-#, fuzzy
 msgid "Contributing"
-msgstr "貢献度"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:144-1
-#, fuzzy
 msgid "Team"
-msgstr "チーム"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.h4:152-1
-#, fuzzy
 msgid "About"
-msgstr "について"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:154-1
-#, fuzzy
 msgid "Testimonials"
-msgstr "お客様の声"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:157-1
-#, fuzzy
 msgid "FAQ"
-msgstr "よくある質問"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:160-1
-#, fuzzy
 msgid "Website"
-msgstr "ウェブサイト"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.h4:168-1
-#, fuzzy
 msgid "Get Social"
-msgstr "Get Social"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:170-1
-#, fuzzy
 msgid "Twitter"
-msgstr "ツイッター"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:173-1
-#, fuzzy
 msgid "Github"
-msgstr "Github"
+msgstr ""
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.div.p:183-1
-#, fuzzy
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
-msgstr "このウェブサイトの著作権は、2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat に帰属します。"
+msgstr ""
