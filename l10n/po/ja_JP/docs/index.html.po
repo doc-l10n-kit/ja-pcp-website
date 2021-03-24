@@ -13,38 +13,45 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/index.html%2Bhtml.head.title:7-1
+#, fuzzy
 msgctxt "upstream/docs/index.html+html.head.title:7-1upstream/docs/index.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "パフォーマンス・コパイロット"
 
 #: upstream/docs/index.html%2Bhtml.body.header.div.h1:16-1
+#, fuzzy
 msgctxt "upstream/docs/index.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "パフォーマンス・コパイロット"
 
 #: upstream/docs/index.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
 msgctxt "upstream/docs/index.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/index.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
 msgctxt "upstream/docs/index.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/index.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
 msgctxt "upstream/docs/index.html+html.body.header.div.nav.ul.li:27-1upstream/docs/index.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/index.html%2Bhtml.body.header.div.nav.ul.li:30-1
+#, fuzzy
 msgid "Get Involved"
-msgstr ""
+msgstr "参加する"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.section.div.div.h2:48-1
+#, fuzzy
 msgctxt "upstream/docs/index.html+html.body.div.div.div.div.section.div.div.h2:48-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "パフォーマンス・コパイロット"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.section.div.div.p:49-1
 msgid "Performance Co-Pilot is a system performance analysis toolkit."
@@ -91,153 +98,190 @@ msgid "PCP offers a multitude of APIs and libraries to extract and make use of p
 msgstr "PCPは、独自のアプリケーションからパフォーマンスメトリクスを抽出して利用するための多数のAPIとライブラリを提供しています。"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.h1:118-1
+#, fuzzy
 msgid "Use Performance Co-Pilot Now"
-msgstr ""
+msgstr "今すぐPerformance Co-Pilotを使う"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div:119-1
+#, fuzzy
 msgid "Quickstart"
-msgstr ""
+msgstr "クイックスタート"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div:122-1
+#, fuzzy
 msgctxt "upstream/docs/index.html+html.body.div.div.div.div:122-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div:125-1
+#, fuzzy
 msgid "Who's Using It?"
-msgstr ""
+msgstr "誰が使っているの？"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div:128-1
+#, fuzzy
 msgid "Learn More"
-msgstr ""
+msgstr "さらに詳しく"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.h1:137-1
+#, fuzzy
 msgid "News"
-msgstr ""
+msgstr "ニュース"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
+#, fuzzy
 msgid "Feb 2021 <br> PCP 5.2.5"
-msgstr ""
+msgstr "2021年2月<br>PCP 5.2.5</br> "
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:152-1
+#, fuzzy
 msgid "New Linux ZFS, High Availability (Pacemaker) and detailed sockets metrics. <a href=\"https://man7.org/linux/man-pages/man1/pmproxy.1.html\">pmproxy</a> memory management improvements."
-msgstr ""
+msgstr "新しいLinux ZFS、高可用性（Pacemaker）、および詳細なソケットメトリクス。<a href=\"https://man7.org/linux/man-pages/man1/pmproxy.1.html\">pmproxy</a>のメモリ管理の改善。"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:166-1
+#, fuzzy
 msgid "Dec 2020 <br> PCP 5.2.3"
-msgstr ""
+msgstr "2020年12月<br>PCP 5.2.3</br> "
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:175-1
+#, fuzzy
 msgid "Performance improvements and process network statistics support in the <a href=\"https://man7.org/linux/man-pages/man1/pcp-atop.1.html\">pcp-atop</a> command. Experimental <a href=\"https://man7.org/linux/man-pages/man1/pcp-htop.1.html\">pcp-htop</a> command added. Improvements to the <a href=\"https://man7.org/linux/man-pages/man1/pmproxy.1.html\">pmproxy</a> REST API for fast, scalable <a href=\"https://man7.org/linux/man-pages/man1/pmseries.1.html\">pmseries</a> querying."
-msgstr ""
+msgstr " <a href=\"https://man7.org/linux/man-pages/man1/pcp-atop.1.html\">pcp-atop</a>コマンドの性能向上とプロセスネットワーク統計のサポート。実験的な<a href=\"https://man7.org/linux/man-pages/man1/pcp-htop.1.html\">pcp-htop</a>コマンドを追加しました。<a href=\"https://man7.org/linux/man-pages/man1/pmproxy.1.html\">pmproxy</a>REST APIが改良され、<a href=\"https://man7.org/linux/man-pages/man1/pmseries.1.html\">pmseries</a>のクエリを高速かつスケーラブルに実行できるようになりました。"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:197-1
+#, fuzzy
 msgid "Nov 2020 <br> PCP 5.2.2"
-msgstr ""
+msgstr "2020年11月<br>PCP 5.2.2</br> "
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:206-1
+#, fuzzy
 msgid "Minor bug fix release - especially in <a href=\"https://man7.org/linux/man-pages/man1/pmproxy.1.html\">pmproxy</a> REST API, KVM, XFS and other Linux kernel metrics. Support for hv_gpci and hv_24x7 core-level events in the <a href=\"https://man7.org/linux/man-pages/man1/pmdaperfevent.1.html\">perfevent</a> agent. New online version of the PCP Guides at <a href=\"https://pcp.readthedocs.io\">readthedocs</a>"
-msgstr ""
+msgstr "マイナーバグフィックスリリース - 特に<a href=\"https://man7.org/linux/man-pages/man1/pmproxy.1.html\">pmproxy</a>REST API、KVM、XFS、その他の Linux カーネルメトリクスにおいて。<a href=\"https://man7.org/linux/man-pages/man1/pmdaperfevent.1.html\">perfevent</a>agent で hv_gpci および hv_24x7 のコアレベルイベントをサポートしました。PCP ガイドの新しいオンライン版が<a href=\"https://pcp.readthedocs.io\">readthedocs</a>に追加されました。"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:224-1
+#, fuzzy
 msgid "Sep 2020 <br> PCP 5.2.1"
-msgstr ""
+msgstr "2020年9月<br>PCP 5.2.1</br> "
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:233-1
+#, fuzzy
 msgid "Minor bug fix release. Per-context derived metrics support, new REST APIs. Support Windows authentication mode in the <a href=\"https://man7.org/linux/man-pages/man1/pmdamssql.1.html\">SQL Server</a> agent. Improved metric labels handling in the <a href=\"https://man7.org/linux/man-pages/man1/pmdaopenmetrics.1.html\">OpenMetrics</a> agent, <a href=\"https://man7.org/linux/man-pages/man1/pcp2elasticsearch.1.html\">pcp2elasticsearch</a> and <a href=\"https://man7.org/linux/man-pages/man1/pcp2spark.1.html\">pcp2spark</a> utilities."
-msgstr ""
+msgstr "マイナーバグフィックスリリース。コンテキストごとの派生メトリクスのサポート、新しい REST API。<a href=\"https://man7.org/linux/man-pages/man1/pmdamssql.1.html\">SQL Server</a>エージェントでWindows認証モードをサポートしました。<a href=\"https://man7.org/linux/man-pages/man1/pmdaopenmetrics.1.html\">OpenMetrics</a>エージェント、<a href=\"https://man7.org/linux/man-pages/man1/pcp2elasticsearch.1.html\">pcp2elasticsearch</a>、<a href=\"https://man7.org/linux/man-pages/man1/pcp2spark.1.html\">pcp2spark</a>ユーティリティでのメトリックラベルの処理を改善しました。"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:255-1
+#, fuzzy
 msgid "Aug 2020 <br> PCP 5.2.0"
-msgstr ""
+msgstr "2020年8月<br>PCP 5.2.0</br> "
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:264-1
+#, fuzzy
 msgid "New tools - <a href=\"https://man7.org/linux/man-pages/man1/pmiectl.1.html\">pmiectl</a> , <a href=\"https://man7.org/linux/man-pages/man1/pmlogctl.1.html\">pmlogctl</a> , <a href=\"https://man7.org/linux/man-pages/man1/pmlogpaste.1.html\">pmlogpaste</a> and <a href=\"https://man7.org/linux/man-pages/man1/pmsearch.1.html\">pmsearch .</a> New metrics for process accounting, ZRAM, multi-path TCP and S.M.A.R.T data. Numerous bug fixes and retired <a href=\"https://man7.org/linux/man-pages/man1/pcpcompat.1.html\">pmmgr</a> in favour of the <a href=\"https://man7.org/linux/man-pages/man1/pmfind_check.1.html\">pmfind</a> service."
-msgstr ""
+msgstr "新しいツール -<a href=\"https://man7.org/linux/man-pages/man1/pmiectl.1.html\">pmiectl</a>,<a href=\"https://man7.org/linux/man-pages/man1/pmlogctl.1.html\">pmlogctl</a>,<a href=\"https://man7.org/linux/man-pages/man1/pmlogpaste.1.html\">pmlogpaste</a>,<a href=\"https://man7.org/linux/man-pages/man1/pmsearch.1.html\">pmsearch 。</a>プロセスアカウンティング、ZRAM、マルチパス TCP および S.M.A.R.T データのための新しいメトリクス。数多くのバグフィックスを行い、<a href=\"https://man7.org/linux/man-pages/man1/pcpcompat.1.html\">pmmgr</a>を引退させて<a href=\"https://man7.org/linux/man-pages/man1/pmfind_check.1.html\">pmfind</a>サービスを導入しました。"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:288-1
+#, fuzzy
 msgid "May 2020 <br> PCP 5.1.1"
-msgstr ""
+msgstr "2020年5月<br>PCP 5.1.1</br> "
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:297-1
+#, fuzzy
 msgid "Fixes and optimizations in systemd service management, and a new <a href=\"https://man7.org/linux/man-pages/man1/pmfind.1.html\">pmfind</a> discovery timer service replacing the <a href=\"https://man7.org/linux/man-pages/man1/pcpcompat.1.html\">pmmgr</a> standalone daemon. Metric labels support in <a href=\"https://man7.org/linux/man-pages/man1/pmrep.1.html\">pmrep</a> and related tools, <a href=\"https://man7.org/linux/man-pages/man1/pmcd.1.html\">pmcd</a> support for optional labels. New metric collectors for <a href=\"https://man7.org/linux/man-pages/man1/pmdaopenvswitch.1.html\">Open vSwitch</a> and <a href=\"https://man7.org/linux/man-pages/man1/pmdarabbitmq.1.html\">RabbitMQ</a> servers."
-msgstr ""
+msgstr "systemd サービスマネジメントの修正と最適化、そして<a href=\"https://man7.org/linux/man-pages/man1/pcpcompat.1.html\">pmmgr</a>スタンドアロンデーモンに代わる新しい<a href=\"https://man7.org/linux/man-pages/man1/pmfind.1.html\">pmfind</a>ディスカバリータイマーサービス。<a href=\"https://man7.org/linux/man-pages/man1/pmrep.1.html\">pmrep</a>と関連ツールにおけるメトリックラベルのサポート、オプションのラベルに対する<a href=\"https://man7.org/linux/man-pages/man1/pmcd.1.html\">pmcd の</a>サポート。<a href=\"https://man7.org/linux/man-pages/man1/pmdaopenvswitch.1.html\">Open vSwitch</a>および<a href=\"https://man7.org/linux/man-pages/man1/pmdarabbitmq.1.html\">RabbitMQ</a>サーバ用の新しいメトリックコレクター。"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:322-1
+#, fuzzy
 msgid "Apr 2020 <br> PCP 5.1.0"
-msgstr ""
+msgstr "2020年4月<br>PCP 5.1.0</br> "
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:331-1
+#, fuzzy
 msgid "Bug-fix release - improved systemd service units and archive logging enhancements. Bug fixes and improvements in <a href=\"https://man7.org/linux/man-pages/man1/pmproxy.1.html\">pmproxy</a> and several metric agents. Monitor tool improvements and fixes in <a href=\"https://man7.org/linux/man-pages/man1/pcp-atop.1.html\">pcp-atop</a> and <a href=\"https://man7.org/linux/man-pages/man1/pcp-pmrep.1.html\">pmrep .</a> Continuous Integration impovements. New <a href=\"https://man7.org/linux/man-pages/man1/pmdarabbitmq.1.html\">RabbitMQ</a> metrics."
-msgstr ""
+msgstr "バグフィックスリリース - systemd サービスユニットの改善とアーカイブロギングの強化。<a href=\"https://man7.org/linux/man-pages/man1/pmproxy.1.html\">pmproxy</a>といくつかのメトリックエージェントのバグ修正と改善。<a href=\"https://man7.org/linux/man-pages/man1/pcp-atop.1.html\">pcp-atop</a>と<a href=\"https://man7.org/linux/man-pages/man1/pcp-pmrep.1.html\">pmrep</a>のモニターツールの改良と修正。継続的インテグレーションの改善。新しい<a href=\"https://man7.org/linux/man-pages/man1/pmdarabbitmq.1.html\">RabbitMQ</a>メトリクス。"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:359-1
+#, fuzzy
 msgid "Main Menu"
-msgstr ""
+msgstr "メインメニュー"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:361-1
+#, fuzzy
 msgctxt "upstream/docs/index.html+html.body.footer.div.div.section.div.div.ul.li:361-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:364-1
+#, fuzzy
 msgctxt "upstream/docs/index.html+html.body.footer.div.div.section.div.div.ul.li:364-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:367-1
+#, fuzzy
 msgctxt "upstream/docs/index.html+html.body.footer.div.div.section.div.div.ul.li:367-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:375-1
+#, fuzzy
 msgid "Developers"
-msgstr ""
+msgstr "開発者"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:377-1
+#, fuzzy
 msgid "Report an issue"
-msgstr ""
+msgstr "問題を報告する"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:380-1
+#, fuzzy
 msgid "Roadmap"
-msgstr ""
+msgstr "ロードマップ"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:383-1
+#, fuzzy
 msgid "Contributing"
-msgstr ""
+msgstr "貢献度"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:386-1
+#, fuzzy
 msgid "Team"
-msgstr ""
+msgstr "チーム"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:394-1
+#, fuzzy
 msgid "About"
-msgstr ""
+msgstr "について"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:396-1
+#, fuzzy
 msgid "Testimonials"
-msgstr ""
+msgstr "お客様の声"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:399-1
+#, fuzzy
 msgid "FAQ"
-msgstr ""
+msgstr "よくある質問"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:402-1
+#, fuzzy
 msgid "Website"
-msgstr ""
+msgstr "ウェブサイト"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:410-1
+#, fuzzy
 msgid "Get Social"
-msgstr ""
+msgstr "Get Social"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:412-1
+#, fuzzy
 msgid "Twitter"
-msgstr ""
+msgstr "ツイッター"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:415-1
+#, fuzzy
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.div.p:425-1
+#, fuzzy
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
-msgstr ""
+msgstr "このウェブサイトの著作権は、2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat に帰属します。"
