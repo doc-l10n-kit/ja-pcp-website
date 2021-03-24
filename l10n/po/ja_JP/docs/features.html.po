@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-24 04:15+0000\n"
+"POT-Creation-Date: 2021-03-24 05:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,207 +13,170 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/features.html%2Bhtml.head.title:7-1
-#, fuzzy
 msgctxt "upstream/docs/features.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr "パフォーマンス・コパイロット"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.header.div.h1:16-1
-#, fuzzy
 msgctxt "upstream/docs/features.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr "パフォーマンス・コパイロット"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.header.div.nav.ul.li:21-1
-#, fuzzy
 msgctxt "upstream/docs/features.html+html.body.header.div.nav.ul.li:21-1upstream/docs/features.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.header.div.nav.ul.li:24-1
-#, fuzzy
 msgctxt "upstream/docs/features.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr "ドキュメント"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.header.div.nav.ul.li:27-1
-#, fuzzy
 msgctxt "upstream/docs/features.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.header.div.nav.ul.li:30-1
-#, fuzzy
 msgid "Get Involved"
-msgstr "参加する"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.h2:45-1
-#, fuzzy
 msgctxt "upstream/docs/features.html+html.body.div.div.div.div.section.div.div.h2:45-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.h2:53-1
 msgid "Collect"
-msgstr "収集"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:64-1
-#, fuzzy
 msgid "<strong>Kernel agents</strong> for each supported platform. The Linux agent exports a broad range of performance data from kernels since 2.0.36 or later. This includes coverage of activity in the areas of: CPU, disk, memory, swapping, network, NFS, RPC, filesystems, and per-process statistics."
-msgstr "サポートされている各プラットフォーム用の<strong>カーネルエージェント</strong>です。Linuxエージェントは、2.0.36以降のカーネルから広範なパフォーマンスデータをエクスポートします。これには、以下の分野の活動が含まれます。CPU、ディスク、メモリ、スワッピング、ネットワーク、NFS、RPC、ファイルシステム、プロセスごとの統計などです。"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:72-1
-#, fuzzy
 msgid "<strong>Other agents</strong> export performance data from: Databases, Log files, Web servers, Mail systems, Cisco routers, Search engines, Cluster infrastructure, Application instrumentation (including the JVM) and the PCP infrastructure itself."
-msgstr "<strong>その他のエージェント</strong>は、データベース、ログファイル、ウェブサーバー、メールシステム、シスコルータ、検索エンジン、クラスタインフラ、アプリケーションインスツルメンテーション（JVMを含む）、PCPインフラ自体からパフォーマンスデータをエクスポートします。"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:80-1
-#, fuzzy
 msgid "Assorted simple <strong>monitoring tools</strong> that use the PCP APIs to retrieve and display either arbitrary performance metrics, or specific groups of metrics (as in pmstat, a cluster-aware vmstat lookalike)."
-msgstr "PCP APIを使用して、任意のパフォーマンス指標や特定の指標のグループを取得して表示する様々なシンプルな<strong>監視ツール</strong>（クラスタ対応のvmstatの類似品であるpmstatのように）。"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.h2:95-1
 msgid "Analyze"
-msgstr "分析"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:106-1
-#, fuzzy
 msgid "A single <strong>API</strong> for accessing the performance data that hides details of where the data comes from and how it was captured and imported into the PCP framework."
-msgstr "パフォーマンスデータにアクセスするための単一の<strong>API</strong>は、データがどこから来たのか、どのように取得され、PCPフレームワークに取り込まれたのかという詳細を隠します。"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:113-1
-#, fuzzy
 msgid "Integrated archive logging and replay so a client application can use the same API to process real-time data from a host or historical data from an archive."
-msgstr "アーカイブのロギングとリプレイが統合されているため、クライアントアプリケーションは同じAPIを使ってホストからのリアルタイムデータやアーカイブからの履歴データを処理することができます。"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:118-1
-#, fuzzy
 msgid "The framework supports APIs and configuration file formats that enable the scope of performance monitoring to be extended at all levels."
-msgstr "このフレームワークは、パフォーマンスモニタリングの範囲をすべてのレベルで拡張できるようなAPIや設定ファイルフォーマットをサポートしています。"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:123-1
-#, fuzzy
 msgid "The PCP inference engine supports automated monitoring through a rule-based language and interpreter that performs user-defined actions when rule predicates are found to be true."
-msgstr "PCPの推論エンジンは、ルールベースの言語とインタープリターによって自動監視をサポートし、ルールの述語が真であることが判明したときにユーザーが定義したアクションを実行します。"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:129-1
-#, fuzzy
 msgid "Access the graph data through a web interface or a GUI"
-msgstr "WebインターフェースやGUIでグラフデータにアクセスできる"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.h2:140-1
-#, fuzzy
 msgid "Distributed"
-msgstr "ディストリビューション"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:151-1
-#, fuzzy
 msgid "A client-server architecture allows multiple clients to monitor the same host, and a single client to monitor multiple hosts (e.g. in a cluster). This enables centralized monitoring of distributed processing."
-msgstr "クライアント・サーバー・アーキテクチャでは、複数のクライアントが同じホストを監視したり、1つのクライアントが複数のホスト（クラスターなど）を監視することができます。これにより、分散した処理を集中的に監視することができます。"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:157-1
-#, fuzzy
 msgid "An endian-safe transport layer for moving performance metrics between the collector and the monitoring applications over TCP/IP. This means a desktop with PCP can monitor remote server systems with different architectures and operating systems."
-msgstr "TCP/IPを介してコレクターと監視アプリケーションの間でパフォーマンスメトリクスを移動させるためのエンディアンセーフなトランスポートレイヤーです。これは、PCPを搭載したデスクトップが、異なるアーキテクチャやOSを持つリモートサーバーシステムを監視できることを意味します。"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.h2:171-1
 msgid "Extend"
-msgstr "拡張"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:182-1
-#, fuzzy
 msgid "A \"plugin\" framework (libraries, APIs, agents and daemon) to collect performance data from multiple sources on a single host, e.g. from the hardware, the kernel, the service layers, the application libraries, and the applications themselves."
-msgstr "1つのホスト上で複数のソースからパフォーマンスデータを収集するための「プラグイン」フレームワーク（ライブラリ、API、エージェント、デーモン）で、ハードウェア、カーネル、サービスレイヤー、アプリケーションライブラリ、アプリケーション自体などから収集します。"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:189-1
-#, fuzzy
 msgid "Libraries and sample implementations encourage the development of new \"plugins\" (or agents) to capture and export the performance data that matters in your application environment, along side the other generic performance data."
-msgstr "ライブラリとサンプル実装は、アプリケーション環境で重要となるパフォーマンスデータを、他の一般的なパフォーマンスデータと一緒にキャプチャしてエクスポートするための新しい「プラグイン」（またはエージェント）の開発を促します。"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.h4:209-1
-#, fuzzy
 msgid "Main Menu"
-msgstr "メインメニュー"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:211-1
-#, fuzzy
 msgctxt "upstream/docs/features.html+html.body.footer.div.div.section.div.div.ul.li:211-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:214-1
-#, fuzzy
 msgctxt "upstream/docs/features.html+html.body.footer.div.div.section.div.div.ul.li:214-1"
 msgid "Documentation"
-msgstr "ドキュメント"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:217-1
-#, fuzzy
 msgctxt "upstream/docs/features.html+html.body.footer.div.div.section.div.div.ul.li:217-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.h4:225-1
-#, fuzzy
 msgid "Developers"
-msgstr "開発者"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:227-1
-#, fuzzy
 msgid "Report an issue"
-msgstr "問題を報告する"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:230-1
-#, fuzzy
 msgid "Roadmap"
-msgstr "ロードマップ"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:233-1
-#, fuzzy
 msgid "Contributing"
-msgstr "貢献度"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:236-1
-#, fuzzy
 msgid "Team"
-msgstr "チーム"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.h4:244-1
-#, fuzzy
 msgid "About"
-msgstr "について"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:246-1
-#, fuzzy
 msgid "Testimonials"
-msgstr "お客様の声"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:249-1
-#, fuzzy
 msgid "FAQ"
-msgstr "よくある質問"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:252-1
-#, fuzzy
 msgid "Website"
-msgstr "ウェブサイト"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.h4:260-1
-#, fuzzy
 msgid "Get Social"
-msgstr "Get Social"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:262-1
-#, fuzzy
 msgid "Twitter"
-msgstr "ツイッター"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:265-1
-#, fuzzy
 msgid "Github"
-msgstr "Github"
+msgstr ""
 
 #: upstream/docs/features.html%2Bhtml.body.footer.div.div.div.p:275-1
-#, fuzzy
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
-msgstr "このウェブサイトの著作権は、2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat に帰属します。"
+msgstr ""
