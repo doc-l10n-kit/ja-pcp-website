@@ -13,13 +13,16 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/papers/pcp-presentation/test/test-markdown.html%2Bhtml[lang]:2-1
+#, fuzzy
 msgid "en"
-msgstr ""
+msgstr "エン"
 
 #: upstream/docs/papers/pcp-presentation/test/test-markdown.html%2Bhtml.head.title:7-3
+#, fuzzy
 msgid "reveal.js - Test Markdown"
-msgstr ""
+msgstr "reveal.js - Markdownのテスト"
 
 #: upstream/docs/papers/pcp-presentation/test/test-markdown.html%2Bhtml.body.div.div.section:25-5
+#, fuzzy
 msgid "## Slide 1.1 -- ## Slide 1.2 --- ## Slide 2"
-msgstr ""
+msgstr "## Slide 1.1 -- ## Slide 1.2 --- ## Slide 2"
