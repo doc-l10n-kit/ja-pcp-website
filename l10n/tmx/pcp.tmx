@@ -5,34 +5,18 @@
   <body>
     <tu>
       <tuv xml:lang="en">
-        <seg>Collect</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>収集</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Analyze</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>分析</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Extend</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>拡張</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
         <seg>Performance Co-Pilot is a system performance analysis toolkit.</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
         <seg>Performance Co-Pilotはシステムパフォーマンス解析ツールキットです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Collect</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>収集</seg>
       </tuv>
     </tu>
     <tu>
@@ -61,6 +45,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Analyze</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>&lt;a href="/features.html#analyze"&gt;Analyze&lt;/a&gt; systems' performance metrics in real-time or using historical data.</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
@@ -73,6 +65,14 @@
       </tuv>
       <tuv xml:lang="ja_JP">
         <seg>異なるホストや異なる間隔でのパフォーマンスメトリクスを比較し、トレンドを観察、異常なパターンを特定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Extend</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>拡張</seg>
       </tuv>
     </tu>
     <tu>
