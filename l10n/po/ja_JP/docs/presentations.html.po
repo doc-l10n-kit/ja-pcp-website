@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 13:19+0000\n"
+"POT-Creation-Date: 2021-03-25 14:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,309 +13,249 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/presentations.html%2Bhtml.head.title:7-1
-#, fuzzy
 msgctxt "upstream/docs/presentations.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr "パフォーマンス・コパイロット"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.header.div.h1:16-1
-#, fuzzy
 msgctxt "upstream/docs/presentations.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr "パフォーマンス・コパイロット"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.header.div.nav.ul.li:21-1
-#, fuzzy
 msgctxt "upstream/docs/presentations.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.header.div.nav.ul.li:24-1
-#, fuzzy
 msgctxt "upstream/docs/presentations.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr "ドキュメント"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.header.div.nav.ul.li:27-1
-#, fuzzy
 msgctxt "upstream/docs/presentations.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.header.div.nav.ul.li:30-1
-#, fuzzy
 msgid "Get Involved"
-msgstr "参加する"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.h2:45-1
-#, fuzzy
 msgid "Presentations"
-msgstr "プレゼンテーション"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.p:47-1
-#, fuzzy
 msgid "Various presentations from conferences and user groups follow, providing more details of the PCP architecture and features."
-msgstr "その後、カンファレンスやユーザーグループからの様々なプレゼンテーションが行われ、PCPのアーキテクチャや機能の詳細が紹介されています。"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.h3:61-1
-#, fuzzy
 msgid "2020"
-msgstr "2020"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:63-1
-#, fuzzy
 msgid "<strong>Using bpftrace with PCP and Grafana</strong> <br> <i>January 2020, DevConf, Brno, Czechia</i> <br> Presentation - <a href=\"https://www.youtube.com/watch?v=ZiGTbItyJyg\">Video</a>"
-msgstr "<strong>Using bpftrace with PCP and Grafana</strong> <br> <i>January 2020, DevConf, Brno, Czechia</i> <br>プレゼンテーション -<a href=\"https://www.youtube.com/watch?v=ZiGTbItyJyg\">ビデオ</a></br></br> "
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:71-1
-#, fuzzy
 msgid "<strong>Identifying performance bottlenecks in a cloud</strong> <br> <i>January 2020, DevConf, Brno, Czechia</i> <br> Presentation - <a href=\"https://www.youtube.com/watch?v=cxuFifbwpGQ\">Video</a>"
-msgstr "<strong>Identifying performance bottlenecks in the cloud</strong> <br> <i>2020年1月、DevConf, Brno, Czechia</i> <br>プレゼンテーション -<a href=\"https://www.youtube.com/watch?v=cxuFifbwpGQ\">ビデオ</a></br></br> "
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.h3:84-1
-#, fuzzy
 msgid "2019"
-msgstr "2019"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:86-1
-#, fuzzy
 msgid "<strong>Practical PCP and Grafana</strong> <br> <i>October 2019, Brno, Czechia</i> <br> Presentation - <a href=\"/papers/practical-pcp-grafana.pdf\">PDF</a> (306K), <a href=\"/papers/practical-pcp-grafana.odp\">ODP</a> (913K), <a href=\"https://www.youtube.com/watch?v=fTWAn1K7eQQ\">Video</a>"
-msgstr "<strong>Practical PCP and Grafana</strong> <br> <i>2019年10月、チェコ・ブルノ</i> <br>発表資料 -<a href=\"/papers/practical-pcp-grafana.pdf\">PDF</a>(306K),<a href=\"/papers/practical-pcp-grafana.odp\">ODP</a>(913K),<a href=\"https://www.youtube.com/watch?v=fTWAn1K7eQQ\">ビデオ</a></br></br> "
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:98-1
-#, fuzzy
 msgid "<strong>PCP.CONF 2019</strong> <br> <i>March 2019, Melbourne, Australia</i> <br> <a href=\"/conference/2019/schedule.html\">Slides</a> , <a href=\"https://photos.app.goo.gl/rFC8PctF2e5b7c2N9\">Photos</a>"
-msgstr "<strong>PCP.CONF 2019</strong> <br> <i>2019年3月, メルボルン, オーストラリア</i></br>』<br> <br> <a href=\"/conference/2019/schedule.html\">プレセンターション</a>,<a href=\"https://photos.app.goo.gl/rFC8PctF2e5b7c2N9\">写真</a></br></br> "
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:107-1
-#, fuzzy
 msgid "<strong>Performance Co-Pilot and Ruby</strong> <br> <i>January 2019, DevConf, Croatia</i> <br> Presentation - <a href=\"/papers/pcp-and-ruby-devconf.pdf\">PDF</a> (542K), <a href=\"https://www.youtube.com/watch?v=C6qOKmLDvV4\">Video</a>"
-msgstr "<strong>Performance Co-Pilot and Ruby</strong> <br> <i>2019年1月、DevConf（クロアチア）</i> <br>発表資料 -<a href=\"/papers/pcp-and-ruby-devconf.pdf\">PDF</a>（542K）、<a href=\"https://www.youtube.com/watch?v=C6qOKmLDvV4\">動画</a></br></br> "
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.h3:128-1
-#, fuzzy
 msgid "2018"
-msgstr "2018"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:130-1
-#, fuzzy
 msgid "<strong>Applications and container monitoring with PCP</strong> <br> <i>October 2018, Zabbix Summit, Latvia</i> <br> Presentation - <a href=\"/papers/Zabconf2018_Performance_Co-Pilot.pdf\">PDF</a> (1.5M), <a href=\"/papers/Zabconf2018_Performance_Co-Pilot.odp\">ODP</a> (3.7M), <a href=\"https://www.youtube.com/watch?v=bFVjguCkyOE\">Video</a>"
-msgstr "<strong>PCPによるアプリケーションとコンテナ監視</strong> <br> <i>2018年10月、Zabbix Summit（ラトビア）</i> <br>発表資料 -<a href=\"/papers/Zabconf2018_Performance_Co-Pilot.pdf\">PDF</a>（1.5M）、<a href=\"/papers/Zabconf2018_Performance_Co-Pilot.odp\">ODP</a>（3.7M）、<a href=\"https://www.youtube.com/watch?v=bFVjguCkyOE\">動画</a></br></br> "
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:142-1
-#, fuzzy
 msgid "<strong>PCP.CONF 2018</strong> <br> <i>June 2018, Tokyo, Japan</i> <br> <a href=\"/conference/2018/schedule.html\">Slides</a> , <a href=\"https://photos.app.goo.gl/vVJx6x82wVJERFQ8A\">Photos</a>"
-msgstr "<strong>PCP.CONF 2018</strong> <br> <i>2018年6月 東京, 日本</i></br>』<br> <br> <a href=\"/conference/2018/schedule.html\">プレセンターション</a>,<a href=\"https://photos.app.goo.gl/vVJx6x82wVJERFQ8A\">写真</a></br></br> "
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.h3:156-1
-#, fuzzy
 msgid "2017-2016"
-msgstr "2017-2016"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:158-1
-#, fuzzy
 msgid "<strong>Performance Monitoring for the Cloud</strong> <br> <i>October 2017, Java2Days, Bulgaria</i> <br> Presentation - <a href=\"/papers/Java2Days-2017_PerfMon_Cloud.pdf\">PDF</a> (2.3M)"
-msgstr "<strong>クラウドのためのパフォーマンス・モニタリング</strong> <br> <i>2017年10月、Java2Days、ブルガリアの</i> <br>プレゼンテーション -<a href=\"/papers/Java2Days-2017_PerfMon_Cloud.pdf\">PDF</a></br></br>(2.3M)"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:167-1
-#, fuzzy
 msgid "<strong>Cloud Monitoring mit PCP (de)</strong> <br> <i>June 2017, DWX17, Germany</i> <br> Presentation - <a href=\"/papers/DWX17_Monitoring_PCP.pdf\">PDF</a> (1.4M)"
-msgstr "<strong>Cloud Monitoring mit PCP (de)</strong> <br> <i>2017年6月、DWX17、ドイツ</i> <br>プレゼンテーション -<a href=\"/papers/DWX17_Monitoring_PCP.pdf\">PDF</a></br></br>(1.4M)"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:176-1
-#, fuzzy
 msgid "<strong>Performance Monitoring for the Cloud</strong> <br> <i>November 2016, Apache Big Data Europe, Spain</i> <br> Presentation - <a href=\"/papers/ApacheBD_EU16_PerfMon_Cloud.pdf\">PDF</a> (2.1M)"
-msgstr "<strong>Performance Monitoring for Cloud</strong> <br> <i>2016年11月、Apache Big Data Europe、スペインの</i> <br>プレゼンテーション -<a href=\"/papers/ApacheBD_EU16_PerfMon_Cloud.pdf\">PDF</a></br></br>(2.1M)"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.h3:196-1
-#, fuzzy
 msgid "2015-2014"
-msgstr "2015-2014"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:198-1
-#, fuzzy
 msgid "<strong>Performance Co-Pilot</strong> <br> <i>April 2015, Linux Tage Austria, Graz</i> <br> Presentation - <a href=\"/papers/pcp-presentation/#/\">HTML</a>"
-msgstr "<strong>パフォーマンスコパイロット</strong> <br> <i>2015年4月、Linux Tage Austria, Graz</i> <br>プレゼンテーション -<a href=\"/papers/pcp-presentation/#/\">HTML</a></br></br> "
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:206-1
-#, fuzzy
 msgid "<strong>PCP and Containers</strong> <br> <i>January 2015, Linux Conference Australia, Auckland</i> <br> Presentation - <a href=\"/papers/pcp-containers.pdf\">PDF</a> (834K), <a href=\"/papers/pcp-containers.odp\">ODP</a> (641K)"
-msgstr "<strong>PCPとContainer</strong> <br> <i>2015年1月、Linux Conference Australia、Auckland</i> <br>発表資料 -<a href=\"/papers/pcp-containers.pdf\">PDF</a>(834K),<a href=\"/papers/pcp-containers.odp\">ODP</a></br></br>(641K)"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:217-1
-#, fuzzy
 msgid "<strong>Developments in PCP</strong> <br> <i>January 2015, Linux Conference Australia, Auckland</i> <br> Presentation - <a href=\"/papers/pcp-developments.pdf\">PDF</a> (873K), <a href=\"/papers/pcp-developments.odp\">ODP</a> (672K)"
-msgstr "<strong>Developments in PCP</strong> <br> <i>2015年1月、Linux Conference Australia, Auckland</i> <br>発表資料 -<a href=\"/papers/pcp-developments.pdf\">PDF</a>(873K),<a href=\"/papers/pcp-developments.odp\">ODP</a></br></br>(672K)"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:228-1
-#, fuzzy
 msgid "<strong>Ubiquitous System Analysis</strong> <br> <i>October 2014, Free Software and Open Source Symposium, Toronto</i> <br> Presentation - <a href=\"/papers/fsoss-2014.pdf\">PDF</a> (2.2M), <a href=\"/papers/fsoss-2014.odp\">ODP</a> (1.4M)"
-msgstr "<strong>ユビキタスシステム解析</strong> <br> <i>2014年10月、フリーソフトウェア・オープンソースシンポジウム、トロント</i> <br>発表 -<a href=\"/papers/fsoss-2014.pdf\">PDF</a>(2.2M),<a href=\"/papers/fsoss-2014.odp\">ODP</a></br></br>(1.4M)"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:239-1
-#, fuzzy
 msgid "<strong>Programming the Performance Co-Pilot Toolkit</strong> <br> <i>September 2014, PyCon Japan, Tokyo</i> <br> <i>August 2014, PyCon Australia, Brisbane</i> <br> Presentation - <a href=\"/papers/pcp-py-dmcache.pdf\">PDF</a> (1.1M), <a href=\"/papers/pcp-py-dmcache.odp\">ODP</a> (914K)"
-msgstr "<strong>Performance Co-Pilot Toolkitのプログラミング</strong> <br> <i>2014年9月、PyCon Japan, Tokyo</i> <br> <i>2014年8月、PyCon Australia, Brisbane</i> <br>プレゼンテーション -<a href=\"/papers/pcp-py-dmcache.pdf\">PDF</a>(1.1M),<a href=\"/papers/pcp-py-dmcache.odp\">ODP</a></br></br></br>(914K)"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.h3:257-1
-#, fuzzy
 msgid "2013-2012"
-msgstr "2013-2012"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:259-1
-#, fuzzy
 msgid "<strong>PCP and Systemtap</strong> <br> <i>October 2013, Free Software and Open Source Symposium, Toronto</i> <br> Presentation - <a href=\"/papers/fsoss-2013.pdf\">PDF</a> (1.3M), <a href=\"/papers/fsoss-2013.odp\">ODP</a> (1.6M)"
-msgstr "<strong>PCP and Systemtap</strong> <br> <i>October 2013, Free Software and Open Source Symposium, Toronto</i> <br>Presentation -<a href=\"/papers/fsoss-2013.pdf\">PDF</a>(1.3M),<a href=\"/papers/fsoss-2013.odp\">ODP</a></br></br>(1.6M)"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:270-1
-#, fuzzy
 msgid "<strong>Unifying Event Trace and Sampled Performance Data</strong> <br> <i>October 2012, Monash University, Melbourne</i> <br> Honours thesis - <a href=\"/papers/unifying-thesis.pdf\">PDF</a> (1.4M), <a href=\"/papers/unifying-thesis.odt\">ODP</a> (1.3M) <br> Presentation - <a href=\"/papers/unifying-tracing-and-sampling.pdf\">PDF</a> (862K), <a href=\"/papers/unifying-tracing-and-sampling.odp\">ODP</a> (845K) <br> Demo - <a href=\"/papers/unifying-tracing-and-sampling.swf\">SWF</a> (5M) <a href=\"https://screencast.com/t/Xa5wmEq7\">Screencast</a> (streamed)"
-msgstr "<strong>イベントトレースとサンプリングされたパフォーマンスデータの統合</strong> <br> <i>2012年10月、メルボルンのモナッシュ大学</i> <br>優等学位論文 -<a href=\"/papers/unifying-thesis.pdf\">PDF</a>(1.4M),<a href=\"/papers/unifying-thesis.odt\">ODP</a>(1.3M)<br>プレゼンテーション -<a href=\"/papers/unifying-tracing-and-sampling.pdf\">PDF</a>(862K),<a href=\"/papers/unifying-tracing-and-sampling.odp\">ODP</a>(845K)<br>デモ -<a href=\"/papers/unifying-tracing-and-sampling.swf\">SWF</a>(5M)<a href=\"https://screencast.com/t/Xa5wmEq7\">スクリーンキャスト</a></br></br></br></br>（ストリーム配信"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:293-1
-#, fuzzy
 msgid "<strong>Performance Co-Pilot (PCP)</strong> <br> <i>July 2012, REA Group, Melbourne</i> <br> Presentation - <a href=\"/papers/pcp-rea-group.pdf\">PDF</a> (290K), <a href=\"/papers/pcp-rea-group.odp\">ODP</a> (680K)"
-msgstr "<strong>パフォーマンス・コパイロット（PCP）</strong> <br> <i>2012年7月 REA Group, Melbourne</i> <br>プレゼンテーション -<a href=\"/papers/pcp-rea-group.pdf\">PDF</a>(290K),<a href=\"/papers/pcp-rea-group.odp\">ODP</a></br></br>(680K)"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:304-1
-#, fuzzy
 msgid "<strong>Using PCP to monitor SNMP devices</strong> <br> <i>January 2012, Linux.Conf.Au, Ballarat</i> <br> Presentation - <a href=\"/papers/snmp2pcp.pdf\">PDF</a> (263K)"
-msgstr "<strong>Using PCP to monitor SNMP devices</strong> <br> <i>January 2012, Linux.Conf.Au, Ballarat</i> <br>Presentation -<a href=\"/papers/snmp2pcp.pdf\">PDF</a></br></br>(263K)"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.h3:324-1
-#, fuzzy
 msgid "2011-2009"
-msgstr "2011-2009"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:326-1
-#, fuzzy
 msgid "<strong>Sample OpenGL Application Instrumentation</strong> <br> <i>October 2011, Monash University, Melbourne</i> <br> Demo - <a href=\"/papers/landscape.ogv\">OGV</a> (360M), <a href=\"https://screencast.com/t/qb0qRX2lXZTF\">screencast</a> (streamed)"
-msgstr "<strong>サンプルOpenGLアプリケーションインスツルメンテーション</strong> <br> <i>2011年10月、モナッシュ大学、メルボルン</i> <br>デモ -<a href=\"/papers/landscape.ogv\">OGV</a>（360M）、<a href=\"https://screencast.com/t/qb0qRX2lXZTF\">スクリーンキャスト</a></br></br>（ストリーム配信"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:337-1
-#, fuzzy
 msgid "<strong>Monitoring with Performance Co-Pilot</strong> <br> <i>September 2011, openSUSE Conference, Germany</i> <br> Presentation - <a href=\"/papers/pcp_osc_2011.pdf\">PDF</a> (251K), <a href=\"/papers/pcp_osc_2011.odp\">ODP</a> (189K)"
-msgstr "<strong>Monitoring with Performance Co</strong>-Pilot<br> <i>2011年9月、openSUSE Conference, Germany</i> <br>プレゼンテーション -<a href=\"/papers/pcp_osc_2011.pdf\">PDF</a>(251K),<a href=\"/papers/pcp_osc_2011.odp\">ODP</a></br></br>(189K)"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:348-1
-#, fuzzy
 msgid "<strong>Parfait Update - how it works, futures</strong> <br> <i>October 2010, Aconex, Melbourne</i> <br> Presentation - <a href=\"/papers/parfait-update.pdf\">PDF</a> (523K), <a href=\"/papers/parfait-update.odp\">ODP</a> (1243K)"
-msgstr "<strong>Parfait Update - how it works, futures</strong> <br> <i>October 2010, Aconex, Melbourne</i> <br>Presentation -<a href=\"/papers/parfait-update.pdf\">PDF</a>(523K),<a href=\"/papers/parfait-update.odp\">ODP</a></br></br>(1243K)"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:359-1
-#, fuzzy
 msgid "<strong>An Introduction to Parfait</strong> <br> <i>July 2009, MXUG Meeting, Melbourne</i> <br> Presentation - <a href=\"/papers/parfait.pdf\">PDF</a> (620K), <a href=\"/papers/parfait.odp\">ODP</a> (1157K)"
-msgstr "<strong>An Introduction to Parfait</strong> <br> <i>2009年7月、MXUGミーティング、メルボルン</i> <br>プレゼンテーション -<a href=\"/papers/parfait.pdf\">PDF</a>(620K),<a href=\"/papers/parfait.odp\">ODP</a></br></br>(1157K)"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:370-1
-#, fuzzy
 msgid "<strong>System Level Performance Management with PCP</strong> <br> <i>January 2009, Linux.Conf.Au, Hobart</i> <br> Presentation - <a href=\"/papers/performance-management.pdf\">PDF</a> (1435K), <a href=\"/papers/performance-management.odp\">ODP</a> (1119K)"
-msgstr "<strong>PCPによるシステムレベルのパフォーマンス管理</strong> <br> <i>2009年1月, Linux.Conf.Au, Hobart</i> <br>発表資料 -<a href=\"/papers/performance-management.pdf\">PDF</a>(1435K),<a href=\"/papers/performance-management.odp\">ODP</a></br></br>(1119K)"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.h3:386-1
-#, fuzzy
 msgid "2008-"
-msgstr "2008-"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:388-1
-#, fuzzy
 msgid "<strong>System Level Performance Analysis with PCP</strong> <br> <i>December 2008, Victoria Java Users Group Meeting, Melbourne</i> <br> Presentation - <a href=\"/papers/pcp-vjug.pdf\">PDF</a> (3065K), <a href=\"/papers/pcp-vjug.odp\">ODP</a> (2721K)"
-msgstr "<strong>PCPによるシステムレベルのパフォーマンス解析</strong> <br> <i>2008年12月、ビクトリア州Javaユーザーズグループミーティング、メルボルン</i> <br>プレゼンテーション -<a href=\"/papers/pcp-vjug.pdf\">PDF</a>(3065K),<a href=\"/papers/pcp-vjug.odp\">ODP</a></br></br>(2721K)"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:399-1
-#, fuzzy
 msgid "<strong>Herding Penguins with PCP</strong> <br> <i>August 1999, Linux Open Source Expo and Conference, Melbourne and Singapore</i> <br> Presentation - <a href=\"/papers/herding-penguins.pdf\">PDF</a> (519K), <a href=\"/papers/herding-penguins.odp\">ODP</a> (277K)"
-msgstr "<strong>Herding Penguins with PCP</strong> <br> <i>1999年8月, Linux Open Source Expo and Conference, Melbourne and Singapore</i> <br>プレゼンテーション -<a href=\"/papers/herding-penguins.pdf\">PDF</a>(519K),<a href=\"/papers/herding-penguins.odp\">ODP</a></br></br>(277K)"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:410-1
-#, fuzzy
 msgid "<strong>System Level Performance Management</strong> <br> <i>July 1999, Conference of Australian Linux Users, Melbourne</i> <br> Presentation - <a href=\"/papers/calu99.pdf\">PDF</a> (488K), <a href=\"/papers/calu99.odp\">ODP</a> (317K)"
-msgstr "<strong>システムレベルのパフォーマンス管理</strong> <br> <i>1999年7月、Conference of Australian Linux Users, Melbourne</i> <br>Presentation -<a href=\"/papers/calu99.pdf\">PDF</a>(488K),<a href=\"/papers/calu99.odp\">ODP</a></br></br>(317K)"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.h4:435-1
-#, fuzzy
 msgid "Main Menu"
-msgstr "メインメニュー"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:437-1
-#, fuzzy
 msgctxt "upstream/docs/presentations.html+html.body.footer.div.div.section.div.div.ul.li:437-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:440-1
-#, fuzzy
 msgctxt "upstream/docs/presentations.html+html.body.footer.div.div.section.div.div.ul.li:440-1"
 msgid "Documentation"
-msgstr "ドキュメント"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:443-1
-#, fuzzy
 msgctxt "upstream/docs/presentations.html+html.body.footer.div.div.section.div.div.ul.li:443-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.h4:451-1
-#, fuzzy
 msgid "Developers"
-msgstr "開発者"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:453-1
-#, fuzzy
 msgid "Report an issue"
-msgstr "問題を報告する"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:456-1
-#, fuzzy
 msgid "Roadmap"
-msgstr "ロードマップ"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:459-1
-#, fuzzy
 msgid "Contributing"
-msgstr "貢献度"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:462-1
-#, fuzzy
 msgid "Team"
-msgstr "チーム"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.h4:470-1
-#, fuzzy
 msgid "About"
-msgstr "について"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:472-1
-#, fuzzy
 msgid "Testimonials"
-msgstr "お客様の声"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:475-1
-#, fuzzy
 msgid "FAQ"
-msgstr "よくある質問"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:478-1
-#, fuzzy
 msgid "Website"
-msgstr "ウェブサイト"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.h4:486-1
-#, fuzzy
 msgid "Get Social"
-msgstr "Get Social"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:488-1
-#, fuzzy
 msgid "Twitter"
-msgstr "ツイッター"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:491-1
-#, fuzzy
 msgid "Github"
-msgstr "Github"
+msgstr ""
 
 #: upstream/docs/presentations.html%2Bhtml.body.footer.div.div.div.p:501-1
-#, fuzzy
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
-msgstr "このウェブサイトの著作権は、2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat に帰属します。"
+msgstr ""
