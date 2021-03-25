@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 05:23+0000\n"
+"POT-Creation-Date: 2021-03-25 06:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,36 +13,29 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/papers/pcp-presentation/plugin/notes/notes.html%2Bhtml[lang]:2-1
-#, fuzzy
 msgid "en"
-msgstr "エン"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/plugin/notes/notes.html%2Bhtml.head.title:6-3
-#, fuzzy
 msgid "reveal.js - Slide Notes"
-msgstr "reveal.js - スライドノート"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/plugin/notes/notes.html%2Bhtml.body.div:156-3
-#, fuzzy
 msgid "UPCOMING:"
-msgstr "UPCOMINGです。"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/plugin/notes/notes.html%2Bhtml.body.div.div.h4:159-5
-#, fuzzy
 msgid "Time <span class=\"reset-button\">Click to Reset</span>"
-msgstr "時間<span class=\"reset-button\">クリックしてリセット</span>"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/plugin/notes/notes.html%2Bhtml.body.div.div.div:160-5
-#, fuzzy
 msgid "0:00 AM"
-msgstr "0:00 AM"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/plugin/notes/notes.html%2Bhtml.body.div.div.div:163-5
-#, fuzzy
 msgid "<span class=\"hours-value\">00</span><span class=\"minutes-value\">:00</span><span class=\"seconds-value\">:00</span>"
-msgstr "<span class=\"hours-value\">00</span><span class=\"minutes-value\">:</span>00<span class=\"seconds-value\">:00</span>"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/plugin/notes/notes.html%2Bhtml.body.div.div.h4:170-5
-#, fuzzy
 msgid "Notes"
-msgstr "備考"
+msgstr ""
