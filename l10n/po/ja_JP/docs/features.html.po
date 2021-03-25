@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 08:13+0000\n"
+"POT-Creation-Date: 2021-03-25 23:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -70,7 +70,7 @@ msgstr "<strong>その他のエージェント</strong>は、データベース�
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:80-1
 #, fuzzy
 msgid "Assorted simple <strong>monitoring tools</strong> that use the PCP APIs to retrieve and display either arbitrary performance metrics, or specific groups of metrics (as in pmstat, a cluster-aware vmstat lookalike)."
-msgstr "PCP APIを使用して、任意のパフォーマンス指標や特定の指標グループを取得して表示する様々なシンプルな<strong>監視ツール</strong>（クラスタ対応vmstatの類似品であるpmstatのように）。"
+msgstr "PCP APIを使用して、任意のパフォーマンス指標や特定の指標のグループを取得して表示する様々なシンプルな<strong>監視ツール</strong>（クラスタ対応のvmstatの類似品であるpmstatのように）。"
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.h2:95-1
 msgid "Analyze"
@@ -123,7 +123,7 @@ msgstr "拡張"
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:182-1
 #, fuzzy
 msgid "A \"plugin\" framework (libraries, APIs, agents and daemon) to collect performance data from multiple sources on a single host, e.g. from the hardware, the kernel, the service layers, the application libraries, and the applications themselves."
-msgstr "1つのホスト上で複数のソースからパフォーマンスデータを収集するための「プラグイン」フレームワーク（ライブラリ、API、エージェント、デーモン）です。"
+msgstr "1つのホスト上で複数のソースからパフォーマンスデータを収集するための「プラグイン」フレームワーク（ライブラリ、API、エージェント、デーモン）で、ハードウェア、カーネル、サービスレイヤー、アプリケーションライブラリ、アプリケーション自体などから収集します。"
 
 #: upstream/docs/features.html%2Bhtml.body.div.div.div.div.section.div.div.p:189-1
 #, fuzzy

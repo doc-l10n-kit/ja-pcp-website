@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 08:13+0000\n"
+"POT-Creation-Date: 2021-03-25 23:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -96,7 +96,7 @@ msgstr "ガイド"
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.p:77-1
 #, fuzzy
 msgid "Users and Administrators Guide, Programmers and REST API Guides"
-msgstr "ユーザー＆アドミニストレーターズガイド、プログラマー＆REST APIガイド"
+msgstr "ユーザーズ＆アドミニストレーターズガイド、プログラマーズ＆REST APIガイド"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.h3:81-1
 #, fuzzy
@@ -176,7 +176,7 @@ msgstr "認証済みの接続"
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:135-1
 #, fuzzy
 msgid "Importing data and creating PCP archives (C, Perl, Python)"
-msgstr "データのインポートとPCPアーカイブの作成（C、Perl、Python"
+msgstr "データのインポートおよびPCPアーカイブの作成（C、Perl、Python"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:138-1
 #, fuzzy
@@ -231,7 +231,7 @@ msgstr "Ansibleの「metric」ロール"
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:208-1
 #, fuzzy
 msgid "Practical Performance Co-Pilot and Grafana"
-msgstr "実用的なパフォーマンス Co-PilotとGrafana"
+msgstr "実用的なパフォーマンスのCo-PilotとGrafana"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:226-1
 #, fuzzy

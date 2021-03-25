@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 08:13+0000\n"
+"POT-Creation-Date: 2021-03-25 23:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -120,7 +120,7 @@ msgstr "PCPを使った新規開発、プロダクションシステムへの展
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.div.section.div.div.p:102-1
 #, fuzzy
 msgid "Talks on technologies closely related to PCP, such as <a href=\"http://getvector.io/\">Vector</a> , <a href=\"https://grafana.com\">Grafana</a> and <a href=\"https://redis.io/\">Redis</a> are also entirely appropriate, as are topics related to the PCP organisations involvement in the <a href=\"https://summerofcode.withgoogle.com/\">Google Summer of Code</a> program."
-msgstr "また、<a href=\"http://getvector.io/\">Vector</a>、<a href=\"https://grafana.com\">Grafana</a>、<a href=\"https://redis.io/\">Redis</a>など、PCPと密接に関連する技術に関する講演も適切であり、PCP組織の<a href=\"https://summerofcode.withgoogle.com/\">Google Summer of Code</a>プログラムへの参加に関する話題も適切です。"
+msgstr "また、<a href=\"http://getvector.io/\">Vector</a>、<a href=\"https://grafana.com\">Grafana</a>、<a href=\"https://redis.io/\">Redis</a>など、PCPに密接に関連する技術に関する講演も適切であり、PCP組織の<a href=\"https://summerofcode.withgoogle.com/\">Google Summer of Code</a>プログラムへの参加に関する話題も適切です。"
 
 #: upstream/docs/conference/2018/contact.html%2Bhtml.body.div.div.div.div.section.div.div.p:114-1
 #, fuzzy

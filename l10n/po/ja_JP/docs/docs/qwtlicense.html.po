@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 08:13+0000\n"
+"POT-Creation-Date: 2021-03-25 23:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,7 +55,7 @@ msgstr "バージョン1.0、2003年1月1日"
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:24-1
 #, fuzzy
 msgid "The Qwt library and included programs are provided under the terms"
-msgstr "Qwtライブラリと付属プログラムは、以下の条件で提供されます。"
+msgstr "Qwtライブラリと付属プログラムは、以下の条件で提供されています。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:25-1
 #, fuzzy
@@ -145,7 +145,7 @@ msgstr "にQwtライセンスを明記しなければならないのでしょう
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:46-1
 #, fuzzy
 msgid "program or documentation as required by section 6"
-msgstr "セクション6で要求されているプログラムまたは文書"
+msgstr "セクション6で要求されたプログラムまたは文書"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:47-1
 #, fuzzy
@@ -596,7 +596,7 @@ msgstr "プログラムでは、より多くの人が大量のソフトウェア
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:158-1
 #, fuzzy
 msgid "free software. For example, permission to use the GNU C Library in"
-msgstr "フリーソフトウェアです。例えば、GNU Cライブラリの使用許可は"
+msgstr "フリーソフトウェアです。例えば、GNU Cライブラリの使用許可を得ているのは"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:159-1
 #, fuzzy
@@ -621,12 +621,12 @@ msgstr "劣等一般公衆利用許諾契約書は以下のように保護され
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:164-1
 #, fuzzy
 msgid "users' freedom, it does ensure that the user of a program that is"
-msgstr "ユーザーの自由度を確保することができますが、あるプログラムのユーザーには"
+msgstr "ユーザーの自由を確保することができるが、あるプログラムのユーザーは、そのプログラムが"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:165-1
 #, fuzzy
 msgid "linked with the Library has the freedom and the wherewithal to run"
-msgstr "ライブラリーと連動しているので、自由度が高く、実行力があります。"
+msgstr "ライブラリーと連携して、自由に、そして余裕を持って運営しています。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:166-1
 #, fuzzy
@@ -942,7 +942,7 @@ msgstr "(例えば、ライブラリの中にある平方根を計算する関�
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:243-1
 #, fuzzy
 msgid "a purpose that is entirely well-defined independent of the"
-msgstr "から独立して完全に明確に定義された目的を持っています。"
+msgstr "とは無関係に完全に明確に定義された目的を持っています。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:244-1
 #, fuzzy
@@ -1082,7 +1082,7 @@ msgstr "本ライセンスではなく。のバージョン2よりも新しい�
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:275-1
 #, fuzzy
 msgid "ordinary GNU General Public License has appeared, then you can specify"
-msgstr "通常のGNU General Public Licenseが登場した場合は、そのライセンスを指定することができます。"
+msgstr "通常のGNU General Public Licenseが登場している場合、そのライセンスを指定することができます。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:276-1
 #, fuzzy
@@ -1202,7 +1202,7 @@ msgstr "そのため、本ライセンスの対象外となります。"
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:305-1
 #, fuzzy
 msgid "However, linking a \"work that uses the Library\" with the Library"
-msgstr "しかし、「図書館を利用した作品」と「図書館」をリンクさせると"
+msgstr "ただし、「図書館を利用した作品」と「図書館」を結びつけることは"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:306-1
 #, fuzzy
@@ -1247,7 +1247,7 @@ msgstr "これが事実であるかどうかは、特に、その作品が次の
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:315-1
 #, fuzzy
 msgid "linked without the Library, or if the work is itself a library. The"
-msgstr "ライブラリーなしでリンクされている場合や、作品自体がライブラリーになっている場合はのです。"
+msgstr "ライブラリーなしでリンクされている場合や、作品自体がライブラリーになっている場合はのことです。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:316-1
 #, fuzzy
@@ -1817,7 +1817,7 @@ msgstr "特定の状況では、セクションのバランスが適用される
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:448-1
 #, fuzzy
 msgid "and the section as a whole is intended to apply in other circumstances."
-msgstr "で、セクション全体としては他の状況での適用を意図しています。"
+msgstr "であり、セクション全体としては、他の状況での適用を意図している。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:450-1
 #, fuzzy
@@ -1857,7 +1857,7 @@ msgstr "の一貫した適用に依存して、そのシステムを通じて"
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:457-1
 #, fuzzy
 msgid "system; it is up to the author/donor to decide if he or she is willing"
-msgstr "システムを利用するかどうかは、作者やドナーの判断に委ねられています。"
+msgstr "システムを利用するかどうかは、著者やドナーの判断に委ねられています。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:458-1
 #, fuzzy

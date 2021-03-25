@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 08:13+0000\n"
+"POT-Creation-Date: 2021-03-25 23:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -342,7 +342,7 @@ msgstr "他の新しいPCPクライアントは、既存のツールの機能を
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:273-1
 #, fuzzy
 msgid "monitor multiple hosts concurrently, e.g. think of top or vmstat working across all nodes in a cluster; in fact pmstat can monitor an arbitrary number of hosts concurrently"
-msgstr "複数のホストを同時に監視することができます。例えば、top や vmstat がクラスタ内のすべてのノードで動作していると考えてください。"
+msgstr "例えば top や vmstat がクラスタ内の全てのノードで動作しているように、複数のホストを同時に監視することができます。"
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:278-1
 #, fuzzy
@@ -506,7 +506,7 @@ msgstr "PCPに関する論文や発表はありますか？"
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:470-1
 #, fuzzy
 msgid "Indeed - a reference list of all those we have permission to reproduce can be found <a href=\"/presentations.html\">here</a> ."
-msgstr "実際に、私たちが複製を許可されているすべての参考文献のリストは<a href=\"/presentations.html\">ここに</a>あります。"
+msgstr "実際に、私たちが複製を許可されているすべての参考文献のリストは、<a href=\"/presentations.html\">ここに</a>あります。"
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:484-1
 #, fuzzy
@@ -569,7 +569,7 @@ msgstr "<strong>pmlogger</strong>はモニタークライアントなので、PM
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:563-1
 #, fuzzy
 msgid "At PMCD, each message from a monitor client is forwarded to one or more PMDAs, PMCD then collates the messages back from each PMDA that was asked to help and returns a single message to the client. It is an important part of the design that:"
-msgstr "PMCDでは、モニタークライアントからの各メッセージが1つまたは複数のPMDAに転送され、PMCDは協力を依頼された各PMDAから戻ってきたメッセージを照合し、クライアントに1つのメッセージを返します。という設計になっています。"
+msgstr "PMCDでは、モニタークライアントからの各メッセージは、1つまたは複数のPMDAに転送され、PMCDは協力を依頼された各PMDAから戻ってきたメッセージを照合し、1つのメッセージをクライアントに返します。という設計になっています。"
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:570-1
 #, fuzzy
@@ -683,7 +683,7 @@ msgstr "外部への通知は通常、電子メール、ページング、フォ
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:716-1
 #, fuzzy
 msgid "<strong>pmie</strong> is the PCP tool for automated monitoring and taking predicated actions. pmie's actions are arbitrary; there are some canned ones, but then there is a general \"execute this command\" action. The latter has been used to do pager events, and integrate events into larger system management frameworks like Nagios, OpenView, and so on."
-msgstr "<strong>pmie</strong>は、自動監視と予測されたアクションを取るためのPCPツールです。pmieのアクションは任意で、いくつかの定型的なものもありますが、一般的な「このコマンドを実行する」というアクションもあります。後者はページャーイベントや、Nagios、OpenViewなどの大規模なシステム管理フレームワークにイベントを統合するために使用されています。"
+msgstr "<strong>pmie</strong>は、自動監視と所定のアクションを取るためのPCPツールです。pmieのアクションは任意であり、いくつかの定型的なものもありますが、一般的な「このコマンドを実行する」アクションもあります。後者はページャーイベントや、Nagios、OpenViewなどの大規模なシステム管理フレームワークにイベントを統合するために使用されています。"
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:734-1
 #, fuzzy
@@ -721,7 +721,7 @@ msgstr "PCPはシステムレベルのパフォーマンスモニタリングを
 #, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:784-1"
 msgid "Is there an optimized mechanism for local monitoring?"
-msgstr "ローカルモニタリングのための最適化されたメカニズムはありますか？"
+msgstr "ローカルモニタリングのための最適化されたメカニズムはあるのか？"
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:786-1
 #, fuzzy
@@ -798,7 +798,7 @@ msgstr "2004年6月30日(水)にNicholas Guillier氏から届いたメールで�
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:875-1
 #, fuzzy
 msgid "First CPU time and disk active time are both really counters in units of time in the kernel, so the reported value for the metric <i>v</i> requires observations at times <i>t</i> <sub>1</sub> and <i>t</i> <sub>2</sub> then reporting the rate (actually time/time, so a utilization) as <i>(v(t</i> <sub>2</sub> <i>) - v(t</i> <sub>1</sub> <i>)) / (t</i> <sub>2</sub> <i>- t</i> <sub>1</sub> <i>)</i>"
-msgstr "まず、CPU時間とディスク稼働時間は、いずれもカーネル内の時間単位のカウンターであるため、測定値<i>v</i>の報告には、時間<i>t</i> <sub>1</sub>と<i>t</i> <sub>2</sub>の観測を行い、<i>(v(t</i> <sub>2</sub> <i>) - v(t</i> <sub>1</sub> <i>)) / (</i> <i>v</i>(t2 - t<sub>1</sub>))という割合（実際には時間/時間、つまり利用率）を報告する必要があります。<i>/ (t</i> <sub>2</sub> <i>- t</i> <sub>1</sub> <i>)</i>"
+msgstr "まず、CPU時間とディスク使用時間は、いずれもカーネル内の時間単位のカウンターです。したがって、測定値<i>v</i>の報告には、時間<i>t</i> <sub>1</sub>と<i>t</i> <sub>2</sub>の観測が必要であり、<i>（v(t</i> <sub>2</sub> <i>) - v(t</i> <sub>1</sub> <i>)) / (</i> <i>v</i>(t2 - t1 ))というように、率（実際には時間/時間、つまり利用率）を報告します。<i>/ (t</i> <sub>2</sub> <i>- t</i> <sub>1</sub> <i>)</i>"
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:898-1
 #, fuzzy
@@ -1317,7 +1317,7 @@ msgstr "次に、ローカルのプライマリ pmie デーモンを有効にし
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:1299-1
 #, fuzzy
 msgid "This latter mechanism also writes to the system log when a PMDA is detected to have failed, and the log message contains details about exactly which PMDAs were affected."
-msgstr "後者の仕組みでは、PMDAの故障が検出されるとシステムログに書き込まれ、そのログメッセージには、どのPMDAが影響を受けたかが詳細に記録されます。"
+msgstr "後者の仕組みでは、PMDAの障害が検出されるとシステムログに書き込まれ、そのログメッセージには、どのPMDAに障害が発生したかの詳細が含まれています。"
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.h4:1317-1
 #, fuzzy
@@ -1334,7 +1334,7 @@ msgstr "特徴"
 #, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.footer.div.div.section.div.div.ul.li:1322-1"
 msgid "Documentation"
-msgstr "ドキュメント"
+msgstr "ドキュメンテーション"
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1325-1
 #, fuzzy

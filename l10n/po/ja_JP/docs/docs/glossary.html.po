@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 08:13+0000\n"
+"POT-Creation-Date: 2021-03-25 23:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,7 +26,7 @@ msgstr "pmcharticon"
 #: upstream/docs/docs/glossary.html%2Bhtml.body.table.tr.td.p:14-16
 #, fuzzy
 msgid "<a href=\"index.html\"><font color=\"#cc0000\">Home</font></a> · <a href=\"lab.pmchart.html\"><font color=\"#cc0000\">Charts</font></a> · <a href=\"timecontrol.html\"><font color=\"#cc0000\">Time Control</font></a>"
-msgstr "<a href=\"index.html\"><font color=\"#cc0000\">ホーム</font></a>· <a href=\"lab.pmchart.html\"><font color=\"#cc0000\">チャート</font></a>· <a href=\"timecontrol.html\"><font color=\"#cc0000\">タイムコントロール</font></a>"
+msgstr "<a href=\"index.html\"><font color=\"#cc0000\">ホーム</font></a>· <a href=\"lab.pmchart.html\"><font color=\"#cc0000\">チャート</font></a>· <a href=\"timecontrol.html\"><font color=\"#cc0000\">時間管理</font></a>"
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.h1:17-1
 #, fuzzy
@@ -127,7 +127,7 @@ msgstr "<b>PMID</b> - Performance Metrics Identifier（パフォーマンス・�
 #: upstream/docs/docs/glossary.html%2Bhtml.body.center.table.tr.td.p:42-23
 #, fuzzy
 msgid "Copyright © 2007-2010 <a href=\"https://www.aconex.com/\"><font color=\"#000060\">Aconex</font></a><br>Copyright © 2000-2004 <a href=\"https://www.sgi.com/\"><font color=\"#000060\">Silicon Graphics Inc</font></a>"
-msgstr "著作権 © 2007-2010 <a href=\"https://www.aconex.com/\"><font color=\"#000060\">アコニックス</font></a><br>Copyright © 2000-2004<a href=\"https://www.sgi.com/\"><font color=\"#000060\">Silicon Graphics Inc</font></a></br>."
+msgstr "著作権 © 2007-2010 <a href=\"https://www.aconex.com/\"><font color=\"#000060\">アコーネックス</font></a><br>Copyright © 2000-2004<a href=\"https://www.sgi.com/\"><font color=\"#000060\">Silicon Graphics Inc</font></a></br>."
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.center.table.tr.td.p:43-18
 #, fuzzy

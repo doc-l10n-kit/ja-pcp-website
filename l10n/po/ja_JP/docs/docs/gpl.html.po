@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 08:13+0000\n"
+"POT-Creation-Date: 2021-03-25 23:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -241,7 +241,7 @@ msgstr "のソフトウェアを使用しています。そのソフトウェア
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:68-1
 #, fuzzy
 msgid "want its recipients to know that what they have is not the original, so"
-msgstr "受け取った人が、自分の持っているものがオリジナルではないことを知ってほしいので"
+msgstr "受け取った人が、自分の持っているものがオリジナルではないことを知ってもらいたいので"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:69-1
 #, fuzzy
@@ -562,7 +562,7 @@ msgstr "本ライセンスでは、他のライセンシーに対する許可が
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:144-1
 #, fuzzy
 msgid "entire whole, and thus to each and every part regardless of who wrote it."
-msgstr "全体、つまり誰が書いたかに関わらず、それぞれのパーツに。"
+msgstr "全体、つまり誰が書いたかに関わらず、それぞれの部分に。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:146-1
 #, fuzzy
@@ -592,7 +592,7 @@ msgstr "また、本プログラムに基づかない他の作品の単なる集
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:152-1
 #, fuzzy
 msgid "with the Program (or with a work based on the Program) on a volume of"
-msgstr "のボリュームで、プログラム（またはプログラムを基にした作品）と一緒に"
+msgstr "のボリュームでプログラム（またはプログラムを基にした作品）を使用しています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:153-1
 #, fuzzy
@@ -792,7 +792,7 @@ msgstr "ただし、以下の条件であなたからコピーまたは権利を
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:199-1
 #, fuzzy
 msgid "this License will not have their licenses terminated so long as such"
-msgstr "本ライセンスは、以下の条件が満たされている限り、そのライセンスが終了することはありません。"
+msgstr "本ライセンスは、そのようなライセンスが存在する限り、そのライセンスが終了することはありません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:200-1
 #, fuzzy
@@ -1447,7 +1447,7 @@ msgstr "プロプライエタリなプログラムプログラムがサブルー
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:359-1
 #, fuzzy
 msgid "consider it more useful to permit linking proprietary applications with the"
-msgstr "とのリンクを許可することがより有用であると考えています。"
+msgstr "とのリンクを許可する方が有用であると考えています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:360-1
 #, fuzzy

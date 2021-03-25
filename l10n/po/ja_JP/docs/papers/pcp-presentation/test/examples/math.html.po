@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 08:13+0000\n"
+"POT-Creation-Date: 2021-03-25 23:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -89,7 +89,7 @@ msgstr "ラマヌジャンのアイデンティティ"
 #, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section:61-34"
 msgid "\\[ \\frac{1}{\\Bigl(\\sqrt{\\phi \\sqrt{5}}-\\phi\\Bigr) e^{\\frac25 \\pi}} = 1+\\frac{e^{-2\\pi}} {1+\\frac{e^{-4\\pi}} {1+\\frac{e^{-6\\pi}} {1+\\frac{e^{-8\\pi}} {1+\\ldots} } } } \\]"
-msgstr "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\{1+\\\\\\\\\\\\{1+\\\\\\\\\\\\1+†††††† 81+\\\\\\}}}\\]"
+msgstr "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\{1+\\\\\\\\\\\\{1+\\\\\\\\\\\\1++frac{e^{-8}pi} {1+frac{e^{-6}pi} {1++frac{e^{-8}pi}}1+\\\\\\}}}\\]"
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.h3:69-6
 #, fuzzy

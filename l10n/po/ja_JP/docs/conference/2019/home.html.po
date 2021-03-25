@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 08:13+0000\n"
+"POT-Creation-Date: 2021-03-25 23:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -100,7 +100,7 @@ msgstr "今年のPerformance Co-Pilotカンファレンスは、オーストラ�
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:87-1
 #, fuzzy
 msgid "The conference brings together developers and performance analysts to collaborate on current and future PCP developments."
-msgstr "このカンファレンスでは、開発者とパフォーマンスアナリストが一堂に会し、現在および将来のPCP開発について協力し合います。"
+msgstr "このカンファレンスでは、開発者とパフォーマンスアナリストが一堂に会し、現在および将来のPCPの開発について協力し合います。"
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:92-1
 #, fuzzy
