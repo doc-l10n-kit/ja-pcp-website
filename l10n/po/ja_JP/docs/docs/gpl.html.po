@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 06:14+0000\n"
+"POT-Creation-Date: 2021-03-25 08:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -592,7 +592,7 @@ msgstr "また、本プログラムに基づかない他の作品の単なる集
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:152-1
 #, fuzzy
 msgid "with the Program (or with a work based on the Program) on a volume of"
-msgstr "のボリュームでプログラム（またはプログラムを基にした作品）を使用しています。"
+msgstr "のボリュームで、プログラム（またはプログラムを基にした作品）と一緒に"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:153-1
 #, fuzzy
@@ -672,7 +672,7 @@ msgstr "c) あなたが受け取ったオファーに関する情報を添付す
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:172-1
 #, fuzzy
 msgid "to distribute corresponding source code. (This alternative is"
-msgstr "を使って、対応するソースコードを配布することができます。(この選択肢は"
+msgstr "をクリックすると、対応するソースコードが配布されます。(この選択肢は"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:173-1
 #, fuzzy
@@ -1197,7 +1197,7 @@ msgstr "12.適用される法律で要求されるか、または書面で合意
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:293-1
 #, fuzzy
 msgid "WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR"
-msgstr "は、著作権者や、修正や変更を行う可能性のある他の当事者にも影響を与えます。"
+msgstr "は、著作権者や、修正や変更を行う可能性のある他の当事者には、影響を与えません。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:294-1
 #, fuzzy
@@ -1322,7 +1322,7 @@ msgstr "しかし、いかなる保証もなく、暗黙の保証もない。"
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:325-1
 #, fuzzy
 msgid "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the"
-msgstr "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE（商品性または特定目的への適合性）。を参照してください。"
+msgstr "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE（商品性または特定目的への適合性）。をご覧ください。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:326-1
 #, fuzzy
@@ -1447,7 +1447,7 @@ msgstr "プロプライエタリなプログラムプログラムがサブルー
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:359-1
 #, fuzzy
 msgid "consider it more useful to permit linking proprietary applications with the"
-msgstr "とのリンクを許可する方が有用であると考えています。"
+msgstr "とのリンクを許可することがより有用であると考えています。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:360-1
 #, fuzzy

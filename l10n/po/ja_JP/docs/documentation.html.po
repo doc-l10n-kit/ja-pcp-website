@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 06:14+0000\n"
+"POT-Creation-Date: 2021-03-25 08:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -231,7 +231,7 @@ msgstr "Ansibleの「metric」ロール"
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:208-1
 #, fuzzy
 msgid "Practical Performance Co-Pilot and Grafana"
-msgstr "実用的なパフォーマンスのCo-PilotとGrafana"
+msgstr "実用的なパフォーマンス Co-PilotとGrafana"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:226-1
 #, fuzzy

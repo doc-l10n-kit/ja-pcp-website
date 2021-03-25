@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 06:14+0000\n"
+"POT-Creation-Date: 2021-03-25 08:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,7 +30,7 @@ msgstr "ベアボーン・プレゼンテーション"
 #: upstream/docs/papers/pcp-presentation/test/examples/barebones.html%2Bhtml.body.div.div.section.p:20-6
 #, fuzzy
 msgid "This example contains the bare minimum includes and markup required to run a reveal.js presentation."
-msgstr "この例では、 reveal.js のプレゼンテーションを実行するために必要な最低限のインクルードとマークアップが含まれています。"
+msgstr "この例では、 reveal.js のプレゼンテーションを実行するのに必要な最低限のインクルードとマークアップが含まれています。"
 
 #: upstream/docs/papers/pcp-presentation/test/examples/barebones.html%2Bhtml.body.div.div.section.h2:24-6
 #, fuzzy

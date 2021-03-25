@@ -121,7 +121,7 @@ msgstr "2021年2月<br>PCP 5.2.5</br>"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:152-1
 msgid "New Linux ZFS, High Availability (Pacemaker) and detailed sockets metrics. <a href=\"https://man7.org/linux/man-pages/man1/pmproxy.1.html\">pmproxy</a> memory management improvements."
-msgstr "新しいLinux ZFS、高可用性（Pacemaker）、詳細なソケットメトリクス。<a href=\"https://man7.org/linux/man-pages/man1/pmproxy.1.html\">pmproxy</a>のメモリ管理の改善。"
+msgstr "新しいLinux ZFS、高可用性（Pacemaker）、および詳細なソケットメトリクス。<a href=\"https://man7.org/linux/man-pages/man1/pmproxy.1.html\">pmproxy</a>のメモリ管理の改善。"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:166-1
 msgid "Dec 2020 <br> PCP 5.2.3"
@@ -161,7 +161,7 @@ msgstr "2020年5月<br>PCP 5.1.1</br>"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:297-1
 msgid "Fixes and optimizations in systemd service management, and a new <a href=\"https://man7.org/linux/man-pages/man1/pmfind.1.html\">pmfind</a> discovery timer service replacing the <a href=\"https://man7.org/linux/man-pages/man1/pcpcompat.1.html\">pmmgr</a> standalone daemon. Metric labels support in <a href=\"https://man7.org/linux/man-pages/man1/pmrep.1.html\">pmrep</a> and related tools, <a href=\"https://man7.org/linux/man-pages/man1/pmcd.1.html\">pmcd</a> support for optional labels. New metric collectors for <a href=\"https://man7.org/linux/man-pages/man1/pmdaopenvswitch.1.html\">Open vSwitch</a> and <a href=\"https://man7.org/linux/man-pages/man1/pmdarabbitmq.1.html\">RabbitMQ</a> servers."
-msgstr "systemd サービスマネジメントの修正と最適化、そして<a href=\"https://man7.org/linux/man-pages/man1/pcpcompat.1.html\">pmmgr</a>スタンドアロンデーモンに代わる新しい<a href=\"https://man7.org/linux/man-pages/man1/pmfind.1.html\">pmfind</a>ディスカバリータイマーサービス。<a href=\"https://man7.org/linux/man-pages/man1/pmrep.1.html\">pmrep</a>および関連ツールにおけるメトリックラベルのサポート、オプションのラベルに対する<a href=\"https://man7.org/linux/man-pages/man1/pmcd.1.html\">pmcd の</a>サポート。<a href=\"https://man7.org/linux/man-pages/man1/pmdaopenvswitch.1.html\">Open vSwitch</a>および<a href=\"https://man7.org/linux/man-pages/man1/pmdarabbitmq.1.html\">RabbitMQ</a>サーバ用の新しいメトリックコレクター。"
+msgstr "systemd サービスマネジメントの修正と最適化、そして<a href=\"https://man7.org/linux/man-pages/man1/pcpcompat.1.html\">pmmgr</a>スタンドアロンデーモンに代わる新しい<a href=\"https://man7.org/linux/man-pages/man1/pmfind.1.html\">pmfind</a>ディスカバリータイマーサービス。<a href=\"https://man7.org/linux/man-pages/man1/pmrep.1.html\">pmrep</a>と関連ツールにおけるメトリックラベルのサポート、オプションのラベルに対する<a href=\"https://man7.org/linux/man-pages/man1/pmcd.1.html\">pmcd の</a>サポート。<a href=\"https://man7.org/linux/man-pages/man1/pmdaopenvswitch.1.html\">Open vSwitch</a>および<a href=\"https://man7.org/linux/man-pages/man1/pmdarabbitmq.1.html\">RabbitMQ</a>サーバ用の新しいメトリックコレクター。"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:322-1
 msgid "Apr 2020 <br> PCP 5.1.0"

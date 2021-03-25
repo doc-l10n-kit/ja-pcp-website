@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 06:14+0000\n"
+"POT-Creation-Date: 2021-03-25 08:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,7 +55,7 @@ msgstr "コミュニティ"
 #: upstream/docs/community.html%2Bhtml.body.div.div.div.div.section.div.div.p:57-1
 #, fuzzy
 msgid "We welcome your involvement in the Performance Co-Pilot project! If you have discovered a bug, or wish to see a specific new feature, please report that in one of the <a href=\"https://github.com/performancecopilot/pcp/issues\">github issue</a> trackers associated with the PCP <a href=\"https://github.com/performancecopilot\">organization</a> sub-projects."
-msgstr "Performance Co-Pilotプロジェクトへの皆様のご参加をお待ちしております。バグを発見された場合や、特定の新機能をご希望の場合は、PCP<a href=\"https://github.com/performancecopilot\">組織の</a>サブプロジェクトに関連する<a href=\"https://github.com/performancecopilot/pcp/issues\">github issue</a>trackerの1つで報告してください。"
+msgstr "Performance Co-Pilotプロジェクトへの皆様のご参加をお待ちしております。バグを発見された場合や、特定の新機能をご希望の場合は、PCP<a href=\"https://github.com/performancecopilot\">組織の</a>サブプロジェクトに関連する<a href=\"https://github.com/performancecopilot/pcp/issues\">github issue</a>trackerのいずれかで報告してください。"
 
 #: upstream/docs/community.html%2Bhtml.body.div.div.div.div.section.div.div.p:66-1
 #, fuzzy

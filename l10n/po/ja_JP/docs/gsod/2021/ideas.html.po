@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 06:14+0000\n"
+"POT-Creation-Date: 2021-03-25 08:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -65,7 +65,7 @@ msgstr "Performance Co-Pilot (PCP) は、オープンソースの分散システ
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.p:64-1
 #, fuzzy
 msgid "The suite begun production use over 20 years ago primarily in the High Performance Computing arena, however its customizable and lightweight design has proven popular on everything from tiny system-on-a-chip machines through to vast databases and number-crunching super computers. It is included in all Linux distributions and has an active base of users and developers."
-msgstr "20年以上前に主にハイパフォーマンス・コンピューティングの分野で使用され始めましたが、カスタマイズ可能で軽量なデザインは、小さなシステムオンチップ・マシンから膨大なデータベースや数値計算を行うスーパーコンピュータまで、あらゆる場面で人気を博しています。すべてのLinuxディストリビューションに含まれており、活発なユーザーと開発者がいます。"
+msgstr "20年以上前に主にハイパフォーマンス・コンピューティングの分野で使用され始めましたが、カスタマイズ可能で軽量なデザインは、小さなシステムオンチップ・マシンから膨大なデータベースや数値計算を行うスーパーコンピュータまで、あらゆる分野で人気を博しています。すべてのLinuxディストリビューションに含まれており、活発なユーザーと開発者が存在します。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.div.p:73-1
 #, fuzzy
@@ -120,7 +120,7 @@ msgstr "タスクベースのガイドプロジェクトでは"
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:143-1
 #, fuzzy
 msgid "Pair developers with the writer to produce succinct step-by-step recipes showing how to perform certain tasks with PCP."
-msgstr "開発者とライターがペアになって、PCPを使った作業方法をステップ・バイ・ステップで簡潔に説明するレシピを作成する。"
+msgstr "開発者とライターがペアになって、PCPを使った作業方法をステップ・バイ・ステップで簡潔に説明するレシピを作成します。"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:147-1
 #, fuzzy
@@ -175,7 +175,7 @@ msgstr " <a href=\"https://man7.org/linux/man-pages/man1/pcp-dstat.1.html\">pcp-
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p.div.div.div.ul.li:168-1
 #, fuzzy
 msgid "Export metric values in a comma-separated format?"
-msgstr "メトリクス値をカンマ区切りのフォーマットでエクスポートできますか？"
+msgstr "メトリック値をカンマ区切りのフォーマットで出力することができますか？"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.div.div.div.p:174-1
 #, fuzzy

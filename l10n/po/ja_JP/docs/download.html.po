@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 06:14+0000\n"
+"POT-Creation-Date: 2021-03-25 08:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -198,7 +198,7 @@ msgstr "特徴"
 #, fuzzy
 msgctxt "upstream/docs/download.html+html.body.footer.div.div.section.div.div.ul.li:210-1"
 msgid "Documentation"
-msgstr "ドキュメンテーション"
+msgstr "ドキュメント"
 
 #: upstream/docs/download.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:213-1
 #, fuzzy

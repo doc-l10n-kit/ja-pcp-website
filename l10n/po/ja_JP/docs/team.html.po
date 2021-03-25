@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 06:14+0000\n"
+"POT-Creation-Date: 2021-03-25 08:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -90,7 +90,7 @@ msgstr "ネイサン・スコット"
 #: upstream/docs/team.html%2Bhtml.body.div.div.div.div.section.div.div.p:72-1
 #, fuzzy
 msgid "Bringing together the efforts of a fantastic <a href=\"https://github.com/performancecopilot/pcp/graphs/contributors\">developer community.</a>"
-msgstr "素晴らしい<a href=\"https://github.com/performancecopilot/pcp/graphs/contributors\">開発者のコミュニティ</a>の努力を結集する。"
+msgstr "すばらしい<a href=\"https://github.com/performancecopilot/pcp/graphs/contributors\">開発者コミュニティ</a>の努力を結集する。"
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.h4:89-1
 #, fuzzy

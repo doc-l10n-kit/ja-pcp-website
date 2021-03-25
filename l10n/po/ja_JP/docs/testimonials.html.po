@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 06:14+0000\n"
+"POT-Creation-Date: 2021-03-25 08:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -96,7 +96,7 @@ msgstr "NetflixでのAmer Ather"
 #: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div.p:148-1
 #, fuzzy
 msgid "\"At Netflix, PCP is mainly used for collecting high resolution performance metrics to perform cross-metric correlation and to detect anomalies. PCP stateless model makes it lightweight and robust. Clients are responsible for keeping track of state, sampling rate and computation. We built a web client that fetches performance metrics published by PCP running on cloud instances. It offers self service to Netflix teams to capture on-demand performance metrics from a cloud instance. PCP offers a rich set of performance monitoring agents (PMDA) and libraries to build custom PMDAs. With the integration of Brendan Gregg's <a href=\"http://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html\">FlameGraph</a> and <a href=\"http://www.brendangregg.com/HeatMaps/latency.html\">Heat Maps</a> into PCP, capturing and analyzing low level profiling data is simply a matter of a mouse click in Vector. We greatly appreciate all the support provided by PCP community. We have plans to contribute to PCP and open source Vector and custom PCP PMDA once tested and ready.\""
-msgstr "\"Netflixでは、PCPを主に高解像度のパフォーマンスメトリクスの収集に使用し、メトリクス間の相関をとり、異常を検出しています。PCPのステートレスモデルは、軽量かつ堅牢です。クライアントは、状態、サンプリングレート、および計算の追跡に責任を負います。私たちは、クラウド上で動作するPCPから公開されたパフォーマンスメトリクスを取得するWebクライアントを構築しました。このクライアントは、Netflixのチームにセルフサービスを提供し、クラウド・インスタンスからオンデマンドでパフォーマンス・メトリクスを取得します。PCPは、パフォーマンス・モニタリング・エージェント（PMDA）の豊富なセットと、カスタムPMDAを構築するためのライブラリを提供しています。ブレンダン・グレッグ氏の<a href=\"http://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html\">FlameGraph</a>と<a href=\"http://www.brendangregg.com/HeatMaps/latency.html\">Heat Maps</a>がPCPに統合されたことで、低レベルのプロファイリングデータのキャプチャと分析は、Vectorでマウスをクリックするだけで可能になりました。私たちは、PCPコミュニティが提供するすべてのサポートに非常に感謝しています。我々は、PCPに貢献し、テストと準備ができ次第、VectorとカスタムPCP PMDAをオープンソース化する計画を持っています。\""
+msgstr "\"Netflixでは、PCPを主に高解像度のパフォーマンスメトリクスの収集に使用し、メトリクス間の相関をとり、異常を検出しています。PCPのステートレスモデルは、軽量かつ堅牢です。クライアントは、状態、サンプリングレート、および計算の追跡に責任を負います。私たちは、クラウド上で動作するPCPから公開されたパフォーマンスメトリクスを取得するWebクライアントを構築しました。このクライアントは、Netflixのチームにセルフサービスを提供し、クラウド・インスタンスからオンデマンドでパフォーマンス・メトリクスを取得します。PCPは、パフォーマンス・モニタリング・エージェント（PMDA）の豊富なセットと、カスタムPMDAを構築するためのライブラリを提供しています。ブレンダン・グレッグ氏の<a href=\"http://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html\">FlameGraph</a>と<a href=\"http://www.brendangregg.com/HeatMaps/latency.html\">Heat Maps</a>がPCPに統合されたことで、低レベルのプロファイリングデータのキャプチャと分析が、Vectorでマウスをクリックするだけで可能になりました。私たちは、PCPコミュニティが提供するすべてのサポートに非常に感謝しています。我々は、PCPに貢献し、テストと準備ができ次第、VectorとカスタムPCP PMDAをオープンソース化する計画を持っています。\""
 
 #: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div:177-1
 #, fuzzy
@@ -136,7 +136,7 @@ msgstr "サポートエンジニア、マーク・グッドウィン"
 #: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div.p:255-1
 #, fuzzy
 msgid "\"Here in Red Hat Global Support Services, we're actively moving our Red Hat Enterprise Linux customers to the next generation of open source performance monitoring and analysis tools. PCP is a perfect fit to replace the outgoing sysstat legacy tools, especially now that PCP is fully supported in RHEL 6.6, RHEL 7 and onward. Compelling features such as broad and easily extensible metrics coverage, fully distributed operation, uniform metric naming and meta-data, APIs with multiple language bindings, robust configurable logging services, and secure authenticated IPC protocols are essential in the modern enterprise environment. In our business of providing critical support services, the ability to capture archive logs on customer systems for off-site retrospective analysis is an especially important feature where PCP excels.\""
-msgstr "\"ここRed Hat Global Support Servicesでは、Red Hat Enterprise Linuxのお客様を次世代のオープンソース・パフォーマンス・モニタリングおよび分析ツールに積極的に移行させています。特に、PCPがRHEL 6.6、RHEL 7以降で完全にサポートされている今、PCPは既存のsysstatレガシーツールを置き換えるのに最適なツールです。広範囲で簡単に拡張可能なメトリクス・カバレッジ、完全な分散運用、統一されたメトリクス・ネーミングとメタデータ、複数の言語バインディングを持つAPI、堅牢で設定可能なロギング・サービス、安全な認証IPCプロトコルなどの魅力的な機能は、現代の企業環境には不可欠です。重要なサポートサービスを提供する私たちのビジネスにおいて、オフサイトのレトロスペクティブな分析のために顧客システム上のアーカイブログをキャプチャする機能は、PCPが優れている特に重要な機能です。\""
+msgstr "\"ここRed Hat Global Support Servicesでは、Red Hat Enterprise Linuxのお客様を次世代のオープンソース・パフォーマンス・モニタリングおよび分析ツールに積極的に移行させています。特に、PCPがRHEL 6.6、RHEL 7以降で完全にサポートされている今、PCPは既存のsysstatレガシーツールを置き換えるのに最適なツールです。広範囲で簡単に拡張可能なメトリクス・カバレッジ、完全な分散運用、統一されたメトリクス・ネーミングとメタデータ、複数の言語バインディングを持つAPI、堅牢で設定可能なロギング・サービス、安全な認証IPCプロトコルなどの魅力的な機能は、現代の企業環境には不可欠です。重要なサポートサービスを提供する私たちのビジネスにおいて、オフサイトのレトロスペクティブな分析のために顧客システム上のアーカイブログをキャプチャする能力は、PCPが優れている特に重要な機能です。\""
 
 #: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div.p:284-1
 #, fuzzy
