@@ -42,9 +42,10 @@ msgid "Get Involved"
 msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.h2:45-1
+#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.h2:45-1"
 msgid "FAQ"
-msgstr ""
+msgstr "よくある質問"
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.h3:56-1
 msgid "General Questions"
@@ -1079,7 +1080,7 @@ msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.h4:1317-1
 msgid "Main Menu"
-msgstr ""
+msgstr "メインメニュー"
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1319-1
 msgctxt "upstream/docs/faq.html+html.body.footer.div.div.section.div.div.ul.li:1319-1"
@@ -1098,53 +1099,54 @@ msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.h4:1333-1
 msgid "Developers"
-msgstr ""
+msgstr "開発者"
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1335-1
 msgid "Report an issue"
-msgstr ""
+msgstr "問題を報告する"
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1338-1
 msgid "Roadmap"
-msgstr ""
+msgstr "ロードマップ"
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1341-1
 msgid "Contributing"
-msgstr ""
+msgstr "貢献する"
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1344-1
 msgid "Team"
-msgstr ""
+msgstr "チーム"
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.h4:1352-1
 msgid "About"
-msgstr ""
+msgstr "About"
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1354-1
 msgid "Testimonials"
-msgstr ""
+msgstr "ユーザーの声"
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1357-1
+#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.footer.div.div.section.div.div.ul.li:1357-1"
 msgid "FAQ"
-msgstr ""
+msgstr "よくある質問"
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1360-1
 msgid "Website"
-msgstr ""
+msgstr "ウェブサイト"
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.h4:1368-1
 msgid "Get Social"
-msgstr ""
+msgstr "Get Social"
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1370-1
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1373-1
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.div.p:1383-1
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
-msgstr ""
+msgstr "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
