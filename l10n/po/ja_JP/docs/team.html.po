@@ -13,29 +13,34 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/team.html%2Bhtml.head.title:7-1
+#, fuzzy
 msgctxt "upstream/docs/team.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "Performance Co-Pilot"
 
 #: upstream/docs/team.html%2Bhtml.body.header.div.h1:16-1
+#, fuzzy
 msgctxt "upstream/docs/team.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "Performance Co-Pilot"
 
 #: upstream/docs/team.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
 msgctxt "upstream/docs/team.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/team.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
 msgctxt "upstream/docs/team.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/team.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
 msgctxt "upstream/docs/team.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/team.html%2Bhtml.body.header.div.nav.ul.li:30-1
 msgid "Get Involved"
@@ -79,71 +84,74 @@ msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.h4:89-1
 msgid "Main Menu"
-msgstr ""
+msgstr "メインメニュー"
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:91-1
+#, fuzzy
 msgctxt "upstream/docs/team.html+html.body.footer.div.div.section.div.div.ul.li:91-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:94-1
+#, fuzzy
 msgctxt "upstream/docs/team.html+html.body.footer.div.div.section.div.div.ul.li:94-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:97-1
+#, fuzzy
 msgctxt "upstream/docs/team.html+html.body.footer.div.div.section.div.div.ul.li:97-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.h4:105-1
 msgid "Developers"
-msgstr ""
+msgstr "開発者"
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:107-1
 msgid "Report an issue"
-msgstr ""
+msgstr "問題を報告する"
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:110-1
 msgid "Roadmap"
-msgstr ""
+msgstr "ロードマップ"
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:113-1
 msgid "Contributing"
-msgstr ""
+msgstr "貢献する"
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:116-1
 msgid "Team"
-msgstr ""
+msgstr "チーム"
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.h4:124-1
 msgid "About"
-msgstr ""
+msgstr "About"
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:126-1
 msgid "Testimonials"
-msgstr ""
+msgstr "ユーザーの声"
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:129-1
 msgid "FAQ"
-msgstr ""
+msgstr "よくある質問"
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:132-1
 msgid "Website"
-msgstr ""
+msgstr "ウェブサイト"
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.h4:140-1
 msgid "Get Social"
-msgstr ""
+msgstr "Get Social"
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:142-1
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:145-1
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.div.p:155-1
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
-msgstr ""
+msgstr "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"

@@ -13,29 +13,34 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.head.title:7-1
+#, fuzzy
 msgctxt "upstream/docs/conference/2019/contact.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "Performance Co-Pilot"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.header.div.h1:16-1
+#, fuzzy
 msgctxt "upstream/docs/conference/2019/contact.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "Performance Co-Pilot"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
 msgctxt "upstream/docs/conference/2019/contact.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
 msgctxt "upstream/docs/conference/2019/contact.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
 msgctxt "upstream/docs/conference/2019/contact.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.header.div.nav.ul.li:30-1
 msgid "Get Involved"
@@ -111,71 +116,74 @@ msgstr ""
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.footer.div.div.section.div.div.h4:139-1
 msgid "Main Menu"
-msgstr ""
+msgstr "メインメニュー"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:141-1
+#, fuzzy
 msgctxt "upstream/docs/conference/2019/contact.html+html.body.footer.div.div.section.div.div.ul.li:141-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:144-1
+#, fuzzy
 msgctxt "upstream/docs/conference/2019/contact.html+html.body.footer.div.div.section.div.div.ul.li:144-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:147-1
+#, fuzzy
 msgctxt "upstream/docs/conference/2019/contact.html+html.body.footer.div.div.section.div.div.ul.li:147-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.footer.div.div.section.div.div.h4:155-1
 msgid "Developers"
-msgstr ""
+msgstr "開発者"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:157-1
 msgid "Report an issue"
-msgstr ""
+msgstr "問題を報告する"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:160-1
 msgid "Roadmap"
-msgstr ""
+msgstr "ロードマップ"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:163-1
 msgid "Contributing"
-msgstr ""
+msgstr "貢献する"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:166-1
 msgid "Team"
-msgstr ""
+msgstr "チーム"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.footer.div.div.section.div.div.h4:174-1
 msgid "About"
-msgstr ""
+msgstr "About"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:176-1
 msgid "Testimonials"
-msgstr ""
+msgstr "ユーザーの声"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:179-1
 msgid "FAQ"
-msgstr ""
+msgstr "よくある質問"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:182-1
 msgid "Website"
-msgstr ""
+msgstr "ウェブサイト"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.footer.div.div.section.div.div.h4:190-1
 msgid "Get Social"
-msgstr ""
+msgstr "Get Social"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:192-1
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:195-1
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #: upstream/docs/conference/2019/contact.html%2Bhtml.body.footer.div.div.div.p:205-1
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
-msgstr ""
+msgstr "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
