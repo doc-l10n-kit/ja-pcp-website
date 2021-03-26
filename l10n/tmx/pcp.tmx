@@ -5,50 +5,114 @@
   <body>
     <tu>
       <tuv xml:lang="en">
-        <seg>Performance Co-Pilot</seg>
+        <seg>Main Menu</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
-        <seg>Performance Co-Pilot</seg>
+        <seg>メインメニュー</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>Performance Co-Pilot</seg>
+        <seg>Developers</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
-        <seg>Performance Co-Pilot</seg>
+        <seg>開発者</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>Features</seg>
+        <seg>Report an issue</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
-        <seg>特徴</seg>
+        <seg>問題を報告する</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>Documentation</seg>
+        <seg>Roadmap</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
-        <seg>ドキュメント</seg>
+        <seg>ロードマップ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>Download</seg>
+        <seg>Contributing</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
-        <seg>ダウンロード</seg>
+        <seg>貢献する</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>Performance Co-Pilot</seg>
+        <seg>Team</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
-        <seg>Performance Co-Pilot</seg>
+        <seg>チーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>About</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Testimonials</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ユーザーの声</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>FAQ</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>よくある質問</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Website</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ウェブサイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Get Social</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>Get Social</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Twitter</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>Twitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Github</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>Github</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat</seg>
       </tuv>
     </tu>
     <tu>
@@ -153,14 +217,6 @@
       </tuv>
       <tuv xml:lang="ja_JP">
         <seg>クイックスタート</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Download</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ダウンロード</seg>
       </tuv>
     </tu>
     <tu>
@@ -297,142 +353,6 @@
       </tuv>
       <tuv xml:lang="ja_JP">
         <seg>バグフィックスリリース - systemd サービスユニットの改善とアーカイブロギングの強化。&lt;a href="https://man7.org/linux/man-pages/man1/pmproxy.1.html"&gt;pmproxy&lt;/a&gt;といくつかのメトリックエージェントのバグ修正と改善。&lt;a href="https://man7.org/linux/man-pages/man1/pcp-atop.1.html"&gt;pcp-atop&lt;/a&gt;と&lt;a href="https://man7.org/linux/man-pages/man1/pcp-pmrep.1.html"&gt;pmrep&lt;/a&gt;のモニターツールの改善と修正。継続的インテグレーションの改善。新しい&lt;a href="https://man7.org/linux/man-pages/man1/pmdarabbitmq.1.html"&gt;RabbitMQ&lt;/a&gt;メトリクス。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Main Menu</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>メインメニュー</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Features</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>特徴</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Documentation</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ドキュメント</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Download</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ダウンロード</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Developers</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>開発者</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Report an issue</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>問題を報告する</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Roadmap</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ロードマップ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Contributing</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>貢献する</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Team</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>チーム</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>About</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>About</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Testimonials</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ユーザーの声</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>FAQ</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>よくある質問</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Website</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ウェブサイト</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Get Social</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>Get Social</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Twitter</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>Twitter</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Github</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>Github</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat</seg>
       </tuv>
     </tu>
   </body>
