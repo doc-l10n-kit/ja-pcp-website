@@ -13,14 +13,16 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.head.title:7-1
+#, fuzzy
 msgctxt "upstream/docs/conference/2019/home.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "パフォーマンス・コパイロット"
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.header.div.h1:16-1
+#, fuzzy
 msgctxt "upstream/docs/conference/2019/home.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "パフォーマンス・コパイロット"
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.header.div.nav.ul.li:21-1
 #, fuzzy
@@ -41,64 +43,79 @@ msgid "Download"
 msgstr "ダウンロード"
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.header.div.nav.ul.li:30-1
+#, fuzzy
 msgid "Get Involved"
-msgstr ""
+msgstr "参加する"
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.div.div.div.h1:42-1
+#, fuzzy
 msgid "pcp.conf 2019"
-msgstr ""
+msgstr "pcp.conf 2019"
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.div.div.div.div:43-1
+#, fuzzy
 msgid "Home"
-msgstr ""
+msgstr "ホーム"
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.div.div.div.div:46-1
+#, fuzzy
 msgid "Photos"
-msgstr ""
+msgstr "写真"
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.div.div.div.div:49-1
+#, fuzzy
 msgid "Schedule"
-msgstr ""
+msgstr "スケジュール"
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.div.div.div.div:52-1
+#, fuzzy
 msgid "Contact"
-msgstr ""
+msgstr "連絡先"
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.div.div.div.div:55-1
+#, fuzzy
 msgid "Registration"
-msgstr ""
+msgstr "登録"
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.div.div.div.div.section.div.div.h3:68-1
+#, fuzzy
 msgid "Where? When?"
-msgstr ""
+msgstr "どこで？いつ？"
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:69-1
+#, fuzzy
 msgid "<a href=\"http://www.theoddoneout.com.au/\">125 Flinders Lane, Melbourne</a> <br> The Odd One Out"
-msgstr ""
+msgstr "<a href=\"http://www.theoddoneout.com.au/\">125 Flinders Lane, Melbourne</a> <br>The Odd One Out</br> "
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:74-1
+#, fuzzy
 msgid "Friday 1st March <br> 9am - 5pm"
-msgstr ""
+msgstr "3月1日（金）<br>9:00〜17:00</br> "
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:83-1
+#, fuzzy
 msgid "This year's Performance Co-Pilot conference will be held in Melbourne, Australia!"
-msgstr ""
+msgstr "今年のPerformance Co-Pilotカンファレンスは、オーストラリアのメルボルンで開催されます。"
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:87-1
+#, fuzzy
 msgid "The conference brings together developers and performance analysts to collaborate on current and future PCP developments."
-msgstr ""
+msgstr "このカンファレンスでは、開発者とパフォーマンスアナリストが一堂に会し、現在および将来のPCP開発について協力し合います。"
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:92-1
+#, fuzzy
 msgid "Presentations and discussion will focus on both core PCP technologies, as well as closely related projects such as <a href=\"http://getvector.io/\">Vector</a> , <a href=\"https://grafana.com\">Grafana</a> and <a href=\"https://redis.io/\">Redis</a>"
-msgstr ""
+msgstr "プレゼンテーションとディスカッションでは、PCPのコア技術に加え、<a href=\"http://getvector.io/\">Vector</a>、<a href=\"https://grafana.com\">Grafana</a>、<a href=\"https://redis.io/\">Redis</a>などの密接な関連プロジェクトに焦点を当てます。"
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:101-1
+#, fuzzy
 msgid "Your attendence is free of charge thanks to our wonderful <a href=\"https://www.spi-inc.org/projects/pcp/\">sponsors</a> however we ask that all attendees <a href=\"https://www.eventbrite.com/e/performance-co-pilot-conference-tickets-52947951749\">register</a> to ensure the venue can cater for everyone."
-msgstr ""
+msgstr "参加費は無料ですが、会場の都合上、参加者全員の<a href=\"https://www.eventbrite.com/e/performance-co-pilot-conference-tickets-52947951749\">登録</a>をお願いしています。"
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:108-1
+#, fuzzy
 msgid "Please read the the Linux Foundation events <a href=\"https://events.linuxfoundation.org/code-of-conduct/\">Code of Conduct</a> which we will use once again for this conference."
-msgstr ""
+msgstr "今回のカンファレンスでも採用しているLinux Foundation events<a href=\"https://events.linuxfoundation.org/code-of-conduct/\">Code of</a>Conductをお読みください。"
 
 #: upstream/docs/conference/2019/home.html%2Bhtml.body.footer.div.div.section.div.div.h4:126-1
 msgid "Main Menu"

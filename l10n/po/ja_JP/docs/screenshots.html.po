@@ -13,14 +13,16 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/screenshots.html%2Bhtml.head.title:7-1
+#, fuzzy
 msgctxt "upstream/docs/screenshots.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "パフォーマンス・コパイロット"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.header.div.h1:16-1
+#, fuzzy
 msgctxt "upstream/docs/screenshots.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "パフォーマンス・コパイロット"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.header.div.nav.ul.li:21-1
 #, fuzzy
@@ -41,12 +43,14 @@ msgid "Download"
 msgstr "ダウンロード"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.header.div.nav.ul.li:30-1
+#, fuzzy
 msgid "Get Involved"
-msgstr ""
+msgstr "参加する"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.div.div.div.div.section.div.div.h2:45-1
+#, fuzzy
 msgid "Screenshots"
-msgstr ""
+msgstr "スクリーンショット"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.h4:151-1
 msgid "Main Menu"

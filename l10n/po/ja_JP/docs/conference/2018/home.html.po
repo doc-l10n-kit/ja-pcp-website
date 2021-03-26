@@ -13,14 +13,16 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.head.title:7-1
+#, fuzzy
 msgctxt "upstream/docs/conference/2018/home.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "パフォーマンス・コパイロット"
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.header.div.h1:16-1
+#, fuzzy
 msgctxt "upstream/docs/conference/2018/home.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "パフォーマンス・コパイロット"
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.header.div.nav.ul.li:21-1
 #, fuzzy
@@ -41,60 +43,74 @@ msgid "Download"
 msgstr "ダウンロード"
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.header.div.nav.ul.li:30-1
+#, fuzzy
 msgid "Get Involved"
-msgstr ""
+msgstr "参加する"
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.h1:42-1
+#, fuzzy
 msgid "pcp.conf 2018"
-msgstr ""
+msgstr "pcp.conf 2018"
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div:43-1
+#, fuzzy
 msgid "Home"
-msgstr ""
+msgstr "ホーム"
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div:46-1
+#, fuzzy
 msgid "Photos"
-msgstr ""
+msgstr "写真"
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div:49-1
+#, fuzzy
 msgid "Schedule"
-msgstr ""
+msgstr "スケジュール"
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div:52-1
+#, fuzzy
 msgid "Contact"
-msgstr ""
+msgstr "連絡先"
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div:55-1
+#, fuzzy
 msgid "Registration"
-msgstr ""
+msgstr "登録"
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.h3:68-1
+#, fuzzy
 msgid "Where? When?"
-msgstr ""
+msgstr "どこで？いつ？"
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:69-1
+#, fuzzy
 msgid "<a href=\"http://tokyobay.washington-hotels.jp/location\">Tokyo Bay Ariake Washington Hotel</a> <br> Maple Room"
-msgstr ""
+msgstr "<a href=\"http://tokyobay.washington-hotels.jp/location\">東京ベイ有明ワシントンホテル</a> <br>メイプルルーム</br> "
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:74-1
+#, fuzzy
 msgid "Friday 22nd June <br> 9am - 5pm"
-msgstr ""
+msgstr "6月22日（金）<br>9:00～17:</br>00"
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:83-1
+#, fuzzy
 msgid "The inaugural Performance Co-Pilot conference is bringing together developers and performance analysts to collaborate and learn about recent and future PCP developments."
-msgstr ""
+msgstr "第1回Performance Co-Pilotカンファレンスは、開発者とパフォーマンス・アナリストが一堂に会し、最近のPCPの開発状況や今後の展開について意見交換を行います。"
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:88-1
+#, fuzzy
 msgid "Co-located with the Linux Foundation <a href=\"http://events.linuxfoundation.org/events/open-source-summit-japan/\">Open Source Summit</a> in Japan, this conference also has a deeply technical focus."
-msgstr ""
+msgstr "このカンファレンスは、Linux Foundation<a href=\"http://events.linuxfoundation.org/events/open-source-summit-japan/\">Open Source Summit</a>in Japanと同時開催で、技術的にも深い内容となっています。"
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:93-1
+#, fuzzy
 msgid "Your attendence is free of charge thanks to our generous <a href=\"https://www.spi-inc.org/projects/pcp/\">sponsors</a> and all attendees must be <a href=\"https://www.eventbrite.com/e/performance-co-pilot-conference-tickets-42620817011\">registered</a>"
-msgstr ""
+msgstr " <a href=\"https://www.spi-inc.org/projects/pcp/\">協賛</a>企業のご協力により、参加費は無料となっておりますが、参加される方は必ず<a href=\"https://www.eventbrite.com/e/performance-co-pilot-conference-tickets-42620817011\">登録</a>が必要です。"
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.div.div.div.div.section.div.div.p:99-1
+#, fuzzy
 msgid "All delegates and speakers are required to agree with the Linux Foundation events <a href=\"https://events.linuxfoundation.org/code-of-conduct/\">Code of Conduct .</a>"
-msgstr ""
+msgstr "すべての代表者および講演者は、Linux Foundation イベントの<a href=\"https://events.linuxfoundation.org/code-of-conduct/\">Code of</a>Conduct に同意する必要があります。"
 
 #: upstream/docs/conference/2018/home.html%2Bhtml.body.footer.div.div.section.div.div.h4:117-1
 msgid "Main Menu"
