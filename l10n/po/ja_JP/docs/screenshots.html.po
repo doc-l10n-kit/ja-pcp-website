@@ -47,7 +47,7 @@ msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.h4:151-1
 msgid "Main Menu"
-msgstr ""
+msgstr "メインメニュー"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:153-1
 msgctxt "upstream/docs/screenshots.html+html.body.footer.div.div.section.div.div.ul.li:153-1"
@@ -66,52 +66,52 @@ msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.h4:167-1
 msgid "Developers"
-msgstr ""
+msgstr "開発者"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:169-1
 msgid "Report an issue"
-msgstr ""
+msgstr "問題を報告する"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:172-1
 msgid "Roadmap"
-msgstr ""
+msgstr "ロードマップ"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:175-1
 msgid "Contributing"
-msgstr ""
+msgstr "貢献する"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:178-1
 msgid "Team"
-msgstr ""
+msgstr "チーム"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.h4:186-1
 msgid "About"
-msgstr ""
+msgstr "About"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:188-1
 msgid "Testimonials"
-msgstr ""
+msgstr "ユーザーの声"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:191-1
 msgid "FAQ"
-msgstr ""
+msgstr "よくある質問"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:194-1
 msgid "Website"
-msgstr ""
+msgstr "ウェブサイト"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.h4:202-1
 msgid "Get Social"
-msgstr ""
+msgstr "Get Social"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:204-1
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:207-1
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.div.p:217-1
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
-msgstr ""
+msgstr "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
