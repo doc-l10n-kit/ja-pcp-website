@@ -13,161 +13,197 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/download.html%2Bhtml.head.title:7-1
+#, fuzzy
 msgctxt "upstream/docs/download.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "パフォーマンス・コパイロット"
 
 #: upstream/docs/download.html%2Bhtml.body.header.div.h1:16-1
+#, fuzzy
 msgctxt "upstream/docs/download.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "パフォーマンス・コパイロット"
 
 #: upstream/docs/download.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
 msgctxt "upstream/docs/download.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/download.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
 msgctxt "upstream/docs/download.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/download.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
 msgctxt "upstream/docs/download.html+html.body.header.div.nav.ul.li:27-1upstream/docs/download.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/download.html%2Bhtml.body.header.div.nav.ul.li:30-1
+#, fuzzy
 msgid "Get Involved"
-msgstr ""
+msgstr "参加する"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.h2:45-1
+#, fuzzy
 msgctxt "upstream/docs/download.html+html.body.div.div.div.div.section.div.div.h2:45-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.p:47-1
+#, fuzzy
 msgid "Pre-built Performance Co-Pilot packages and containers can be installed from <a href=\"https://bintray.com/pcp\">BinTray</a>"
-msgstr ""
+msgstr "事前に作成されたPerformance Co-Pilotのパッケージやコンテナを<a href=\"https://bintray.com/pcp\">BinTray</a>からインストールすることができます。"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.p:51-1
+#, fuzzy
 msgid "First find the <a href=\"https://bintray.com/pcp/repositories\">repository</a> and then follow the \"Set Me Up\" instructions appropriate to your distribution."
-msgstr ""
+msgstr "まず<a href=\"https://bintray.com/pcp/repositories\">リポジトリ</a>を見つけて、お使いのディストリビューションに合った「Set Me Up」の指示に従ってください。"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.p:56-1
+#, fuzzy
 msgid "To verify signed package builds, use the PCP maintainers <a href=\"https://bintray.com/user/downloadSubjectPublicKey?username=pcp\">public key</a>"
-msgstr ""
+msgstr "署名されたパッケージのビルドを確認するには、PCPメンテナの<a href=\"https://bintray.com/user/downloadSubjectPublicKey?username=pcp\">公開鍵</a>を使用します。"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.h2:69-1
+#, fuzzy
 msgid "Distributions"
-msgstr ""
+msgstr "ディストリビューション"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.p:71-1
+#, fuzzy
 msgid "Performance Co-Pilot is already included in the most popular distributions (RHEL, Debian, Fedora, Suse, Ubuntu). Here are some instructions to install PCP from your distribution."
-msgstr ""
+msgstr "Performance Co-Pilotは、最も人気のあるディストリビューション（RHEL、Debian、Fedora、Suse、Ubuntu）にすでに含まれています。ここでは、お使いのディストリビューションからPCPをインストールするための手順をご紹介します。"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.h3:86-1
+#, fuzzy
 msgid "Debian / Ubuntu"
-msgstr ""
+msgstr "Debian / Ubuntu"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.pre:87-1
+#, fuzzy
 msgid "apt-get install pcp invoke-rc.d pmcd start invoke-rc.d pmie start invoke-rc.d pmlogger start"
-msgstr ""
+msgstr "apt-get install pcp invoke-rc.d pmcd start invoke-rc.d pmie start invoke-rc.d pmlogger start"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.h3:93-1
+#, fuzzy
 msgid "Fedora / RHEL"
-msgstr ""
+msgstr "Fedora / RHEL"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.pre:94-1
+#, fuzzy
 msgid "yum install pcp # RHEL 6 service pmcd start service pmlogger start service pmie start # RHEL 7 / Fedora systemctl start pmcd systemctl start pmie systemctl start pmlogger"
-msgstr ""
+msgstr "yum install pcp # RHEL 6 service pmcd start service pmlogger start service pmie start # RHEL 7 / Fedora systemctl start pmcd systemctl start pmie systemctl start pmlogger"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.h3:106-1
+#, fuzzy
 msgid "openSUSE"
-msgstr ""
+msgstr "openSUSE"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.p:107-1
+#, fuzzy
 msgid "<a href=\"https://software.opensuse.org/package/pcp\">Direct Install</a> link"
-msgstr ""
+msgstr "<a href=\"https://software.opensuse.org/package/pcp\">ダイレクト・インストール・</a>リンク"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.h3:116-1
+#, fuzzy
 msgid "Solaris"
-msgstr ""
+msgstr "ソラリス"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.p:117-1
+#, fuzzy
 msgid "<a href=\"https://bintray.com/pcp/solaris11\">Here</a> are the Solaris packages"
-msgstr ""
+msgstr "<a href=\"https://bintray.com/pcp/solaris11\">以下</a>はSolarisのパッケージです。"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.h3:132-1
+#, fuzzy
 msgid "Mac OSX"
-msgstr ""
+msgstr "Mac OSX"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.p:133-1
+#, fuzzy
 msgid "<a href=\"https://bintray.com/pcp/macosx\">DMG</a> files"
-msgstr ""
+msgstr "<a href=\"https://bintray.com/pcp/macosx\">DMG</a>ファイル"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.h3:142-1
+#, fuzzy
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.p:143-1
+#, fuzzy
 msgid "<a href=\"https://bintray.com/pcp/windows\">Here</a> are the Windows MSI packages (NB: they are a bit outdated, we're working on it)"
-msgstr ""
+msgstr "WindowsのMSIパッケージは以下の通り<a href=\"https://bintray.com/pcp/windows\">です</a>（注：少し古いです。"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.h2:158-1
+#, fuzzy
 msgid "Source code"
-msgstr ""
+msgstr "ソースコード"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.p:159-1
+#, fuzzy
 msgid "Source .tar.gz files can be found here: <a href=\"https://bintray.com/pcp/source\">PCP source</a>"
-msgstr ""
+msgstr "ソースの.tar.gzファイルはこちらからご覧いただけます。<a href=\"https://bintray.com/pcp/source\">PCPソース</a>"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.p:163-1
+#, fuzzy
 msgid "Git clone from the <a href=\"https://github.com/performancecopilot/pcp\">PCP repository</a>"
-msgstr ""
+msgstr " <a href=\"https://github.com/performancecopilot/pcp\">PCPリポジトリ</a>からのGitクローン"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.p:168-1
+#, fuzzy
 msgid "Grafana plugin: <a href=\"https://github.com/performancecopilot/grafana-pcp\">git://github.com/performancecopilot/grafana-pcp.git</a>"
-msgstr ""
+msgstr "Grafanaプラグイン：<a href=\"https://github.com/performancecopilot/grafana-pcp\">git://github.com/performancecopilot/grafana-pcp.git</a>"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.p:172-1
+#, fuzzy
 msgid "Ansible roles: <a href=\"https://github.com/performancecopilot/ansible-pcp\">git://github.com/performancecopilot/ansible-pcp.git</a>"
-msgstr ""
+msgstr "Ansibleの役割：<a href=\"https://github.com/performancecopilot/ansible-pcp\">git://github.com/performancecopilot/ansible-pcp.git</a>"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.p:176-1
+#, fuzzy
 msgid "Java instrumentation: <a href=\"https://github.com/performancecopilot/parfait\">git://github.com/performancecopilot/parfait.git</a>"
-msgstr ""
+msgstr "Javaインストルメント：<a href=\"https://github.com/performancecopilot/parfait\">git://github.com/performancecopilot/parfait.git</a>"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.p:180-1
+#, fuzzy
 msgid "C++ PMDA interface: <a href=\"https://github.com/pcolby/pcp-pmda-cpp.git\">git://github.com/pcolby/pcp-pmda-cpp.git</a>"
-msgstr ""
+msgstr "C++ PMDAインターフェース:<a href=\"https://github.com/pcolby/pcp-pmda-cpp.git\">git://github.com/pcolby/pcp-pmda-cpp.git</a>"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.p:184-1
+#, fuzzy
 msgid "Apache Qpid metrics: <a href=\"https://github.com/pcolby/pcp-pmda-qpid.git\">git://github.com/pcolby/pcp-pmda-qpid.git</a>"
-msgstr ""
+msgstr "Apache Qpidメトリクス:<a href=\"https://github.com/pcolby/pcp-pmda-qpid.git\">git://github.com/pcolby/pcp-pmda-qpid.git</a>"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.p:188-1
+#, fuzzy
 msgid "PDF graph converter: <a href=\"https://github.com/performancecopilot/pcp2pdf\">git://github.com/performancecopilot/pcp2pdf.git</a>"
-msgstr ""
+msgstr "PDFグラフコンバータ:<a href=\"https://github.com/performancecopilot/pcp2pdf\">git://github.com/performancecopilot/pcp2pdf.git</a>"
 
 #: upstream/docs/download.html%2Bhtml.body.footer.div.div.section.div.div.h4:205-1
 msgid "Main Menu"
 msgstr "メインメニュー"
 
 #: upstream/docs/download.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:207-1
+#, fuzzy
 msgctxt "upstream/docs/download.html+html.body.footer.div.div.section.div.div.ul.li:207-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/download.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:210-1
+#, fuzzy
 msgctxt "upstream/docs/download.html+html.body.footer.div.div.section.div.div.ul.li:210-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメンテーション"
 
 #: upstream/docs/download.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:213-1
+#, fuzzy
 msgctxt "upstream/docs/download.html+html.body.footer.div.div.section.div.div.ul.li:213-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/download.html%2Bhtml.body.footer.div.div.section.div.div.h4:221-1
 msgid "Developers"
