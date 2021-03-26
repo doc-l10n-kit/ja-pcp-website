@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-26 09:14+0000\n"
+"POT-Creation-Date: 2021-03-26 10:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,123 +13,99 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/docs/glossary.html%2Bhtml.head.title:8-2
-#, fuzzy
 msgctxt "upstream/docs/docs/glossary.html+html.head.title:8-2"
 msgid "PCP Glossary"
-msgstr "PCP用語集"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.table.tr.td.font.a.img[alt]:12-78
-#, fuzzy
 msgid "pmcharticon"
-msgstr "pmcharticon"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.table.tr.td.p:14-16
-#, fuzzy
 msgid "<a href=\"index.html\"><font color=\"#cc0000\">Home</font></a> · <a href=\"lab.pmchart.html\"><font color=\"#cc0000\">Charts</font></a> · <a href=\"timecontrol.html\"><font color=\"#cc0000\">Time Control</font></a>"
-msgstr "<a href=\"index.html\"><font color=\"#cc0000\">ホーム</font></a>· <a href=\"lab.pmchart.html\"><font color=\"#cc0000\">チャート</font></a>· <a href=\"timecontrol.html\"><font color=\"#cc0000\">時間管理</font></a>"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.h1:17-1
-#, fuzzy
 msgctxt "upstream/docs/docs/glossary.html+html.body.h1:17-1"
 msgid "PCP Glossary"
-msgstr "PCP用語集"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.p:19-1
-#, fuzzy
 msgid "<b>archive folio</b> - a collection of PCP <a href=\"#archive\">archive logs</a> that can be processed as a group using <i>pmafm</i>."
-msgstr "<b>archive folio</b> -<i>pmafm</i>を使ってグループとして処理可能なPCP<a href=\"#archive\">アーカイブログ</a>のコレクションです。"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.p:20-1
-#, fuzzy
 msgid "<b><a name=\"archive\">archive log</a></b> - a set of physical files containing a collection of <a href=\"#metric\">performance metrics</a> from a single <a href=\"#collector\">collector system</a>. Archive logs are created by the program <i>pmlogger</i> and may be used with any PCP tools to provide retrospective performance analysis."
-msgstr "<b><a name=\"archive\">archive log</a></b>- 1つの<a href=\"#collector\">コレクターシステム</a>からの<a href=\"#metric\">パフォーマンスメトリクス</a>のコレクションを含む一連の物理ファイル。アーカイブログは<i>pmlogger</i>というプログラムで作成され、PCPツールで使用することで過去のパフォーマンスを分析することができます。"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.p:21-1
-#, fuzzy
 msgid "<b><a name=\"domain\">domain</a> number</b> - each <a href=\"#PMDA\">PMDA</a> is assigned a unique identifier (or domain number) that differentiates PMDAs on a collector system. For global consistency, a particular PMDA will be assigned the same domain number for <b>all</b> <a href=\"#collector\">collector systems</a> on which it is installed."
-msgstr "<b><a name=\"domain\">domain</a> number</b>- 各<a href=\"#PMDA\">PMDA</a>には、コレクターシステム上のPMDAを区別するための固有の識別子（またはドメイン番号）が割り当てられています。グローバルな一貫性を保つために、特定のPMDAは、それがインストールされている<b>all</b> <a href=\"#collector\">コレクターシステム</a>に対して同じドメイン番号が割り当てられます。"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.p:22-1
-#, fuzzy
 msgid "<b><a name=\"collector\">collector system</a></b> - a host upon which a <a href=\"#PMCD\">PMCD</a> is running to collect and export <a href=\"#metric\">performance metrics</a> using the locally configured <a href=\"#PMDA\">PMDAs</a>."
-msgstr "<b><a name=\"collector\">collector system</a></b>-<a href=\"#PMCD\">PMCD</a>が動作しているホストで、ローカルに設定された<a href=\"#PMDA\">PMDA</a>を使用して<a href=\"#metric\">パフォーマンス・メトリクス</a>を収集し、エクスポートすることができます。"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.p:23-1
-#, fuzzy
 msgid "<b><a name=\"instance identifiers\">instance</a></b> <b>identifiers</b>- some <a href=\"#metric\">performance metrics</a> have an associated <b>set</b> of values, e.g. the number of I/O disk operations is a metric, that has a set of values, one per disk spindle on any particular system. Each value is associated with an instance identifier that may be used to differentiate between the values that particular performance metric. Instance identifiers have both an internal (integer) encoding and an external (textual) name."
-msgstr "<b><a name=\"instance identifiers\">instance</a></b> <b>identifiers</b>- 一部の<a href=\"#metric\">パフォーマンスメトリクス</a>は、関連する<b>set</b> の値を持っています。例えば、I/O ディスク操作数は、特定のシステムのディスクスピンドルごとに1つの値のセットを持つメトリクスです。各値は、特定のパフォーマンス指標の値を区別するために使用されるインスタンス識別子と関連しています。インスタンス識別子には、内部（整数）エンコーディングと外部（テキスト）名称があります。"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.p:24-1
-#, fuzzy
 msgid "<b>instance domain</b> - the set of <a href=\"#instance\">instance identifiers</a> for a single <a href=\"#metric\">performance metric</a>. Note that many metrics may share the same instance domain, e.g. per CPU, or per network interface, or per Web server, and the members of an instance domain are likely to be different on different hosts."
-msgstr "<b>instance domain</b> - 1つの<a href=\"#metric\">パフォーマンス・メトリック</a>の<a href=\"#instance\">インスタンス識別子</a>のセット。多くの指標が同じインスタンス・ドメインを共有している場合があります。例えば、CPUごと、ネットワーク・インターフェースごと、ウェブ・サーバーごとなどです。"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.p:25-1
-#, fuzzy
 msgid "<b><a name=\"monitor\">monitor system</a></b> - a host upon which the PCP monitor tools are installed to support the display, plotting, visualization and automated reasoning, using <a href=\"#metric\">performance metrics</a> fetched from a <a href=\"#PMDA\">PMDA</a>, or from a PCP archive log."
-msgstr "<b><a name=\"monitor\">monitor system</a></b>- PCPモニターツールがインストールされたホストで、<a href=\"#PMDA\">PMDA</a>やPCPアーカイブログから取得した<a href=\"#metric\">パフォーマンスメトリクス</a>の表示、プロッティング、ビジュアライゼーション、自動推論をサポートします。"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.p:26-1
-#, fuzzy
 msgid "<b><a name=\"PCP\">PCP</a></b> - the Performance Co-Pilot toolkit, a suite of tools useful for system level performance management."
-msgstr "<b><a name=\"PCP\">PCP</a></b>- システムレベルのパフォーマンス管理に有用なツール群であるPerformance Co-Pilotツールキットを提供します。"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.p:27-1
-#, fuzzy
 msgid "<b>PCP GUI</b> - utilities that build on the base PCP software providing additional <a href=\"#monitor\">monitor</a> functionality, graphical user interface (GUI) tools in particular."
-msgstr "<b>PCP GUI</b> - PCPソフトウェアをベースに開発されたユーティリティで、追加の<a href=\"#monitor\">モニター</a>機能、特にグラフィカル・ユーザー・インターフェース（GUI）ツールを提供します。"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.p:28-1
-#, fuzzy
 msgid "<b>PCP Glider</b> - a distribution of software that provides PCP and PCP GUI, along with essential supporting tools and libraries for the Microsoft Windows platform."
-msgstr "<b>PCP Glider</b> - PCPとPCP GUI、および必須のサポートツールとライブラリをMicrosoft Windowsプラットフォーム向けに提供するソフトウェアのディストリビューションです。"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.p:29-1
-#, fuzzy
 msgid "<b><a name=\"metric\">performance metric</a></b> - any performance-related measurement of activity or resource utilization."
-msgstr "<b><a name=\"metric\">performance metric</a></b>- アクティビティやリソースの利用に関するパフォーマンス関連の測定。"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.p:30-1
-#, fuzzy
 msgid "<b>PDU</b> - Protocol Data Unit. In the PCP context this relates to the encoding of PCP requests into messages for transmission via TCP/IP. PDUs are used to implement all communication between the PCP monitor tools and a <a href=\"#PMCD\">PMCD</a>, and between a PMCD and those <a href=\"#PMDA\">PMDAs</a> that execute as separate processes."
-msgstr "<b>PDU</b> - Protocol Data Unit（プロトコルデータユニット）。PCPにおいては、TCP/IP経由で送信されるPCPリクエストのメッセージへのエンコードに関するものです。PDUは、PCPモニターツールと<a href=\"#PMCD\">PMCD</a>の間、およびPMCDと別のプロセスとして実行される<a href=\"#PMDA\">PMDA</a>の間のすべての通信を実装するために使用されます。"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.p:31-1
-#, fuzzy
 msgid "<b><a name=\"PMAPI\">PMAPI</a></b> - Performance Metrics Application Programming Interface. The interface by which an application developer gains access to PCP services that relate to the fetching of <a href=\"#metric\">performance metrics</a>."
-msgstr "<b><a name=\"PMAPI\">PMAPI</a></b>- Performance Metrics Application Programming Interfaceの略。アプリケーション開発者が、<a href=\"#metric\">パフォーマンス・メトリクス</a>の取得に関連するPCPサービスにアクセスするためのインターフェース。"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.p:32-1
-#, fuzzy
 msgid "<b><a name=\"PMCD\">PMCD</a></b> - Performance Metrics Collection Daemon. On each host configured as a PCP <a href=\"#collector\">collector</a>, the PMCD services in-coming requests and controls the operation of the <a href=\"#PMDA\">PMDAs</a>."
-msgstr "<b><a name=\"PMCD\">PMCD</a></b>- パフォーマンス・メトリクス・コレクション・デーモン。PCP<a href=\"#collector\">コレクター</a>として設定された各ホスト上で、PMCDは受信したリクエストを処理し、<a href=\"#PMDA\">PMDA</a>の動作を制御します。"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.p:33-1
-#, fuzzy
 msgid "<b><a name=\"PMDA\">PMDA</a></b> - Performance Metrics Domain Agent. Each PMDA includes the methods necessary to instantiate <a href=\"#metric\">performance metrics</a> from a particular subsystem, e.g. the kernel or a RDBMS or an application, and is launched by the <a href=\"#PMCD\">PMCD</a>. It is expected that customized PMDAs will be developed for applications with critical performance impacts."
-msgstr "<b><a name=\"PMDA\">PMDA</a></b>- Performance Metrics Domain Agentの略。各PMDAには、特定のサブシステム（カーネル、RDBMS、アプリケーションなど）から<a href=\"#metric\">パフォーマンス・メトリクス</a>をインスタンス化するために必要なメソッドが含まれており、<a href=\"#PMCD\">PMCD</a>によって起動されます。パフォーマンスに重大な影響を与えるアプリケーションのために、カスタマイズされたPMDAが開発されることが期待されています。"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.p:34-1
-#, fuzzy
 msgid "<b>PMCS</b> - Performance Metrics Collection System. The infrastructure used to collect, export and transport <a href=\"#metric\">performance metrics</a>, usually the combination of <a href=\"#PMCD\">PMCD</a>, <a href=\"#PMDA\">PMDAs</a> and <a href=\"#PMAPI\">PMAPI</a> services."
-msgstr "<b>PMCS</b> - Performance Metrics Collection System の略。<a href=\"#metric\">パフォーマンス・メトリクス</a>を収集、エクスポート、転送するために使用されるインフラストラクチャで、通常は<a href=\"#PMCD\">PMCD</a>、<a href=\"#PMDA\">PMDA</a>、<a href=\"#PMAPI\">PMAPI</a>サービスの組み合わせである。"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.p:35-1
-#, fuzzy
 msgid "<b>PMNS</b> - Performance Metrics Name Space. A user-visible mapping between external names and PMIDs for <a href=\"#metric\">performance metrics</a>. The PMNS is managed by <a href=\"#pmcd\">PMCD</a> and its <a href=\"#PMDA\">PMDAs</a>."
-msgstr "<b>PMNS</b> - Performance Metrics Name Spaceの略。<a href=\"#metric\">パフォーマンス・メトリクス</a>の外部名称とPMIDの間のユーザーに見えるマッピングです。PMNSは、<a href=\"#pmcd\">PMCD</a>とその<a href=\"#PMDA\">PMDA</a>によって管理されています。"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.p:36-1
-#, fuzzy
 msgid "<b>PMID</b> - Performance Metrics Identifier. Every <a href=\"#metric\">performance metric</a> has an associated unique identifier. The high-order bits of the PMID encode the corresponding <a href=\"#PMDA\">PMDA</a>'s <a href=\"#domain\">domain</a> number."
-msgstr "<b>PMID</b> - Performance Metrics Identifier（パフォーマンス・メトリックの識別子）。すべての<a href=\"#metric\">パフォーマンス・メトリック</a>には、関連する固有の識別子があります。PMIDの上位ビットには、対応する<a href=\"#PMDA\">PMDA</a>の<a href=\"#domain\">ドメイン</a>番号が記されています。"
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.center.table.tr.td.p:42-23
-#, fuzzy
 msgid "Copyright © 2007-2010 <a href=\"https://www.aconex.com/\"><font color=\"#000060\">Aconex</font></a><br>Copyright © 2000-2004 <a href=\"https://www.sgi.com/\"><font color=\"#000060\">Silicon Graphics Inc</font></a>"
-msgstr "著作権 © 2007-2010 <a href=\"https://www.aconex.com/\"><font color=\"#000060\">アコーネックス</font></a><br>Copyright © 2000-2004<a href=\"https://www.sgi.com/\"><font color=\"#000060\">Silicon Graphics Inc</font></a></br>."
+msgstr ""
 
 #: upstream/docs/docs/glossary.html%2Bhtml.body.center.table.tr.td.p:43-18
-#, fuzzy
 msgid "<a href=\"https://pcp.io/\"><font color=\"#000060\">PCP Site</font></a><br>Copyright © 2012-2018 <a href=\"https://www.redhat.com/\"><font color=\"#000060\">Red Hat</font></a>"
-msgstr "<a href=\"https://pcp.io/\"><font color=\"#000060\">PCPサイト</font></a><br>著作権 © 2012-2018<a href=\"https://www.redhat.com/\"><font color=\"#000060\">Red Hat</font></a></br>"
+msgstr ""
