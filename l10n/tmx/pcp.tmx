@@ -117,30 +117,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>Features</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>特徴</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Documentation</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ドキュメント</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Download</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ダウンロード</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
         <seg>Performance Co-Pilot is a system performance analysis toolkit.</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
@@ -241,14 +217,6 @@
       </tuv>
       <tuv xml:lang="ja_JP">
         <seg>クイックスタート</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Download</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ダウンロード</seg>
       </tuv>
     </tu>
     <tu>
@@ -389,62 +357,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>Features</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>特徴</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Documentation</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ドキュメント</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Download</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ダウンロード</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Features</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>特徴</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Documentation</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ドキュメント</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Download</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ダウンロード</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Features</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>特徴</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
         <seg>&lt;strong&gt;Kernel agents&lt;/strong&gt; for each supported platform. The Linux agent exports a broad range of performance data from kernels since 2.0.36 or later. This includes coverage of activity in the areas of: CPU, disk, memory, swapping, network, NFS, RPC, filesystems, and per-process statistics.</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
@@ -545,30 +457,6 @@
       </tuv>
       <tuv xml:lang="ja_JP">
         <seg>ライブラリとサンプル実装によって、あなたのアプリケーション環境で重要となるパフォーマンスデータを、他の一般的なパフォーマンスデータと一緒にキャプチャしてエクスポートするための新しい「プラグイン」（またはエージェント）の開発が容易になります。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Features</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>特徴</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Documentation</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ドキュメント</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Download</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ダウンロード</seg>
       </tuv>
     </tu>
   </body>
