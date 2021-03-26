@@ -23,19 +23,22 @@ msgid "Performance Co-Pilot"
 msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
 msgctxt "upstream/docs/glider.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/glider.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
 msgctxt "upstream/docs/glider.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/glider.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
 msgctxt "upstream/docs/glider.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/glider.html%2Bhtml.body.header.div.nav.ul.li:30-1
 msgid "Get Involved"
@@ -83,71 +86,74 @@ msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.h4:110-1
 msgid "Main Menu"
-msgstr ""
+msgstr "メインメニュー"
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:112-1
+#, fuzzy
 msgctxt "upstream/docs/glider.html+html.body.footer.div.div.section.div.div.ul.li:112-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:115-1
+#, fuzzy
 msgctxt "upstream/docs/glider.html+html.body.footer.div.div.section.div.div.ul.li:115-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:118-1
+#, fuzzy
 msgctxt "upstream/docs/glider.html+html.body.footer.div.div.section.div.div.ul.li:118-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.h4:126-1
 msgid "Developers"
-msgstr ""
+msgstr "開発者"
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:128-1
 msgid "Report an issue"
-msgstr ""
+msgstr "問題を報告する"
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:131-1
 msgid "Roadmap"
-msgstr ""
+msgstr "ロードマップ"
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:134-1
 msgid "Contributing"
-msgstr ""
+msgstr "貢献する"
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:137-1
 msgid "Team"
-msgstr ""
+msgstr "チーム"
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.h4:145-1
 msgid "About"
-msgstr ""
+msgstr "About"
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:147-1
 msgid "Testimonials"
-msgstr ""
+msgstr "ユーザーの声"
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:150-1
 msgid "FAQ"
-msgstr ""
+msgstr "よくある質問"
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:153-1
 msgid "Website"
-msgstr ""
+msgstr "ウェブサイト"
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.h4:161-1
 msgid "Get Social"
-msgstr ""
+msgstr "Get Social"
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:163-1
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:166-1
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #: upstream/docs/glider.html%2Bhtml.body.footer.div.div.div.p:176-1
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
-msgstr ""
+msgstr "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"

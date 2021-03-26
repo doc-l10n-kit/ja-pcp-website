@@ -23,19 +23,22 @@ msgid "Performance Co-Pilot"
 msgstr ""
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
 msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
 msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
 msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.header.div.nav.ul.li:30-1
 msgid "Get Involved"
@@ -199,71 +202,74 @@ msgstr ""
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.h4:269-1
 msgid "Main Menu"
-msgstr ""
+msgstr "メインメニュー"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:271-1
+#, fuzzy
 msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.footer.div.div.section.div.div.ul.li:271-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:274-1
+#, fuzzy
 msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.footer.div.div.section.div.div.ul.li:274-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:277-1
+#, fuzzy
 msgctxt "upstream/docs/gsod/2021/ideas.html+html.body.footer.div.div.section.div.div.ul.li:277-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.h4:285-1
 msgid "Developers"
-msgstr ""
+msgstr "開発者"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:287-1
 msgid "Report an issue"
-msgstr ""
+msgstr "問題を報告する"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:290-1
 msgid "Roadmap"
-msgstr ""
+msgstr "ロードマップ"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:293-1
 msgid "Contributing"
-msgstr ""
+msgstr "貢献する"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:296-1
 msgid "Team"
-msgstr ""
+msgstr "チーム"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.h4:304-1
 msgid "About"
-msgstr ""
+msgstr "About"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:306-1
 msgid "Testimonials"
-msgstr ""
+msgstr "ユーザーの声"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:309-1
 msgid "FAQ"
-msgstr ""
+msgstr "よくある質問"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:312-1
 msgid "Website"
-msgstr ""
+msgstr "ウェブサイト"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.h4:320-1
 msgid "Get Social"
-msgstr ""
+msgstr "Get Social"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:322-1
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:325-1
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #: upstream/docs/gsod/2021/ideas.html%2Bhtml.body.footer.div.div.div.p:335-1
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
-msgstr ""
+msgstr "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
