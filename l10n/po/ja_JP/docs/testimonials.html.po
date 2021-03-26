@@ -42,9 +42,10 @@ msgid "Get Involved"
 msgstr ""
 
 #: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div.h2:45-1
+#, fuzzy
 msgctxt "upstream/docs/testimonials.html+html.body.div.div.div.div.section.div.div.h2:45-1"
 msgid "Testimonials"
-msgstr ""
+msgstr "ユーザーの声"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.div.div.div.div.section.div.div.p:46-1
 msgid "See who is using Performance Co-Pilot right now"
@@ -124,7 +125,7 @@ msgstr ""
 
 #: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.h4:303-1
 msgid "Main Menu"
-msgstr ""
+msgstr "メインメニュー"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:305-1
 msgctxt "upstream/docs/testimonials.html+html.body.footer.div.div.section.div.div.ul.li:305-1"
@@ -143,53 +144,54 @@ msgstr ""
 
 #: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.h4:319-1
 msgid "Developers"
-msgstr ""
+msgstr "開発者"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:321-1
 msgid "Report an issue"
-msgstr ""
+msgstr "問題を報告する"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:324-1
 msgid "Roadmap"
-msgstr ""
+msgstr "ロードマップ"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:327-1
 msgid "Contributing"
-msgstr ""
+msgstr "貢献する"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:330-1
 msgid "Team"
-msgstr ""
+msgstr "チーム"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.h4:338-1
 msgid "About"
-msgstr ""
+msgstr "About"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:340-1
+#, fuzzy
 msgctxt "upstream/docs/testimonials.html+html.body.footer.div.div.section.div.div.ul.li:340-1"
 msgid "Testimonials"
-msgstr ""
+msgstr "ユーザーの声"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:343-1
 msgid "FAQ"
-msgstr ""
+msgstr "よくある質問"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:346-1
 msgid "Website"
-msgstr ""
+msgstr "ウェブサイト"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.h4:354-1
 msgid "Get Social"
-msgstr ""
+msgstr "Get Social"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:356-1
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:359-1
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #: upstream/docs/testimonials.html%2Bhtml.body.footer.div.div.div.p:369-1
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
-msgstr ""
+msgstr "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
