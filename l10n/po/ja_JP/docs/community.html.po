@@ -99,7 +99,7 @@ msgstr ""
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.h4:183-1
 msgid "Main Menu"
-msgstr ""
+msgstr "メインメニュー"
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:185-1
 msgctxt "upstream/docs/community.html+html.body.footer.div.div.section.div.div.ul.li:185-1"
@@ -118,52 +118,52 @@ msgstr ""
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.h4:199-1
 msgid "Developers"
-msgstr ""
+msgstr "開発者"
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:201-1
 msgid "Report an issue"
-msgstr ""
+msgstr "問題を報告する"
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:204-1
 msgid "Roadmap"
-msgstr ""
+msgstr "ロードマップ"
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:207-1
 msgid "Contributing"
-msgstr ""
+msgstr "貢献する"
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:210-1
 msgid "Team"
-msgstr ""
+msgstr "チーム"
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.h4:218-1
 msgid "About"
-msgstr ""
+msgstr "About"
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:220-1
 msgid "Testimonials"
-msgstr ""
+msgstr "ユーザーの声"
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:223-1
 msgid "FAQ"
-msgstr ""
+msgstr "よくある質問"
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:226-1
 msgid "Website"
-msgstr ""
+msgstr "ウェブサイト"
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.h4:234-1
 msgid "Get Social"
-msgstr ""
+msgstr "Get Social"
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:236-1
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:239-1
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.div.p:249-1
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
-msgstr ""
+msgstr "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
