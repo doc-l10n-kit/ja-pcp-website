@@ -13,92 +13,111 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/website.html%2Bhtml.head.title:7-1
+#, fuzzy
 msgctxt "upstream/docs/website.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "パフォーマンス・コパイロット"
 
 #: upstream/docs/website.html%2Bhtml.body.header.div.h1:16-1
+#, fuzzy
 msgctxt "upstream/docs/website.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "パフォーマンス・コパイロット"
 
 #: upstream/docs/website.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
 msgctxt "upstream/docs/website.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/website.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
 msgctxt "upstream/docs/website.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメンテーション"
 
 #: upstream/docs/website.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
 msgctxt "upstream/docs/website.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/website.html%2Bhtml.body.header.div.nav.ul.li:30-1
+#, fuzzy
 msgid "Get Involved"
-msgstr ""
+msgstr "参加する"
 
 #: upstream/docs/website.html%2Bhtml.body.div.div.div.div.section.div.div.h2:45-1
+#, fuzzy
 msgid "Website Credits"
-msgstr ""
+msgstr "ウェブサイトクレジット"
 
 #: upstream/docs/website.html%2Bhtml.body.div.div.div.div.section.div.div.h3:56-1
+#, fuzzy
 msgid "Artwork"
-msgstr ""
+msgstr "アートワーク"
 
 #: upstream/docs/website.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:58-1
+#, fuzzy
 msgid "Google material design"
-msgstr ""
+msgstr "Google マテリアルデザイン"
 
 #: upstream/docs/website.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:61-1
+#, fuzzy
 msgid "<a href=\"https://www.flickr.com/photos/31246066@N04/\">Community picture</a> by Ian Sane"
-msgstr ""
+msgstr "<a href=\"https://www.flickr.com/photos/31246066@N04/\">コミュニティ写真</a>：Ian Sane"
 
 #: upstream/docs/website.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:65-1
+#, fuzzy
 msgid "CSS Template by <a href=\"http://sass.fffunction.co/\">Sassaparilla</a>"
-msgstr ""
+msgstr " <a href=\"http://sass.fffunction.co/\">Sassaparilla</a>によるCSSテンプレート"
 
 #: upstream/docs/website.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:69-1
+#, fuzzy
 msgid "Made with <a href=\"http://sass-lang.com/\">SASS</a> , <a href=\"http://compass-style.org/\">Compass</a> and <a href=\"http://haml.info/\">HAML</a>"
-msgstr ""
+msgstr " <a href=\"http://sass-lang.com/\">SASS</a>、<a href=\"http://compass-style.org/\">Compass</a>、<a href=\"http://haml.info/\">HAML</a>で作られています。"
 
 #: upstream/docs/website.html%2Bhtml.body.div.div.div.div.section.div.div.h3:84-1
+#, fuzzy
 msgid "Content"
-msgstr ""
+msgstr "コンテンツ"
 
 #: upstream/docs/website.html%2Bhtml.body.div.div.div.div.section.div.div.p:85-1
+#, fuzzy
 msgid "Content curated by the Performance Co-Pilot project."
-msgstr ""
+msgstr "Performance Co-Pilotプロジェクトが監修したコンテンツです。"
 
 #: upstream/docs/website.html%2Bhtml.body.div.div.div.div.section.div.div.p:88-1
+#, fuzzy
 msgid "Thanks to <a href=\"http://uauage.org\">Sol Kawage</a> for help with graphics, layouts and suggestions."
-msgstr ""
+msgstr "グラフィック、レイアウト、提案に協力してくれた<a href=\"http://uauage.org\">Sol Kawage</a>氏に感謝します。"
 
 #: upstream/docs/website.html%2Bhtml.body.div.div.div.div.section.div.div.p:93-1
+#, fuzzy
 msgid "Website repository maintained in git <a href=\"https://github.com/performancecopilot/pcp-website\">here</a>"
-msgstr ""
+msgstr "ウェブサイトのリポジトリはgitで管理されてい<a href=\"https://github.com/performancecopilot/pcp-website\">ます</a>。"
 
 #: upstream/docs/website.html%2Bhtml.body.footer.div.div.section.div.div.h4:110-1
 msgid "Main Menu"
 msgstr "メインメニュー"
 
 #: upstream/docs/website.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:112-1
+#, fuzzy
 msgctxt "upstream/docs/website.html+html.body.footer.div.div.section.div.div.ul.li:112-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/website.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:115-1
+#, fuzzy
 msgctxt "upstream/docs/website.html+html.body.footer.div.div.section.div.div.ul.li:115-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメンテーション"
 
 #: upstream/docs/website.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:118-1
+#, fuzzy
 msgctxt "upstream/docs/website.html+html.body.footer.div.div.section.div.div.ul.li:118-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/website.html%2Bhtml.body.footer.div.div.section.div.div.h4:126-1
 msgid "Developers"
