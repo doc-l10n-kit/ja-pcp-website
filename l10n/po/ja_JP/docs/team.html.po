@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-26 04:22+0000\n"
+"POT-Creation-Date: 2021-03-26 05:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,155 +13,137 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/team.html%2Bhtml.head.title:7-1
-#, fuzzy
 msgctxt "upstream/docs/team.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr "パフォーマンス・コパイロット"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.header.div.h1:16-1
-#, fuzzy
 msgctxt "upstream/docs/team.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr "パフォーマンス・コパイロット"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.header.div.nav.ul.li:21-1
-#, fuzzy
 msgctxt "upstream/docs/team.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.header.div.nav.ul.li:24-1
-#, fuzzy
 msgctxt "upstream/docs/team.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr "ドキュメント"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.header.div.nav.ul.li:27-1
-#, fuzzy
 msgctxt "upstream/docs/team.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.header.div.nav.ul.li:30-1
-#, fuzzy
 msgid "Get Involved"
-msgstr "参加する"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.div.div.div.div.section.div.div.h2:48-1
-#, fuzzy
 msgid "Maintainers"
-msgstr "メンテナンス"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.div.div.div.div.section.div.div.p:49-1
-#, fuzzy
 msgid "Performance Co-Pilot releases are coordinated by the core team."
-msgstr "Performance Co-Pilotのリリースは、コアチームによって調整されます。"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:52-1
-#, fuzzy
 msgid "Andreas Gerstmayr"
-msgstr "Andreas Gerstmayr"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:55-1
-#, fuzzy
 msgid "Ken McDonell"
-msgstr "ケン・マクドネル"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:58-1
-#, fuzzy
 msgid "Lukas Berk"
-msgstr "ルーカス・ベルク"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:61-1
-#, fuzzy
 msgid "Mark Goodwin"
-msgstr "マーク・グッドウィン"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:64-1
-#, fuzzy
 msgid "Marko Myllynen"
-msgstr "Marko Myllynen"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:67-1
-#, fuzzy
 msgid "Nathan Scott"
-msgstr "ネイサン・スコット"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.div.div.div.div.section.div.div.p:72-1
-#, fuzzy
 msgid "Bringing together the efforts of a fantastic <a href=\"https://github.com/performancecopilot/pcp/graphs/contributors\">developer community.</a>"
-msgstr "素晴らしい<a href=\"https://github.com/performancecopilot/pcp/graphs/contributors\">開発者のコミュニティ</a>の努力を結集する。"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.h4:89-1
 msgid "Main Menu"
-msgstr "メインメニュー"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:91-1
-#, fuzzy
 msgctxt "upstream/docs/team.html+html.body.footer.div.div.section.div.div.ul.li:91-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:94-1
-#, fuzzy
 msgctxt "upstream/docs/team.html+html.body.footer.div.div.section.div.div.ul.li:94-1"
 msgid "Documentation"
-msgstr "ドキュメント"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:97-1
-#, fuzzy
 msgctxt "upstream/docs/team.html+html.body.footer.div.div.section.div.div.ul.li:97-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.h4:105-1
 msgid "Developers"
-msgstr "開発者"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:107-1
 msgid "Report an issue"
-msgstr "問題を報告する"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:110-1
 msgid "Roadmap"
-msgstr "ロードマップ"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:113-1
 msgid "Contributing"
-msgstr "貢献する"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:116-1
 msgid "Team"
-msgstr "チーム"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.h4:124-1
 msgid "About"
-msgstr "About"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:126-1
 msgid "Testimonials"
-msgstr "ユーザーの声"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:129-1
 msgid "FAQ"
-msgstr "よくある質問"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:132-1
 msgid "Website"
-msgstr "ウェブサイト"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.h4:140-1
 msgid "Get Social"
-msgstr "Get Social"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:142-1
 msgid "Twitter"
-msgstr "Twitter"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:145-1
 msgid "Github"
-msgstr "Github"
+msgstr ""
 
 #: upstream/docs/team.html%2Bhtml.body.footer.div.div.div.p:155-1
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
-msgstr "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
+msgstr ""
