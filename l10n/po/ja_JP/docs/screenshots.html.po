@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-26 05:20+0000\n"
+"POT-Creation-Date: 2021-03-26 06:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,115 +13,105 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/screenshots.html%2Bhtml.head.title:7-1
-#, fuzzy
 msgctxt "upstream/docs/screenshots.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr "パフォーマンス・コパイロット"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.header.div.h1:16-1
-#, fuzzy
 msgctxt "upstream/docs/screenshots.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr "パフォーマンス・コパイロット"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.header.div.nav.ul.li:21-1
-#, fuzzy
 msgctxt "upstream/docs/screenshots.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.header.div.nav.ul.li:24-1
-#, fuzzy
 msgctxt "upstream/docs/screenshots.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr "ドキュメント"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.header.div.nav.ul.li:27-1
-#, fuzzy
 msgctxt "upstream/docs/screenshots.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.header.div.nav.ul.li:30-1
-#, fuzzy
 msgid "Get Involved"
-msgstr "参加する"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.div.div.div.div.section.div.div.h2:45-1
-#, fuzzy
 msgid "Screenshots"
-msgstr "スクリーンショット"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.h4:151-1
 msgid "Main Menu"
-msgstr "メインメニュー"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:153-1
-#, fuzzy
 msgctxt "upstream/docs/screenshots.html+html.body.footer.div.div.section.div.div.ul.li:153-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:156-1
-#, fuzzy
 msgctxt "upstream/docs/screenshots.html+html.body.footer.div.div.section.div.div.ul.li:156-1"
 msgid "Documentation"
-msgstr "ドキュメント"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:159-1
-#, fuzzy
 msgctxt "upstream/docs/screenshots.html+html.body.footer.div.div.section.div.div.ul.li:159-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.h4:167-1
 msgid "Developers"
-msgstr "開発者"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:169-1
 msgid "Report an issue"
-msgstr "問題を報告する"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:172-1
 msgid "Roadmap"
-msgstr "ロードマップ"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:175-1
 msgid "Contributing"
-msgstr "貢献する"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:178-1
 msgid "Team"
-msgstr "チーム"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.h4:186-1
 msgid "About"
-msgstr "About"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:188-1
 msgid "Testimonials"
-msgstr "ユーザーの声"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:191-1
 msgid "FAQ"
-msgstr "よくある質問"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:194-1
 msgid "Website"
-msgstr "ウェブサイト"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.h4:202-1
 msgid "Get Social"
-msgstr "Get Social"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:204-1
 msgid "Twitter"
-msgstr "Twitter"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:207-1
 msgid "Github"
-msgstr "Github"
+msgstr ""
 
 #: upstream/docs/screenshots.html%2Bhtml.body.footer.div.div.div.p:217-1
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
-msgstr "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
+msgstr ""
