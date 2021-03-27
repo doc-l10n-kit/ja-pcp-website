@@ -35,6 +35,9 @@ jobs:
         run: |
           bin/exec-po4a-updatepo
 
+      - name: Apply tmx
+        run: bin/apply-tmx
+
       - name: Push changes
         run: bin/push-changes "Update .po files"
 
@@ -43,12 +46,6 @@ jobs:
 
       - name: Push changes
         run: bin/push-changes "Update translation stats"
-
-      - name: Apply tmx
-        run: bin/apply-tmx
-
-      - name: Push changes
-        run: bin/push-changes "Apply translation memory"
 
       - name: Machine translate
         run: bin/machine-translate
