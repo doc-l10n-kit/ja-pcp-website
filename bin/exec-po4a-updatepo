@@ -13,8 +13,16 @@ for ITEM in `\find upstream -name "*.html"` ; do
         RELATIVE_FILE_DIR=$(dirname $RELATIVE_FILE_PATH);
 
         mkdir -p "$L10N_HOME/l10n/po/$TARGET_LANG/$RELATIVE_FILE_DIR"
-        html2po --input="upstream/$RELATIVE_FILE_PATH" --output="l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po"
+        TMP=`mktemp`
+        html2po --input="upstream/$RELATIVE_FILE_PATH" --output="$TMP.po"
+        if [ -f "l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po" ] ; then
+          pomerge --template="l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po" --input="$TMP.po" --output="l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po" --mergeblanks=no
+        else
+          mv "$TMP.po" "l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po"
+        fi
+
         msgcat --to-code=utf-8 --no-wrap -o l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po
+
         if [ ! -s l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po ]; then
           rm l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po
         fi
