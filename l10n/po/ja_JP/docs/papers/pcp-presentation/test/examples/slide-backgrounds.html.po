@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-26 23:11+0000\n"
+"POT-Creation-Date: 2021-03-27 00:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,132 +13,107 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml[lang]:2-1
-#, fuzzy
 msgid "en"
-msgstr "エン"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.head.title:7-3
-#, fuzzy
 msgid "reveal.js - Slide Backgrounds"
-msgstr "reveal.js - スライドバックグランド"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:32-6
-#, fuzzy
 msgid "data-background: #00ffff"
-msgstr "data-background:＃00ffff"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:36-6
-#, fuzzy
 msgid "data-background: #bb00bb"
-msgstr "data-background:#bb00bb"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:40-6
-#, fuzzy
 msgid "data-background: lightblue"
-msgstr "データバックグランド: ライトブルー"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:45-7
-#, fuzzy
 msgid "data-background: #ff0000"
-msgstr "データバックグランド。#ff0000"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:48-7
-#, fuzzy
 msgid "data-background: rgba(0, 0, 0, 0.2)"
-msgstr "データバックグランド: rgba(0, 0, 0, 0.2)"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:51-7
-#, fuzzy
 msgid "data-background: salmon"
-msgstr "データバックグランド：サーモン"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:57-7
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html+html.body.div.div.section.section.h2:57-7"
 msgid "Background applied to stack"
-msgstr "スタックに適用される背景"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:60-7
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html+html.body.div.div.section.section.h2:60-7"
 msgid "Background applied to stack"
-msgstr "スタックに適用される背景"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:63-7
-#, fuzzy
 msgid "Background applied to slide inside of stack"
-msgstr "スタック内のスライドに適用される背景"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:68-6
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html+html.body.div.div.section.h2:68-6upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html+html.body.div.div.section.h2:68-6upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html+html.body.div.div.section.h2:68-6"
 msgid "Background image"
-msgstr "背景画像"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:73-7
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html+html.body.div.div.section.section.h2:73-7"
 msgid "Background image"
-msgstr "背景画像"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:76-7
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html+html.body.div.div.section.section.h2:76-7"
 msgid "Background image"
-msgstr "背景画像"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:81-6
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html+html.body.div.div.section.h2:81-6"
 msgid "Background image"
-msgstr "背景画像"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.pre:82-6
-#, fuzzy
 msgid "data-background-size=\"100px\" data-background-repeat=\"repeat\" data-background-color=\"#111\""
-msgstr "data-background-size=\"100px\" data-background-repeat=\"repeat\" data-background-color=\"#111\""
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:86-6
-#, fuzzy
 msgid "Same background twice (1/2)"
-msgstr "同じ背景を2回見る (1/2)"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:89-6
-#, fuzzy
 msgid "Same background twice (2/2)"
-msgstr "同じ背景を2回見る (2/2)"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:93-6
-#, fuzzy
 msgid "Video background"
-msgstr "動画の背景"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:97-6
-#, fuzzy
 msgid "Iframe background"
-msgstr "Iframeの背景"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:102-7
-#, fuzzy
 msgid "Same background twice vertical (1/2)"
-msgstr "同じ背景を縦に2回 (1/2)"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:105-7
-#, fuzzy
 msgid "Same background twice vertical (2/2)"
-msgstr "同じ背景を縦に2回 (2/2)"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.h2:110-6
-#, fuzzy
 msgid "Same background from horizontal to vertical (1/3)"
-msgstr "同じ背景を横から縦に(1/3)"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:114-7
-#, fuzzy
 msgid "Same background from horizontal to vertical (2/3)"
-msgstr "横から縦まで同じ背景(2/3)"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/slide-backgrounds.html%2Bhtml.body.div.div.section.section.h2:117-7
-#, fuzzy
 msgid "Same background from horizontal to vertical (3/3)"
-msgstr "同じ背景を横から縦に(3/3)"
+msgstr ""

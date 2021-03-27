@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-26 23:11+0000\n"
+"POT-Creation-Date: 2021-03-27 00:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,95 +13,77 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/papers/pcp-presentation/test/test-pdf.html%2Bhtml[lang]:2-1
-#, fuzzy
 msgid "en"
-msgstr "エン"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/test-pdf.html%2Bhtml.head.title:7-3
-#, fuzzy
 msgid "reveal.js - Test PDF exports"
-msgstr "reveal.js - PDFのエクスポートをテストする"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/test-pdf.html%2Bhtml.body.div.div.section.h1:24-6
-#, fuzzy
 msgid "1"
-msgstr "1"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/test-pdf.html%2Bhtml.body.div.div.section.section.h1:30-7
-#, fuzzy
 msgid "2.1"
-msgstr "2.1"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/test-pdf.html%2Bhtml.body.div.div.section.section.h1:33-7
-#, fuzzy
 msgid "2.2"
-msgstr "2.2"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/test-pdf.html%2Bhtml.body.div.div.section.section.h1:36-7
-#, fuzzy
 msgid "2.3"
-msgstr "2.3"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/test-pdf.html%2Bhtml.body.div.div.section.section.h1:42-7
-#, fuzzy
 msgid "3.1"
-msgstr "3.1"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/test-pdf.html%2Bhtml.body.div.div.section.section.ul.li:44-8
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/test-pdf.html+html.body.div.div.section.section.ul.li:44-8"
 msgid "4.1"
-msgstr "4.1"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/test-pdf.html%2Bhtml.body.div.div.section.section.ul.li:45-8
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/test-pdf.html+html.body.div.div.section.section.ul.li:45-8"
 msgid "4.2"
-msgstr "4.2"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/test-pdf.html%2Bhtml.body.div.div.section.section.ul.li:46-8
-#, fuzzy
 msgid "4.3"
-msgstr "4.3"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/test-pdf.html%2Bhtml.body.div.div.section.section.h1:51-7
-#, fuzzy
 msgid "3.2"
-msgstr "3.2"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/test-pdf.html%2Bhtml.body.div.div.section.section.ul.li:53-8
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/test-pdf.html+html.body.div.div.section.section.ul.li:53-8"
 msgid "4.1"
-msgstr "4.1"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/test-pdf.html%2Bhtml.body.div.div.section.section.ul.li:54-8
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/test-pdf.html+html.body.div.div.section.section.ul.li:54-8"
 msgid "4.2"
-msgstr "4.2"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/test-pdf.html%2Bhtml.body.div.div.section.section.h1:59-7
-#, fuzzy
 msgid "3.3"
-msgstr "3.3"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/test-pdf.html%2Bhtml.body.div.div.section.section.ul.li:61-8
-#, fuzzy
 msgid "3.3.1"
-msgstr "3.3.1"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/test-pdf.html%2Bhtml.body.div.div.section.section.ul.li:62-8
-#, fuzzy
 msgid "3.3.2"
-msgstr "3.3.2"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/test-pdf.html%2Bhtml.body.div.div.section.section.ul.li:63-8
-#, fuzzy
 msgid "3.3.3"
-msgstr "3.3.3"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/test-pdf.html%2Bhtml.body.div.div.section.h1:69-6
-#, fuzzy
 msgid "4"
-msgstr "4"
+msgstr ""
