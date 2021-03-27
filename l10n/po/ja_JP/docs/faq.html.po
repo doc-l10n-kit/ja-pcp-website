@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-27 02:36+0000\n"
+"POT-Creation-Date: 2021-03-27 03:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,1384 +13,1138 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/faq.html%2Bhtml.head.title:7-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr "パフォーマンス・コパイロット"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.header.div.h1:16-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr "パフォーマンス・コパイロット"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.header.div.nav.ul.li:21-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.header.div.nav.ul.li:24-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
-msgstr "ドキュメント"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.header.div.nav.ul.li:27-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.header.div.nav.ul.li:30-1
-#, fuzzy
 msgid "Get Involved"
-msgstr "参加する"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.h2:45-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.h2:45-1"
 msgid "FAQ"
-msgstr "よくある質問"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.h3:56-1
-#, fuzzy
 msgid "General Questions"
-msgstr "一般的な質問"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:58-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.ul.li:58-1"
 msgid "What is Performance Co-Pilot?"
-msgstr "Performance Co-Pilotとは？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:61-1
-#, fuzzy
 msgid "What is the overall PCP architecture?"
-msgstr "PCP全体のアーキテクチャとは？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:64-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.ul.li:64-1"
 msgid "What licensing scheme does PCP use?"
-msgstr "PCPではどのようなライセンス体系を採用していますか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:67-1
-#, fuzzy
 msgid "How is PCP different from tools like vmstat, ps, top, etc.?"
-msgstr "PCPはvmstat、ps、topなどのツールとどう違うのでしょうか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:70-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.ul.li:70-1"
 msgid "Metrics, names, instances and values, ... eh?"
-msgstr "指標、名前、インスタンス、値、・・・えっ？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:73-1
-#, fuzzy
 msgid "Where is Performance Metrics Application Programming Interface (PMAPI) documented?"
-msgstr "Performance Metrics Application Programming Interface (PMAPI)のドキュメントはどこにありますか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:76-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.ul.li:76-1"
 msgid "Which application development languages are supported?"
-msgstr "どのアプリケーション開発言語に対応していますか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:79-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.ul.li:79-1"
 msgid "Are there any sample screenshots of tools in action?"
-msgstr "実際に使用されているスクリーンショットのサンプルはありますか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:82-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.ul.li:82-1"
 msgid "Are there any papers or presentations about PCP?"
-msgstr "PCPに関する論文や発表はありますか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.h3:90-1
-#, fuzzy
 msgid "Philosophical Questions"
-msgstr "哲学的な質問"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:92-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.ul.li:92-1"
 msgid "Why the name \"Co-Pilot\"?"
-msgstr "なぜ「Co-Pilot」という名前なのでしょうか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:95-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.ul.li:95-1"
 msgid "Why the name \"Glider\"?"
-msgstr "なぜ \"Glider \"という名前なのか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.h3:107-1
-#, fuzzy
 msgid "Technical Questions"
-msgstr "技術的な質問"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:109-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.ul.li:109-1"
 msgid "What is the nature of the communication between processes?"
-msgstr "プロセス間のコミュニケーションはどのようなものですか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:112-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.ul.li:112-1"
 msgid "What is involved in fetching metrics from PMCD?"
-msgstr "PMCDからメトリクスを取得する際の注意点は？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:115-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.ul.li:115-1"
 msgid "Data aggregation and averaging in a PMDA?"
-msgstr "PMDAでのデータ集計・平均化は？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:118-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.ul.li:118-1"
 msgid "Can a monitor ask for qualitative events (e.g. threshold passing), instead of regular samples?"
-msgstr "モニターは、通常のサンプルではなく、定性的なイベント（閾値を超えるなど）を求めることができますか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:121-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.ul.li:121-1"
 msgid "How are triggers and alarms integrated to provide external notification?"
-msgstr "トリガーとアラームはどのように統合され、外部に通知されるのですか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:124-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.ul.li:124-1"
 msgid "Synchronous versus asynchronous notification?"
-msgstr "同期型と非同期型の通知の違い"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:127-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.ul.li:127-1"
 msgid "Do you try to synchronize clocks?"
-msgstr "時計の同期はとっていますか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:130-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.ul.li:130-1"
 msgid "Is there an optimized mechanism for local monitoring?"
-msgstr "ローカルモニタリングのための最適化されたメカニズムはあるのか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:133-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.ul.li:133-1"
 msgid "What about security?"
-msgstr "セキュリティについては？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.h3:141-1
-#, fuzzy
 msgid "Trouble-shooting"
-msgstr "トラブルシューティング"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:143-1
-#, fuzzy
 msgid "PMNS appears to be empty"
-msgstr "PMNSが空に見える"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:146-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.ul.li:146-1"
 msgid "Resource utilization greater than 100%?"
-msgstr "リソースの使用率が100%を超えていますか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:149-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.ul.li:149-1"
 msgid "PMDA appears to have died"
-msgstr "PMDAが死んだように見える"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.h2:163-1
-#, fuzzy
 msgid "Answers"
-msgstr "回答"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:170-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:170-1"
 msgid "What is Performance Co-Pilot?"
-msgstr "Performance Co-Pilotとは？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:172-1
-#, fuzzy
 msgid "Performance Co-Pilot (PCP) is a framework and services to support system-level performance monitoring and performance management."
-msgstr "Performance Co-Pilot（PCP）は、システムレベルのパフォーマンス監視とパフォーマンス管理をサポートするフレームワークとサービスです。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:176-1
-#, fuzzy
 msgid "The architecture and services are most attractive for those seeking centralized monitoring of distributed processing (e.g. in a cluster or webserver farm environment), or on large systems with lots of moving parts. However some of the features of PCP are also useful for hard performance problems on smaller system configurations."
-msgstr "このアーキテクチャとサービスは、クラスタやウェブサーバファーム環境などの分散処理を集中的に監視したい場合や、可動部品の多い大規模なシステムでの使用に最も適しています。しかし、PCPの機能のいくつかは、小規模なシステム構成におけるハードなパフォーマンス問題にも有効です。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:184-1
-#, fuzzy
 msgid "More details are avaliable on the main <a href=\"/index.html\">project page</a> ."
-msgstr "詳細は、<a href=\"/index.html\">プロジェクトの</a>メイン<a href=\"/index.html\">ページ</a>に掲載されています。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:197-1
-#, fuzzy
 msgid "What is the overall PCP Architecture?"
-msgstr "PCP全体のアーキテクチャとは？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:199-1
-#, fuzzy
 msgid "As shown below, performance data is exported from a host by the PMCD (Performance Metrics Co-ordinating Daemon). PMCD sits between monitoring clients and PMDAs (Performance Metric Domain Agents). The PMDAs know how to collect performance data. PMCD knows how to multiplex messages between the monitoring clients and the PMDAs."
-msgstr "下図のように、パフォーマンスデータは、PMCD（Performance Metrics Co-ordinating Daemon）によってホストからエクスポートされます。PMCDは監視クライアントとPMDA(Performance Metric Domain Agent)の間に位置します。PMDAは、パフォーマンス・データを収集する方法を知っています。PMCD は、モニタリング・クライアントと PMDA の間でメッセージを多重化する方法を知っています。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.img[alt]:208-1
-#, fuzzy
 msgid "Architecture Diagram"
-msgstr "アーキテクチャ図"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:218-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:218-1"
 msgid "What licensing scheme does PCP use?"
-msgstr "PCPではどのようなライセンス体系を採用していますか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:220-1
-#, fuzzy
 msgid "All of the libraries in the Performance Co-Pilot (PCP) toolkit are licensed under Version 2.1 of the <a href=\"https://www.gnu.org/copyleft/lesser.html\">GNU Lesser General Public License</a>"
-msgstr "Performance Co-Pilot (PCP) ツールキットのすべてのライブラリは、<a href=\"https://www.gnu.org/copyleft/lesser.html\">GNU Lesser General Public License</a>Version 2.1の下でライセンスされています。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:225-1
-#, fuzzy
 msgid "All other PCP components are licensed under Version 2 or later of the <a href=\"https://www.gnu.org/copyleft/gpl.html\">GNU General Public License</a>"
-msgstr "その他のすべてのPCPコンポーネントは、<a href=\"https://www.gnu.org/copyleft/gpl.html\">GNU General Public License</a>のVersion 2以降でライセンスされています。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:237-1
-#, fuzzy
 msgid "How is PCP different from tools like vmstat, ps, top, etc?"
-msgstr "PCPはvmstat、ps、topなどのツールとどう違うのでしょうか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:239-1
-#, fuzzy
 msgid "Each of these standard tools:"
-msgstr "それぞれの標準的なツールを紹介します。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:242-1
-#, fuzzy
 msgid "collects a predefined mix of metrics"
-msgstr "定義されたメトリクスの組み合わせを収集"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:243-1
-#, fuzzy
 msgid "understands the syntax and semantics of the various \"stat\" files below /proc"
-msgstr "/proc以下の様々な \"stat \"ファイルの構文とセマンティクスを理解する。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:244-1
-#, fuzzy
 msgid "involves no IPC or context switches associated with synchronous IPC"
-msgstr "は、同期IPCに伴うIPCやコンテキストスイッチを必要としません。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:245-1
-#, fuzzy
 msgid "only monitors the local host and cannot monitor a remote host"
-msgstr "は、ローカルホストのみを監視し、リモートホストを監視することはできません。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:246-1
-#, fuzzy
 msgid "cannot replay historical data"
-msgstr "過去のデータを再生できない"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:249-1
-#, fuzzy
 msgid "Each of these standard tools could also be re-implemented over the PCP protocols, in which case they would each:"
-msgstr "これらの標準的なツールは、PCPプロトコル上に再実装することも可能で、その場合はそれぞれ"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:253-1
-#, fuzzy
 msgid "collect a predefined mix of metrics"
-msgstr "定義されたメトリクスの組み合わせを収集"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:254-1
-#, fuzzy
 msgid "be insulated from how the data is extracted, and have access to the explicit data semantics over the PCP APIs"
-msgstr "データがどのように抽出されたかからは隔離され、PCP APIを介して明示的なデータセマンティクスにアクセスできます。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:255-1
-#, fuzzy
 msgid "optionally (and typically) involve IPC and context switches associated with synchronous IPC"
-msgstr "オプションで（通常は）、同期IPCに伴うIPCとコンテキストスイッチを含む。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:256-1
-#, fuzzy
 msgid "monitor the local host or a remote host with equal ease and no application program changes"
-msgstr "アプリケーションプログラムを変更することなく、ローカルホストまたはリモートホストを同等に監視することができます。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:257-1
-#, fuzzy
 msgid "process real-time or historical data with equal ease and no application program changes"
-msgstr "アプリケーションのプログラムを変更することなく、リアルタイムまたはヒストリカルデータを簡単に処理することができます。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:260-1
-#, fuzzy
 msgid "As examples, <strong>pmstat</strong> is a re-implementation of vmstat using the PCP APIs, and similarly <strong>pmcollectl</strong> and <strong>pmatop</strong> are python versions of the originals."
-msgstr "例として、<strong>pmstat</strong>は PCP API を使用して vmstat を再実装したもので、同様に<strong>pmcollectl</strong>と<strong>pmatop</strong>はオリジナルの python バージョンです。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:269-1
-#, fuzzy
 msgid "Other new PCP clients could be written to embrace and extend functionality from existing tools, e.g."
-msgstr "他の新しいPCPクライアントは、既存のツールの機能を取り入れたり拡張したりするように書くことができます。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:273-1
-#, fuzzy
 msgid "monitor multiple hosts concurrently, e.g. think of top or vmstat working across all nodes in a cluster; in fact pmstat can monitor an arbitrary number of hosts concurrently"
-msgstr "複数のホストを同時に監視することができます。例えば、top や vmstat がクラスタ内のすべてのノードで動作していると考えてください。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:278-1
-#, fuzzy
 msgid "be more general and support display, plotting, visualization for arbitrary collections of performance metrics, including those from the service, library and application layers that are outside any procfs or other system call export mechanism discover and exploit extensible collections of performance metrics as you develop new agents or \"plugins\""
-msgstr "より汎用的で、任意のパフォーマンスメトリクスのコレクションの表示、プロット、可視化をサポートします。これには、procfsや他のシステムコールのエクスポートメカニズムの外側にあるサービス、ライブラリ、アプリケーション層からのものも含まれます。 新しいエージェントや \"プラグイン \"を開発する際に、パフォーマンスメトリクスの拡張可能なコレクションを発見し、活用することができます。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:297-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:297-1"
 msgid "Metrics, names, instances and values, ... eh?"
-msgstr "指標、名前、インスタンス、値、・・・えっ？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:299-1
-#, fuzzy
 msgid "Performance Co-Pilot uses a single, comprehensive, data model to describe all available performance data."
-msgstr "Performance Co-Pilotは、単一の包括的なデータモデルを使用して、利用可能なすべてのパフォーマンスデータを記述します。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.dl.dt:304-1
-#, fuzzy
 msgid "Metric"
-msgstr "メートル"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.dl.dt.dd:306-1
-#, fuzzy
 msgid "Information about some activity or resource utilization or quality of service or tuning parameter or configuration."
-msgstr "アクティビティ、リソースの使用率、サービス品質、チューニングパラメータ、設定などに関する情報。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.dl.dt:312-1
-#, fuzzy
 msgid "Metric Value(s)"
-msgstr "メトリクス値(s)"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.dl.dt.dd:314-1
-#, fuzzy
 msgid "Each metric may have one value (e.g. the number of CPUs in the system), or a set of values (e.g. the number of system calls for each CPU in the system). The former are called singular metrics, the latter have an associated instance domain to describe the set for which values exist."
-msgstr "各メトリックは、1つの値（例：システム内のCPUの数）を持つ場合と、一連の値（例：システム内の各CPUに対するシステムコールの数）を持つ場合があります。前者は単数のメトリクスと呼ばれ、後者は値が存在するセットを記述するための関連するインスタンス・ドメインを持っています。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.dl.dt:323-1
-#, fuzzy
 msgid "Metric Names"
-msgstr "メトリック名"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.dl.dt.dd:325-1
-#, fuzzy
 msgid "Each metric has an associated name. The names are maintained as a hierarchy in a Performance Metrics Name Space (PMNS) and a \"dot\" notation is used to describe a path through the PMNS. Metrics are associated with leaf nodes in the PMNS. For example: hinv.ncpu, kernel.percpu.syscall, kernel.percpu.cpu.sys and kernel.all.load."
-msgstr "各メトリックには関連する名前があります。名前はパフォーマンス・メトリクス・ネーム・スペース（PMNS）内の階層として管理され、PMNS内のパスを記述するために「ドット」表記が使用されます。メトリクスは、PMNSのリーフ・ノードに関連付けられています。例えば、hinv.ncpu、kernel.percpu.syscall、kernel.percpu.cpu.sys、kernel.all.loadなどがあります。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.dl.dt:335-1
-#, fuzzy
 msgid "Metric Descriptors"
-msgstr "メトリクス記述子"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.dl.dt.dd:337-1
-#, fuzzy
 msgid "Each metric has an associated descriptor that provides information that may be used to decode and interpret the values of the metric over time. The descriptor provides the following information:"
-msgstr "各メトリックには、時間経過に伴うメトリックの値を解読して解釈するために使用できる情報を提供する、関連する記述子があります。記述子には以下の情報が含まれる。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.dl.dt.dd.ul.li:343-1
-#, fuzzy
 msgid "A unique internal Performance Metric Identifier (PMID)"
-msgstr "固有の内部Performance Metric Identifier (PMID)"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.dl.dt.dd.ul.li:346-1
-#, fuzzy
 msgid "The data type for the value(s), being one of 32, U32, 64, U64, FLOAT, DOUBLE, STRING, AGGREGATE."
-msgstr "値のデータタイプは、32、U32、64、U64、FLOAT、DOUBLE、STRING、AGGREGATEのいずれかです。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.dl.dt.dd.ul.li:350-1
-#, fuzzy
 msgid "The identifier for the associated instance domain for set-valued metrics, else PM_INDOM_NULL for singular metrics."
-msgstr "集合値のメトリクスの場合は、関連するインスタンス・ドメインの識別子、単数値のメトリクスの場合は、PM_INDOM_NULLです。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.dl.dt.dd.ul.li:355-1
-#, fuzzy
 msgid "The semantics of the value(s), i.e. counter, instantaneous, discrete."
-msgstr "値のセマンティクス（カウンター、瞬時、離散など）。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.dl.dt.dd.ul.li:359-1
-#, fuzzy
 msgid "The units of the value(s), expressed as a dimension and scale in the axes time, space and events."
-msgstr "時間、空間、事象という軸で、次元や尺度として表現される価値（複数可）の単位。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.dl.dt:366-1
-#, fuzzy
 msgid "Instance Domain"
-msgstr "インスタンス・ドメイン"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.dl.dt.dd:368-1
-#, fuzzy
 msgid "When a metric has a set of associated values, each value belongs to an instance of an instance domain. For example the metric kernel.percpu.syscall has one value for each CPU (or instance) and the instance domain describes how many CPUs there are and how they are distinguished from one anoter (i.e. their names). Each instance domain is described by the following information:"
-msgstr "メトリックが関連する値のセットを持つ場合、各値はインスタンス・ドメインの1つのインスタンスに属します。たとえば、メトリック kernel.percpu.syscall は、各 CPU（またはインスタンス）に対して 1 つの値を持ち、インスタンス・ドメインは、CPU がいくつあるか、またそれらがどのようにして 1 つのモータから区別されるか（すなわち、その名前）を記述します。各インスタンス・ドメインは以下の情報によって記述されます。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.dl.dt.dd.ul.li:378-1
-#, fuzzy
 msgid "A unique internal instance domain number (used in the metric descriptors to associate one or more metrics with each instance domain)."
-msgstr "一意の内部インスタンス・ドメイン番号（1つまたは複数のメトリックを各インスタンス・ドメインと関連付けるためにメトリック記述子で使用される）。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.dl.dt.dd.ul.li:383-1
-#, fuzzy
 msgid "A list of unique external names for each instance."
-msgstr "各インスタンスに固有の外部名称のリスト。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.dl.dt.dd.ul.li:386-1
-#, fuzzy
 msgid "A list of unique internal identifiers for each instance (the protocols prefer to move 32-bit instance numbers rather than ASCII instance names)."
-msgstr "各インスタンスのユニークな内部識別子のリスト（プロトコルでは、ASCIIのインスタンス名よりも32ビットのインスタンス番号を動かすことが望ましい）。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:395-1
-#, fuzzy
 msgid "Putting this altogether we can use pminfo to explore the available information."
-msgstr "このようにして、pminfoを使って利用可能な情報を調べることができます。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.pre:398-1
-#, fuzzy
 msgid "$ pminfo filesys filesys.capacity filesys.used filesys.free filesys.maxfiles filesys.usedfiles filesys.freefiles filesys.mountdir filesys.full $ pminfo -md filesys.free filesys.free PMID: 60.5.3 Data Type: 64-bit unsigned int InDom: 60.5 0xf000005 Semantics: instant Units: Kbyte $ pminfo -f filesys.free filesys.free inst [0 or \"/dev/root\"] value 3498272 inst [1 or \"/dev/hda3\"] value 20106 inst [2 or \"/dev/hda5\"] value 7747420 inst [3 or \"/dev/hda2\"] value 368432"
-msgstr "$ pminfo filesys filesys.capacity filesys.used filesys.free filesys.maxfiles filesys.usedfiles filesys.freefiles filesys.mountdir filesys.full $ pminfo -md filesys.free filesys.free PMID: 60.5.3 Data Type:64-bit unsigned int InDom: 60.5 0xf000005 Semantics: instant Units:Kbyte $ pminfo -f filesys.free filesys.free inst [0 or \"/dev/root\"] value 3498272 inst [1 or \"/dev/hda3\"] value 20106 inst [2 or \"/dev/hda5\"] value 7747420 inst [3 or \"/dev/hda2\"] value 368432"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:408-1
-#, fuzzy
 msgid "Where is the Performance Metrics Application Programming Interface (PMAPI) documented?"
-msgstr "PMAPI（Performance Metrics Application Programming Interface）のドキュメントはどこにありますか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:410-1
-#, fuzzy
 msgid "The PMAPI defines the interface between a client application requesting performance data and the collection infrastructure that delivers the performance data."
-msgstr "PMAPIは、パフォーマンス・データを要求するクライアント・アプリケーションと、パフォーマンス・データを提供するコレクション・インフラストラクチャとの間のインターフェースを定義します。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:415-1
-#, fuzzy
 msgid "There are \"man\" pages for every routine defined at the PMAPI. Start with \"man 3 pmapi\" for an overview. See also Chapter 3 of the: <a href=\"https://pcp.readthedocs.io/en/latest/PG/PMAPI.html\">Performance Co-Pilot Programmer's Guide</a>"
-msgstr "PMAPIで定義されているすべてのルーチンには \"man \"ページがあります。概要は \"man 3 pmapi \"から始めてください。の第3章も参照してください。<a href=\"https://pcp.readthedocs.io/en/latest/PG/PMAPI.html\">Performance Co-Pilot Programmer's Guide』の第3章も参照してください。</a>"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:429-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:429-1"
 msgid "Which application development languages are supported?"
-msgstr "どのアプリケーション開発言語に対応していますか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:431-1
-#, fuzzy
 msgid "Most agents and clients are written in C. Some clients are C++, and others are written in Python. There are several Perl and Python agents, but C remains the most common at this stage. Application instrumentation is supported using the PCP MMV (memory-mapped-value) API. This is a C library with Perl and Python bindings. A pure-Java implementation exists as well - refer to the separate \"Parfait\" project."
-msgstr "ほとんどのエージェントやクライアントはC言語で書かれていますが、C++のクライアントやPythonで書かれたものもあります。PerlやPythonのエージェントもありますが、現段階ではC言語が最も一般的です。アプリケーションのインスツルメンテーションは、PCP MMV（Memory-Mapped-Value）APIを使ってサポートされています。これはC言語のライブラリで、PerlとPythonに対応しています。純粋なJavaでの実装もありますが、これについては別の「Parfait」プロジェクトを参照してください。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:449-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:449-1"
 msgid "Are there any sample screenshots of tools in action?"
-msgstr "実際に使用されているスクリーンショットのサンプルはありますか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:451-1
-#, fuzzy
 msgid "Why yes, yes there are - in addition to the examples in the books about PCP, you might also enjoy this local <a href=\"/screenshots.html\">collection</a> and some from the more recent <a href=\"https://grafana-pcp.readthedocs.io/en/latest/screenshots.html\">Grafana PCP</a> plugin. ."
-msgstr "PCPに関する書籍に掲載されている例に加えて、このローカル<a href=\"/screenshots.html\">コレクション</a>や、最近の<a href=\"https://grafana-pcp.readthedocs.io/en/latest/screenshots.html\">Grafana PCP</a>プラグインの例もお楽しみいただけます。."
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:468-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:468-1"
 msgid "Are there any papers or presentations about PCP?"
-msgstr "PCPに関する論文や発表はありますか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:470-1
-#, fuzzy
 msgid "Indeed - a reference list of all those we have permission to reproduce can be found <a href=\"/presentations.html\">here</a> ."
-msgstr "実際に、私たちが複製を許可されているすべての参考文献のリストは、<a href=\"/presentations.html\">ここに</a>あります。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:484-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:484-1"
 msgid "Why the name \"Co-Pilot\"?"
-msgstr "なぜ「Co-Pilot」という名前なのでしょうか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:486-1
-#, fuzzy
 msgid "PCP was designed to assist in reducing difficult performance problems into something that can be managed by a human. In the same way that modern aircraft have tightly integrated computer control systems that a pilot cannot fly without, PCP assists in managing and understanding otherwise impossibly complex performance scenarios."
-msgstr "PCPは、難しいパフォーマンスの問題を人間が管理できるようにするために設計されました。現代の航空機には、パイロットがそれなしでは飛行できないような緊密に統合されたコンピュータ制御システムが搭載されているのと同じように、PCPは、通常では不可能なほど複雑なパフォーマンスシナリオの管理と理解を支援します。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:502-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:502-1"
 msgid "Why the name \"Glider\"?"
-msgstr "なぜ \"Glider \"という名前なのか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:504-1
-#, fuzzy
 msgid "PCP <a href=\"glider.html\">Glider</a> contains the native Windows version of PCP. The rationale for the name is along these lines:"
-msgstr "PCP<a href=\"glider.html\">Glider</a>は、PCPのWindowsネイティブ版です。この名前の由来は次のようなものです。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:510-1
-#, fuzzy
 msgid "It's not \"just\" PCP, so its not just called \"Windows PCP\". It includes a relatively complete, cross-platform performance management environment for Windows - PCP and PCP GUI are components, but there are many other pieces (including C compiler, and Qt4 runtime)"
-msgstr "PCPは「単なる」PCPではないので、「Windows PCP」と呼ばれるだけではありません。PCPとPCP GUIはコンポーネントですが、他にも多くの部品（CコンパイラやQt4ランタイムなど）が含まれています。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:518-1
-#, fuzzy
 msgid "\"Glider\" continues the \"Co-Pilot\" aeronautical theme, and is meant to represent \"making something difficult appear effortless\"."
-msgstr "\"Glider \"は、\"Co-Pilot \"という航空分野のテーマを引き継いでおり、「難しいものを簡単に見せる」という意味が込められています。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:533-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:533-1"
 msgid "What is the nature of the communication between processes?"
-msgstr "プロセス間のコミュニケーションはどのようなものですか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:535-1
-#, fuzzy
 msgid "The TCP/IP communication between PMCD and a monitoring client is connection-oriented for the most part."
-msgstr "PMCDとモニタリング・クライアント間のTCP/IP通信は、ほとんどの場合、コネクション指向です。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:539-1
-#, fuzzy
 msgid "The when a connection is lost, the client library will automatically attempt reconnection to the PMCD with a controlled maximal rate of trying (uses a variant of exponential back-off). The error-handling regime for the clients already supports \"no data currently available\" for lots of reasons (like a PMDA is not installed or PMCD was restarted or lost the connection to PMCD), so there is typically very little that the client developer needs to do to handle this gracefully."
-msgstr "接続が切断された場合、クライアント・ライブラリは、制御された最大試行率で、自動的にPMCDへの再接続を試みます（指数関数的バックオフの変形を使用）。PMDAがインストールされていないとか、PMCDが再起動されたとか、PMCDとの接続が切れたとか、様々な理由で「現在利用可能なデータがありません」と表示されることがありますが、クライアントのエラー処理体制はすでにサポートされていますので、クライアントの開発者がこれを優雅に処理するために必要なことはほとんどありません。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:550-1
-#, fuzzy
 msgid "For monitor clients, once the initial metadata exchanges with PMCD are complete, there is typically one message to PMCD and one message back from PMCD for each sample, independent of the number of metrics requested and the number of instances (or values) to be returned."
-msgstr "モニター・クライアントの場合、PMCDとの最初のメタデータの交換が完了すると、要求されたメトリクスの数や返されるインスタンス（または値）の数に関係なく、通常、サンプルごとにPMCDへのメッセージとPMCDからのメッセージが1つずつ返されます。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:557-1
-#, fuzzy
 msgid "<strong>pmlogger</strong> is a monitor client, so the same applies to communication between PMCD and <strong>pmlogger</strong>"
-msgstr "<strong>pmlogger</strong>はモニタークライアントなので、PMCDと<strong>pmlogger</strong>の間の通信も同様です。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:563-1
-#, fuzzy
 msgid "At PMCD, each message from a monitor client is forwarded to one or more PMDAs, PMCD then collates the messages back from each PMDA that was asked to help and returns a single message to the client. It is an important part of the design that:"
-msgstr "PMCDでは、モニタークライアントからの各メッセージが1つまたは複数のPMDAに転送され、PMCDは協力を依頼された各PMDAから戻ってきたメッセージを照合し、クライアントに1つのメッセージを返します。という設計になっています。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:570-1
-#, fuzzy
 msgid "clients are ignorant of the de-multiplexing and multiplexing by PMCD"
-msgstr "お客様は、PMCDによるデマルチプレックスとマルチプレックスを知らずに"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:574-1
-#, fuzzy
 msgid "PMDAs are ignorant of each other"
-msgstr "PMDAはお互いに無知である"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:577-1
-#, fuzzy
 msgid "PMCD knows nothing, except how to act as a message switcher"
-msgstr "PMCDは、メッセージスイッチャーとしての役割以外、何も知らない。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:582-1
-#, fuzzy
 msgid "The communication between PMCD and the PMDAs uses TCP/IP or pipes or direct procedure calls (for DSO PMDAs)."
-msgstr "PMCDとPMDA間の通信には、TCP/IPやパイプ、ダイレクト・プロシージャ・コール（DSO PMDAの場合）が使用されています。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:594-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:594-1"
 msgid "What is involved in fetching metrics from PMCD?"
-msgstr "PMCDからメトリクスを取得する際の注意点は？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:596-1
-#, fuzzy
 msgid "The following high-level description follows the interactions between a monitoring client and PMCD to fetch metrics periodically."
-msgstr "モニタリング・クライアントとPMCDが定期的にメトリクスを取得する際のやり取りについて、以下のように説明します。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ol.li:601-1
-#, fuzzy
 msgid "The monitoring client connects to PMCD and explores the Performance Metrics Name Space using <a href=\"https://man7.org/linux/man-pages/man3/pmgetchildren.3.html\">pmGetChildren(3)</a> or pmTraversePMNS(3) for either one-level at a time expansion or recursive expansion."
-msgstr "モニタリングクライアントはPMCDに接続し、<a href=\"https://man7.org/linux/man-pages/man3/pmgetchildren.3.html\">pmGetChildren(3)</a>やpmTraversePMNS(3)を使用してPerformance Metrics Name Spaceを探索し、一度に1レベルの拡張や再帰的な拡張を行います。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ol.li:609-1
-#, fuzzy
 msgid "Once the client has the name(s) of the metrics of interest, <a href=\"https://man7.org/linux/man-pages/man3/pmlookupname.3.html\">pmLookupName(3)</a> returns PMIDs and then <a href=\"https://man7.org/linux/man-pages/man3/pmlookupdesc.3.html\">pmLookupDesc(3)</a> will return the descriptor for a metric."
-msgstr "クライアントが興味のあるメトリックの名前を持つと、<a href=\"https://man7.org/linux/man-pages/man3/pmlookupname.3.html\">pmLookupName(3)</a>はPMIDを返し、次に<a href=\"https://man7.org/linux/man-pages/man3/pmlookupdesc.3.html\">pmLookupDesc(3)</a>はメトリックの記述子を返します。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ol.li:617-1
-#, fuzzy
 msgid "For set-valued metrics, use the instance domain number from the metric descriptor, and the routines <a href=\"https://man7.org/linux/man-pages/man3/pmlookupindom.3.html\">pmLookupInDom(3)</a> <a href=\"https://man7.org/linux/man-pages/man3/pmgetindom.3.html\">pmGetInDom(3)</a> and <a href=\"https://man7.org/linux/man-pages/man3/pmnameindom.3.html\">pmNameInDom(3)</a> to browse the instance domain. Alternatively, ignore the instance domain and all instances will be returned."
-msgstr "set-valued メトリクスでは、メトリクス記述子からのインスタンス・ドメイン番号と、インスタンス・ドメインを参照するためのルーチン<a href=\"https://man7.org/linux/man-pages/man3/pmlookupindom.3.html\">pmLookupInDom(3)</a> <a href=\"https://man7.org/linux/man-pages/man3/pmgetindom.3.html\">pmGetInDom(3)</a>および<a href=\"https://man7.org/linux/man-pages/man3/pmnameindom.3.html\">pmNameInDom(3)</a>を使用します。代わりに、インスタンスドメインを無視すると、全てのインスタンスが返されます。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ol.li:628-1
-#, fuzzy
 msgid "See also <a href=\"https://man7.org/linux/man-pages/man3/pmlookuptext.3.html\">pmLookupText(3)</a> and <a href=\"https://man7.org/linux/man-pages/man3/pmlookupindomtext.3.html\">pmLookupIndomText(3)</a> for help text about metrics and instances (better suited for human consumption than interpretation by monitoring clients)."
-msgstr "メトリクスやインスタンスについてのヘルプテキストについては<a href=\"https://man7.org/linux/man-pages/man3/pmlookuptext.3.html\">pmLookupText(3</a>) と<a href=\"https://man7.org/linux/man-pages/man3/pmlookupindomtext.3.html\">pmLookupIndomText(3)</a>も参照してください (監視クライアントによる解釈よりも人間が消費するのに適しています)。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ol.li:637-1
-#, fuzzy
 msgid "Repeat until bored: <a href=\"https://man7.org/linux/man-pages/man3/pmfetch.3.html\">pmFetch(3)</a> ; report; sleep;"
-msgstr "飽きるまで繰り返す:<a href=\"https://man7.org/linux/man-pages/man3/pmfetch.3.html\">pmFetch(3</a>) ; report; sleep。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:644-1
-#, fuzzy
 msgid "To see all of the gory details, turn on PDU tracing and run simple pminfo commands:"
-msgstr "詳細を見るには、PDUトレースをオンにして、シンプルなpminfoコマンドを実行します。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.pre:647-1
-#, fuzzy
 msgid "$ pminfo -D PDU kernel.all.cpu $ pminfo -D PDU -fdT kernel.all.load"
-msgstr "$ pminfo -D PDU kernel.all.cpu $ pminfo -D PDU -fdT kernel.all.load"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:647-88
-#, fuzzy
 msgid "See also <a href=\"#Q2a\">Metrics, names, instances and values, ... eh?</a>"
-msgstr "参照：<a href=\"#Q2a\">メトリクス、名前、インスタンス、値、・・・えっ？</a>"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:659-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:659-1"
 msgid "Data aggregation and averaging in a PMDA?"
-msgstr "PMDAでのデータ集計・平均化は？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:661-1
-#, fuzzy
 msgid "Mark D. Anderson asks: obviously a monitor can compute anything it likes, but can a monitor request that a agent do some server-side computation before sending the resulting data back, either across measurements (say, changing units or adding together), or across time (running average, etc.)?"
-msgstr "Mark D. Anderson 質問：モニターは何でも好きなように計算できますが、モニターはエージェントに対して、結果のデータを送り返す前にサーバー側で何らかの計算をするよう要求することはできますか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:669-1
-#, fuzzy
 msgid "This is certainly possible, but we've tended to discourage it. Philosophically we believe any interval-based aggregation belongs in the monitoring clients. The PMDA cannot see the client state, so the PMDA does not know which client it is responding to at the moment, so you'd need to add some additional state using the <a href=\"https://man7.org/linux/man-pages/man3/pmstore.3.html\">pmStore(3)</a> interface to selectively modify state in the PMDA from a client (this is typically used to toggle debug flags or enable optional instrumentation and changing units would be in this category)."
-msgstr "これは確かに可能ですが、私たちはそれを推奨していません。PMDAはクライアントの状態を見ることができません。PMDA はクライアントの状態を見ることができないので、PMDA は現在どのクライアントに応答しているかを知りません。そのため、クライアントから PMDA の状態を選択的に変更するために、<a href=\"https://man7.org/linux/man-pages/man3/pmstore.3.html\">pmStore(3)</a>インターフェースを使用して何らかの追加の状態を追加する必要があります (これは一般的に、デバッグフラグを切り替えたり、オプションの計測を有効にしたりするために使用され、単位の変更はこのカテゴリに入るでしょう)。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:690-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:690-1"
 msgid "Can a monitor ask for qualitative events (e.g. threshold passing), instead of regular samples?"
-msgstr "モニターは、通常のサンプルではなく、定性的なイベント（閾値を超えるなど）を求めることができますか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:692-1
-#, fuzzy
 msgid "Not directly. Use the Performance Metrics API (PMAPI) directly for periodic sampling (most of the PCP monitoring tools are like this). Use <strong>pmie</strong> for filtering and events. See also <a href=\"#Q14\">Synchronous versus asynchronous notification</a> ."
-msgstr "直接ではありません。定期的なサンプリングにはPerformance Metrics API (PMAPI)を直接使用してください（ほとんどのPCP監視ツールはこのようになっています）。フィルタリングやイベントには<strong>pmie</strong>を使用してください。<a href=\"#Q14\">同期通知と非同期通知</a>の違いも参照してください。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:709-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:709-1"
 msgid "How are triggers and alarms integrated to provide external notification?"
-msgstr "トリガーとアラームはどのように統合され、外部に通知されるのですか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:711-1
-#, fuzzy
 msgid "External notification usually means some combination of e-mail, paging, phone-home or posting to an event clearinghouse."
-msgstr "外部への通知は通常、電子メール、ページング、フォンホーム、イベントクリアリングハウスへの掲載などを組み合わせて行われます。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:716-1
-#, fuzzy
 msgid "<strong>pmie</strong> is the PCP tool for automated monitoring and taking predicated actions. pmie's actions are arbitrary; there are some canned ones, but then there is a general \"execute this command\" action. The latter has been used to do pager events, and integrate events into larger system management frameworks like Nagios, OpenView, and so on."
-msgstr "<strong>pmie</strong>は、自動監視と所定のアクションを取るためのPCPツールです。pmieのアクションは任意であり、いくつかの定型的なものもありますが、一般的な「このコマンドを実行する」アクションもあります。後者はページャーイベントや、Nagios、OpenViewなどの大規模なシステム管理フレームワークにイベントを統合するために使用されています。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:734-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:734-1"
 msgid "Synchronous versus asynchronous notification?"
-msgstr "同期型と非同期型の通知の違い"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:736-1
-#, fuzzy
 msgid "The model for shipping values of the performance metrics from PMCD to the monitoring clients is \"synchronous pull\" where the clients explicitly ask for data when they want it. There is no push, broadcast, callback or other asynchronous notification for the values of performance metrics, although <strong>pmie</strong> can be used to perform period sampling and raise asynchronous alarms (of any flavour) when something interesting happens."
-msgstr "PMCDからモニタリング・クライアントにパフォーマンス・メトリクスの値を送信するモデルは、クライアントが必要なときにデータを明示的に要求する「同期プル」です。パフォーマンス・メトリクスの値については、プッシュ、ブロードキャスト、コールバック、その他の非同期通知はありませんが、<strong>pmie</strong>を使用して期間サンプリングを行い、何か面白いことが起こったときに非同期のアラーム（あらゆる種類の）を発生させることができます。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:748-1
-#, fuzzy
 msgid "For more details refer to the <a href=\"https://pcp.readthedocs.io/en/latest/PG/AboutPGGuide.html\">Performance Co-Pilot Programmer's Guide</a>"
-msgstr "詳しくは<a href=\"https://pcp.readthedocs.io/en/latest/PG/AboutPGGuide.html\">Performance Co-Pilot Programmer's Guide</a>をご覧ください。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:760-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:760-1"
 msgid "Do you try to synchronize clocks?"
-msgstr "時計の同期はとっていますか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:762-1
-#, fuzzy
 msgid "No. The clients receive one timestamp from PMCD with each group of values returned, so the only issue is skew when a monitoring client is processing performance data from more than one host or more than one archive."
-msgstr "クライアントは、PMCDから返された値のグループごとに1つのタイムスタンプを受け取ります。そのため、モニタリング・クライアントが複数のホストや複数のアーカイブからのパフォーマンス・データを処理している場合、唯一の問題はスキューです。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:768-1
-#, fuzzy
 msgid "This is not a real problem in most cases because PCP is aiming at system-level performance monitoring, with a bias for large systems, so sampling rates are typically of the order of a few seconds up to tens of minutes. We do not try to tackle event traces requiring sub-microsecond accuracy in the timestamps."
-msgstr "PCPはシステムレベルのパフォーマンスモニタリングを目的としており、大規模なシステムに偏っているため、サンプリングレートは通常、数秒から数十分のオーダーになるため、ほとんどの場合、これは実際の問題ではありません。私たちは、タイムスタンプにサブマイクロ秒の精度が求められるイベントトレースには取り組みません。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:784-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:784-1"
 msgid "Is there an optimized mechanism for local monitoring?"
-msgstr "ローカルモニタリングのための最適化されたメカニズムはあるのか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:786-1
-#, fuzzy
 msgid "Yes. Applications wishing to avoid the overhead of connection to PMCD and communication over TCP/IP may extract operating system performance data directly using the DSO implementation of the PMDA. The same application can decide at run-time to use either the regular or the express access path."
-msgstr "はい。PMCDへの接続やTCP/IPでの通信によるオーバーヘッドを回避したいアプリケーションは、PMDAのDSO実装を使用してオペレーティングシステムのパフォーマンスデータを直接抽出することができます。同じアプリケーションでも、ランタイムにレギュラーアクセスパスとエクスプレスアクセスパスのどちらを使用するかを決めることができます。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:794-1
-#, fuzzy
 msgid "See PM_CONTEXT_LOCAL in <a href=\"https://man7.org/linux/man-pages/man3/pmnewcontext.3.html\">pmNewContext(3).</a>"
-msgstr " <a href=\"https://man7.org/linux/man-pages/man3/pmnewcontext.3.html\">pmNewContext(3</a>)のPM_CONTEXT_LOCALを参照してください。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:806-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:806-1"
 msgid "What about security?"
-msgstr "セキュリティについては？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:808-1
-#, fuzzy
 msgid "Originally, there was no client or server authentication and no encryption. In recent releases, this has been extended with optional secure connections, which are encrypted and can also provide user authentication."
-msgstr "もともと、クライアントやサーバーの認証はなく、暗号化もありませんでした。最近のリリースでは、オプションでセキュア接続が拡張され、暗号化され、ユーザー認証もできるようになりました。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:814-1
-#, fuzzy
 msgid "A simple access control model was used in the past - the PMCD daemon and the pmlogger processes support an IP-based allow/disallow mechanism for client connections on some or all network interfaces."
-msgstr "これまではシンプルなアクセスコントロールモデルが使われていました。PMCDデーモンとpmloggerプロセスは、一部またはすべてのネットワークインターフェース上のクライアント接続に対して、IPベースの許可/不許可メカニズムをサポートしています。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:820-1
-#, fuzzy
 msgid "This too has since been extended, allowing for a user based access control mechanism such that access to the collector daemons can be restricted based on host(s), user(s) and/or group(s)."
-msgstr "また、この機能は拡張され、ユーザーベースのアクセスコントロールメカニズムが可能になり、コレクターデーモンへのアクセスをホスト、ユーザー、グループに基づいて制限できるようになりました。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:834-1
-#, fuzzy
 msgid "PMNS appears to be empty!"
-msgstr "PMNSが空に見える！？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:836-1
-#, fuzzy
 msgid "If you re-build PCP from the source and use \"make install\" to do the installation (as opposed to a package-based installation), some manual post-installation steps will be required."
-msgstr "PCPをソースから再構築し、（パッケージベースのインストールではなく）「make install」でインストールを行う場合、インストール後に手動でいくつかの手順が必要になります。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:842-1
-#, fuzzy
 msgid "In particular the \"PMNS appears to be empty!\" message from any PCP monitoring tool means the Performance Metrics Name Space (PMNS) has not been correctly set up. To fix this:"
-msgstr "特に、PCPモニタリングツールからの「PMNSが空のようです！」というメッセージは、パフォーマンス・メトリクス・ネーム・スペース（PMNS）が正しく設定されていないことを意味します。これを修正するには"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.pre:847-1
-#, fuzzy
 msgid "# source /etc/pcp.conf # touch $PCP_VAR_DIR/pmns/.NeedRebuild # $PCP_RC_DIR/pcp start"
-msgstr "# source /etc/pcp.conf # touch $PCP_VAR_DIR/pmns/.NeedRebuild # $PCP_RC_DIR/pcp start"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:847-113
-#, fuzzy
 msgid "else if you are not starting pmcd this way, the brute-force method is,"
-msgstr "この方法でpmcdを開始していない場合は、ブルートフォース法である。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.pre:850-1
-#, fuzzy
 msgid "# cd $PCP_VAR_DIR/pmns # ./Rebuild -du"
-msgstr "# cd $PCP_VAR_DIR/pmns # ./Rebuild -du"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:860-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:860-1"
 msgid "Resource utilization greater than 100%?"
-msgstr "リソースの使用率が100%を超えていますか？"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:862-1
-#, fuzzy
 msgid "Mail received from Nicholas Guillier on Wed, 30 Jun 2004. <br> <i> I use PCP-2.2.2 to remotely monitor a Linux system. I sometimes face a strange problem: between two samples, the consumed CPU time is higher than the real time! Once turned into a percentage, the resulting value can reach up to 250% of CPU load! This case occurs for kernel.cpu.* metrics and with disk.all.avactive metric as well (both from the Linux pmda). </i>"
-msgstr "2004年6月30日(水)にNicholas Guillier氏から届いたメールです。 <br> <i> PCP-2.2.2を使って、Linuxシステムをリモートでモニターしています。時々、奇妙な問題に直面します：2つのサンプル間で、消費されたCPU時間が実際の時間よりも高くなるのです。パーセンテージに変換すると、結果としてCPU負荷の250%にまで達してしまいます。このケースは kernel.cpu.* メトリクスと disk.all.avactive メトリクスでも発生します (両方とも Linux pmda から)。 </i></br> "
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:875-1
-#, fuzzy
 msgid "First CPU time and disk active time are both really counters in units of time in the kernel, so the reported value for the metric <i>v</i> requires observations at times <i>t</i> <sub>1</sub> and <i>t</i> <sub>2</sub> then reporting the rate (actually time/time, so a utilization) as <i>(v(t</i> <sub>2</sub> <i>) - v(t</i> <sub>1</sub> <i>)) / (t</i> <sub>2</sub> <i>- t</i> <sub>1</sub> <i>)</i>"
-msgstr "まず、CPU時間とディスク使用時間は、いずれもカーネル内の時間単位のカウンターです。したがって、測定値<i>v</i>の報告には、時間<i>t</i> <sub>1</sub>と<i>t</i> <sub>2</sub>の観測が必要であり、<i>（v(t</i> <sub>2</sub> <i>) - v(t</i> <sub>1</sub> <i>)) / (</i> <i>v</i>(t2 - t1 ))というように、率（実際には時間/時間、つまり利用率）を報告します。<i>/ (t</i> <sub>2</sub> <i>- t</i> <sub>1</sub> <i>)</i>"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:898-1
-#, fuzzy
 msgid "The sort of perturbation you report occurs when the collector system (PMCD and PMDAs) is heavily loaded."
-msgstr "ご報告いただいたような摂動は、コレクターシステム（PMCDやPMDA）に大きな負荷がかかったときに起こります。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:902-1
-#, fuzzy
 msgid "The collection architecture assigns one timestamp per fetch, and if the collection system is heavily loaded then there is some (non-trivial in the extreme case) time window between when the first value in the fetch is retrieved from the kernel and when the last is retried from the kernel."
-msgstr "コレクションアーキテクチャでは、フェッチごとに1つのタイムスタンプが割り当てられ、コレクションシステムの負荷が高い場合には、フェッチの最初の値がカーネルから取得されてから最後の値がカーネルから取得されるまでに、何らかの（極端な場合には自明ではない）時間的な余裕があります。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:909-1
-#, fuzzy
 msgid "Let me try to explain with an example with two counter metrics, x and y with correct values as shown below:"
-msgstr "以下のような正しい値を持つ2つのカウンターメトリクス、xとyを例に説明してみましょう。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.th:915-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.th:915-1upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.th:915-1"
 msgid "Time (t)"
-msgstr "時間(t)"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.th:918-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.th:918-1upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.th:918-1"
 msgid "x"
-msgstr "x"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.th:921-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.th:921-1upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.th:921-1"
 msgid "y"
-msgstr "y"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:926-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:926-1upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:926-1"
 msgid "0"
-msgstr "0"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:929-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:929-1"
 msgid "0"
-msgstr "0"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:932-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:932-1"
 msgid "0"
-msgstr "0"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:937-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:937-1upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:937-1upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:937-1upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:937-1upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:937-1"
 msgid "1"
-msgstr "1"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:940-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:940-1"
 msgid "1"
-msgstr "1"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:943-1
-#, fuzzy
 msgid "10"
-msgstr "10"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:948-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:948-1"
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:951-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:951-1"
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:954-1
-#, fuzzy
 msgid "20"
-msgstr "20"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:959-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:959-1"
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:962-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:962-1"
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:965-1
-#, fuzzy
 msgid "30"
-msgstr "30"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:970-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:970-1upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:970-1upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:970-1upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:970-1upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:970-1"
 msgid "4"
-msgstr "4"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:973-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:973-1"
 msgid "4"
-msgstr "4"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:976-1
-#, fuzzy
 msgid "40"
-msgstr "40"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:981-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:981-1upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:981-1"
 msgid "5"
-msgstr "5"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:984-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:984-1"
 msgid "5"
-msgstr "5"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:987-1
-#, fuzzy
 msgid "50"
-msgstr "50"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:992-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:992-1"
 msgid "6"
-msgstr "6"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:995-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:995-1"
 msgid "6"
-msgstr "6"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:998-1
-#, fuzzy
 msgid "60"
-msgstr "60"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:1003-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:1003-1upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:1003-1upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:1003-1upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:1003-1upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:1003-1"
 msgid "7"
-msgstr "7"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:1006-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:1006-1"
 msgid "7"
-msgstr "7"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:1009-1
-#, fuzzy
 msgid "70"
-msgstr "70"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:1014-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:1014-1"
 msgid "8"
-msgstr "8"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:1017-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.table.tr.td:1017-1"
 msgid "8"
-msgstr "8"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.table.tr.td:1020-1
-#, fuzzy
 msgid "80"
-msgstr "80"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:1025-1
-#, fuzzy
 msgid "Now on a lightly loaded system, if we consider 3 samples at t=1, t=4 and t=7, and [x] is the timestamp associated with the returned values:"
-msgstr "今、負荷の軽いシステムで、t=1、t=4、t=7の3つのサンプルを考え、[x]は返された値に関連するタイムスタンプであるとします。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.th:1031-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.th:1031-1"
 msgid "Time"
-msgstr "時間"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.th:1034-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.th:1034-1"
 msgid "Action"
-msgstr "アクション"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1039-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1039-1"
 msgid "1"
-msgstr "1"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1042-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1042-1"
 msgid "pmcd retrieves x=1 and y=10 <br> pcp client receives {[1] x=1 y=10}"
-msgstr "pmcdはx=1とy=10を取得<br>pcpクライアントは{[1] x=1 y=10}を受信</br> "
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1049-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1049-1"
 msgid "4"
-msgstr "4"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1052-1
-#, fuzzy
 msgid "pmcd retrieves x=4 and y=40 <br> pcp client receives {[4] x=4 y=40}"
-msgstr "pmcdはx=4とy=40を取得<br>pcpクライアントは{[4] x=4 y=40}を受信</br> "
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1059-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1059-1"
 msgid "7"
-msgstr "7"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1062-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1062-1"
 msgid "pmcd retrieves x=7 and y=70 <br> pcp client receives {[7] x=7 y=70}"
-msgstr "pmcdはx=7とy=70を取得<br>pcpクライアントは{[7] x=7 y=70}を受信</br> "
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:1070-1
-#, fuzzy
 msgid "And the reported rates would be correct, namely:"
-msgstr "そして、報告されたレートは、すなわち正しいでしょう。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.th:1074-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.th:1074-1"
 msgid "Time (t)"
-msgstr "時間(t)"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.th:1077-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.th:1077-1"
 msgid "x"
-msgstr "x"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.th:1080-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.th:1080-1"
 msgid "y"
-msgstr "y"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1085-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1085-1"
 msgid "1"
-msgstr "1"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1088-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1088-1upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1088-1upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1088-1"
 msgid "no values available"
-msgstr "値はありません"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1091-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1091-1"
 msgid "no values available"
-msgstr "値はありません"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1096-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1096-1"
 msgid "4"
-msgstr "4"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1099-1
-#, fuzzy
 msgid "(4-1)/3=1.00"
-msgstr "(4-1)/3=1.00"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1102-1
-#, fuzzy
 msgid "(40-10)/3=10.00"
-msgstr "(40-10)/3=10.00"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1107-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1107-1"
 msgid "7"
-msgstr "7"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1110-1
-#, fuzzy
 msgid "(7-4)/3=1.00"
-msgstr "(7-4)/3=1.00"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1113-1
-#, fuzzy
 msgid "(70-40)/3=10.00"
-msgstr "(70-40)/3=10.00"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:1119-1
-#, fuzzy
 msgid "Now on a heavily loaded system this could happen ..."
-msgstr "負荷の高いシステムでは、このようなことが起こる可能性があります。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.th:1123-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.th:1123-1"
 msgid "Time"
-msgstr "時間"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.th:1126-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.th:1126-1"
 msgid "Action"
-msgstr "アクション"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1131-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1131-1"
 msgid "1"
-msgstr "1"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1134-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1134-1"
 msgid "pmcd retrieves x=1 and y=10 <br> pcp client receives {[1] x=1 y=10}"
-msgstr "pmcdはx=1とy=10を取得<br>pcpクライアントは{[1] x=1 y=10}を受信</br> "
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1141-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1141-1"
 msgid "4"
-msgstr "4"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1144-1
-#, fuzzy
 msgid "pmcd retrieves x=4 <br> ..delay.."
-msgstr "pmcdはx=4を取得..<br>.遅延...</br> "
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1152-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1152-1"
 msgid "5"
-msgstr "5"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1155-1
-#, fuzzy
 msgid "pmcd retrieves y=50 <br> pcp client receives {[5]x=4 y=50}"
-msgstr "pmcdがy=50を取得<br>pcpクライアントが{[5]x=4 y=50}を受信</br> "
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1162-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1162-1"
 msgid "7"
-msgstr "7"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1165-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1165-1"
 msgid "pmcd retrieves x=7 and y=70 <br> pcp client receives {[7] x=7 y=70}"
-msgstr "pmcdはx=7とy=70を取得<br>pcpクライアントは{[7] x=7 y=70}を受信</br> "
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:1173-1
-#, fuzzy
 msgid "And the reported rates would be ..."
-msgstr "そして、報告されたレートは...。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.th:1177-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.th:1177-1"
 msgid "Time (t)"
-msgstr "時間(t)"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.th:1180-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.th:1180-1"
 msgid "x"
-msgstr "x"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.th:1183-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.th:1183-1"
 msgid "y"
-msgstr "y"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1188-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1188-1"
 msgid "1"
-msgstr "1"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1191-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1191-1"
 msgid "no values available"
-msgstr "値はありません"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1194-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1194-1"
 msgid "no values available"
-msgstr "値はありません"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1199-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1199-1"
 msgid "4"
-msgstr "4"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1202-1
-#, fuzzy
 msgid "(4-1)/4=0.75"
-msgstr "(4-1)/4=0.75"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1205-1
-#, fuzzy
 msgid "(50-10)/4=10.00"
-msgstr "(50-10)/4=10.00"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1210-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.table.tr.td:1210-1"
 msgid "7"
-msgstr "7"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1213-1
-#, fuzzy
 msgid "(7-4)/2=1.50"
-msgstr "(7-4)/2=1.50"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.table.tr.td:1216-1
-#, fuzzy
 msgid "(70-50)/2=10.00"
-msgstr "(70-50)/2=10.00"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:1222-1
-#, fuzzy
 msgid "So, the delayed fetch at time 4 (which does not return values until time 5) produces:"
-msgstr "そのため、時間4での遅延フェッチ（時間5まで値を返さない）では、次のようになります。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:1226-1
-#, fuzzy
 msgid "x is too small at t=5"
-msgstr "xはt=5で小さすぎる"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:1229-1
-#, fuzzy
 msgid "x is too big at t=7"
-msgstr "xはt=7で大きすぎる"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:1234-1
-#, fuzzy
 msgid "You're noticing the second case."
-msgstr "あなたは2番目のケースに気づいています。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:1237-1
-#, fuzzy
 msgid "Note that because these are counters, the effects are self-cancelling and diminish over longer sampling intervals. There is nothing inherently wrong here."
-msgstr "なお、これらはカウンターであるため、効果は自己相殺され、サンプリング間隔が長くなると減少していきます。ここには本質的な問題はありません。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:1250-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.div.div.div.div.section.div.div.p.h3:1250-1"
 msgid "PMDA appears to have died"
-msgstr "PMDAが死んだように見える"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:1252-1
-#, fuzzy
 msgid "Sometimes errors are returned from a metric value fetch from pmcd like \"No PMCD agent for domain of request\"."
-msgstr "pmcdからのメトリック値の取得で、\"No PMCD agent for domain of request \"のようなエラーが返されることがあります。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:1256-1
-#, fuzzy
 msgid "There are a number of possible causes, but one is most common. This is the scenario where a PMDA is unable to respond to a request in a timely fashion, usually due to unexpected or unusual latency in the source of its values (the \"domain\") and not anything related to the PMDA at all."
-msgstr "いくつかの原因が考えられますが、最も一般的なものがあります。これは、PMDAがリクエストにタイムリーに応答できないというシナリオです。通常、PMDAには全く関係なく、PMDAの値のソース（「ドメイン」）における予期せぬ、または異常な遅延が原因となります。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:1263-1
-#, fuzzy
 msgid "Since pmcd aims to provide realtime metrics at the time of each sample, it cannot wait for long for the PMDA. So it times out the request after a short period (a few seconds by default), assuming the PMDA is unavailable when no response is received, and closes its connection to the PMDA."
-msgstr "pmcdは、各サンプルの時点でリアルタイムにメトリクスを提供することを目的としているため、PMDAを長く待つことはできません。そのため、応答がない場合はPMDAが利用できないものとみなして、短い時間（デフォルトでは数秒）でリクエストをタイムアウトさせ、PMDAとの接続を閉じています。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:1270-1
-#, fuzzy
 msgid "This appears from the client side as if the PMDA died as no values are available. Examination of pmcd.log can be used to confirm when timeouts have occured."
-msgstr "これは、クライアント側から見ると、値が得られないためにPMDAが死んだように見える。pmcd.logを調べることで、タイムアウトが発生したことを確認することができます。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:1275-1
-#, fuzzy
 msgid "As of pcp-3.11.3 there are now two strategies available to mitigate this by attempting automatic recovery. In both cases, pmdaroot must be configured and running (by default it is) for these strategies to be effective."
-msgstr "pcp-3.11.3では、自動回復を試みることでこの問題を軽減する2つの方法があります。どちらの場合も、これらの方法が有効になるためには pmdaroot が設定され、実行されていなければなりません (デフォルトでは実行されています)。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:1281-1
-#, fuzzy
 msgid "Firstly, pmcd will attempt one immediate restart of any PMDA it timed out, at the first available opportunity. This is quite effective, but there remain several cases where it can be thwarted. As it involves a once-only rectification attempt, a backup strategy is also useful."
-msgstr "まず、pmcdはタイムアウトしたPMDAを最初の可能な機会に直ちに再起動しようとします。これは非常に効果的ですが、いくつかのケースでは妨害される可能性があります。一度だけの修正を試みるため、バックアップ戦略も有効です。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:1288-1
-#, fuzzy
 msgid "Secondly, a local primary pmie daemon can be enabled to continually monitor the PMDAs and signal to pmcd when a restart is needed. If a PMDA can be restarted automatically, eventually this strategy will manage to do so (unlike the earlier single-shot strategy). pmie is not typically enabled by default, however; refer to the pmie section in the <a href=\"/docs/guide.html#pmie\">Quick Reference</a> which describes how to enable pmie."
-msgstr "次に、ローカルのプライマリ pmie デーモンを有効にして、PMDA を継続的に監視し、再起動が必要なときに pmcd に信号を送ることができます。pmieは通常、デフォルトでは有効になっていませんが、<a href=\"/docs/guide.html#pmie\">クイックリファレンス</a>のpmieの項を参照してください。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:1299-1
-#, fuzzy
 msgid "This latter mechanism also writes to the system log when a PMDA is detected to have failed, and the log message contains details about exactly which PMDAs were affected."
-msgstr "後者の仕組みでは、PMDAの故障が検出されるとシステムログに書き込まれ、そのログメッセージには、どのPMDAが影響を受けたかが詳細に記録されます。"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.h4:1317-1
 msgid "Main Menu"
-msgstr "メインメニュー"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1319-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.footer.div.div.section.div.div.ul.li:1319-1"
 msgid "Features"
-msgstr "特徴"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1322-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.footer.div.div.section.div.div.ul.li:1322-1"
 msgid "Documentation"
-msgstr "ドキュメント"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1325-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.footer.div.div.section.div.div.ul.li:1325-1"
 msgid "Download"
-msgstr "ダウンロード"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.h4:1333-1
 msgid "Developers"
-msgstr "開発者"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1335-1
 msgid "Report an issue"
-msgstr "問題を報告する"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1338-1
 msgid "Roadmap"
-msgstr "ロードマップ"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1341-1
 msgid "Contributing"
-msgstr "貢献する"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1344-1
 msgid "Team"
-msgstr "チーム"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.h4:1352-1
 msgid "About"
-msgstr "About"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1354-1
 msgid "Testimonials"
-msgstr "ユーザーの声"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1357-1
-#, fuzzy
 msgctxt "upstream/docs/faq.html+html.body.footer.div.div.section.div.div.ul.li:1357-1"
 msgid "FAQ"
-msgstr "よくある質問"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1360-1
 msgid "Website"
-msgstr "ウェブサイト"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.h4:1368-1
 msgid "Get Social"
-msgstr "Get Social"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1370-1
 msgid "Twitter"
-msgstr "Twitter"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:1373-1
 msgid "Github"
-msgstr "Github"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.footer.div.div.div.p:1383-1
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
-msgstr "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
+msgstr ""
