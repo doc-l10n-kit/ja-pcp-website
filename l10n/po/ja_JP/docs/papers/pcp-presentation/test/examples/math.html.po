@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-27 04:13+0000\n"
+"POT-Creation-Date: 2021-03-27 05:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,187 +13,155 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.3.3\n"
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml[lang]:2-1
-#, fuzzy
 msgid "en"
-msgstr "エン"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.head.title:7-3
-#, fuzzy
 msgid "reveal.js - Math Plugin"
-msgstr "reveal.js - Mathプラグイン"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.h2:22-6
-#, fuzzy
 msgid "reveal.js Math Plugin"
-msgstr "reveal.js Mathプラグイン"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.p:23-6
-#, fuzzy
 msgid "A thin wrapper for MathJax"
-msgstr "MathJaxの薄いラッパー"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.h3:27-6
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.h3:27-6"
 msgid "The Lorenz Equations"
-msgstr "ローレンツ方程式"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section:27-30
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section:27-30"
 msgid "\\[\\begin{aligned} \\dot{x} &amp; = \\sigma(y-x) \\\\ \\dot{y} &amp; = \\rho x - y - xz \\\\ \\dot{z} &amp; = -\\beta z + xy \\end{aligned} \\]"
-msgstr "♪♪♪♪～Rho x -y - xz\\]"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.h3:37-6
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.h3:37-6"
 msgid "The Cauchy-Schwarz Inequality"
-msgstr "Cauchy-Schwarz不等式"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section:37-39
-#, fuzzy
 msgid "\\left( \\sum_{k=1}^n a_k b_k \\right)^2 \\leq \\left( \\sum_{k=1}^n a_k^2 \\right) \\left( \\sum_{k=1}^n b_k^2 \\right)"
-msgstr "♪♪～"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.h3:45-6
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.h3:45-6"
 msgid "A Cross Product Formula"
-msgstr "クロスプロダクト・フォーミュラ"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section:45-33
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section:45-33"
 msgid "\\[\\mathbf{V}_1 \\times \\mathbf{V}_2 = \\begin{vmatrix} \\mathbf{i} &amp; \\mathbf{j} &amp; \\mathbf{k} \\\\ \\frac{\\partial X}{\\partial u} &amp; \\frac{\\partial Y}{\\partial u} &amp; 0 \\\\ \\frac{\\partial X}{\\partial v} &amp; \\frac{\\partial Y}{\\partial v} &amp; 0 \\end{vmatrix} \\]"
-msgstr "\\\\\\\\♪♪♪♪♪♪♪～♪♪♪♪♪♪♪～\\]"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.h3:55-6
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.h3:55-6"
 msgid "The probability of getting \\(k\\) heads when flipping \\(n\\) coins is"
-msgstr "コインをめくって、ヘッドが出る確率は次のとおりです。"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section:55-77
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section:55-77"
 msgid "\\[P(E) = {n \\choose k} p^k (1-p)^{ n-k} \\]"
-msgstr "P(E) = {n urchin k} p^k (1-p)^{ n-k} urchin"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.h3:61-6
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.h3:61-6"
 msgid "An Identity of Ramanujan"
-msgstr "ラマヌジャンのアイデンティティ"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section:61-34
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section:61-34"
 msgid "\\[ \\frac{1}{\\Bigl(\\sqrt{\\phi \\sqrt{5}}-\\phi\\Bigr) e^{\\frac25 \\pi}} = 1+\\frac{e^{-2\\pi}} {1+\\frac{e^{-4\\pi}} {1+\\frac{e^{-6\\pi}} {1+\\frac{e^{-8\\pi}} {1+\\ldots} } } } \\]"
-msgstr "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\{1+\\\\\\\\\\\\{1+\\\\\\\\\\\\1++frac{e^{-8}pi} {1+frac{e^{-6}pi} {1++frac{e^{-8}pi}}1+\\\\\\}}}\\]"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.h3:69-6
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.h3:69-6"
 msgid "A Rogers-Ramanujan Identity"
-msgstr "ロジャース・ラマヌジャンのアイデンティティ"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section:69-37
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section:69-37"
 msgid "\\[ 1 + \\frac{q^2}{(1-q)}+\\frac{q^6}{(1-q)(1-q^2)}+\\cdots = \\prod_{j=0}^{\\infty}\\frac{1}{(1-q^{5j+2})(1-q^{5j+3})}\\]"
-msgstr "♪ 1 + ˶ˆ꒳ˆ˵ )"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.h3:76-6
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.h3:76-6"
 msgid "Maxwell’s Equations"
-msgstr "マクスウェルの方程式"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section:76-35
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section:76-35"
 msgid "\\[ \\begin{aligned} \\nabla \\times \\vec{\\mathbf{B}} -\\, \\frac1c\\, \\frac{\\partial\\vec{\\mathbf{E}}}{\\partial t} &amp; = \\frac{4\\pi}{c}\\vec{\\mathbf{j}} \\\\ \\nabla \\cdot \\vec{\\mathbf{E}} &amp; = 4 \\pi \\rho \\\\ \\nabla \\times \\vec{\\mathbf{E}}\\, +\\, \\frac1c\\, \\frac{\\partial\\vec{\\mathbf{B}}}{\\partial t} &amp; = \\vec{\\mathbf{0}} \\\\ \\nabla \\cdot \\vec{\\mathbf{B}} &amp; = 0 \\end{aligned} \\]"
-msgstr "♪♪♪♪♪～♪♪♪♪♪♪♪♪～♪♪～What's New Year!♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪\\]"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.section.h3:87-7
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.section.h3:87-7"
 msgid "The Lorenz Equations"
-msgstr "ローレンツ方程式"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.section.div:89-7
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.section.div:89-7"
 msgid "\\[\\begin{aligned} \\dot{x} &amp; = \\sigma(y-x) \\\\ \\dot{y} &amp; = \\rho x - y - xz \\\\ \\dot{z} &amp; = -\\beta z + xy \\end{aligned} \\]"
-msgstr "♪♪♪♪～Rho x -y - xz\\]"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.section.h3:99-7
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.section.h3:99-7"
 msgid "The Cauchy-Schwarz Inequality"
-msgstr "Cauchy-Schwarz不等式"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.section.div:101-7
-#, fuzzy
 msgid "\\[ \\left( \\sum_{k=1}^n a_k b_k \\right)^2 \\leq \\left( \\sum_{k=1}^n a_k^2 \\right) \\left( \\sum_{k=1}^n b_k^2 \\right) \\]"
-msgstr "♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.section.h3:107-7
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.section.h3:107-7"
 msgid "A Cross Product Formula"
-msgstr "クロスプロダクト・フォーミュラ"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.section.div:109-7
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.section.div:109-7"
 msgid "\\[\\mathbf{V}_1 \\times \\mathbf{V}_2 = \\begin{vmatrix} \\mathbf{i} &amp; \\mathbf{j} &amp; \\mathbf{k} \\\\ \\frac{\\partial X}{\\partial u} &amp; \\frac{\\partial Y}{\\partial u} &amp; 0 \\\\ \\frac{\\partial X}{\\partial v} &amp; \\frac{\\partial Y}{\\partial v} &amp; 0 \\end{vmatrix} \\]"
-msgstr "\\\\\\\\♪♪♪♪♪♪♪～♪♪♪♪♪♪♪～\\]"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.section.h3:119-7
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.section.h3:119-7"
 msgid "The probability of getting \\(k\\) heads when flipping \\(n\\) coins is"
-msgstr "コインをめくって、ヘッドが出る確率は次のとおりです。"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.section.div:121-7
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.section.div:121-7"
 msgid "\\[P(E) = {n \\choose k} p^k (1-p)^{ n-k} \\]"
-msgstr "P(E) = {n urchin k} p^k (1-p)^{ n-k} urchin"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.section.h3:127-7
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.section.h3:127-7"
 msgid "An Identity of Ramanujan"
-msgstr "ラマヌジャンのアイデンティティ"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.section.div:129-7
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.section.div:129-7"
 msgid "\\[ \\frac{1}{\\Bigl(\\sqrt{\\phi \\sqrt{5}}-\\phi\\Bigr) e^{\\frac25 \\pi}} = 1+\\frac{e^{-2\\pi}} {1+\\frac{e^{-4\\pi}} {1+\\frac{e^{-6\\pi}} {1+\\frac{e^{-8\\pi}} {1+\\ldots} } } } \\]"
-msgstr "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\{1+\\\\\\\\\\\\{1+\\\\\\\\\\\\1++frac{e^{-8}pi} {1+frac{e^{-6}pi} {1++frac{e^{-8}pi}}1+\\\\\\}}}\\]"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.section.h3:137-7
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.section.h3:137-7"
 msgid "A Rogers-Ramanujan Identity"
-msgstr "ロジャース・ラマヌジャンのアイデンティティ"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.section.div:139-7
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.section.div:139-7"
 msgid "\\[ 1 + \\frac{q^2}{(1-q)}+\\frac{q^6}{(1-q)(1-q^2)}+\\cdots = \\prod_{j=0}^{\\infty}\\frac{1}{(1-q^{5j+2})(1-q^{5j+3})}\\]"
-msgstr "♪ 1 + ˶ˆ꒳ˆ˵ )"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.section.h3:146-7
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.section.h3:146-7"
 msgid "Maxwell’s Equations"
-msgstr "マクスウェルの方程式"
+msgstr ""
 
 #: upstream/docs/papers/pcp-presentation/test/examples/math.html%2Bhtml.body.div.div.section.section.div:148-7
-#, fuzzy
 msgctxt "upstream/docs/papers/pcp-presentation/test/examples/math.html+html.body.div.div.section.section.div:148-7"
 msgid "\\[ \\begin{aligned} \\nabla \\times \\vec{\\mathbf{B}} -\\, \\frac1c\\, \\frac{\\partial\\vec{\\mathbf{E}}}{\\partial t} &amp; = \\frac{4\\pi}{c}\\vec{\\mathbf{j}} \\\\ \\nabla \\cdot \\vec{\\mathbf{E}} &amp; = 4 \\pi \\rho \\\\ \\nabla \\times \\vec{\\mathbf{E}}\\, +\\, \\frac1c\\, \\frac{\\partial\\vec{\\mathbf{B}}}{\\partial t} &amp; = \\vec{\\mathbf{0}} \\\\ \\nabla \\cdot \\vec{\\mathbf{B}} &amp; = 0 \\end{aligned} \\]"
-msgstr "♪♪♪♪♪～♪♪♪♪♪♪♪♪～♪♪～What's New Year!♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪\\]"
+msgstr ""
