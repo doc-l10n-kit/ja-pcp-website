@@ -357,6 +357,294 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Features</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>特徴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ドキュメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ドキュメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Installation</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>インストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quick Reference Guide</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>クイックリファレンスガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Charts Overview</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>チャートの概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Time Control Overview</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>タイムコントロールの概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Guides</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Users and Administrators Guide, Programmers and REST API Guides</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ユーザー＆管理者ガイド、プログラマー＆REST API ガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Slides</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>スライド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Papers</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>発表資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reference papers and presentations we have permission to reproduce.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>転載が許可された参考論文・発表資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Screenshots</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Screenshots from a handful of PCP GUI and console tools, and the more recent &lt;a href="https://grafana-pcp.readthedocs.io/en/latest/screenshots.html"&gt;Grafana PCP&lt;/a&gt; plugin.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>いくつかの PCP GUI およびコンソールツール、およびより最近の&lt;a href="https://grafana-pcp.readthedocs.io/en/latest/screenshots.html"&gt;Grafana PCP&lt;/a&gt;プラグインのスクリーンショット。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Short Guides</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ショートガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using Charts</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>チャートの使い方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Logging Basics</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ロギングの基本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Automated Reasoning Basics</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>自動推論の基礎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configuring Automated Reasoning</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>自動推論の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Secure Connections</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>安全な接続</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Secure Client Connections</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>安全なクライアント接続</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Authenticated Connections</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>認証済みの接続</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Importing data and creating PCP archives (C, Perl, Python)</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>データのインポートと PCP アーカイブの作成 (C、Perl、Python)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Case Studies</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ケーススタディー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analysing processor utilization</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>プロセッサの使用状況を分析する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analysing storage performance</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ストレージのパフォーマンスを分析する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>System Event Log Instrumentation</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>システムイベントログの計測</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Comparing storage performance</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ストレージの性能を比較する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Management framework integration</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>マネジメントフレームワークの統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Videos</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ビデオ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ansible 'metrics' Role</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>Ansible の「metric」ロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Practical Performance Co-Pilot and Grafana</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>実践的な Performance Co-Pilot と Grafana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Features</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>特徴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ドキュメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>&lt;strong&gt;Kernel agents&lt;/strong&gt; for each supported platform. The Linux agent exports a broad range of performance data from kernels since 2.0.36 or later. This includes coverage of activity in the areas of: CPU, disk, memory, swapping, network, NFS, RPC, filesystems, and per-process statistics.</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
