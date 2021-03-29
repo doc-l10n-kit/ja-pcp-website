@@ -13,14 +13,16 @@ msgstr ""
 "X-Generator: Poedit 2.4.2\n"
 
 #: upstream/docs/documentation.html%2Bhtml.head.title:7-1
+#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "パフォーマンス・コパイロット"
 
 #: upstream/docs/documentation.html%2Bhtml.body.header.div.h1:16-1
+#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr ""
+msgstr "パフォーマンス・コパイロット"
 
 #: upstream/docs/documentation.html%2Bhtml.body.header.div.nav.ul.li:21-1
 msgctxt "upstream/docs/documentation.html+html.body.header.div.nav.ul.li:21-1"
