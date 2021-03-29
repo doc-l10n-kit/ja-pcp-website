@@ -1,280 +1,230 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-27 08:11+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-03-29 17:52+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.3.3\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
 
 #: upstream/docs/documentation.html%2Bhtml.head.title:7-1
-#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.head.title:7-1"
 msgid "Performance Co-Pilot"
-msgstr "パフォーマンス・コパイロット"
+msgstr ""
 
 #: upstream/docs/documentation.html%2Bhtml.body.header.div.h1:16-1
-#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.body.header.div.h1:16-1"
 msgid "Performance Co-Pilot"
-msgstr "パフォーマンス・コパイロット"
+msgstr ""
 
 #: upstream/docs/documentation.html%2Bhtml.body.header.div.nav.ul.li:21-1
-#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
 msgstr "特徴"
 
 #: upstream/docs/documentation.html%2Bhtml.body.header.div.nav.ul.li:24-1
-#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.body.header.div.nav.ul.li:24-1upstream/docs/documentation.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
 msgstr "ドキュメント"
 
 #: upstream/docs/documentation.html%2Bhtml.body.header.div.nav.ul.li:27-1
-#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
 msgstr "ダウンロード"
 
 #: upstream/docs/documentation.html%2Bhtml.body.header.div.nav.ul.li:30-1
-#, fuzzy
 msgid "Get Involved"
 msgstr "参加する"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.h1:41-1
-#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.body.div.div.div.h1:41-1"
 msgid "Documentation"
 msgstr "ドキュメント"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:42-1
-#, fuzzy
 msgid "Introduction to PCP"
-msgstr "PCPの紹介"
+msgstr "PCP の紹介"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:45-1
-#, fuzzy
 msgid "Installation"
 msgstr "インストール"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:48-1
-#, fuzzy
 msgid "Quick Reference Guide"
 msgstr "クイックリファレンスガイド"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:51-1
-#, fuzzy
 msgid "Charts Overview"
 msgstr "チャートの概要"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:54-1
-#, fuzzy
 msgid "Time Control Overview"
 msgstr "タイムコントロールの概要"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.h3:67-1
-#, fuzzy
 msgid "Man pages"
-msgstr "男性用ページ"
+msgstr "Man ページ"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.p:70-1
-#, fuzzy
 msgid "All of the manual pages for PCP tools and APIs"
-msgstr "PCPツールやAPIの全マニュアルページ"
+msgstr "PCP ツールや API の全マニュアルページ"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.h3:74-1
-#, fuzzy
 msgid "Guides"
 msgstr "ガイド"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.p:77-1
-#, fuzzy
 msgid "Users and Administrators Guide, Programmers and REST API Guides"
-msgstr "ユーザー＆アドミニストレーターズガイド、プログラマー＆REST APIガイド"
+msgstr "ユーザー＆管理者ガイド、プログラマー＆REST API ガイド"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.h3:81-1
-#, fuzzy
 msgid "Slides"
 msgstr "スライド"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.p:84-1
-#, fuzzy
 msgid "An online presentation about PCP"
-msgstr "PCPに関するオンラインプレゼンテーション"
+msgstr "PCP に関するオンラインプレゼンテーション"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.h3:88-1
-#, fuzzy
 msgid "Papers"
-msgstr "論文"
+msgstr "発表資料"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.p:91-1
-#, fuzzy
 msgid "Reference papers and presentations we have permission to reproduce."
-msgstr "当社が転載を許可した参考論文・発表資料。"
+msgstr "転載が許可された参考論文・発表資料。"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.h3:95-1
-#, fuzzy
 msgid "Screenshots"
 msgstr "スクリーンショット"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.p:98-1
-#, fuzzy
 msgid "Screenshots from a handful of PCP GUI and console tools, and the more recent <a href=\"https://grafana-pcp.readthedocs.io/en/latest/screenshots.html\">Grafana PCP</a> plugin."
-msgstr "いくつかのPCP GUIおよびコンソールツールのスクリーンショットと、最近の<a href=\"https://grafana-pcp.readthedocs.io/en/latest/screenshots.html\">Grafana PCP</a>プラグイン。"
+msgstr "いくつかの PCP GUI およびコンソールツール、およびより最近の<a href=\"https://grafana-pcp.readthedocs.io/en/latest/screenshots.html\">Grafana PCP</a>プラグインのスクリーンショット。"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.h3:109-1
-#, fuzzy
 msgid "Short Guides"
 msgstr "ショートガイド"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:111-1
-#, fuzzy
 msgid "Using Charts"
 msgstr "チャートの使い方"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:114-1
-#, fuzzy
 msgid "Logging Basics"
 msgstr "ロギングの基本"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:117-1
-#, fuzzy
 msgid "Automated Reasoning Basics"
 msgstr "自動推論の基礎"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:120-1
-#, fuzzy
 msgid "Configuring Automated Reasoning"
 msgstr "自動推論の設定"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:123-1
-#, fuzzy
 msgid "Analysis of Linux Containers"
-msgstr "Linuxコンテナの解析"
+msgstr "Linux コンテナの分析"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:126-1
-#, fuzzy
 msgid "Secure Connections"
 msgstr "安全な接続"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:129-1
-#, fuzzy
 msgid "Secure Client Connections"
 msgstr "安全なクライアント接続"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:132-1
-#, fuzzy
 msgid "Authenticated Connections"
 msgstr "認証済みの接続"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:135-1
-#, fuzzy
 msgid "Importing data and creating PCP archives (C, Perl, Python)"
-msgstr "データのインポートとPCPアーカイブの作成（C、Perl、Python"
+msgstr "データのインポートと PCP アーカイブの作成 (C、Perl、Python)"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:138-1
-#, fuzzy
 msgid "Using 3D Views (experimental, source only)"
-msgstr "3Dビューの使用（実験的、ソースのみ"
+msgstr "3D ビューの使用 (実験的、ソースのみ)"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.h1:152-1
-#, fuzzy
 msgid "Case Studies"
-msgstr "導入事例"
+msgstr "ケーススタディー"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:153-1
-#, fuzzy
 msgid "Analysing processor utilization"
 msgstr "プロセッサの使用状況を分析する"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:156-1
-#, fuzzy
 msgid "Analysing storage performance"
 msgstr "ストレージのパフォーマンスを分析する"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:159-1
-#, fuzzy
 msgid "System Event Log Instrumentation"
 msgstr "システムイベントログの計測"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:162-1
-#, fuzzy
 msgid "Comparing storage performance"
 msgstr "ストレージの性能を比較する"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:165-1
-#, fuzzy
 msgid "Management framework integration"
 msgstr "マネジメントフレームワークの統合"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:168-1
-#, fuzzy
 msgid "Setting Up PCP with Vector"
-msgstr "ベクターでのPCPの設定"
+msgstr "Vector での PCP の設定"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.h1:177-1
-#, fuzzy
 msgid "Videos"
 msgstr "ビデオ"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:190-1
-#, fuzzy
 msgid "Ansible 'metrics' Role"
-msgstr "Ansibleの「metric」ロール"
+msgstr "Ansible の「metric」ロール"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:208-1
-#, fuzzy
 msgid "Practical Performance Co-Pilot and Grafana"
-msgstr "実用的なパフォーマンスのCo-PilotとGrafana"
+msgstr "実践的な Performance Co-Pilot と Grafana"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:226-1
-#, fuzzy
 msgid "Performance Co-Pilot and Vector new features in RHEL-8.0"
-msgstr "RHEL-8.0におけるPerformance Co-PilotとVectorの新機能について"
+msgstr "RHEL-8.0 における Performance Co-Pilot と Vector の新機能"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:244-1
-#, fuzzy
 msgid "Exploratory Performance Analysis with Performance Co-Pilot"
-msgstr "Performance Co-PilotによるExploratory Performance Analysis"
+msgstr "Performance Co-Pilot による探索的データ分析"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:262-1
-#, fuzzy
 msgid "Evaluating Red Hat Storage Performance using Performance Co-Pilot"
 msgstr "Performance Co-Pilot を使用した Red Hat ストレージパフォーマンスの評価"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:280-1
-#, fuzzy
 msgid "Programming the Performance Co-Pilot toolkit"
-msgstr "ツールキット「Performance Co-Pilot」のプログラミング"
+msgstr "Performance Co-Pilot ツールキットのプログラミング"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:298-1
-#, fuzzy
 msgid "Regression Analysis with Performance Co-Pilot"
-msgstr "Performance Co-Pilotによる回帰分析"
+msgstr "Performance Co-Pilot による回帰分析"
 
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:313-1
 msgid "Main Menu"
 msgstr "メインメニュー"
 
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:315-1
-#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.body.footer.div.div.section.div.div.ul.li:315-1"
 msgid "Features"
 msgstr "特徴"
 
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:318-1
-#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.body.footer.div.div.section.div.div.ul.li:318-1"
 msgid "Documentation"
 msgstr "ドキュメント"
 
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:321-1
-#, fuzzy
 msgctxt "upstream/docs/documentation.html+html.body.footer.div.div.section.div.div.ul.li:321-1"
 msgid "Download"
 msgstr "ダウンロード"
