@@ -53,16 +53,19 @@ msgid "Download"
 msgstr "ダウンロード"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.p:47-1
+#, fuzzy
 msgid "Pre-built Performance Co-Pilot packages and containers can be installed from <a href=\"https://performancecopilot.jfrog.io\">Artifactory</a>"
-msgstr ""
+msgstr "事前に作成されたPerformance Co-Pilotのパッケージやコンテナは、<a href=\"https://performancecopilot.jfrog.io\">Artifactory</a>からインストールすることができます。"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.p:51-1
+#, fuzzy
 msgid "First find the correct <a href=\"https://performancecopilot.jfrog.io/ui/repos/tree/General/artifactory-build-info\">repository</a> and follow the \"Set Me Up\" instructions appropriate to your distribution."
-msgstr ""
+msgstr "まず、適切な<a href=\"https://performancecopilot.jfrog.io/ui/repos/tree/General/artifactory-build-info\">リポジトリ</a>を見つけ、お使いのディストリビューションに適した「Set Me Up」の指示に従ってください。"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.p:56-1
+#, fuzzy
 msgid "To verify signed package builds, use the PCP maintainers <a href=\"http://pcp.io/GPG-KEY-PCP\">public key.</a>"
-msgstr ""
+msgstr "署名されたパッケージのビルドを確認するには、PCPメンテナの<a href=\"http://pcp.io/GPG-KEY-PCP\">公開鍵</a>を使用します。"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.h2:69-1
 #, fuzzy
