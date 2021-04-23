@@ -16,12 +16,13 @@ for ITEM in `\find upstream -name "*.html"` ; do
         TMP=`mktemp`
         html2po --input="upstream/$RELATIVE_FILE_PATH" --output="$TMP.po"
         if [ -f "l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po" ] ; then
-          pomerge --template="l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po" --input="$TMP.po" --output="l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po" --mergeblanks=no
+          pomerge --template="$TMP.po" --input="l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po" --output="l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po" --mergeblanks=no
         else
           mv "$TMP.po" "l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po"
         fi
 
         msgcat --to-code=utf-8 --no-wrap -o l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po
+        sed -i -E 's/^\"POT-Creation-Date.*/"POT-Creation-Date: 2020-01-01 00:00+0000\\n"/g' l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po
 
         if [ ! -s l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po ]; then
           rm l10n/po/$TARGET_LANG/$RELATIVE_FILE_PATH.po
