@@ -194,19 +194,22 @@ msgid "Main Menu"
 msgstr "メインメニュー"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:366-1
+#, fuzzy
 msgctxt "upstream/docs/index.html+html.body.footer.div.div.section.div.div.ul.li:366-1"
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:369-1
+#, fuzzy
 msgctxt "upstream/docs/index.html+html.body.footer.div.div.section.div.div.ul.li:369-1"
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:372-1
+#, fuzzy
 msgctxt "upstream/docs/index.html+html.body.footer.div.div.section.div.div.ul.li:372-1"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:380-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:375-1
