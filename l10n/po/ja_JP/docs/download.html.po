@@ -93,9 +93,8 @@ msgid "Fedora / RHEL"
 msgstr "Fedora / RHEL"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.pre:94-1
-#, fuzzy
-msgid "yum install pcp # RHEL 6 service pmcd start service pmlogger start service pmie start # RHEL 7 / Fedora systemctl start pmcd systemctl start pmie systemctl start pmlogger"
-msgstr "yum install pcp # RHEL 6 service pmcd start service pmlogger start service pmie start # RHEL 7 / Fedora systemctl start pmcd systemctl start pmie systemctl start pmlogger"
+msgid "yum install pcp # RHEL 6 service pmcd start service pmlogger start service pmie start # RHEL 7 and later / Fedora systemctl start pmcd systemctl start pmie systemctl start pmlogger"
+msgstr ""
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.h3:106-1
 #, fuzzy
