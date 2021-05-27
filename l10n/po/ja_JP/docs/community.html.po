@@ -67,9 +67,8 @@ msgid "We are greatly interested in any efforts to expand the scope of the avail
 msgstr "新しいエージェントで利用可能なパフォーマンス・メトリクスの範囲を拡大したり、既存のパフォーマンス・ツールをPCP APIに移植したり、PCP APIを介して配信されたパフォーマンス・データを消費して表示する新しいクライアントを開発したりする取り組みには、大いに関心があります。"
 
 #: upstream/docs/community.html%2Bhtml.body.div.div.div.div.section.div.div.p:78-1
-#, fuzzy
-msgid "It is highly recommended to join the <a href=\"https://groups.io/g/pcp/\">mailing list</a> and <a href=\"https://h7zo83mvt1.execute-api.us-west-2.amazonaws.com/Express/\">Slack</a> or <a href=\"https://webchat.freenode.net/?channels=pcp\">IRC</a> channel."
-msgstr " <a href=\"https://groups.io/g/pcp/\">メーリングリスト</a>や<a href=\"https://h7zo83mvt1.execute-api.us-west-2.amazonaws.com/Express/\">Slack</a>、<a href=\"https://webchat.freenode.net/?channels=pcp\">IRC</a>チャンネルに参加されることを強くお勧めします。"
+msgid "It is highly recommended to join the <a href=\"https://groups.io/g/pcp/\">mailing list</a> and <a href=\"https://h7zo83mvt1.execute-api.us-west-2.amazonaws.com/Express/\">Slack</a> or <a href=\"irc://irc.libera.chat:6667\">Libera Chat</a> IRC #pcp channel."
+msgstr ""
 
 #: upstream/docs/community.html%2Bhtml.body.div.div.div.div.section.div.div.p:87-1
 #, fuzzy
@@ -97,9 +96,8 @@ msgid "Chat"
 msgstr "チャット"
 
 #: upstream/docs/community.html%2Bhtml.body.div.div.div.div.section.div.div.p:131-1
-#, fuzzy
-msgid "You can chat directly with the PCP developers on the #pcp IRC channel on the <a href=\"https://webchat.freenode.net/?channels=pcp\">FreeNode</a> network, or via our <a href=\"https://h7zo83mvt1.execute-api.us-west-2.amazonaws.com/Express/\">Slack</a> team."
-msgstr "PCPの開発者とは、<a href=\"https://webchat.freenode.net/?channels=pcp\">FreeNode</a>ネットワーク上の#pcp IRCチャンネル、または<a href=\"https://h7zo83mvt1.execute-api.us-west-2.amazonaws.com/Express/\">Slack</a>チームで直接チャットすることができます。"
+msgid "You can chat directly with the PCP developers on the #pcp IRC channel on the <a href=\"irc://irc.libera.chat:6667\">Libera Chat</a> network, or via our <a href=\"https://h7zo83mvt1.execute-api.us-west-2.amazonaws.com/Express/\">Slack</a> team."
+msgstr ""
 
 #: upstream/docs/community.html%2Bhtml.body.div.div.div.div.h2:145-1
 #, fuzzy
