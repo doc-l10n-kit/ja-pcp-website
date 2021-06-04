@@ -461,22 +461,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>May 2020 &lt;br&gt; PCP 5.1.1</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>2020年5月&lt;br&gt;PCP 5.1.1&lt;/br&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Fixes and optimizations in systemd service management, and a new &lt;a href="https://man7.org/linux/man-pages/man1/pmfind.1.html"&gt;pmfind&lt;/a&gt; discovery timer service replacing the &lt;a href="https://man7.org/linux/man-pages/man1/pcpcompat.1.html"&gt;pmmgr&lt;/a&gt; standalone daemon. Metric labels support in &lt;a href="https://man7.org/linux/man-pages/man1/pmrep.1.html"&gt;pmrep&lt;/a&gt; and related tools, &lt;a href="https://man7.org/linux/man-pages/man1/pmcd.1.html"&gt;pmcd&lt;/a&gt; support for optional labels. New metric collectors for &lt;a href="https://man7.org/linux/man-pages/man1/pmdaopenvswitch.1.html"&gt;Open vSwitch&lt;/a&gt; and &lt;a href="https://man7.org/linux/man-pages/man1/pmdarabbitmq.1.html"&gt;RabbitMQ&lt;/a&gt; servers.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>systemd サービスマネジメントの修正と最適化、そして&lt;a href="https://man7.org/linux/man-pages/man1/pcpcompat.1.html"&gt;pmmgr&lt;/a&gt;スタンドアロンデーモンに代わる新しい&lt;a href="https://man7.org/linux/man-pages/man1/pmfind.1.html"&gt;pmfind&lt;/a&gt;ディスカバリータイマーサービス。&lt;a href="https://man7.org/linux/man-pages/man1/pmrep.1.html"&gt;pmrep&lt;/a&gt;および関連ツールにおけるメトリックラベルのサポート、オプションのラベルに対する&lt;a href="https://man7.org/linux/man-pages/man1/pmcd.1.html"&gt;pmcd の&lt;/a&gt;サポート。&lt;a href="https://man7.org/linux/man-pages/man1/pmdaopenvswitch.1.html"&gt;Open vSwitch&lt;/a&gt;および&lt;a href="https://man7.org/linux/man-pages/man1/pmdarabbitmq.1.html"&gt;RabbitMQ&lt;/a&gt;サーバ用の新しいメトリックコレクター。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
         <seg>Features</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
