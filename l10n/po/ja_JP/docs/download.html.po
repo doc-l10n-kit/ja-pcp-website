@@ -53,12 +53,14 @@ msgid "Download"
 msgstr "ダウンロード"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.p:47-1
+#, fuzzy
 msgid "Pre-built Performance Co-Pilot packages and containers can be installed from <a href=\"https://performancecopilot.jfrog.io\">Artifactory.</a>"
-msgstr ""
+msgstr "事前に構築されたPerformance Co-Pilotのパッケージやコンテナは、<a href=\"https://performancecopilot.jfrog.io\">Artifactory</a>からインストールできます。"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.p:51-1
+#, fuzzy
 msgid "Please follow the <a href=\"https://pcp.readthedocs.io/en/latest/HowTos/installation/index.html\">installation instructions</a> on how to setup the Artifactory repositories for your distribution."
-msgstr ""
+msgstr "お使いのディストリビューションのArtifactoryリポジトリをセットアップする方法については、<a href=\"https://pcp.readthedocs.io/en/latest/HowTos/installation/index.html\">インストール手順</a>に従ってください。"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.p:56-1
 #, fuzzy
