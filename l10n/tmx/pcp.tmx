@@ -445,22 +445,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>Aug 2020 &lt;br&gt; PCP 5.2.0</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>2020年8月&lt;br&gt;PCP 5.2.0&lt;/br&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>New tools - &lt;a href="https://man7.org/linux/man-pages/man1/pmiectl.1.html"&gt;pmiectl&lt;/a&gt; , &lt;a href="https://man7.org/linux/man-pages/man1/pmlogctl.1.html"&gt;pmlogctl&lt;/a&gt; , &lt;a href="https://man7.org/linux/man-pages/man1/pmlogpaste.1.html"&gt;pmlogpaste&lt;/a&gt; and &lt;a href="https://man7.org/linux/man-pages/man1/pmsearch.1.html"&gt;pmsearch .&lt;/a&gt; New metrics for process accounting, ZRAM, multi-path TCP and S.M.A.R.T data. Numerous bug fixes and retired &lt;a href="https://man7.org/linux/man-pages/man1/pcpcompat.1.html"&gt;pmmgr&lt;/a&gt; in favour of the &lt;a href="https://man7.org/linux/man-pages/man1/pmfind_check.1.html"&gt;pmfind&lt;/a&gt; service.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>新しいツール -&lt;a href="https://man7.org/linux/man-pages/man1/pmiectl.1.html"&gt;pmiectl&lt;/a&gt;,&lt;a href="https://man7.org/linux/man-pages/man1/pmlogctl.1.html"&gt;pmlogctl&lt;/a&gt;,&lt;a href="https://man7.org/linux/man-pages/man1/pmlogpaste.1.html"&gt;pmlogpaste&lt;/a&gt;,&lt;a href="https://man7.org/linux/man-pages/man1/pmsearch.1.html"&gt;pmsearch 。&lt;/a&gt;プロセスアカウンティング、ZRAM、マルチパス TCP および S.M.A.R.T データのための新しいメトリクス。数多くのバグフィックスを行い、&lt;a href="https://man7.org/linux/man-pages/man1/pcpcompat.1.html"&gt;pmmgr&lt;/a&gt;をリタイアさせて&lt;a href="https://man7.org/linux/man-pages/man1/pmfind_check.1.html"&gt;pmfind&lt;/a&gt;サービスを導入しました。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
         <seg>Features</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
