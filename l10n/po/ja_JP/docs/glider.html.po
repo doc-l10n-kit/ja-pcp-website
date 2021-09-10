@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.0\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 #: upstream/docs/glider.html%2Bhtml.head.title:7-1
 #, fuzzy
@@ -67,9 +67,11 @@ msgid "Installation is as simple as:"
 msgstr "インストールは簡単です。"
 
 #: upstream/docs/glider.html%2Bhtml.body.div.div.div.div.section.div.div.p.pre:77-1
-#, fuzzy
-msgid "C:> msiexec /i pcp-glider-*.msi C:> cd \\Glider\\scripts C:> .\\postinst.bat"
-msgstr "C:&gt; msiexec /i pcp-glider-*.msi C:&gt; cd ˶ˆ꒳ˆ˵ C:&gt; .postinst.bat"
+msgid ""
+"C:> msiexec /i pcp-glider-*.msi\n"
+"C:> cd \\Glider\\scripts\n"
+"C:> .\\postinst.bat"
+msgstr ""
 
 #: upstream/docs/glider.html%2Bhtml.body.div.div.div.div.section.div.div.p:79-1
 #, fuzzy

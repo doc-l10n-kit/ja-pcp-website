@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.0\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 #: upstream/docs/download.html%2Bhtml.head.title:7-1
 #, fuzzy
@@ -83,9 +83,12 @@ msgid "Debian / Ubuntu"
 msgstr "Debian / Ubuntu"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.pre:87-1
-#, fuzzy
-msgid "apt-get install pcp invoke-rc.d pmcd start invoke-rc.d pmie start invoke-rc.d pmlogger start"
-msgstr "apt-get install pcp invoke-rc.d pmcd start invoke-rc.d pmie start invoke-rc.d pmlogger start"
+msgid ""
+"apt-get install pcp\n"
+"invoke-rc.d pmcd start\n"
+"invoke-rc.d pmie start\n"
+"invoke-rc.d pmlogger start"
+msgstr ""
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.h3:93-1
 #, fuzzy
@@ -93,9 +96,17 @@ msgid "Fedora / RHEL"
 msgstr "Fedora / RHEL"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.pre:94-1
-#, fuzzy
-msgid "yum install pcp # RHEL 6 service pmcd start service pmlogger start service pmie start # RHEL 7 and later / Fedora systemctl start pmcd systemctl start pmie systemctl start pmlogger"
-msgstr "yum install pcp # RHEL 6 service pmcd start service pmlogger start service pmie start # RHEL 7 以降 / Fedora systemctl start pmcd systemctl start pmie systemctl start pmlogger"
+msgid ""
+"yum install pcp\n"
+"# RHEL 6\n"
+"service pmcd start\n"
+"service pmlogger start\n"
+"service pmie start\n"
+"# RHEL 7 and later / Fedora\n"
+"systemctl start pmcd\n"
+"systemctl start pmie\n"
+"systemctl start pmlogger"
+msgstr ""
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.h3:106-1
 #, fuzzy

@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.0\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 #: upstream/docs/faq.html%2Bhtml.head.title:7-1
 #, fuzzy
@@ -455,9 +455,29 @@ msgid "Putting this altogether we can use pminfo to explore the available inform
 msgstr "このようにして、pminfoを使って利用可能な情報を調べることができます。"
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.pre:398-1
-#, fuzzy
-msgid "$ pminfo filesys filesys.capacity filesys.used filesys.free filesys.maxfiles filesys.usedfiles filesys.freefiles filesys.mountdir filesys.full $ pminfo -md filesys.free filesys.free PMID: 60.5.3 Data Type: 64-bit unsigned int InDom: 60.5 0xf000005 Semantics: instant Units: Kbyte $ pminfo -f filesys.free filesys.free inst [0 or \"/dev/root\"] value 3498272 inst [1 or \"/dev/hda3\"] value 20106 inst [2 or \"/dev/hda5\"] value 7747420 inst [3 or \"/dev/hda2\"] value 368432"
-msgstr "$ pminfo filesys filesys.capacity filesys.used filesys.free filesys.maxfiles filesys.usedfiles filesys.freefiles filesys.mountdir filesys.full $ pminfo -md filesys.free filesys.free PMID: 60.5.3 Data Type:64-bit unsigned int InDom: 60.5 0xf000005 Semantics: instant Units:Kbyte $ pminfo -f filesys.free filesys.free inst [0 or \"/dev/root\"] value 3498272 inst [1 or \"/dev/hda3\"] value 20106 inst [2 or \"/dev/hda5\"] value 7747420 inst [3 or \"/dev/hda2\"] value 368432"
+msgid ""
+"$ pminfo filesys\n"
+"filesys.capacity\n"
+"filesys.used\n"
+"filesys.free\n"
+"filesys.maxfiles\n"
+"filesys.usedfiles\n"
+"filesys.freefiles\n"
+"filesys.mountdir\n"
+"filesys.full\n"
+"\n"
+"$ pminfo -md filesys.free\n"
+"filesys.free PMID: 60.5.3\n"
+"  Data Type: 64-bit unsigned int  InDom: 60.5 0xf000005\n"
+"  Semantics: instant  Units: Kbyte\n"
+"\n"
+"$ pminfo -f filesys.free\n"
+"filesys.free\n"
+"  inst [0 or \"/dev/root\"] value 3498272\n"
+"  inst [1 or \"/dev/hda3\"] value 20106\n"
+"  inst [2 or \"/dev/hda5\"] value 7747420\n"
+"  inst [3 or \"/dev/hda2\"] value 368432"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:408-1
 #, fuzzy
@@ -632,9 +652,10 @@ msgid "To see all of the gory details, turn on PDU tracing and run simple pminfo
 msgstr "詳細を見るには、PDUトレースをオンにして、シンプルなpminfoコマンドを実行します。"
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.pre:647-1
-#, fuzzy
-msgid "$ pminfo -D PDU kernel.all.cpu $ pminfo -D PDU -fdT kernel.all.load"
-msgstr "$ pminfo -D PDU kernel.all.cpu $ pminfo -D PDU -fdT kernel.all.load"
+msgid ""
+"$ pminfo -D PDU kernel.all.cpu\n"
+"$ pminfo -D PDU -fdT kernel.all.load"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:647-88
 #, fuzzy
@@ -769,9 +790,11 @@ msgid "In particular the \"PMNS appears to be empty!\" message from any PCP moni
 msgstr "特に、PCPモニタリングツールからの「PMNSが空のようです！」というメッセージは、パフォーマンス・メトリクス・ネーム・スペース（PMNS）が正しく設定されていないことを意味します。これを修正するには"
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.pre:847-1
-#, fuzzy
-msgid "# source /etc/pcp.conf # touch $PCP_VAR_DIR/pmns/.NeedRebuild # $PCP_RC_DIR/pcp start"
-msgstr "# source /etc/pcp.conf # touch $PCP_VAR_DIR/pmns/.NeedRebuild # $PCP_RC_DIR/pcp start"
+msgid ""
+"# source /etc/pcp.conf\n"
+"# touch $PCP_VAR_DIR/pmns/.NeedRebuild\n"
+"# $PCP_RC_DIR/pcp start"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:847-113
 #, fuzzy
@@ -779,9 +802,10 @@ msgid "else if you are not starting pmcd this way, the brute-force method is,"
 msgstr "この方法でpmcdを開始していない場合は、ブルートフォース法である。"
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.pre:850-1
-#, fuzzy
-msgid "# cd $PCP_VAR_DIR/pmns # ./Rebuild -du"
-msgstr "# cd $PCP_VAR_DIR/pmns # ./Rebuild -du"
+msgid ""
+"# cd $PCP_VAR_DIR/pmns\n"
+"# ./Rebuild -du"
+msgstr ""
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:860-1
 #, fuzzy

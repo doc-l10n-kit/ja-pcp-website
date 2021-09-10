@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.0\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.head.title:8-2
 #, fuzzy
@@ -213,9 +213,8 @@ msgid "of this license document, but changing it is not allowed."
 msgstr "を変更することはできませんが、このライセンス文書の"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:68-1
-#, fuzzy
-msgid "[This is the first released version of the Lesser GPL. It also counts"
-msgstr "[これは劣等GPLの最初のリリースされたバージョンです。また、次のようにカウントされています。"
+msgid "[This is the first released version of the Lesser GPL.  It also counts"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:69-1
 #, fuzzy
@@ -238,9 +237,8 @@ msgid "The licenses for most software are designed to take away your"
 msgstr "ほとんどのソフトウェアのライセンスは、あなたの権利を奪うように設計されています。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:75-1
-#, fuzzy
-msgid "freedom to share and change it. By contrast, the GNU General Public"
-msgstr "それを共有したり変更したりする自由があります。対照的に、GNU General Public"
+msgid "freedom to share and change it.  By contrast, the GNU General Public"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:76-1
 #, fuzzy
@@ -263,9 +261,8 @@ msgid "specially designated software packages--typically libraries--of the"
 msgstr "特別に指定されたソフトウェアパッケージ（通常はライブラリ）の"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:81-1
-#, fuzzy
-msgid "Free Software Foundation and other authors who decide to use it. You"
-msgstr "Free Software Foundationおよびそれを使用することを決定した他の著者。あなたは"
+msgid "Free Software Foundation and other authors who decide to use it.  You"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:82-1
 #, fuzzy
@@ -288,9 +285,8 @@ msgid "When we speak of free software, we are referring to freedom of use,"
 msgstr "フリーソフトウェアといえば、使用の自由のことを指します。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:87-1
-#, fuzzy
-msgid "not price. Our General Public Licenses are designed to make sure that"
-msgstr "は価格ではありません。私たちの一般公開ライセンスは、次のようなことを目的としています。"
+msgid "not price.  Our General Public Licenses are designed to make sure that"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:88-1
 #, fuzzy
@@ -328,9 +324,8 @@ msgid "distributors to deny you these rights or to ask you to surrender these"
 msgstr "ディストリビューターがお客様の権利を否定したり、お客様にこれらの権利を放棄するよう求めることができます。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:96-1
-#, fuzzy
-msgid "rights. These restrictions translate to certain responsibilities for"
-msgstr "の権利があります。これらの制限は、以下のような一定の責任につながります。"
+msgid "rights.  These restrictions translate to certain responsibilities for"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:97-1
 #, fuzzy
@@ -348,14 +343,12 @@ msgid "or for a fee, you must give the recipients all the rights that we gave"
 msgstr "または有償の場合は、私たちが与えたすべての権利を受信者に与えなければなりません。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:101-1
-#, fuzzy
-msgid "you. You must make sure that they, too, receive or can get the source"
-msgstr "あなた。あなたは、彼らもソースを受け取ったり、手に入れられるようにしなければなりません。"
+msgid "you.  You must make sure that they, too, receive or can get the source"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:102-1
-#, fuzzy
-msgid "code. If you link other code with the library, you must provide"
-msgstr "コードを使用しています。他のコードとライブラリをリンクする場合は"
+msgid "code.  If you link other code with the library, you must provide"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:103-1
 #, fuzzy
@@ -368,9 +361,8 @@ msgid "with the library after making changes to the library and recompiling"
 msgstr "ライブラリーに変更を加え、再コンパイルした後に"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:105-1
-#, fuzzy
-msgid "it. And you must show them these terms so they know their rights."
-msgstr "のようになります。そして、自分の権利を知ってもらうために、これらの条件を示す必要があります。"
+msgid "it.  And you must show them these terms so they know their rights."
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:107-1
 #, fuzzy
@@ -393,9 +385,8 @@ msgid "To protect each distributor, we want to make it very clear that"
 msgstr "各ディストリビューターを保護するために、以下のことを明確にしたいと思います。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:112-1
-#, fuzzy
-msgid "there is no warranty for the free library. Also, if the library is"
-msgstr "は、無料のライブラリの保証はありません。また、ライブラリが"
+msgid "there is no warranty for the free library.  Also, if the library is"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:113-1
 #, fuzzy
@@ -423,9 +414,8 @@ msgid "Finally, software patents pose a constant threat to the existence of"
 msgstr "最後に、ソフトウェア特許は、日本の企業の存在を常に脅かしています。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:119-1
-#, fuzzy
-msgid "any free program. We wish to make sure that a company cannot"
-msgstr "どんな無料プログラムでも。私たちは、企業が以下のようなことができないようにしたいと考えています。"
+msgid "any free program.  We wish to make sure that a company cannot"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:120-1
 #, fuzzy
@@ -433,9 +423,8 @@ msgid "effectively restrict the users of a free program by obtaining a"
 msgstr "を得ることで、自由なプログラムのユーザーを効果的に制限することができます。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:121-1
-#, fuzzy
-msgid "restrictive license from a patent holder. Therefore, we insist that"
-msgstr "特許権者から制限的なライセンスを受けています。したがって、私たちは以下のことを主張します。"
+msgid "restrictive license from a patent holder.  Therefore, we insist that"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:122-1
 #, fuzzy
@@ -453,9 +442,8 @@ msgid "Most GNU software, including some libraries, is covered by the"
 msgstr "ほとんどのGNUソフトウェア（一部のライブラリを含む）には"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:126-1
-#, fuzzy
-msgid "ordinary GNU General Public License. This license, the GNU Lesser"
-msgstr "ordinary GNU General Public License.このライセンス、GNU Lesser"
+msgid "ordinary GNU General Public License.  This license, the GNU Lesser"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:127-1
 #, fuzzy
@@ -463,9 +451,8 @@ msgid "General Public License, applies to certain designated libraries, and"
 msgstr "General Public License、特定の指定された図書館に適用されます。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:128-1
-#, fuzzy
-msgid "is quite different from the ordinary General Public License. We use"
-msgstr "は、通常のGeneral Public Licenseとは全く異なります。私たちは"
+msgid "is quite different from the ordinary General Public License.  We use"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:129-1
 #, fuzzy
@@ -488,9 +475,8 @@ msgid "a shared library, the combination of the two is legally speaking a"
 msgstr "共有ライブラリの場合、この2つの組み合わせは法的には"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:134-1
-#, fuzzy
-msgid "combined work, a derivative of the original library. The ordinary"
-msgstr "複合作品、オリジナルライブラリの派生作品。通常の"
+msgid "combined work, a derivative of the original library.  The ordinary"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:135-1
 #, fuzzy
@@ -498,9 +484,8 @@ msgid "General Public License therefore permits such linking only if the"
 msgstr "そのため、General Public Licenseでは、以下の場合にのみリンクを許可しています。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:136-1
-#, fuzzy
-msgid "entire combination fits its criteria of freedom. The Lesser General"
-msgstr "すべての組み合わせが、その自由の基準に合致しています。劣等生"
+msgid "entire combination fits its criteria of freedom.  The Lesser General"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:137-1
 #, fuzzy
@@ -523,14 +508,12 @@ msgid "does Less to protect the user's freedom than the ordinary General"
 msgstr "ユーザーの自由を守るためには、通常のGeneral"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:142-1
-#, fuzzy
-msgid "Public License. It also provides other free software developers Less"
-msgstr "Public Licenseです。また、他のフリーソフトウェア開発者にも Less"
+msgid "Public License.  It also provides other free software developers Less"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:143-1
-#, fuzzy
-msgid "of an advantage over competing non-free programs. These disadvantages"
-msgstr "競合する非フリーのプログラムと比べて優位に立つことができません。これらの不利な点"
+msgid "of an advantage over competing non-free programs.  These disadvantages"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:144-1
 #, fuzzy
@@ -538,9 +521,8 @@ msgid "are the reason we use the ordinary General Public License for many"
 msgstr "は、通常のGeneral Public Licenseを使用している理由です。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:145-1
-#, fuzzy
-msgid "libraries. However, the Lesser license provides advantages in certain"
-msgstr "のライブラリがあります。しかし、レッサーライセンスには、以下のような利点があります。"
+msgid "libraries.  However, the Lesser license provides advantages in certain"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:146-1
 #, fuzzy
@@ -558,19 +540,16 @@ msgid "encourage the widest possible use of a certain library, so that it become
 msgstr "ある図書館ができるだけ広く利用されるように、その図書館が"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:150-1
-#, fuzzy
-msgid "a de-facto standard. To achieve this, non-free programs must be"
-msgstr "をデファクト・スタンダードにする。これを達成するためには、不自由なプログラムは"
+msgid "a de-facto standard.  To achieve this, non-free programs must be"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:151-1
-#, fuzzy
-msgid "allowed to use the library. A more frequent case is that a free"
-msgstr "を使用することができます。もっと頻繁なケースは、無料の"
+msgid "allowed to use the library.  A more frequent case is that a free"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:152-1
-#, fuzzy
-msgid "library does the same job as widely used non-free libraries. In this"
-msgstr "ライブラリーは、広く使われているノンフリーのライブラリーと同じ仕事をします。この中で"
+msgid "library does the same job as widely used non-free libraries.  In this"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:153-1
 #, fuzzy
@@ -593,9 +572,8 @@ msgid "programs enables a greater number of people to use a large body of"
 msgstr "プログラムでは、より多くの人が大量のソフトウェアを使用することができます。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:158-1
-#, fuzzy
-msgid "free software. For example, permission to use the GNU C Library in"
-msgstr "フリーソフトウェアです。例えば、GNU Cライブラリの使用許可は"
+msgid "free software.  For example, permission to use the GNU C Library in"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:159-1
 #, fuzzy
@@ -638,14 +616,12 @@ msgid "The precise terms and conditions for copying, distribution and"
 msgstr "複製、頒布、配布に関する正確な条件は"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:169-1
-#, fuzzy
-msgid "modification follow. Pay close attention to the difference between a"
-msgstr "修正が続く。の違いに注意してください。"
+msgid "modification follow.  Pay close attention to the difference between a"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:170-1
-#, fuzzy
-msgid "\"work based on the library\" and a \"work that uses the library\". The"
-msgstr "\"ライブラリを利用した作品 \"と、\"ライブラリを利用した作品 \"です。があります。"
+msgid "\"work based on the library\" and a \"work that uses the library\".  The"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:171-1
 #, fuzzy
@@ -714,9 +690,8 @@ msgid "The \"Library\", below, refers to any such software library or work"
 msgstr "以下の「ライブラリ」とは、そのようなソフトウェアのライブラリや作品を指します。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:188-1
-#, fuzzy
-msgid "which has been distributed under these terms. A \"work based on the"
-msgstr "この条件で配布されているを基にした作品」は"
+msgid "which has been distributed under these terms.  A \"work based on the"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:189-1
 #, fuzzy
@@ -734,9 +709,8 @@ msgid "portion of it, either verbatim or with modifications and/or translated"
 msgstr "その一部を、そのまま、あるいは修正して、あるいは翻訳して"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:192-1
-#, fuzzy
-msgid "straightforwardly into another language. (Hereinafter, translation is"
-msgstr "を他の言語に直截的に翻訳する。以下、翻訳とは"
+msgid "straightforwardly into another language.  (Hereinafter, translation is"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:193-1
 #, fuzzy
@@ -749,9 +723,8 @@ msgid "\"Source code\" for a work means the preferred form of the work for"
 msgstr "\"著作物の「ソースコード」とは、その著作物の好ましい形態を"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:196-1
-#, fuzzy
-msgid "making modifications to it. For a library, complete source code means"
-msgstr "変更することができます。ライブラリーの場合、完全なソースコードとは"
+msgid "making modifications to it.  For a library, complete source code means"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:197-1
 #, fuzzy
@@ -774,9 +747,8 @@ msgid "Activities other than copying, distribution and modification are not"
 msgstr "複製、頒布、改変以外の行為は"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:202-1
-#, fuzzy
-msgid "covered by this License; they are outside its scope. The act of"
-msgstr "本ライセンスの対象ではなく、その範囲外となります。の行為は"
+msgid "covered by this License; they are outside its scope.  The act of"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:203-1
 #, fuzzy
@@ -794,9 +766,8 @@ msgid "on the Library (independent of the use of the Library in a tool for"
 msgstr "のためのツールとしての図書館の利用とは別に）。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:206-1
-#, fuzzy
-msgid "writing it). Whether that is true depends on what the Library does"
-msgstr "書きます）。)それが本当かどうかは、ライブラリーが何をしているかによる。"
+msgid "writing it).  Whether that is true depends on what the Library does"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:207-1
 #, fuzzy
@@ -944,9 +915,8 @@ msgid "a purpose that is entirely well-defined independent of the"
 msgstr "とは無関係に完全に明確に定義された目的を持っています。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:244-1
-#, fuzzy
-msgid "application. Therefore, Subsection 2d requires that any"
-msgstr "を適用しています。したがって、サブセクション2dでは、いかなる"
+msgid "application.  Therefore, Subsection 2d requires that any"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:245-1
 #, fuzzy
@@ -964,9 +934,8 @@ msgid "root function must still compute square roots.)"
 msgstr "root関数は、やはり平方根を計算しなければなりません)。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:249-1
-#, fuzzy
-msgid "These requirements apply to the modified work as a whole. If"
-msgstr "これらの要件は、修正された作品全体に適用されます。もし"
+msgid "These requirements apply to the modified work as a whole.  If"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:250-1
 #, fuzzy
@@ -984,9 +953,8 @@ msgid "themselves, then this License, and its terms, do not apply to those"
 msgstr "その場合、本ライセンスおよびその条件は、それらの者には適用されません。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:253-1
-#, fuzzy
-msgid "sections when you distribute them as separate works. But when you"
-msgstr "のセクションは、別の作品として配布する場合にはしかし、あなたが"
+msgid "sections when you distribute them as separate works.  But when you"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:254-1
 #, fuzzy
@@ -1059,9 +1027,8 @@ msgid "3. You may opt to apply the terms of the ordinary GNU General Public"
 msgstr "3.あなたは、通常のGNU General Publicの条件を適用することを選択できます。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:271-1
-#, fuzzy
-msgid "License instead of this License to a given copy of the Library. To do"
-msgstr "このライセンスの代わりに、ライブラリの特定のコピーにこのライセンスを適用することができます。することができます。"
+msgid "License instead of this License to a given copy of the Library.  To do"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:272-1
 #, fuzzy
@@ -1074,9 +1041,8 @@ msgid "that they refer to the ordinary GNU General Public License, version 2,"
 msgstr "は、通常のGNU General Public License, version 2を参照していることを示しています。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:274-1
-#, fuzzy
-msgid "instead of to this License. (If a newer version than version 2 of the"
-msgstr "本ライセンスではなく。のバージョン2よりも新しいバージョンがある場合）。"
+msgid "instead of to this License.  (If a newer version than version 2 of the"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:275-1
 #, fuzzy
@@ -1084,9 +1050,8 @@ msgid "ordinary GNU General Public License has appeared, then you can specify"
 msgstr "通常のGNU General Public Licenseが登場した場合は、そのライセンスを指定することができます。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:276-1
-#, fuzzy
-msgid "that version instead if you wish.) Do not make any other change in"
-msgstr "望むならば、代わりにそのバージョンを使用してください)。に他の変更を加えないでください。"
+msgid "that version instead if you wish.)  Do not make any other change in"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:277-1
 #, fuzzy
@@ -1184,9 +1149,8 @@ msgid "Library, but is designed to work with the Library by being compiled or"
 msgstr "ライブラリーではなく、コンパイルされているか、またはコンパイルされていない状態でライブラリーと連携するように設計されています。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:301-1
-#, fuzzy
-msgid "linked with it, is called a \"work that uses the Library\". Such a"
-msgstr "それと連動しているものを「図書館を利用した作品」と呼びます。このような"
+msgid "linked with it, is called a \"work that uses the Library\".  Such a"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:302-1
 #, fuzzy
@@ -1214,9 +1178,8 @@ msgid "contains portions of the Library), rather than a \"work that uses the"
 msgstr "を利用した作品」ではなく、「図書館の一部を利用した作品」です。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:308-1
-#, fuzzy
-msgid "library\". The executable is therefore covered by this License."
-msgstr "ライブラリー」です。このため、実行ファイルには本ライセンスが適用されます。"
+msgid "library\".  The executable is therefore covered by this License."
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:309-1
 #, fuzzy
@@ -1244,9 +1207,8 @@ msgid "Whether this is true is especially significant if the work can be"
 msgstr "これが事実であるかどうかは、特に、その作品が次のような場合に重要です。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:315-1
-#, fuzzy
-msgid "linked without the Library, or if the work is itself a library. The"
-msgstr "ライブラリーなしでリンクされている場合や、作品自体がライブラリーになっている場合はのことです。"
+msgid "linked without the Library, or if the work is itself a library.  The"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:316-1
 #, fuzzy
@@ -1274,9 +1236,8 @@ msgid "file is unrestricted, regardless of whether it is legally a derivative"
 msgstr "ファイルは、それが法的に二次的なものであるかどうかに関わらず、無制限である。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:322-1
-#, fuzzy
-msgid "work. (Executables containing this object code plus portions of the"
-msgstr "の仕事をしています。(このオブジェクトコードと一部を含む実行ファイルは"
+msgid "work.  (Executables containing this object code plus portions of the"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:323-1
 #, fuzzy
@@ -1344,9 +1305,8 @@ msgid "Library is used in it and that the Library and its use are covered by"
 msgstr "図書館は、その中で使用され、図書館とその使用は、以下のようにカバーされています。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:339-1
-#, fuzzy
-msgid "this License. You must supply a copy of this License. If the work"
-msgstr "本ライセンス。あなたは本使用許諾書のコピーを提供しなければなりません。作品が"
+msgid "this License.  You must supply a copy of this License.  If the work"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:340-1
 #, fuzzy
@@ -1359,9 +1319,8 @@ msgid "copyright notice for the Library among them, as well as a reference"
 msgstr "その中で図書館の著作権表示は、参考として"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:342-1
-#, fuzzy
-msgid "directing the user to the copy of this License. Also, you must do one"
-msgstr "本ライセンスのコピーにユーザーを誘導する。また、次のいずれかを行う必要があります。"
+msgid "directing the user to the copy of this License.  Also, you must do one"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:343-1
 #, fuzzy
@@ -1404,9 +1363,8 @@ msgid "user can modify the Library and then relink to produce a modified"
 msgstr "ユーザーがライブラリを変更し、再リンクすることで、変更されたライブラリを作成することができます。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:352-1
-#, fuzzy
-msgid "executable containing the modified Library. (It is understood"
-msgstr "変更されたライブラリを含む実行ファイル(理解されているのは"
+msgid "executable containing the modified Library.  (It is understood"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:353-1
 #, fuzzy
@@ -1429,9 +1387,8 @@ msgid "b) Use a suitable shared library mechanism for linking with the"
 msgstr "b) 適切なシェアード・ライブラリ・メカニズムを使用して、以下のようにリンクします。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:358-1
-#, fuzzy
-msgid "Library. A suitable mechanism is one that (1) uses at run time a"
-msgstr "ライブラリです。適切なメカニズムとは、(1)実行時に"
+msgid "Library.  A suitable mechanism is one that (1) uses at run time a"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:359-1
 #, fuzzy
@@ -1514,9 +1471,8 @@ msgid "Library\" must include any data and utility programs needed for"
 msgstr "ライブラリ」には、以下の機能に必要なデータやユーティリティプログラムが含まれています。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:379-1
-#, fuzzy
-msgid "reproducing the executable from it. However, as a special exception,"
-msgstr "そこから実行ファイルを再現することができます。ただし、特別な例外として"
+msgid "reproducing the executable from it.  However, as a special exception,"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:380-1
 #, fuzzy
@@ -1554,9 +1510,8 @@ msgid "restrictions of other proprietary libraries that do not normally"
 msgstr "通常は使用しない他のプロプライエタリなライブラリの制約を受けます。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:388-1
-#, fuzzy
-msgid "accompany the operating system. Such a contradiction means you cannot"
-msgstr "OSに付随するものです。このような矛盾を抱えているということは、あなたは"
+msgid "accompany the operating system.  Such a contradiction means you cannot"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:389-1
 #, fuzzy
@@ -1609,9 +1564,8 @@ msgid "based on the Library, uncombined with any other library"
 msgstr "他のライブラリと組み合わせていない、ライブラリに基づいた"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:401-1
-#, fuzzy
-msgid "facilities. This must be distributed under the terms of the"
-msgstr "の施設を利用しています。の条件で配布する必要があります。"
+msgid "facilities.  This must be distributed under the terms of the"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:402-1
 #, fuzzy
@@ -1639,9 +1593,8 @@ msgid "8. You may not copy, modify, sublicense, link with, or distribute"
 msgstr "8.お客様は、以下の事項をコピー、変更、サブライセンス、リンク、または配布することはできません。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:409-1
-#, fuzzy
-msgid "the Library except as expressly provided under this License. Any"
-msgstr "本ライセンスで明示的に規定されている場合を除き、「ライブラリ」。任意の"
+msgid "the Library except as expressly provided under this License.  Any"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:410-1
 #, fuzzy
@@ -1654,9 +1607,8 @@ msgid "distribute the Library is void, and will automatically terminate your"
 msgstr "を配布することは無効であり、自動的に終了してしまいます。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:412-1
-#, fuzzy
-msgid "rights under this License. However, parties who have received copies,"
-msgstr "本ライセンスに基づく権利。ただし、コピーを受け取った当事者は"
+msgid "rights under this License.  However, parties who have received copies,"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:413-1
 #, fuzzy
@@ -1674,19 +1626,16 @@ msgid "9. You are not required to accept this License, since you have not"
 msgstr "9.あなたは、このライセンスを受け入れる必要はありません。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:417-1
-#, fuzzy
-msgid "signed it. However, nothing else grants you permission to modify or"
-msgstr "サインをしました。しかし、他の何者も、あなたに修正や変更の許可を与えるものではありません。"
+msgid "signed it.  However, nothing else grants you permission to modify or"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:418-1
-#, fuzzy
-msgid "distribute the Library or its derivative works. These actions are"
-msgstr "本ライブラリーまたはその派生物を配布すること。これらの行為は"
+msgid "distribute the Library or its derivative works.  These actions are"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:419-1
-#, fuzzy
-msgid "prohibited by law if you do not accept this License. Therefore, by"
-msgstr "本ライセンスに同意されない場合は、法律で禁止されています。したがって、以下の方法で"
+msgid "prohibited by law if you do not accept this License.  Therefore, by"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:420-1
 #, fuzzy
@@ -1724,9 +1673,8 @@ msgid "original licensor to copy, distribute, link with or modify the Library"
 msgstr "複製、配布、リンク、修正を行うことができます。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:428-1
-#, fuzzy
-msgid "subject to these terms and conditions. You may not impose any further"
-msgstr "本規約を条件とします。あなたは、それ以上のものを課すことはできません。"
+msgid "subject to these terms and conditions.  You may not impose any further"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:429-1
 #, fuzzy
@@ -1764,9 +1712,8 @@ msgid "otherwise) that contradict the conditions of this License, they do not"
 msgstr "本ライセンスの条件に反している場合は、以下のようになります。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:437-1
-#, fuzzy
-msgid "excuse you from the conditions of this License. If you cannot"
-msgstr "は、本ライセンスの条件から免れることができます。もしあなたが"
+msgid "excuse you from the conditions of this License.  If you cannot"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:438-1
 #, fuzzy
@@ -1779,9 +1726,8 @@ msgid "License and any other pertinent obligations, then as a consequence you"
 msgstr "ライセンスやその他の関連する義務を負うことになり、結果的にお客様は"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:440-1
-#, fuzzy
-msgid "may not distribute the Library at all. For example, if a patent"
-msgstr "は、ライブラリの配布を一切行わないこともあります。例えば、特許が"
+msgid "may not distribute the Library at all.  For example, if a patent"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:441-1
 #, fuzzy
@@ -1839,9 +1785,8 @@ msgid "integrity of the free software distribution system which is"
 msgstr "フリーソフトウェアの配布システムの完全性は"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:454-1
-#, fuzzy
-msgid "implemented by public license practices. Many people have made"
-msgstr "パブリック・ライセンスの実施により多くの人が作った"
+msgid "implemented by public license practices.  Many people have made"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:455-1
 #, fuzzy
@@ -1904,9 +1849,8 @@ msgid "so that distribution is permitted only in or among countries not thus"
 msgstr "のない国でのみ、またはその国の間でのみ配布が許可されるようにする。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:469-1
-#, fuzzy
-msgid "excluded. In such case, this License incorporates the limitation as if"
-msgstr "を除きます。このような場合、本ライセンスは、以下のような制限を組み込んでいます。"
+msgid "excluded.  In such case, this License incorporates the limitation as if"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:470-1
 #, fuzzy
@@ -1934,9 +1878,8 @@ msgid "but may differ in detail to address new problems or concerns."
 msgstr "しかし、新たな問題や懸念に対応するために、細部が異なる場合があります。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:477-1
-#, fuzzy
-msgid "Each version is given a distinguishing version number. If the Library"
-msgstr "各バージョンには識別用のバージョン番号が付けられています。ライブラリの場合"
+msgid "Each version is given a distinguishing version number.  If the Library"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:478-1
 #, fuzzy
@@ -1954,9 +1897,8 @@ msgid "conditions either of that version or of any later version published by"
 msgstr "そのバージョンまたはそれ以降に発行されたバージョンのいずれかの条件を満たしています。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:481-1
-#, fuzzy
-msgid "the Free Software Foundation. If the Library does not specify a"
-msgstr "フリーソフトウェアーファウンデーションのものです。ライブラリで指定されていない場合は"
+msgid "the Free Software Foundation.  If the Library does not specify a"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:482-1
 #, fuzzy
@@ -1979,9 +1921,8 @@ msgid "programs whose distribution conditions are incompatible with these,"
 msgstr "配布条件がこれと一致しないプログラム。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:487-1
-#, fuzzy
-msgid "write to the author to ask for permission. For software which is"
-msgstr "許諾を得るために、作者に手紙を出します。以下のようなソフトウェアは"
+msgid "write to the author to ask for permission.  For software which is"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:488-1
 #, fuzzy
@@ -1989,9 +1930,8 @@ msgid "copyrighted by the Free Software Foundation, write to the Free"
 msgstr "著作権はFree Software Foundationに帰属します。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:489-1
-#, fuzzy
-msgid "Software Foundation; we sometimes make exceptions for this. Our"
-msgstr "Software Foundationでは、例外を設けることもあります。私たちの"
+msgid "Software Foundation; we sometimes make exceptions for this.  Our"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:490-1
 #, fuzzy
@@ -2044,14 +1984,12 @@ msgid "IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR"
 msgstr "商品性および特定目的への適合性に関する黙示の保証"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:502-1
-#, fuzzy
-msgid "PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE"
-msgstr "PURPOSE.本製品の品質および性能に関するすべてのリスクは、以下のとおりです。"
+msgid "PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:503-1
-#, fuzzy
-msgid "LIBRARY IS WITH YOU. SHOULD THE LIBRARY PROVE DEFECTIVE, YOU ASSUME"
-msgstr "ライブラリーはお客様のものです。万が一、ライブラリに欠陥があると判明した場合、お客様は以下のことを想定しています。"
+msgid "LIBRARY IS WITH YOU.  SHOULD THE LIBRARY PROVE DEFECTIVE, YOU ASSUME"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:504-1
 #, fuzzy
@@ -2129,9 +2067,8 @@ msgid "possible use to the public, we recommend making it free software that"
 msgstr "一般の方にも使っていただけるようにするためには、無料で使えるソフトウェアにすることをお勧めします。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:523-1
-#, fuzzy
-msgid "everyone can redistribute and change. You can do so by permitting"
-msgstr "は、誰もが再配布や変更を行うことができます。を許可することで行うことができます。"
+msgid "everyone can redistribute and change.  You can do so by permitting"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:524-1
 #, fuzzy
@@ -2144,9 +2081,8 @@ msgid "ordinary General Public License)."
 msgstr "ordinary General Public License）に準拠しています。)"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:527-1
-#, fuzzy
-msgid "To apply these terms, attach the following notices to the library. It is"
-msgstr "これらの条件を適用するには、以下の通知をライブラリに添付してください。それは"
+msgid "To apply these terms, attach the following notices to the library.  It is"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:528-1
 #, fuzzy
@@ -2169,9 +2105,8 @@ msgid "&lt;one line to give the library's name and a brief idea of what it does.
 msgstr "&lt;図書館の名前と何をしているかの簡単なアイデアを示す1行&gt;。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:533-1
-#, fuzzy
-msgid "Copyright (C) &lt;year&gt; &lt;name of author&gt;"
-msgstr "Copyright (C) &lt;年&gt; &lt;著者名&gt; All Rights Reserved."
+msgid "Copyright (C) &lt;year&gt;  &lt;name of author&gt;"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:535-1
 #, fuzzy
@@ -2204,9 +2139,8 @@ msgid "but WITHOUT ANY WARRANTY; without even the implied warranty of"
 msgstr "しかし、いかなる保証もなく、暗黙の保証もない。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:542-1
-#, fuzzy
-msgid "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU"
-msgstr "MERCHANTABILITYまたはFITNESS FOR A PARTICULAR PURPOSE。GNU"
+msgid "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:543-1
 #, fuzzy
@@ -2244,9 +2178,8 @@ msgid "school, if any, to sign a \"copyright disclaimer\" for the library, if"
 msgstr "学校、もしあれば、図書館の「著作権免責事項」に署名してください。"
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:553-1
-#, fuzzy
-msgid "necessary. Here is a sample; alter the names:"
-msgstr "が必要です。以下はサンプルで、名前を変えています。"
+msgid "necessary.  Here is a sample; alter the names:"
+msgstr ""
 
 #: upstream/docs/docs/qwtlicense.html%2Bhtml.body.pre:555-1
 #, fuzzy
