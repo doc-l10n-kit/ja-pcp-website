@@ -455,6 +455,7 @@ msgid "Putting this altogether we can use pminfo to explore the available inform
 msgstr "このようにして、pminfoを使って利用可能な情報を調べることができます。"
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.pre:398-1
+#, fuzzy
 msgid ""
 "$ pminfo filesys\n"
 "filesys.capacity\n"
@@ -478,6 +479,27 @@ msgid ""
 "  inst [2 or \"/dev/hda5\"] value 7747420\n"
 "  inst [3 or \"/dev/hda2\"] value 368432"
 msgstr ""
+"$ pminfo filesys\n"
+"ファイルシスの容量\n"
+"ファイルシスの使用量\n"
+"ファイルシスの空き容量\n"
+"ファイルシス.最大ファイル数\n"
+"ファイルシステム.使用ファイル数\n"
+"ファイルシステム.フリーファイル\n"
+"ファイルシステム.mountdir\n"
+"ファイルシス.フル\n"
+"\n"
+"$ pminfo -md filesys.free\n"
+"filesys.free」のPMID：60.5.3\n"
+"  データタイプ64ビット符号なし整数 InDom: 60.5 0xf000005\n"
+"  Semantics: instant Units:Kbyte\n"
+"\n"
+"$ pminfo -f filesys.free\n"
+"filesys.free\n"
+"  inst [0 or \"/dev/root\"] 値 3498272\n"
+"  インスト [1 または \"dev/hda3\"] 値 20106\n"
+"  インスト [2 または「/dev/hda5」] 値 7747420\n"
+"  インスト[3または「/dev/hda2」]の値368432"
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:408-1
 #, fuzzy
@@ -652,10 +674,13 @@ msgid "To see all of the gory details, turn on PDU tracing and run simple pminfo
 msgstr "詳細を見るには、PDUトレースをオンにして、シンプルなpminfoコマンドを実行します。"
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.pre:647-1
+#, fuzzy
 msgid ""
 "$ pminfo -D PDU kernel.all.cpu\n"
 "$ pminfo -D PDU -fdT kernel.all.load"
 msgstr ""
+"$ pminfo -D PDU kernel.all.cpu\n"
+"$ pminfo -D PDU -fdT kernel.all.load"
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:647-88
 #, fuzzy
@@ -790,11 +815,15 @@ msgid "In particular the \"PMNS appears to be empty!\" message from any PCP moni
 msgstr "特に、PCPモニタリングツールからの「PMNSが空のようです！」というメッセージは、パフォーマンス・メトリクス・ネーム・スペース（PMNS）が正しく設定されていないことを意味します。これを修正するには"
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.pre:847-1
+#, fuzzy
 msgid ""
 "# source /etc/pcp.conf\n"
 "# touch $PCP_VAR_DIR/pmns/.NeedRebuild\n"
 "# $PCP_RC_DIR/pcp start"
 msgstr ""
+"# ソース /etc/pcp.conf\n"
+"# touch $PCP_VAR_DIR/pmns/.NeedRebuild\n"
+"# $PCP_RC_DIR/pcp start"
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p:847-113
 #, fuzzy
@@ -802,10 +831,13 @@ msgid "else if you are not starting pmcd this way, the brute-force method is,"
 msgstr "この方法でpmcdを開始していない場合は、ブルートフォース法である。"
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.pre:850-1
+#, fuzzy
 msgid ""
 "# cd $PCP_VAR_DIR/pmns\n"
 "# ./Rebuild -du"
 msgstr ""
+"# cd $PCP_VAR_DIR/pmns\n"
+"# .Rebuild -du"
 
 #: upstream/docs/faq.html%2Bhtml.body.div.div.div.div.section.div.div.p.h3:860-1
 #, fuzzy

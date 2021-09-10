@@ -67,11 +67,15 @@ msgid "Installation is as simple as:"
 msgstr "インストールは簡単です。"
 
 #: upstream/docs/glider.html%2Bhtml.body.div.div.div.div.section.div.div.p.pre:77-1
+#, fuzzy
 msgid ""
 "C:> msiexec /i pcp-glider-*.msi\n"
 "C:> cd \\Glider\\scripts\n"
 "C:> .\\postinst.bat"
 msgstr ""
+"C:&gt; msiexec /i pcp-glider-*.msi\n"
+"C:&gt; cd ˶ˆ꒳ˆ˵ )\n"
+"C:&gt; .postinst.bat"
 
 #: upstream/docs/glider.html%2Bhtml.body.div.div.div.div.section.div.div.p:79-1
 #, fuzzy

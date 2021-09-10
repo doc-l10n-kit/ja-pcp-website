@@ -83,12 +83,17 @@ msgid "Debian / Ubuntu"
 msgstr "Debian / Ubuntu"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.pre:87-1
+#, fuzzy
 msgid ""
 "apt-get install pcp\n"
 "invoke-rc.d pmcd start\n"
 "invoke-rc.d pmie start\n"
 "invoke-rc.d pmlogger start"
 msgstr ""
+"apt-get install pcp\n"
+"invoke-rc.d pmcd start\n"
+"INVOKE-RC.D pmie スタート\n"
+"INVOKE-RC.D PMLOGGER スタート"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.h3:93-1
 #, fuzzy
@@ -96,6 +101,7 @@ msgid "Fedora / RHEL"
 msgstr "Fedora / RHEL"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.pre:94-1
+#, fuzzy
 msgid ""
 "yum install pcp\n"
 "# RHEL 6\n"
@@ -107,6 +113,15 @@ msgid ""
 "systemctl start pmie\n"
 "systemctl start pmlogger"
 msgstr ""
+"yum install pcp\n"
+"# RHEL 6\n"
+"service pmcd start\n"
+"service pmlogger start\n"
+"サービス pmie start\n"
+"# RHEL 7 以降 / Fedora\n"
+"systemctl start pmcd\n"
+"systemctl start pmie\n"
+"systemctl start pmlogger"
 
 #: upstream/docs/download.html%2Bhtml.body.div.div.div.div.section.div.div.h3:106-1
 #, fuzzy

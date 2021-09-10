@@ -123,8 +123,9 @@ msgid "using it. (Some other Free Software Foundation software is covered by"
 msgstr "を使用しています。(他のフリーソフトウェアファウンデーションのソフトウェアの中には、次のようなものがあります。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:40-1
+#, fuzzy
 msgid "the GNU Library General Public License instead.)  You can apply it to"
-msgstr ""
+msgstr "の代わりにGNU Library General Public Licenseを採用しています)。  に適用することができます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:41-1
 #, fuzzy
@@ -338,8 +339,9 @@ msgid "language. (Hereinafter, translation is included without limitation in"
 msgstr "の言語を使用しています。(以下、翻訳とは、制限なく"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:92-1
+#, fuzzy
 msgid "the term \"modification\".)  Each licensee is addressed as \"you\"."
-msgstr ""
+msgstr "を「修正」と呼びます)。  各ライセンシーは、「あなた」として扱われます。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:94-1
 #, fuzzy
@@ -1282,8 +1284,9 @@ msgid "&lt;one line to give the program's name and a brief idea of what it does.
 msgstr "&lt;プログラムの名前と、それが何をするのかという簡単なアイデアを示す1行&gt;。"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:316-1
+#, fuzzy
 msgid "Copyright (C) 19yy  &lt;name of author&gt;"
-msgstr ""
+msgstr "Copyright (C) 19yy &lt;著者名&gt; All Rights Reserved."
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:318-1
 #, fuzzy
@@ -1336,8 +1339,9 @@ msgid "along with this program; if not, write to the Free Software"
 msgstr "このプログラムと一緒に、もしそうでなければ、Free Software"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:330-1
+#, fuzzy
 msgid "Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA"
-msgstr ""
+msgstr "Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA"
 
 #: upstream/docs/docs/gpl.html%2Bhtml.body.pre:332-1
 #, fuzzy
