@@ -127,12 +127,14 @@ msgid "News"
 msgstr "ニュース"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
+#, fuzzy
 msgid "Sep 2021 <br> PCP 5.3.3"
-msgstr ""
+msgstr "2021年9月<br>PCP 5.3.3</br> "
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:152-1
+#, fuzzy
 msgid "New eBPF ELF binary PMDA based on libbpf. Improved <a href=\"https://man7.org/linux/man-pages/man1/pmdabcc.1.html\">pmdabcc</a> memory footprint. Dynamic columns in <a href=\"https://man7.org/linux/man-pages/man1/pcp-htop.1.html\">pcp-htop</a> allowing columns for any process metric in PCP. New Linux autogroup metrics. New and improved processor and block device saturation <a href=\"https://man7.org/linux/man-pages/man1/pmie.1.html\">pmie</a> rules."
-msgstr ""
+msgstr "libbpfをベースにした新しいeBPF ELFバイナリPMDAです。<a href=\"https://man7.org/linux/man-pages/man1/pmdabcc.1.html\">pmdabcc</a>のメモリフットプリントを改善しました。<a href=\"https://man7.org/linux/man-pages/man1/pcp-htop.1.html\">pcp-ht</a>opの動的カラムにより、PCPの任意のプロセスメトリクスのカラムが可能になりました。新しいLinuxオートグループメトリクスプロセッサとブロックデバイスの飽和<a href=\"https://man7.org/linux/man-pages/man1/pmie.1.html\">PMIE</a>ルールの新規追加と改善"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:173-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
