@@ -213,22 +213,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>Sep 2020 &lt;br&gt; PCP 5.2.1</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>2020年9月&lt;br&gt;PCP 5.2.1&lt;/br&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Minor bug fix release. Per-context derived metrics support, new REST APIs. Support Windows authentication mode in the &lt;a href="https://man7.org/linux/man-pages/man1/pmdamssql.1.html"&gt;SQL Server&lt;/a&gt; agent. Improved metric labels handling in the &lt;a href="https://man7.org/linux/man-pages/man1/pmdaopenmetrics.1.html"&gt;OpenMetrics&lt;/a&gt; agent, &lt;a href="https://man7.org/linux/man-pages/man1/pcp2elasticsearch.1.html"&gt;pcp2elasticsearch&lt;/a&gt; and &lt;a href="https://man7.org/linux/man-pages/man1/pcp2spark.1.html"&gt;pcp2spark&lt;/a&gt; utilities.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>マイナーバグフィックスリリース。コンテキストごとの派生メトリクスのサポート、新しい REST API。&lt;a href="https://man7.org/linux/man-pages/man1/pmdamssql.1.html"&gt;SQL Server&lt;/a&gt;エージェントでWindows認証モードをサポートしました。&lt;a href="https://man7.org/linux/man-pages/man1/pmdaopenmetrics.1.html"&gt;OpenMetrics&lt;/a&gt;エージェント、&lt;a href="https://man7.org/linux/man-pages/man1/pcp2elasticsearch.1.html"&gt;pcp2elasticsearch&lt;/a&gt;、&lt;a href="https://man7.org/linux/man-pages/man1/pcp2spark.1.html"&gt;pcp2spark&lt;/a&gt;ユーティリティでのメトリックラベルの処理を改善しました。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
         <seg>Main Menu</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
