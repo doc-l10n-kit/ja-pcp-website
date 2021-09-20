@@ -110,12 +110,14 @@ msgid "Funding"
 msgstr "資金調達"
 
 #: upstream/docs/community.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:153-1
+#, fuzzy
 msgid "<a href=\"https://www.redbubble.com/people/pcp-maintainers/shop\">Swag</a> T-shirts, caps, stickers, ... <br> All artist profits from the sale of PCP merchandise are used to fund continued development and support."
-msgstr ""
+msgstr "<a href=\"https://www.redbubble.com/people/pcp-maintainers/shop\">スワッグ</a>Tシャツ、キャップ、ステッカー、...。 <br> PCPグッズの販売によるアーティストの利益は、すべて継続的な開発とサポートのために使用されます。</br> "
 
 #: upstream/docs/community.html%2Bhtml.body.div.div.div.div.section.div.div.p.ul.li:160-1
+#, fuzzy
 msgid "You can also <a href=\"https://opencollective.com/pcp\">donate</a> directly via our not-for-profit OpenCollective."
-msgstr ""
+msgstr "また、私たちの非営利団体であるOpenCollectiveを通じて直接<a href=\"https://opencollective.com/pcp\">寄付</a>することもできます。"
 
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.h4:180-1
 #: upstream/docs/community.html%2Bhtml.body.footer.div.div.section.div.div.h4:183-1
