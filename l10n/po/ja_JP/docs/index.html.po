@@ -130,12 +130,14 @@ msgid "News"
 msgstr "ニュース"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
+#, fuzzy
 msgid "Oct 2021 <br> PCP 5.3.4"
-msgstr ""
+msgstr "2021年10月<br>PCP 5.3.4</br> "
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:152-1
+#, fuzzy
 msgid "Bug fix release, especially in systemd integration for <a href=\"https://man7.org/linux/man-pages/man1/pmlogger.1.html\">pmlogger</a> farms. Adds new detailed processor frequency scaling metrics on Linux. Improvements to the <a href=\"https://man7.org/linux/man-pages/man1/pcp-atop.1.html\">pcp-atop</a> and <a href=\"https://man7.org/linux/man-pages/man1/pcp-htop.1.html\">pcp-htop</a> utilities."
-msgstr ""
+msgstr "特に<a href=\"https://man7.org/linux/man-pages/man1/pmlogger.1.html\">pmlogger</a>ファームのsystemd統合におけるバグフィックスのリリースです。Linux において、プロセッサ周波数のスケーリングに関する詳細なメトリクスを追加しました。<a href=\"https://man7.org/linux/man-pages/man1/pcp-atop.1.html\">pcp-atop</a>および<a href=\"https://man7.org/linux/man-pages/man1/pcp-htop.1.html\">pcp-htop</a>ユーティリティの改善。"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:171-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
