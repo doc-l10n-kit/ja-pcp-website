@@ -397,22 +397,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>Dec 2020 &lt;br&gt; PCP 5.2.3</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>2020年12月&lt;br&gt;PCP 5.2.3&lt;/br&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Performance improvements and process network statistics support in the &lt;a href="https://man7.org/linux/man-pages/man1/pcp-atop.1.html"&gt;pcp-atop&lt;/a&gt; command. Experimental &lt;a href="https://man7.org/linux/man-pages/man1/pcp-htop.1.html"&gt;pcp-htop&lt;/a&gt; command added. Improvements to the &lt;a href="https://man7.org/linux/man-pages/man1/pmproxy.1.html"&gt;pmproxy&lt;/a&gt; REST API for fast, scalable &lt;a href="https://man7.org/linux/man-pages/man1/pmseries.1.html"&gt;pmseries&lt;/a&gt; querying.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg> &lt;a href="https://man7.org/linux/man-pages/man1/pcp-atop.1.html"&gt;pcp-atop&lt;/a&gt;コマンドの性能向上とプロセスごとのネットワーク統計情報のサポート。実験的な&lt;a href="https://man7.org/linux/man-pages/man1/pcp-htop.1.html"&gt;pcp-htop&lt;/a&gt;コマンドを追加しました。&lt;a href="https://man7.org/linux/man-pages/man1/pmproxy.1.html"&gt;pmproxy&lt;/a&gt;REST APIが改良され、&lt;a href="https://man7.org/linux/man-pages/man1/pmseries.1.html"&gt;pmseries&lt;/a&gt;のクエリを高速かつスケーラブルに実行できるようになりました。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
         <seg>Features</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
