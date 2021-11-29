@@ -75,8 +75,9 @@ msgid "About Task-based Guides"
 msgstr "タスクベースガイドについて"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:77-1
+#, fuzzy
 msgid "In our <a href=\"https://pcp.io/gsod/2020/ideas.html#readthedocs-pcp\">previous</a> Google Season of Docs project, we converted two freely-available books (the \"Users and Administrators Guide\" and the \"Programmers Guide\"), the REST API documentation, and other content into <a href=\"https://pcp.readthedocs.io/\">pcp.readthedocs.io .</a>"
-msgstr ""
+msgstr " <a href=\"https://pcp.io/gsod/2020/ideas.html#readthedocs-pcp\">前回の</a>Google Season of Docsプロジェクトでは、自由に利用できる2冊の書籍（「Users and Administrators Guide」と「Programmers Guide」）、REST APIドキュメント、その他のコンテンツを、<a href=\"https://pcp.readthedocs.io/\">pcp.readthedocs.io</a>に変換しました。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:86-1
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:87-1
