@@ -43,204 +43,254 @@ msgid "Download"
 msgstr "ダウンロード"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.header.div.nav.ul.li:30-1
+#, fuzzy
 msgid "Get Involved"
-msgstr ""
+msgstr "参加する"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.div.section.div.div.h2:48-1
+#, fuzzy
 msgid "Task-based Guides for Performance Co-Pilot"
-msgstr ""
+msgstr "タスクベースのガイドによるパフォーマンスの向上 Co-Pilot"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.div.h3:56-1
+#, fuzzy
 msgid "About Performance Co-Pilot"
-msgstr ""
+msgstr "Performance Co-Pilotについて"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.div.p:57-1
+#, fuzzy
 msgid "Performance Co-Pilot (PCP) is an open-source distributed system performance analysis toolkit. It efficiently collects metrics from multiple systems and provides a variety of web, graphical and console tools for analysis of live and historical data."
-msgstr ""
+msgstr "Performance Co-Pilot (PCP) は、オープンソースの分散システム・パフォーマンス解析ツールキットです。複数のシステムから効率的にメトリクスを収集し、ライブデータや履歴データを分析するためのさまざまなウェブ、グラフィカル、コンソールツールを提供します。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.div.p:64-1
+#, fuzzy
 msgid "The suite begun production use over 20 years ago primarily in the High Performance Computing arena, however its customizable and lightweight design has proven popular on everything from tiny system-on-a-chip machines through to vast databases and number-crunching super computers. It is included in all Linux distributions and has an active base of users and developers."
-msgstr ""
+msgstr "20年以上前に主にハイパフォーマンス・コンピューティングの分野で使用され始めましたが、カスタマイズ可能で軽量なデザインは、小さなシステムオンチップ・マシンから膨大なデータベースや数値計算を行うスーパーコンピュータまで、あらゆる分野で人気を博しています。すべてのLinuxディストリビューションに含まれており、活発なユーザーと開発者が存在します。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.h3:76-1
+#, fuzzy
 msgid "About Task-based Guides"
-msgstr ""
+msgstr "タスクベースガイドについて"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:77-1
+#, fuzzy
 msgid "In our <a href=\"https://pcp.io/gsod/2020/proposal.html\">previous</a> Google Season of Docs project, we converted two freely-available books (the \"Users and Administrators Guide\" and the \"Programmers Guide\"), the REST API documentation, and other content into <a href=\"https://pcp.readthedocs.io/\">pcp.readthedocs.io</a> content."
-msgstr ""
+msgstr " <a href=\"https://pcp.io/gsod/2020/proposal.html\">前回の</a>Google Season of Docsプロジェクトでは、自由に利用できる2冊の書籍（『ユーザーズ＆アドミニストレーターズガイド』と『プログラマーズガイド』）やREST APIドキュメントなどのコンテンツを、<a href=\"https://pcp.readthedocs.io/\">pcp.readthedocs.io</a>のコンテンツに変換しました。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:87-1
+#, fuzzy
 msgid "It is this <a href=\"https://pcp.io/gsod/2021/proposal.html\">latest</a> project we tackled the curation of a new, consistent series of focussed, task-oriented \"How To\" guides that assist new users in engaging immediately, by clearly showing how to solve small specific problem scenarios users encounter frequently."
-msgstr ""
+msgstr "この<a href=\"https://pcp.io/gsod/2021/proposal.html\">最新</a>プロジェクトでは、ユーザーが頻繁に遭遇する小さな特定の問題シナリオを解決する方法を明確に示すことで、新規ユーザーがすぐに使いこなせるように支援する、焦点を絞ったタスク指向の「ハウツー」ガイドの新しい一貫したシリーズのキュレーションに取り組みました。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.h3:97-1
+#, fuzzy
 msgid "Proposal Abstract"
-msgstr ""
+msgstr "提案要旨"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:98-1
+#, fuzzy
 msgid "The primary goal of this <a href=\"https://pcp.io/gsod/2021/proposal.html\">project</a> was to assist first-time users to become more productive right away, while also directing traffic toward the more detailed books in close <a href=\"https://pcp.readthedocs.io/\">proximity</a> to the new guides."
-msgstr ""
+msgstr "この<a href=\"https://pcp.io/gsod/2021/proposal.html\">プロジェクト</a>の最大の目的は、初めてのユーザーがすぐに生産性を高められるように支援すると同時に、新しいガイドの近く<a href=\"https://pcp.readthedocs.io/\">に</a>ある、より詳細な書籍へのアクセスを誘導することでした。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.h3:108-1
+#, fuzzy
 msgid "Project Description"
-msgstr ""
+msgstr "プロジェクト概要"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.h4:113-1
+#, fuzzy
 msgid "Creating the proposal"
-msgstr ""
+msgstr "企画書の作成"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:115-1
+#, fuzzy
 msgid "Initial work on proposal creation was done by Nathan in collaboration with Arzoo, based on guides we had in the form of email exchanges, as well as pre-existing guides in different formats from the original website."
-msgstr ""
+msgstr "提案書作成の初期作業は、ネイサンがArzooと共同で行いました。メールのやりとりの形で持っていたガイドや、オリジナルのウェブサイトにある異なるフォーマットの既存のガイドをもとにしています。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:121-1
+#, fuzzy
 msgid "Once all involved agreed on the initial project content we moved into establishing the project budget plan."
-msgstr ""
+msgstr "最初のプロジェクト内容に関係者全員が同意した後、プロジェクトの予算計画を立てました。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.h4:126-1
+#, fuzzy
 msgid "Budget"
-msgstr ""
+msgstr "予算"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:128-1
+#, fuzzy
 msgid "We primarily based our initial budget on funding our writer, based on previous years activities and the recommended reasonable ranges of funding from Google."
-msgstr ""
+msgstr "当初の予算は、前年の活動実績とGoogleから推奨された妥当な範囲の資金に基づいて、主にライターの資金調達を行いました。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:133-1
+#, fuzzy
 msgid "One unexpected area of difficulty was interacting with financing and shipping companies in India. After a relatively trouble-free initial payment to our writer early on, the environment around OpenCollective seemed to change for payments in India and we continue to work with them to ensure subsequent payments arrive."
-msgstr ""
+msgstr "予想外に苦労したのが、インドの金融機関や運送会社とのやりとりです。初期に比較的問題なくライターへの初回支払いが行われた後、インドでの支払いについてOpenCollectiveを取り巻く環境が変化したようで、その後の支払いが確実に届くように協力し続けています。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:141-1
+#, fuzzy
 msgid "Similarly, we budgeted for some swag, but trouble with shipments into India by our provider company <a href=\"https://www.redbubble.com/i/hat/Performance-Co-Pilot-classic-logo-by-pcp-maintainers/89364453.FACOX\">Red Bubble</a> meant some contributors ended up unable to receive the swag. As a result, they kindly donated their funding to the PCP project for other uses, with a plan for anyone who travels internationally for a meetup in-person to bring in swag for them, in the future when possible."
-msgstr ""
+msgstr "同様に、いくつかのスワッグも予算に入れていましたが、提供会社である<a href=\"https://www.redbubble.com/i/hat/Performance-Co-Pilot-classic-logo-by-pcp-maintainers/89364453.FACOX\">Red Bubble</a>社のインドへの配送に問題があったため、一部の参加者はスワッグを受け取ることができませんでした。将来的には、国際的なミートアップに参加する人には、可能な限りスワッグを持参してもらう予定です。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:152-1
+#, fuzzy
 msgid "Other than these problems, the budget overall was quite appropriate and worked out well."
-msgstr ""
+msgstr "これらの問題を除けば、予算は全体的に非常に適切で、うまくいきました。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.h4:157-1
+#, fuzzy
 msgid "Participants"
-msgstr ""
+msgstr "参加者"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p.ul.li:161-1
+#, fuzzy
 msgid "<a href=\"https://github.com/arzoo14\">Arzoo</a> (Technical Writer)"
-msgstr ""
+msgstr "<a href=\"https://github.com/arzoo14\">Arzoo</a>（テクニカルライター）"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p.ul.li:165-1
+#, fuzzy
 msgid "<a href=\"https://github.com/apurvabhide\">Apurva Bhide</a> (Editing)"
-msgstr ""
+msgstr "<a href=\"https://github.com/apurvabhide\">Apurva Bhide</a>(編集)"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p.ul.li:169-1
+#, fuzzy
 msgid "<a href=\"mailto:chorn@redhat.com\">Christian Horn</a> (Editing and Technical Content)"
-msgstr ""
+msgstr "<a href=\"mailto:chorn@redhat.com\">クリスチャン・ホーン</a>（編集・テクニカルコンテンツ）"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p.ul.li:173-1
+#, fuzzy
 msgid "<a href=\"https://github.com/kmcdonell\">Ken McDonell</a> (Editing and Final Project Review)"
-msgstr ""
+msgstr "<a href=\"https://github.com/kmcdonell\">Ken McDonell</a>(編集および最終プロジェクトレビュー)"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p.ul.li:177-1
+#, fuzzy
 msgid "<a href=\"https://github.com/natoscott\">Nathan Scott</a> (Editing and Project Administration)"
-msgstr ""
+msgstr "<a href=\"https://github.com/natoscott\">ネイサン・スコット</a>（編集・プロジェクト管理）"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:183-1
+#, fuzzy
 msgid "Several experienced community members volunteered to assist - PCP maintainers, developer and a documentation specialist. Our wonderful writer Arzoo from last years Google Season of Docs program agreed to work with us once more."
-msgstr ""
+msgstr "PCPのメンテナ、開発者、ドキュメントのスペシャリストなど、経験豊富なコミュニティメンバーがボランティアでサポートしてくれました。昨年の「Google Season of Docs」プログラムに参加してくれた素晴らしいライターのArzooさんが、再び協力してくれることになりました。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:189-1
+#, fuzzy
 msgid "With contributors spanning only APAC countries (Australia, Japan and India), we found we were able to communicate well once more, with quick responses being in similar timezones."
-msgstr ""
+msgstr "投稿者がAPAC諸国（オーストラリア、日本、インド）に限定されているため、同じ時間帯に迅速な回答が得られ、再び良好なコミュニケーションができました。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.h4:195-1
+#, fuzzy
 msgid "Timeline"
-msgstr ""
+msgstr "タイムライン"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:197-1
+#, fuzzy
 msgid "Arzoo maintained an excellent <a href=\"https://github.com/arzoo14/Google-Season-of-Docs-2021/blob/main/timeline_deliverables.md\">timeline of deliverable items</a> and the status of each item, throughout the project."
-msgstr ""
+msgstr "Arzooは、プロジェクト全体を通して、成果物の<a href=\"https://github.com/arzoo14/Google-Season-of-Docs-2021/blob/main/timeline_deliverables.md\">アイテム</a>と各アイテムのステータスを優れた<a href=\"https://github.com/arzoo14/Google-Season-of-Docs-2021/blob/main/timeline_deliverables.md\">タイムライン</a>で管理しました。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.h4:203-1
+#, fuzzy
 msgid "Results"
-msgstr ""
+msgstr "結果"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:205-1
+#, fuzzy
 msgid "As observed in the time line we completed the bulk of the work we set out to achieve. The landing page for Performance Co-Pilot <a href=\"https://pcp.readthedocs.io/en/latest/QG/QuickGuides.html\">Quick Guides</a> is now available and features prominently in the PCP documentation."
-msgstr ""
+msgstr "タイムラインにあるように、私たちは目標としていた作業の大部分を完了しました。Performance Co-Pilot<a href=\"https://pcp.readthedocs.io/en/latest/QG/QuickGuides.html\">Quick Guides</a>のランディングページが公開され、PCPドキュメントの中でも目立つようになっています。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:213-1
+#, fuzzy
 msgid "There were a couple of disruptions during the length of the project - laptop hardware failure and a short period of recuperation after illness. However, Arzoo was able to recover from these setbacks to complete most of the planned work - mainly we did not get into the stretch goals of the video tutorials and animated console examples)."
-msgstr ""
+msgstr "プロジェクト期間中には、ノートパソコンのハードウェアの故障や病気療養など、いくつかの問題が発生しました。しかし、Arzooはこれらの挫折から立ち直り、予定していた作業のほとんどを完了することができました。主に、ストレッチゴールであるビデオチュートリアルとアニメーションコンソールの例には手を付けませんでした。）"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.h4:223-1
+#, fuzzy
 msgid "Measuring Success"
-msgstr ""
+msgstr "成功の測定"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:225-1
+#, fuzzy
 msgid "We anticipated the new guides would provide a better suited entry point for new and inexperienced users."
-msgstr ""
+msgstr "新しいガイドは、初めての方や経験の浅い方にとって、より適した入り口になると期待しています。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:229-1
+#, fuzzy
 msgid "Arzoo enabled <a href=\"https://docs.readthedocs.io/en/latest/guides/google-analytics.html\">Google analytics</a> early on in the project. Since there were very few guides to start with, and with disrupted progress in the middle of the project, this is a summary of our observed traffic statistics at the end:"
-msgstr ""
+msgstr "Arzooは、プロジェクトの早い段階で<a href=\"https://docs.readthedocs.io/en/latest/guides/google-analytics.html\">Googleアナリティクス</a>を有効にしました。そもそもガイドの数が非常に少なく、プロジェクトの途中で進行が乱れたため、最後に観測されたトラフィック統計をまとめたものです。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p.ul.li:239-1
+#, fuzzy
 msgid "46% of views (out of 1040) involved the Quick Guides"
-msgstr ""
+msgstr "46%のビュー（1040件中）がクイックガイドに関わっています。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p.ul.li:240-1
+#, fuzzy
 msgid "37% of users (out of 244) opened the Quick Guides"
-msgstr ""
+msgstr "37%のユーザー（244人中）がクイックガイドを開いた"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p.ul.li:241-1
+#, fuzzy
 msgid "6% (out of 223) were new users"
-msgstr ""
+msgstr "6％（223人中）が新規ユーザー"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.h4:245-1
+#, fuzzy
 msgid "Analysis"
-msgstr ""
+msgstr "分析"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:247-1
+#, fuzzy
 msgid "The project was certainly overall a success."
-msgstr ""
+msgstr "このプロジェクトは確かに全体的には成功でした。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:250-1
+#, fuzzy
 msgid "Going forward we need to keep an eye on the web analytics to ensure the guides are serving their purpose, as well as to help identify other possible areas needing short guides."
-msgstr ""
+msgstr "今後は、ウェブ解析結果を見ながら、ガイドが目的を果たしているかどうかを確認するとともに、他にも短いガイドを必要とする可能性のあるエリアを特定していく必要があります。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:255-1
+#, fuzzy
 msgid "As we didn't complete any video or animated style tutorials we were unable to use that metric as originally planned (in order to assess if such mediums are preferred by users and whether they provde more popular than text and diagrams)."
-msgstr ""
+msgstr "ビデオやアニメーション形式のチュートリアルがなかったため、当初予定していたこの指標を使用することができませんでした（このような媒体がユーザーに好まれているかどうか、また、テキストや図よりも人気があるかどうかを評価するため）。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.h3:266-1
+#, fuzzy
 msgid "Summary"
-msgstr ""
+msgstr "概要"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:267-1
+#, fuzzy
 msgid "A good result for the Performance Co-Pilot project. We have a baseline set of short guides getting new users of the software able to solve problems immediately, and to learn more quickly about the wider set of PCP tools."
-msgstr ""
+msgstr "Performance Co-Pilotプロジェクトにとって良い結果となりました。ソフトウェアの新規ユーザーが問題をすぐに解決できるように、また幅広いPCPツールについてより早く学べるように、基本的な短いガイドが用意されています。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:273-1
+#, fuzzy
 msgid "We introduced consistency into all Tutorials and Guides across the project, by using a single readthedocs.io landing page for all PCP guides (same location, format, look-and-feel). Each new guide we add now will be incorporated into the set we've established during this project."
-msgstr ""
+msgstr "このプロジェクトでは、すべてのチュートリアルとガイドに一貫性を持たせるため、すべてのPCPガイドに単一の readthedocs.io ランディングページを使用しています（同じ場所、同じフォーマット、同じルック＆フィール）。現在追加されているガイドは、このプロジェクトで確立されたセットに組み込まれます。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:281-1
+#, fuzzy
 msgid "In terms of what we'd do differently next time, perhaps a focus on getting video tutorials and animated console examples integrated earlier on would have helped us to get content suited to that medium using it more, instead of running out of time to explore that at the end."
-msgstr ""
+msgstr "次回の課題としては、ビデオチュートリアルやゲーム機のアニメーションなどをもっと早い段階で取り入れることで、そのメディアに適したコンテンツをもっと活用できるようになったのではないかと思いますし、最後には時間が足りなくなってしまいました。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:288-1
+#, fuzzy
 msgid "We've really enjoyed working with Arzoo further improving the PCP documentation - a big thanks again to Google for running this program!"
-msgstr ""
+msgstr "このプログラムを実施してくれたGoogleにも感謝しています。"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.h3:296-1
+#, fuzzy
 msgid "Appendix"
-msgstr ""
+msgstr "付録"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:297-1
+#, fuzzy
 msgid "Arzoo's notes on the project from the <a href=\"https://arzoo14.github.io/Google-Season-of-Docs-2021/\">writer's perspective .</a>"
-msgstr ""
+msgstr "Arzooの<a href=\"https://arzoo14.github.io/Google-Season-of-Docs-2021/\">ライター目線</a>でのプロジェクトのメモ<a href=\"https://arzoo14.github.io/Google-Season-of-Docs-2021/\">。</a>"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:301-1
+#, fuzzy
 msgid "Landing page for the new and improved <a href=\"https://pcp.readthedocs.io/en/latest/QG/QuickGuides.html\">PCP Quick Guides .</a>"
-msgstr ""
+msgstr "新しくなった<a href=\"https://pcp.readthedocs.io/en/latest/QG/QuickGuides.html\">PCPクイックガイド</a>のランディングページ<a href=\"https://pcp.readthedocs.io/en/latest/QG/QuickGuides.html\">です。</a>"
 
 #: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.footer.div.div.section.div.div.h4:314-1
 msgid "Main Menu"
