@@ -1,0 +1,317 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.5.1\n"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.head.title:7-1
+#, fuzzy
+msgctxt "upstream/docs/gsod/2021/casestudy.html+html.head.title:7-1"
+msgid "Performance Co-Pilot"
+msgstr "Performance Co-Pilot"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.header.div.h1:16-1
+#, fuzzy
+msgctxt "upstream/docs/gsod/2021/casestudy.html+html.body.header.div.h1:16-1"
+msgid "Performance Co-Pilot"
+msgstr "Performance Co-Pilot"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
+msgctxt "upstream/docs/gsod/2021/casestudy.html+html.body.header.div.nav.ul.li:21-1"
+msgid "Features"
+msgstr "特徴"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
+msgctxt "upstream/docs/gsod/2021/casestudy.html+html.body.header.div.nav.ul.li:24-1"
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
+msgctxt "upstream/docs/gsod/2021/casestudy.html+html.body.header.div.nav.ul.li:27-1"
+msgid "Download"
+msgstr "ダウンロード"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.header.div.nav.ul.li:30-1
+msgid "Get Involved"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.div.section.div.div.h2:48-1
+msgid "Task-based Guides for Performance Co-Pilot"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.div.h3:56-1
+msgid "About Performance Co-Pilot"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.div.p:57-1
+msgid "Performance Co-Pilot (PCP) is an open-source distributed system performance analysis toolkit. It efficiently collects metrics from multiple systems and provides a variety of web, graphical and console tools for analysis of live and historical data."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.div.p:64-1
+msgid "The suite begun production use over 20 years ago primarily in the High Performance Computing arena, however its customizable and lightweight design has proven popular on everything from tiny system-on-a-chip machines through to vast databases and number-crunching super computers. It is included in all Linux distributions and has an active base of users and developers."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.h3:76-1
+msgid "About Task-based Guides"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:77-1
+msgid "In our <a href=\"https://pcp.io/gsod/2020/proposal.html\">previous</a> Google Season of Docs project, we converted two freely-available books (the \"Users and Administrators Guide\" and the \"Programmers Guide\"), the REST API documentation, and other content into <a href=\"https://pcp.readthedocs.io/\">pcp.readthedocs.io</a> content."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:87-1
+msgid "It is this <a href=\"https://pcp.io/gsod/2021/proposal.html\">latest</a> project we tackled the curation of a new, consistent series of focussed, task-oriented \"How To\" guides that assist new users in engaging immediately, by clearly showing how to solve small specific problem scenarios users encounter frequently."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.h3:97-1
+msgid "Proposal Abstract"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:98-1
+msgid "The primary goal of this <a href=\"https://pcp.io/gsod/2021/proposal.html\">project</a> was to assist first-time users to become more productive right away, while also directing traffic toward the more detailed books in close <a href=\"https://pcp.readthedocs.io/\">proximity</a> to the new guides."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.h3:108-1
+msgid "Project Description"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.h4:113-1
+msgid "Creating the proposal"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:115-1
+msgid "Initial work on proposal creation was done by Nathan in collaboration with Arzoo, based on guides we had in the form of email exchanges, as well as pre-existing guides in different formats from the original website."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:121-1
+msgid "Once all involved agreed on the initial project content we moved into establishing the project budget plan."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.h4:126-1
+msgid "Budget"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:128-1
+msgid "We primarily based our initial budget on funding our writer, based on previous years activities and the recommended reasonable ranges of funding from Google."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:133-1
+msgid "One unexpected area of difficulty was interacting with financing and shipping companies in India. After a relatively trouble-free initial payment to our writer early on, the environment around OpenCollective seemed to change for payments in India and we continue to work with them to ensure subsequent payments arrive."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:141-1
+msgid "Similarly, we budgeted for some swag, but trouble with shipments into India by our provider company <a href=\"https://www.redbubble.com/i/hat/Performance-Co-Pilot-classic-logo-by-pcp-maintainers/89364453.FACOX\">Red Bubble</a> meant some contributors ended up unable to receive the swag. As a result, they kindly donated their funding to the PCP project for other uses, with a plan for anyone who travels internationally for a meetup in-person to bring in swag for them, in the future when possible."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:152-1
+msgid "Other than these problems, the budget overall was quite appropriate and worked out well."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.h4:157-1
+msgid "Participants"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p.ul.li:161-1
+msgid "<a href=\"https://github.com/arzoo14\">Arzoo</a> (Technical Writer)"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p.ul.li:165-1
+msgid "<a href=\"https://github.com/apurvabhide\">Apurva Bhide</a> (Editing)"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p.ul.li:169-1
+msgid "<a href=\"mailto:chorn@redhat.com\">Christian Horn</a> (Editing and Technical Content)"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p.ul.li:173-1
+msgid "<a href=\"https://github.com/kmcdonell\">Ken McDonell</a> (Editing and Final Project Review)"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p.ul.li:177-1
+msgid "<a href=\"https://github.com/natoscott\">Nathan Scott</a> (Editing and Project Administration)"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:183-1
+msgid "Several experienced community members volunteered to assist - PCP maintainers, developer and a documentation specialist. Our wonderful writer Arzoo from last years Google Season of Docs program agreed to work with us once more."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:189-1
+msgid "With contributors spanning only APAC countries (Australia, Japan and India), we found we were able to communicate well once more, with quick responses being in similar timezones."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.h4:195-1
+msgid "Timeline"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:197-1
+msgid "Arzoo maintained an excellent <a href=\"https://github.com/arzoo14/Google-Season-of-Docs-2021/blob/main/timeline_deliverables.md\">timeline of deliverable items</a> and the status of each item, throughout the project."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.h4:203-1
+msgid "Results"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:205-1
+msgid "As observed in the time line we completed the bulk of the work we set out to achieve. The landing page for Performance Co-Pilot <a href=\"https://pcp.readthedocs.io/en/latest/QG/QuickGuides.html\">Quick Guides</a> is now available and features prominently in the PCP documentation."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:213-1
+msgid "There were a couple of disruptions during the length of the project - laptop hardware failure and a short period of recuperation after illness. However, Arzoo was able to recover from these setbacks to complete most of the planned work - mainly we did not get into the stretch goals of the video tutorials and animated console examples)."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.h4:223-1
+msgid "Measuring Success"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:225-1
+msgid "We anticipated the new guides would provide a better suited entry point for new and inexperienced users."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:229-1
+msgid "Arzoo enabled <a href=\"https://docs.readthedocs.io/en/latest/guides/google-analytics.html\">Google analytics</a> early on in the project. Since there were very few guides to start with, and with disrupted progress in the middle of the project, this is a summary of our observed traffic statistics at the end:"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p.ul.li:239-1
+msgid "46% of views (out of 1040) involved the Quick Guides"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p.ul.li:240-1
+msgid "37% of users (out of 244) opened the Quick Guides"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p.ul.li:241-1
+msgid "6% (out of 223) were new users"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.h4:245-1
+msgid "Analysis"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:247-1
+msgid "The project was certainly overall a success."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:250-1
+msgid "Going forward we need to keep an eye on the web analytics to ensure the guides are serving their purpose, as well as to help identify other possible areas needing short guides."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.section.div.div.p:255-1
+msgid "As we didn't complete any video or animated style tutorials we were unable to use that metric as originally planned (in order to assess if such mediums are preferred by users and whether they provde more popular than text and diagrams)."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.h3:266-1
+msgid "Summary"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:267-1
+msgid "A good result for the Performance Co-Pilot project. We have a baseline set of short guides getting new users of the software able to solve problems immediately, and to learn more quickly about the wider set of PCP tools."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:273-1
+msgid "We introduced consistency into all Tutorials and Guides across the project, by using a single readthedocs.io landing page for all PCP guides (same location, format, look-and-feel). Each new guide we add now will be incorporated into the set we've established during this project."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:281-1
+msgid "In terms of what we'd do differently next time, perhaps a focus on getting video tutorials and animated console examples integrated earlier on would have helped us to get content suited to that medium using it more, instead of running out of time to explore that at the end."
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:288-1
+msgid "We've really enjoyed working with Arzoo further improving the PCP documentation - a big thanks again to Google for running this program!"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.h3:296-1
+msgid "Appendix"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:297-1
+msgid "Arzoo's notes on the project from the <a href=\"https://arzoo14.github.io/Google-Season-of-Docs-2021/\">writer's perspective .</a>"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.div.div.div.p:301-1
+msgid "Landing page for the new and improved <a href=\"https://pcp.readthedocs.io/en/latest/QG/QuickGuides.html\">PCP Quick Guides .</a>"
+msgstr ""
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.footer.div.div.section.div.div.h4:314-1
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:316-1
+#, fuzzy
+msgctxt "upstream/docs/gsod/2021/casestudy.html+html.body.footer.div.div.section.div.div.ul.li:316-1"
+msgid "Features"
+msgstr "特徴"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:319-1
+#, fuzzy
+msgctxt "upstream/docs/gsod/2021/casestudy.html+html.body.footer.div.div.section.div.div.ul.li:319-1"
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:322-1
+#, fuzzy
+msgctxt "upstream/docs/gsod/2021/casestudy.html+html.body.footer.div.div.section.div.div.ul.li:322-1"
+msgid "Download"
+msgstr "ダウンロード"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.footer.div.div.section.div.div.h4:330-1
+msgid "Developers"
+msgstr "開発者"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:332-1
+msgid "Report an issue"
+msgstr "問題を報告する"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:335-1
+msgid "Roadmap"
+msgstr "ロードマップ"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:338-1
+msgid "Contributing"
+msgstr "貢献する"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:341-1
+msgid "Team"
+msgstr "チーム"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.footer.div.div.section.div.div.h4:349-1
+msgid "About"
+msgstr "About"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:351-1
+msgid "Testimonials"
+msgstr "ユーザーの声"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:354-1
+msgid "FAQ"
+msgstr "よくある質問"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:357-1
+msgid "Website"
+msgstr "ウェブサイト"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.footer.div.div.section.div.div.h4:365-1
+msgid "Get Social"
+msgstr "ソーシャル"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:367-1
+msgid "Twitter"
+msgstr "Twitter"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:370-1
+msgid "Github"
+msgstr "Github"
+
+#: upstream/docs/gsod/2021/casestudy.html%2Bhtml.body.footer.div.div.div.p:380-1
+msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
+msgstr "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
