@@ -133,12 +133,14 @@ msgid "News"
 msgstr "ニュース"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
+#, fuzzy
 msgid "Feb 2022 <br> PCP 5.3.6"
-msgstr ""
+msgstr "2022年2月<br>PCP 5.3.6</br>"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:152-1
+#, fuzzy
 msgid "Bug fix release. Updates to the BCC, Elasticsearch and rsyslog metric agents."
-msgstr ""
+msgstr "バグフィックスリリース。BCC、Elasticsearch、rsyslogのメトリックエージェントを更新しました。"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:165-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
