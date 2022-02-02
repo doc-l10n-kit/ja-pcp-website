@@ -667,21 +667,5 @@
         <seg>ニュース</seg>
       </tuv>
     </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Feb 2021 &lt;br&gt; PCP 5.2.5</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>2021年2月&lt;br&gt;PCP 5.2.5&lt;/br&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>New Linux ZFS, High Availability (Pacemaker) and detailed sockets metrics. &lt;a href="https://man7.org/linux/man-pages/man1/pmproxy.1.html"&gt;pmproxy&lt;/a&gt; memory management improvements.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>新しいLinux ZFS、高可用性（Pacemaker）、および詳細なソケットメトリクス。&lt;a href="https://man7.org/linux/man-pages/man1/pmproxy.1.html"&gt;pmproxy&lt;/a&gt;のメモリ管理の改善。</seg>
-      </tuv>
-    </tu>
   </body>
 </tmx>
