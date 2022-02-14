@@ -1,0 +1,241 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.5.3\n"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.head.title:7-1
+#, fuzzy
+msgctxt "upstream/docs/gsoc/contributors.html+html.head.title:7-1"
+msgid "Performance Co-Pilot"
+msgstr "Performance Co-Pilot"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.header.div.h1:16-1
+#, fuzzy
+msgctxt "upstream/docs/gsoc/contributors.html+html.body.header.div.h1:16-1"
+msgid "Performance Co-Pilot"
+msgstr "Performance Co-Pilot"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#, fuzzy
+msgctxt "upstream/docs/gsoc/contributors.html+html.body.header.div.nav.ul.li:21-1"
+msgid "Features"
+msgstr "特徴"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#, fuzzy
+msgctxt "upstream/docs/gsoc/contributors.html+html.body.header.div.nav.ul.li:24-1"
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#, fuzzy
+msgctxt "upstream/docs/gsoc/contributors.html+html.body.header.div.nav.ul.li:27-1"
+msgid "Download"
+msgstr "ダウンロード"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.header.div.nav.ul.li:30-1
+msgid "Get Involved"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.div.h2:45-1
+msgid "How to get involved with PCP for Google Summer of Code"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:48-1
+msgid "Welcome!"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:51-1
+msgid "We are delighted that you are interested in working with us on Performance Co-Pilot - a toolkit for system performance analysis."
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:56-1
+msgid "PCP has been an active project for around 25 years now and is a part of all modern Linux distributions. It is a mature open source project used by thousands of people on millions of production systems to solve complex performance problems."
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:63-1
+msgid "You will get alot out of working on PCP - the performance analysis skills you pick up working with us will be useful to you no matter what field of endeavour you undertake."
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:69-1
+msgid "We have a number of mentors very experienced in open source software development and performance analysis, ready to help you with a successful collaboration on our project."
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.div.h3:83-1
+msgid "1. Find a project idea"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:85-1
+msgid "The first step towards becoming involved in our open source performance analysis toolkit is to find a project in our <a href=\"https://pcp.io/gsoc/2022/ideas.html\">ideas list</a> that appeals to you."
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:91-1
+msgid "There is a variety of projects. There is also potential to extend and customise the project ideas a little towards your particular skill sets or desired learning areas, from discussions with your mentors."
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.div.h3:106-1
+msgid "2. Learn about PCP"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:108-1
+msgid "PCP is a complete distributed system analysis solution, with many components, tools, services and APIs."
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:112-1
+msgid "Before contacting mentors its a good idea to install the software and do some background reading:"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:116-1
+msgid "PCP User's Guide"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:119-1
+msgid "Grafana PCP User's Guide"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:122-1
+msgid "Installation instructions"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.div.h3:136-1
+msgid "3. Contact project mentors"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:138-1
+msgid "The mentors for our projects are listed on the <a href=\"https://pcp.io/gsoc/2022/ideas.html\">ideas page</a> at the end of each project description. Send an email with the following details to the mentors listed for the project you are interested in:"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:145-1
+msgid "Your preferred name"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:148-1
+msgid "Identify the project you're interested in"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:151-1
+msgid "List programming language(s) you are proficient in"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:154-1
+msgid "Describe your programming experience, any open source experience you have already, and describe why you are interested in the project"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:157-1
+msgid "List any tertiary qualifications you have or are working towards"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:160-1
+msgid "Any other details about yourself you wish to share"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.div.h3:174-1
+msgid "4. Next steps"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:176-1
+msgid "Within a day or two one or more of your mentors will have contacted you to begin discussing the project."
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:180-1
+msgid "In the meantime, follow the instructions on the PCP <a href=\"https://pcp.io/community.html\">community page</a> for joining the PCP Slack.com discussion group. The #general channel is a good place to ask about Google Summer of Code and PCP in general. Mentors for each project can be directly contacted here for further (live) chat."
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:189-1
+msgid "If you have not done so already, <a href=\"https://pcp.readthedocs.io/en/latest/HowTos/installation/index.html\">install</a> PCP locally and being to experiment with its capabilities."
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:194-1
+msgid "Clone the <a href=\"https://github.com/performancecopilot/pcp\">PCP git repository</a> and <a href=\"https://github.com/performancecopilot/pcp/blob/main/INSTALL.md\">build from source</a>"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:201-1
+msgid "At this point you will have a good initial understanding of PCP and should have a deeper understanding of what your project of interest is all about. Continue discussing the details of project with mentors now, and start to become involved in the community. Look for opportunities to demonstrate your programming proficiency - being able to fix small problems in documentation, code and tests right away will help to convince your mentors that you are a promising candidate."
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:213-1
+msgid "Once again, thank you for your interest in the Performance Co-Pilot toolkit and welcome to our community!"
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.h4:229-1
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:231-1
+#, fuzzy
+msgctxt "upstream/docs/gsoc/contributors.html+html.body.footer.div.div.section.div.div.ul.li:231-1"
+msgid "Features"
+msgstr "特徴"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:234-1
+#, fuzzy
+msgctxt "upstream/docs/gsoc/contributors.html+html.body.footer.div.div.section.div.div.ul.li:234-1"
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:237-1
+#, fuzzy
+msgctxt "upstream/docs/gsoc/contributors.html+html.body.footer.div.div.section.div.div.ul.li:237-1"
+msgid "Download"
+msgstr "ダウンロード"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.h4:245-1
+msgid "Developers"
+msgstr "開発者"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:247-1
+msgid "Report an issue"
+msgstr "問題を報告する"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:250-1
+msgid "Roadmap"
+msgstr "ロードマップ"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:253-1
+msgid "Contributing"
+msgstr "貢献する"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:256-1
+msgid "Team"
+msgstr "チーム"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.h4:264-1
+msgid "About"
+msgstr "About"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:266-1
+msgid "Testimonials"
+msgstr "ユーザーの声"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:269-1
+msgid "FAQ"
+msgstr "よくある質問"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:272-1
+msgid "Website"
+msgstr "ウェブサイト"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.h4:280-1
+msgid "Get Social"
+msgstr "ソーシャル"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:282-1
+msgid "Twitter"
+msgstr "Twitter"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:285-1
+msgid "Github"
+msgstr "Github"
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.div.p:295-1
+msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
+msgstr "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
