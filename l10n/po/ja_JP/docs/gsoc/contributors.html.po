@@ -43,128 +43,159 @@ msgid "Download"
 msgstr "ダウンロード"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.header.div.nav.ul.li:30-1
+#, fuzzy
 msgid "Get Involved"
-msgstr ""
+msgstr "参加する"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.div.h2:45-1
+#, fuzzy
 msgid "How to get involved with PCP for Google Summer of Code"
-msgstr ""
+msgstr "Google Summer of CodeにおけるPCPとの関わり方"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:48-1
+#, fuzzy
 msgid "Welcome!"
-msgstr ""
+msgstr "Welcome!"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:51-1
+#, fuzzy
 msgid "We are delighted that you are interested in working with us on Performance Co-Pilot - a toolkit for system performance analysis."
-msgstr ""
+msgstr "システム性能解析のためのツールキットであるPerformance Co-Pilotの開発に興味を持っていただけたことを嬉しく思います。"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:56-1
+#, fuzzy
 msgid "PCP has been an active project for around 25 years now and is a part of all modern Linux distributions. It is a mature open source project used by thousands of people on millions of production systems to solve complex performance problems."
-msgstr ""
+msgstr "PCPは約25年前から活動しているプロジェクトで、最近のすべてのLinuxディストリビューションに含まれています。PCPは成熟したオープンソースプロジェクトであり、複雑なパフォーマンス問題を解決するために、何千人もの人々が何百万もの本番システムで使用しています。"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:63-1
+#, fuzzy
 msgid "You will get alot out of working on PCP - the performance analysis skills you pick up working with us will be useful to you no matter what field of endeavour you undertake."
-msgstr ""
+msgstr "PCPで学んだパフォーマンス分析のスキルは、どのような分野であっても役に立つでしょう。"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:69-1
+#, fuzzy
 msgid "We have a number of mentors very experienced in open source software development and performance analysis, ready to help you with a successful collaboration on our project."
-msgstr ""
+msgstr "私たちは、オープンソース・ソフトウェアの開発やパフォーマンス分析に非常に経験豊富なメンターを多数用意しており、プロジェクトでの共同作業を成功させるためのサポートをしています。"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.div.h3:83-1
+#, fuzzy
 msgid "1. Find a project idea"
-msgstr ""
+msgstr "1.プロジェクトのアイデアを探す"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:85-1
+#, fuzzy
 msgid "The first step towards becoming involved in our open source performance analysis toolkit is to find a project in our <a href=\"https://pcp.io/gsoc/2022/ideas.html\">ideas list</a> that appeals to you."
-msgstr ""
+msgstr "オープンソースの性能解析ツールキットに参加するための最初のステップは、<a href=\"https://pcp.io/gsoc/2022/ideas.html\">アイデアリスト</a>の中から魅力的なプロジェクトを見つけることです。"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:91-1
+#, fuzzy
 msgid "There is a variety of projects. There is also potential to extend and customise the project ideas a little towards your particular skill sets or desired learning areas, from discussions with your mentors."
-msgstr ""
+msgstr "さまざまなプロジェクトがあります。また、メンターとの話し合いにより、自分のスキルセットや希望する学習分野に合わせて、プロジェクトのアイデアを少し拡張したり、カスタマイズしたりすることも可能です。"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.div.h3:106-1
+#, fuzzy
 msgid "2. Learn about PCP"
-msgstr ""
+msgstr "2.PCPについて知る"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:108-1
+#, fuzzy
 msgid "PCP is a complete distributed system analysis solution, with many components, tools, services and APIs."
-msgstr ""
+msgstr "PCPは、多くのコンポーネント、ツール、サービス、APIを備えた完全な分散システム解析ソリューションです。"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:112-1
+#, fuzzy
 msgid "Before contacting mentors its a good idea to install the software and do some background reading:"
-msgstr ""
+msgstr "メンターに連絡を取る前に、ソフトウェアをインストールし、いくつかの背景情報を読んでおくと良いでしょう。"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:116-1
+#, fuzzy
 msgid "PCP User's Guide"
-msgstr ""
+msgstr "PCPユーザーズガイド"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:119-1
+#, fuzzy
 msgid "Grafana PCP User's Guide"
-msgstr ""
+msgstr "Grafana PCPユーザーズガイド"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:122-1
+#, fuzzy
 msgid "Installation instructions"
-msgstr ""
+msgstr "インストール方法"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.div.h3:136-1
+#, fuzzy
 msgid "3. Contact project mentors"
-msgstr ""
+msgstr "3.プロジェクトメンターへの連絡"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:138-1
+#, fuzzy
 msgid "The mentors for our projects are listed on the <a href=\"https://pcp.io/gsoc/2022/ideas.html\">ideas page</a> at the end of each project description. Send an email with the following details to the mentors listed for the project you are interested in:"
-msgstr ""
+msgstr "私たちのプロジェクトのメンターは、各プロジェクトの説明の最後にある<a href=\"https://pcp.io/gsoc/2022/ideas.html\">アイデアのページ</a>に掲載されています。興味のあるプロジェクトに掲載されているメンターに、以下の内容を記載したメールを送信してください。"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:145-1
+#, fuzzy
 msgid "Your preferred name"
-msgstr ""
+msgstr "ご希望のお名前"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:148-1
+#, fuzzy
 msgid "Identify the project you're interested in"
-msgstr ""
+msgstr "興味のあるプロジェクトを特定する"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:151-1
+#, fuzzy
 msgid "List programming language(s) you are proficient in"
-msgstr ""
+msgstr "得意とするプログラミング言語を挙げてください。"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:154-1
+#, fuzzy
 msgid "Describe your programming experience, any open source experience you have already, and describe why you are interested in the project"
-msgstr ""
+msgstr "プログラミングの経験、すでに持っているオープンソースの経験、プロジェクトに興味を持った理由を記述する"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:157-1
+#, fuzzy
 msgid "List any tertiary qualifications you have or are working towards"
-msgstr ""
+msgstr "取得している、または取得に向けて努力している高等教育の資格があれば記入してください。"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:160-1
+#, fuzzy
 msgid "Any other details about yourself you wish to share"
-msgstr ""
+msgstr "その他、共有したいご自身の詳細について"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.div.h3:174-1
+#, fuzzy
 msgid "4. Next steps"
-msgstr ""
+msgstr "4.次のステップ"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:176-1
+#, fuzzy
 msgid "Within a day or two one or more of your mentors will have contacted you to begin discussing the project."
-msgstr ""
+msgstr "一両日中には、メンターから連絡があり、プロジェクトの打ち合わせが始まるでしょう。"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:180-1
+#, fuzzy
 msgid "In the meantime, follow the instructions on the PCP <a href=\"https://pcp.io/community.html\">community page</a> for joining the PCP Slack.com discussion group. The #general channel is a good place to ask about Google Summer of Code and PCP in general. Mentors for each project can be directly contacted here for further (live) chat."
-msgstr ""
+msgstr "それまでは、PCP<a href=\"https://pcp.io/community.html\">コミュニティページ</a>の指示に従って、PCP Slack.comのディスカッショングループに参加してください。Google Summer of CodeやPCP全般について質問するには、#generalチャンネルが適しています。各プロジェクトのメンターは、ここで直接連絡を取り、さらに（ライブ）チャットをすることができます。"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:189-1
+#, fuzzy
 msgid "If you have not done so already, <a href=\"https://pcp.readthedocs.io/en/latest/HowTos/installation/index.html\">install</a> PCP locally and being to experiment with its capabilities."
-msgstr ""
+msgstr "まだインストールしていない場合は、PCPをローカルに<a href=\"https://pcp.readthedocs.io/en/latest/HowTos/installation/index.html\">インストールし</a>て、その機能を試してみてください。"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:194-1
+#, fuzzy
 msgid "Clone the <a href=\"https://github.com/performancecopilot/pcp\">PCP git repository</a> and <a href=\"https://github.com/performancecopilot/pcp/blob/main/INSTALL.md\">build from source</a>"
-msgstr ""
+msgstr "<a href=\"https://github.com/performancecopilot/pcp\">PCPのgitリポジトリ</a>をクローンし、<a href=\"https://github.com/performancecopilot/pcp/blob/main/INSTALL.md\">ソースからビルド</a>する"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:201-1
+#, fuzzy
 msgid "At this point you will have a good initial understanding of PCP and should have a deeper understanding of what your project of interest is all about. Continue discussing the details of project with mentors now, and start to become involved in the community. Look for opportunities to demonstrate your programming proficiency - being able to fix small problems in documentation, code and tests right away will help to convince your mentors that you are a promising candidate."
-msgstr ""
+msgstr "この時点で、あなたはPCPを最初によく理解し、興味のあるプロジェクトが何なのかをより深く理解しているはずです。今からメンターとプロジェクトの詳細について話し合いを続け、コミュニティに参加し始めましょう。自分のプログラミング能力を示す機会を探しましょう。ドキュメント、コード、テストの小さな問題をすぐに解決できることは、あなたが有望な候補者であることをメンターに確信させるのに役立ちます。"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:213-1
+#, fuzzy
 msgid "Once again, thank you for your interest in the Performance Co-Pilot toolkit and welcome to our community!"
-msgstr ""
+msgstr "改めて、Performance Co-Pilotツールキットにご興味をお持ちいただき、ありがとうございます。"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.h4:229-1
 msgid "Main Menu"
