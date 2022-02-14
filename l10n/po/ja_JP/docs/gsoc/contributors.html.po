@@ -24,18 +24,21 @@ msgid "Performance Co-Pilot"
 msgstr "Performance Co-Pilot"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.header.div.nav.ul.li:21-1
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:231-1
 #, fuzzy
 msgctxt "upstream/docs/gsoc/contributors.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
 msgstr "特徴"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.header.div.nav.ul.li:24-1
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:234-1
 #, fuzzy
 msgctxt "upstream/docs/gsoc/contributors.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
 msgstr "ドキュメント"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.header.div.nav.ul.li:27-1
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:237-1
 #, fuzzy
 msgctxt "upstream/docs/gsoc/contributors.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
@@ -121,151 +124,184 @@ msgstr "Grafana PCPユーザーズガイド"
 msgid "Installation instructions"
 msgstr "インストール方法"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:127-1
+msgid "If the project idea you're interested in involves use of another utility or toolkit as well as PCP, such as <a href=\"https://htop.dev/\">htop</a> or <a href=\"https://sysstat.fr/\">sysstat</a> take some time to install those too, and become familiar with them in order to have more meaningful initial discussion with your project mentors."
+msgstr ""
+
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.div.h3:146-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.div.h3:136-1
 #, fuzzy
 msgid "3. Contact project mentors"
 msgstr "3.プロジェクトメンターへの連絡"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:148-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:138-1
 #, fuzzy
 msgid "The mentors for our projects are listed on the <a href=\"https://pcp.io/gsoc/2022/ideas.html\">ideas page</a> at the end of each project description. Send an email with the following details to the mentors listed for the project you are interested in:"
 msgstr "私たちのプロジェクトのメンターは、各プロジェクトの説明の最後にある<a href=\"https://pcp.io/gsoc/2022/ideas.html\">アイデアのページ</a>に掲載されています。興味のあるプロジェクトに掲載されているメンターに、以下の内容を記載したメールを送信してください。"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:155-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:145-1
 #, fuzzy
 msgid "Your preferred name"
 msgstr "ご希望のお名前"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:158-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:148-1
 #, fuzzy
 msgid "Identify the project you're interested in"
 msgstr "興味のあるプロジェクトを特定する"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:161-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:151-1
 #, fuzzy
 msgid "List programming language(s) you are proficient in"
 msgstr "得意とするプログラミング言語を挙げてください。"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:164-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:154-1
 #, fuzzy
 msgid "Describe your programming experience, any open source experience you have already, and describe why you are interested in the project"
 msgstr "プログラミングの経験、すでに持っているオープンソースの経験、プロジェクトに興味を持った理由を記述する"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:167-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:157-1
 #, fuzzy
 msgid "List any tertiary qualifications you have or are working towards"
 msgstr "取得している、または取得に向けて努力している高等教育の資格があれば記入してください。"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:170-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p.ol.li:160-1
 #, fuzzy
 msgid "Any other details about yourself you wish to share"
 msgstr "その他、共有したいご自身の詳細について"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.div.h3:184-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.div.h3:174-1
 #, fuzzy
 msgid "4. Next steps"
 msgstr "4.次のステップ"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:186-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:176-1
 #, fuzzy
 msgid "Within a day or two one or more of your mentors will have contacted you to begin discussing the project."
 msgstr "一両日中には、メンターから連絡があり、プロジェクトの打ち合わせが始まるでしょう。"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:190-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:180-1
 #, fuzzy
 msgid "In the meantime, follow the instructions on the PCP <a href=\"https://pcp.io/community.html\">community page</a> for joining the PCP Slack.com discussion group. The #general channel is a good place to ask about Google Summer of Code and PCP in general. Mentors for each project can be directly contacted here for further (live) chat."
 msgstr "それまでは、PCP<a href=\"https://pcp.io/community.html\">コミュニティページ</a>の指示に従って、PCP Slack.comのディスカッショングループに参加してください。Google Summer of CodeやPCP全般について質問するには、#generalチャンネルが適しています。各プロジェクトのメンターは、ここで直接連絡を取り、さらに（ライブ）チャットをすることができます。"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:199-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:189-1
 #, fuzzy
 msgid "If you have not done so already, <a href=\"https://pcp.readthedocs.io/en/latest/HowTos/installation/index.html\">install</a> PCP locally and being to experiment with its capabilities."
 msgstr "まだインストールしていない場合は、PCPをローカルに<a href=\"https://pcp.readthedocs.io/en/latest/HowTos/installation/index.html\">インストールし</a>て、その機能を試してみてください。"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:204-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:194-1
 #, fuzzy
 msgid "Clone the <a href=\"https://github.com/performancecopilot/pcp\">PCP git repository</a> and <a href=\"https://github.com/performancecopilot/pcp/blob/main/INSTALL.md\">build from source</a>"
 msgstr "<a href=\"https://github.com/performancecopilot/pcp\">PCPのgitリポジトリ</a>をクローンし、<a href=\"https://github.com/performancecopilot/pcp/blob/main/INSTALL.md\">ソースからビルド</a>する"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:211-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:201-1
 #, fuzzy
 msgid "At this point you will have a good initial understanding of PCP and should have a deeper understanding of what your project of interest is all about. Continue discussing the details of project with mentors now, and start to become involved in the community. Look for opportunities to demonstrate your programming proficiency - being able to fix small problems in documentation, code and tests right away will help to convince your mentors that you are a promising candidate."
 msgstr "この時点で、あなたはPCPを最初によく理解し、興味のあるプロジェクトが何なのかをより深く理解しているはずです。今からメンターとプロジェクトの詳細について話し合いを続け、コミュニティに参加し始めましょう。自分のプログラミング能力を示す機会を探しましょう。ドキュメント、コード、テストの小さな問題をすぐに解決できることは、あなたが有望な候補者であることをメンターに確信させるのに役立ちます。"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:223-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:213-1
 #, fuzzy
 msgid "Once again, thank you for your interest in the Performance Co-Pilot toolkit and welcome to our community!"
 msgstr "改めて、Performance Co-Pilotツールキットにご興味をお持ちいただき、ありがとうございます。"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.h4:239-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.h4:229-1
 msgid "Main Menu"
 msgstr "メインメニュー"
 
-#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:231-1
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:241-1
 #, fuzzy
-msgctxt "upstream/docs/gsoc/contributors.html+html.body.footer.div.div.section.div.div.ul.li:231-1"
+msgctxt "upstream/docs/gsoc/contributors.html+html.body.footer.div.div.section.div.div.ul.li:241-1"
 msgid "Features"
 msgstr "特徴"
 
-#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:234-1
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:244-1
 #, fuzzy
-msgctxt "upstream/docs/gsoc/contributors.html+html.body.footer.div.div.section.div.div.ul.li:234-1"
+msgctxt "upstream/docs/gsoc/contributors.html+html.body.footer.div.div.section.div.div.ul.li:244-1"
 msgid "Documentation"
 msgstr "ドキュメント"
 
-#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:237-1
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:247-1
 #, fuzzy
-msgctxt "upstream/docs/gsoc/contributors.html+html.body.footer.div.div.section.div.div.ul.li:237-1"
+msgctxt "upstream/docs/gsoc/contributors.html+html.body.footer.div.div.section.div.div.ul.li:247-1"
 msgid "Download"
 msgstr "ダウンロード"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.h4:255-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.h4:245-1
 msgid "Developers"
 msgstr "開発者"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:257-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:247-1
 msgid "Report an issue"
 msgstr "問題を報告する"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:260-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:250-1
 msgid "Roadmap"
 msgstr "ロードマップ"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:263-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:253-1
 msgid "Contributing"
 msgstr "貢献する"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:266-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:256-1
 msgid "Team"
 msgstr "チーム"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.h4:274-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.h4:264-1
 msgid "About"
 msgstr "About"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:276-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:266-1
 msgid "Testimonials"
 msgstr "ユーザーの声"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:279-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:269-1
 msgid "FAQ"
 msgstr "よくある質問"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:282-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:272-1
 msgid "Website"
 msgstr "ウェブサイト"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.h4:290-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.h4:280-1
 msgid "Get Social"
 msgstr "ソーシャル"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:292-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:282-1
 msgid "Twitter"
 msgstr "Twitter"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:295-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:285-1
 msgid "Github"
 msgstr "Github"
 
+#: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.div.p:305-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.footer.div.div.div.p:295-1
 msgid "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
 msgstr "This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat"
