@@ -125,8 +125,9 @@ msgid "Installation instructions"
 msgstr "インストール方法"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:127-1
+#, fuzzy
 msgid "If the project idea you're interested in involves use of another utility or toolkit as well as PCP, such as <a href=\"https://htop.dev/\">htop</a> or <a href=\"https://sysstat.fr/\">sysstat</a> take some time to install those too, and become familiar with them in order to have more meaningful initial discussion with your project mentors."
-msgstr ""
+msgstr "もし、あなたが興味を持っているプロジェクトのアイデアに、PCPだけでなく、他のユーティリティーやツールキット（<a href=\"https://htop.dev/\">htop</a>や<a href=\"https://sysstat.fr/\">sysstat</a>など）の使用が含まれている場合は、プロジェクトのメンターとの最初の話し合いをより有意義なものにするために、時間をかけてそれらをインストールし、それらに慣れてください。"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.div.h3:146-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.div.h3:136-1
