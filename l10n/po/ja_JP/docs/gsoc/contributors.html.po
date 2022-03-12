@@ -208,10 +208,8 @@ msgid "Clone the <a href=\"https://github.com/performancecopilot/pcp\">PCP git r
 msgstr "<a href=\"https://github.com/performancecopilot/pcp\">PCPのgitリポジトリ</a>をクローンし、<a href=\"https://github.com/performancecopilot/pcp/blob/main/INSTALL.md\">ソースからビルド</a>する"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:211-1
-#: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:201-1
-#, fuzzy
-msgid "At this point you will have a good initial understanding of PCP and should have a deeper understanding of what your project of interest is all about. Continue discussing the details of project with mentors now, and start to become involved in the community. Look for opportunities to demonstrate your programming proficiency - being able to fix small problems in documentation, code and tests right away will help to convince your mentors that you are a promising candidate."
-msgstr "この時点で、あなたはPCPを最初によく理解し、興味のあるプロジェクトが何なのかをより深く理解しているはずです。今からメンターとプロジェクトの詳細について話し合いを続け、コミュニティに参加し始めましょう。自分のプログラミング能力を示す機会を探しましょう。ドキュメント、コード、テストの小さな問題をすぐに解決できることは、あなたが有望な候補者であることをメンターに確信させるのに役立ちます。"
+msgid "At this point you will have a good initial understanding of PCP and should have a deeper understanding of what your project of interest is all about. Continue discussing details of your project with the mentors now and start to become involved in the community. Look for opportunities to demonstrate your programming proficiency - being able to fix small problems in documentation, code and tests right away will help to convince your mentors that you are a promising candidate."
+msgstr ""
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:223-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:213-1
