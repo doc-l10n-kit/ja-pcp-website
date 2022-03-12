@@ -208,8 +208,9 @@ msgid "Clone the <a href=\"https://github.com/performancecopilot/pcp\">PCP git r
 msgstr "<a href=\"https://github.com/performancecopilot/pcp\">PCPのgitリポジトリ</a>をクローンし、<a href=\"https://github.com/performancecopilot/pcp/blob/main/INSTALL.md\">ソースからビルド</a>する"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:211-1
+#, fuzzy
 msgid "At this point you will have a good initial understanding of PCP and should have a deeper understanding of what your project of interest is all about. Continue discussing details of your project with the mentors now and start to become involved in the community. Look for opportunities to demonstrate your programming proficiency - being able to fix small problems in documentation, code and tests right away will help to convince your mentors that you are a promising candidate."
-msgstr ""
+msgstr "この時点で、あなたはPCPの最初の理解を深め、あなたの興味のあるプロジェクトが何であるかをより深く理解することができるはずです。今のうちにメンターとプロジェクトの詳細について話し合いを続け、コミュニティに参加することを始めてください。プログラミングの熟練度を示す機会を探してください。ドキュメント、コード、テストの小さな問題をすぐに修正できれば、あなたが有望な候補者であることをメンターに納得させるのに役立ちます。"
 
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:223-1
 #: upstream/docs/gsoc/contributors.html%2Bhtml.body.div.div.div.div.section.div.p:213-1
