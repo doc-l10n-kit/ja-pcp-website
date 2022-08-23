@@ -13,5 +13,6 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.7.2\n"
 
 #: upstream/docs/docs/lab.pmchart.html%2Bhtml.head.title:7-5
+#, fuzzy
 msgid "Page Redirection"
-msgstr ""
+msgstr "ページリダイレクト"
