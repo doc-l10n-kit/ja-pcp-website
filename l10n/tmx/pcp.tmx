@@ -381,30 +381,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>Features</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>特徴</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Documentation</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ドキュメント</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Download</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ダウンロード</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
         <seg>Documentation</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
@@ -425,22 +401,6 @@
       </tuv>
       <tuv xml:lang="ja_JP">
         <seg>クイックリファレンスガイド</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Charts Overview</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>チャートの概要</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Time Control Overview</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>タイムコントロールの概要</seg>
       </tuv>
     </tu>
     <tu>
@@ -641,30 +601,6 @@
       </tuv>
       <tuv xml:lang="ja_JP">
         <seg>実践的な Performance Co-Pilot と Grafana</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Features</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>特徴</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Documentation</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ドキュメント</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Download</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ダウンロード</seg>
       </tuv>
     </tu>
   </body>
