@@ -1,6 +1,22 @@
 Filename, Fuzzy Messages, Total Messages, Fuzzy Words, Total Words, Achievement
-l10n/po/ja_JP/docs/documentation.html.po, 2, 65, 4, 213 ,99%
+l10n/po/ja_JP/docs/docs/views.html.po, 0, 1, 0, 2 ,100%
+l10n/po/ja_JP/docs/docs/timecontrol.html.po, 0, 1, 0, 2 ,100%
+l10n/po/ja_JP/docs/docs/pmchart.html.po, 0, 1, 0, 2 ,100%
+l10n/po/ja_JP/docs/docs/overview.html.po, 0, 1, 0, 2 ,100%
+l10n/po/ja_JP/docs/docs/lab.secureclient.html.po, 0, 1, 0, 2 ,100%
+l10n/po/ja_JP/docs/docs/lab.secure.html.po, 0, 1, 0, 2 ,100%
+l10n/po/ja_JP/docs/docs/lab.pmview.html.po, 0, 1, 0, 2 ,100%
+l10n/po/ja_JP/docs/docs/lab.pmlogger.html.po, 0, 1, 0, 2 ,100%
+l10n/po/ja_JP/docs/docs/lab.pmieconf.html.po, 0, 1, 0, 2 ,100%
+l10n/po/ja_JP/docs/docs/lab.pmie.html.po, 0, 1, 0, 2 ,100%
+l10n/po/ja_JP/docs/docs/lab.pmchart.html.po, 0, 1, 0, 2 ,100%
+l10n/po/ja_JP/docs/docs/lab.importdata.html.po, 0, 1, 0, 2 ,100%
+l10n/po/ja_JP/docs/docs/lab.containers.html.po, 0, 1, 0, 2 ,100%
+l10n/po/ja_JP/docs/docs/lab.auth.html.po, 0, 1, 0, 2 ,100%
+l10n/po/ja_JP/docs/docs/installation.html.po, 0, 1, 0, 2 ,100%
+l10n/po/ja_JP/docs/docs/index.html.po, 0, 1, 0, 2 ,100%
 l10n/po/ja_JP/docs/features.html.po, 10, 40, 13, 388 ,97%
+l10n/po/ja_JP/docs/documentation.html.po, 8, 62, 10, 205 ,96%
 l10n/po/ja_JP/docs/screenshots.html.po, 10, 24, 13, 43 ,70%
 l10n/po/ja_JP/docs/team.html.po, 18, 32, 43, 73 ,42%
 l10n/po/ja_JP/docs/index.html.po, 20, 55, 223, 375 ,41%
