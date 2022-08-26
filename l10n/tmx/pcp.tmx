@@ -501,22 +501,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>Secure Connections</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>安全な接続</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Secure Client Connections</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>安全なクライアント接続</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
         <seg>Authenticated Connections</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
