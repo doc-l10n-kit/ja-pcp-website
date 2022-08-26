@@ -147,8 +147,9 @@ msgid "Analysis of Linux Containers"
 msgstr "Linux コンテナの分析"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:117-1
+#, fuzzy
 msgid "Encrypted Connections"
-msgstr ""
+msgstr "暗号化コネクション"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:120-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:123-1
