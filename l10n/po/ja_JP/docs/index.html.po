@@ -139,12 +139,14 @@ msgid "News"
 msgstr "ニュース"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
+#, fuzzy
 msgid "Aug 2022 <br> PCP 6.0.0"
-msgstr ""
+msgstr "2022年8月<br>PCP 6.0.0</br>"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:152-1
+#, fuzzy
 msgid "Major feature and bug fix release. <a href=\"https://man7.org/linux/man-pages/man5/LOGARCHIVE.5.html\">Version 3 PCP archive format</a> with Instance Domain deltas, Y2038 support, nanosecond precision, timezone improvements and more. <a href=\"https://man7.org/linux/man-pages/man1/pmdaelasticseach.1.html\">Elasticsearch</a> metrics authentication support. Support for top-alike plugins in <a href=\"https://man7.org/linux/man-pages/man1/pcp-dstat.1.html\">pcp-dstat</a> and tab support in the <a href=\"https://man7.org/linux/man-pages/man1/pcp-htop.1.html\">pcp-htop</a> user interface. New functions support in the <a href=\"https://man7.org/linux/man-pages/man1/pmseries.1.html\">pmseries</a> language including topk(), nth_percentile() and stdev(). <a href=\"https://man7.org/linux/man-pages/man1/pmdabpf.1.html\">BPF PMDA</a> CO-RE metric modules, multiple battery support in the <a href=\"https://man7.org/linux/man-pages/man1/pmdadenki.1.html\">denki</a> metrics, additional <a href=\"https://man7.org/linux/man-pages/man1/pmdaopenvswitch.1.html\">Open vSwitch</a> and <a href=\"https://man7.org/linux/man-pages/man1/pmdalinux.1.html\">Linux kernel</a> MpTcp metrics. Numerous bug fixes and performance enhancements, particularly in <a href=\"https://man7.org/linux/man-pages/man1/pmproxy.1.html\">pmproxy</a> and the <a href=\"https://man7.org/linux/man-pages/man1/pmlogger_daily.1.html\">logging infrastructure.</a>"
-msgstr ""
+msgstr "主な機能とバグ修正のリリースです。インスタンスドメインの差分、Y2038のサポート、ナノ秒の精度、タイムゾーンの改善などを含む<a href=\"https://man7.org/linux/man-pages/man5/LOGARCHIVE.5.html\">バージョン3のPCPアーカイブ形式</a>。<a href=\"https://man7.org/linux/man-pages/man1/pmdaelasticseach.1.html\">Elasticsearchの</a>メトリクス認証に対応。<a href=\"https://man7.org/linux/man-pages/man1/pcp-dstat.1.html\">pcp-dstatの</a>top-alikeプラグインのサポートと、<a href=\"https://man7.org/linux/man-pages/man1/pcp-htop.1.html\">pcp-hop</a>ユーザインタフェースのタブのサポート。topk()、nth_percentile()、stdev()を含む<a href=\"https://man7.org/linux/man-pages/man1/pmseries.1.html\">pmseries</a>言語での新しい関数のサポート。<a href=\"https://man7.org/linux/man-pages/man1/pmdabpf.1.html\">BPF PMDA</a>CO-RE メトリックモジュール、<a href=\"https://man7.org/linux/man-pages/man1/pmdadenki.1.html\">denki</a>メトリックにおける複数バッテリのサポート、<a href=\"https://man7.org/linux/man-pages/man1/pmdaopenvswitch.1.html\">Open vSwitch</a>と<a href=\"https://man7.org/linux/man-pages/man1/pmdalinux.1.html\">Linux カーネル</a>MpTcp メトリックの追加。特に<a href=\"https://man7.org/linux/man-pages/man1/pmproxy.1.html\">pmproxy</a>と<a href=\"https://man7.org/linux/man-pages/man1/pmlogger_daily.1.html\">ロギング・インフラストラクチャ</a>における多数のバグ修正と性能向上。"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:190-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
