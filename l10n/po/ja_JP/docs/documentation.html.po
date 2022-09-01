@@ -214,8 +214,9 @@ msgid "Ansible Metrics Role"
 msgstr "Ansible Metricsの役割"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:159-1
+#, fuzzy
 msgid "Application Performance and OpenMetrics"
-msgstr ""
+msgstr "アプリケーションのパフォーマンスとOpenMetrics"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.h1:168-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.h1:165-1
