@@ -517,54 +517,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>Case Studies</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ケーススタディー</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Analysing processor utilization</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>プロセッサの使用状況を分析する</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Analysing storage performance</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ストレージのパフォーマンスを分析する</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>System Event Log Instrumentation</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>システムイベントログの計測</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Comparing storage performance</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ストレージの性能を比較する</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Management framework integration</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>マネジメントフレームワークの統合</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
         <seg>Videos</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
