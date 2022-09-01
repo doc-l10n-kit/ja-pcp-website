@@ -178,39 +178,44 @@ msgid "Blog"
 msgstr "ブログ"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:141-1
-#, fuzzy
-msgid "Monitoring eBPF-based metrics"
-msgstr "eBPFベースのメトリクスのモニタリング"
-
-#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:144-1
-#, fuzzy
-msgid "Automating performance analysis"
-msgstr "パフォーマンス解析の自動化"
-
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:147-1
 #, fuzzy
 msgid "PCP and Grafana (Part 1)"
 msgstr "PCPとGrafana(前編)"
 
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:144-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:150-1
 #, fuzzy
 msgid "PCP and Grafana (Part 2)"
 msgstr "PCPとGrafana (その2)"
 
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:147-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:153-1
 #, fuzzy
 msgid "PCP and Grafana (Part 3)"
 msgstr "PCPとGrafana(その3)"
 
-#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:156-1
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:150-1
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:141-1
 #, fuzzy
-msgid "Application Performance"
-msgstr "アプリケーション性能"
+msgid "Monitoring eBPF-based metrics"
+msgstr "eBPFベースのメトリクスのモニタリング"
 
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:153-1
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:144-1
+#, fuzzy
+msgid "Automating performance analysis"
+msgstr "パフォーマンス解析の自動化"
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:156-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:159-1
 #, fuzzy
 msgid "Ansible Metrics Role"
 msgstr "Ansible Metricsの役割"
+
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:159-1
+msgid "Application Performance and OpenMetrics"
+msgstr ""
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.h1:168-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.h1:165-1
