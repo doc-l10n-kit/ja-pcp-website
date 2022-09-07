@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.7.2\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
 
 #: upstream/papers/pcp-presentation/test/examples/math.html%2Bhtml[lang]:2-1
 msgid "en"
