@@ -5,6 +5,166 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ドキュメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Installation</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>インストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quick Reference Guide</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>クイックリファレンスガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Guides</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Users and Administrators Guide, Programmers and REST API Guides</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ユーザー＆管理者ガイド、プログラマー＆REST API ガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Slides</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>スライド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Papers</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>発表資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reference papers and presentations we have permission to reproduce.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>転載が許可された参考論文・発表資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Screenshots</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Screenshots from a handful of PCP GUI and console tools, and the more recent &lt;a href="https://grafana-pcp.readthedocs.io/en/latest/screenshots.html"&gt;Grafana PCP&lt;/a&gt; plugin.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>いくつかの PCP GUI およびコンソールツール、およびより最近の&lt;a href="https://grafana-pcp.readthedocs.io/en/latest/screenshots.html"&gt;Grafana PCP&lt;/a&gt;プラグインのスクリーンショット。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Short Guides</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ショートガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using Charts</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>チャートの使い方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Logging Basics</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ロギングの基本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Automated Reasoning Basics</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>自動推論の基礎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configuring Automated Reasoning</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>自動推論の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Authenticated Connections</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>認証済みの接続</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Importing data and creating PCP archives (C, Perl, Python)</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>データのインポートと PCP アーカイブの作成 (C、Perl、Python)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Videos</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ビデオ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ansible 'metrics' Role</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>Ansible の「metric」ロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Practical Performance Co-Pilot and Grafana</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>実践的な Performance Co-Pilot と Grafana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Main Menu</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
@@ -241,166 +401,6 @@
       </tuv>
       <tuv xml:lang="ja_JP">
         <seg>ライブラリとサンプル実装によって、あなたのアプリケーション環境で重要となるパフォーマンスデータを、他の一般的なパフォーマンスデータと一緒にキャプチャしてエクスポートするための新しい「プラグイン」（またはエージェント）の開発が容易になります。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Documentation</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ドキュメント</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Installation</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>インストール</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Quick Reference Guide</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>クイックリファレンスガイド</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Guides</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ガイド</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Users and Administrators Guide, Programmers and REST API Guides</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ユーザー＆管理者ガイド、プログラマー＆REST API ガイド</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Slides</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>スライド</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Papers</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>発表資料</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Reference papers and presentations we have permission to reproduce.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>転載が許可された参考論文・発表資料。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Screenshots</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>スクリーンショット</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Screenshots from a handful of PCP GUI and console tools, and the more recent &lt;a href="https://grafana-pcp.readthedocs.io/en/latest/screenshots.html"&gt;Grafana PCP&lt;/a&gt; plugin.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>いくつかの PCP GUI およびコンソールツール、およびより最近の&lt;a href="https://grafana-pcp.readthedocs.io/en/latest/screenshots.html"&gt;Grafana PCP&lt;/a&gt;プラグインのスクリーンショット。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Short Guides</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ショートガイド</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Using Charts</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>チャートの使い方</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Logging Basics</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ロギングの基本</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Automated Reasoning Basics</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>自動推論の基礎</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Configuring Automated Reasoning</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>自動推論の設定</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Authenticated Connections</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>認証済みの接続</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Importing data and creating PCP archives (C, Perl, Python)</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>データのインポートと PCP アーカイブの作成 (C、Perl、Python)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Videos</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ビデオ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Ansible 'metrics' Role</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>Ansible の「metric」ロール</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Practical Performance Co-Pilot and Grafana</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>実践的な Performance Co-Pilot と Grafana</seg>
       </tuv>
     </tu>
     <tu>
