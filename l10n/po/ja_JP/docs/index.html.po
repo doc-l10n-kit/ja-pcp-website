@@ -145,12 +145,14 @@ msgid "News"
 msgstr "ニュース"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
+#, fuzzy
 msgid "Feb 2023 <br> PCP 6.0.2"
-msgstr ""
+msgstr "2023年2月<br> PCP 6.0.2"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:152-1
+#, fuzzy
 msgid "Minor bug fix release. Merged latest code from the <a href=\"https://atoptool.nl/\">atop</a> and <a href=\"https://htop.dev/\">atop</a> projects into the PCP variants of these tools, <a href=\"https://man7.org/linux/man-pages/man1/pcp-atop.1.html\">pcp-atop</a> and <a href=\"https://man7.org/linux/man-pages/man1/pcp-htop.1.html\">pcp-htop.</a> New Linux NUMA and networking metrics. Fixes to NFS client, BPF, statsd and Linux kernel metrics. New virtual filesystem file descriptor limit <a href=\"https://man7.org/linux/man-pages/man1/pmie.1.html\">pmie</a> rule."
-msgstr ""
+msgstr "マイナーなバグフィックスのリリース。<a href=\"https://atoptool.nl/\">atop</a>と<a href=\"https://htop.dev/\">atop</a>プロジェクトからの最新のコードをこれらのツールの PCP バリアントである<a href=\"https://man7.org/linux/man-pages/man1/pcp-atop.1.html\">pcp-atop</a>と<a href=\"https://man7.org/linux/man-pages/man1/pcp-htop.1.html\">pcp-htop</a>にマージしました。新しい Linux NUMA とネットワーキングのメトリック。NFS クライアント、BPF、statsd、および Linux カーネルメトリクスの修正。新しい仮想ファイルシステムのファイル記述子の制限<a href=\"https://man7.org/linux/man-pages/man1/pmie.1.html\">pmie</a>規則。"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:176-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
