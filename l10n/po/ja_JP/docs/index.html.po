@@ -30,6 +30,7 @@ msgstr "Performance Co-Pilot"
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:348-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:333-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:351-1
+#: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:347-1
 #, fuzzy
 msgctxt "upstream/docs/index.html+html.body.header.div.nav.ul.li:21-1"
 msgid "Features"
@@ -44,6 +45,7 @@ msgstr "特徴"
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:351-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:336-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:354-1
+#: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:350-1
 #, fuzzy
 msgctxt "upstream/docs/index.html+html.body.header.div.nav.ul.li:24-1"
 msgid "Documentation"
@@ -58,6 +60,7 @@ msgstr "ドキュメント"
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:354-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:339-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:357-1
+#: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:353-1
 #, fuzzy
 msgctxt "upstream/docs/index.html+html.body.header.div.nav.ul.li:27-1upstream/docs/index.html+html.body.header.div.nav.ul.li:27-1"
 msgid "Download"
@@ -142,27 +145,40 @@ msgid "News"
 msgstr "ニュース"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
+msgid "Feb 2023 <br> PCP 6.0.2"
+msgstr ""
+
+#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:152-1
+msgid "Minor bug fix release. Merged latest code from the <a href=\"https://atoptool.nl/\">atop</a> and <a href=\"https://htop.dev/\">atop</a> projects into the PCP variants of these tools, <a href=\"https://man7.org/linux/man-pages/man1/pcp-atop.1.html\">pcp-atop</a> and <a href=\"https://man7.org/linux/man-pages/man1/pcp-htop.1.html\">pcp-htop.</a> New Linux NUMA and networking metrics. Fixes to NFS client, BPF, statsd and Linux kernel metrics. New virtual filesystem file descriptor limit <a href=\"https://man7.org/linux/man-pages/man1/pmie.1.html\">pmie</a> rule."
+msgstr ""
+
+#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:176-1
+#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
 #, fuzzy
 msgid "Oct 2022 <br> PCP 6.0.1"
 msgstr "2022年10月<br>PCP 6.0.1</br>"
 
+#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:185-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:152-1
 #, fuzzy
 msgid "Bug fix release. Windows and Mac build improvements. New process statistics utility - <a href=\"https://man7.org/linux/man-pages/man1/pcp-ps.1.html\">pcp-ss .</a> Switched to an independent Security Enhanced Linux policy."
 msgstr "バグフィックスリリース。Windows と Mac のビルドを改善しました。新しいプロセス統計ユーティリティ -<a href=\"https://man7.org/linux/man-pages/man1/pcp-ps.1.html\">pcp-ss</a>。独立した Security Enhanced Linux ポリシーに切り替わりました。"
 
+#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:200-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:167-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
 #, fuzzy
 msgid "Aug 2022 <br> PCP 6.0.0"
 msgstr "2022年8月<br>PCP 6.0.0</br>"
 
+#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:209-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:176-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:152-1
 #, fuzzy
 msgid "Major feature and bug fix release. <a href=\"https://man7.org/linux/man-pages/man5/LOGARCHIVE.5.html\">Version 3 PCP archive format</a> with Instance Domain deltas, Y2038 support, nanosecond precision, timezone improvements and more. <a href=\"https://man7.org/linux/man-pages/man1/pmdaelasticseach.1.html\">Elasticsearch</a> metrics authentication support. Support for top-alike plugins in <a href=\"https://man7.org/linux/man-pages/man1/pcp-dstat.1.html\">pcp-dstat</a> and tab support in the <a href=\"https://man7.org/linux/man-pages/man1/pcp-htop.1.html\">pcp-htop</a> user interface. New functions support in the <a href=\"https://man7.org/linux/man-pages/man1/pmseries.1.html\">pmseries</a> language including topk(), nth_percentile() and stdev(). <a href=\"https://man7.org/linux/man-pages/man1/pmdabpf.1.html\">BPF PMDA</a> CO-RE metric modules, multiple battery support in the <a href=\"https://man7.org/linux/man-pages/man1/pmdadenki.1.html\">denki</a> metrics, additional <a href=\"https://man7.org/linux/man-pages/man1/pmdaopenvswitch.1.html\">Open vSwitch</a> and <a href=\"https://man7.org/linux/man-pages/man1/pmdalinux.1.html\">Linux kernel</a> MpTcp metrics. Numerous bug fixes and performance enhancements, particularly in <a href=\"https://man7.org/linux/man-pages/man1/pmproxy.1.html\">pmproxy</a> and the <a href=\"https://man7.org/linux/man-pages/man1/pmlogger_daily.1.html\">logging infrastructure.</a>"
 msgstr "主な機能とバグ修正のリリースです。インスタンスドメインの差分、Y2038のサポート、ナノ秒の精度、タイムゾーンの改善などを含む<a href=\"https://man7.org/linux/man-pages/man5/LOGARCHIVE.5.html\">バージョン3のPCPアーカイブ形式</a>。<a href=\"https://man7.org/linux/man-pages/man1/pmdaelasticseach.1.html\">Elasticsearchの</a>メトリクス認証に対応。<a href=\"https://man7.org/linux/man-pages/man1/pcp-dstat.1.html\">pcp-dstatの</a>top-alikeプラグインのサポートと、<a href=\"https://man7.org/linux/man-pages/man1/pcp-htop.1.html\">pcp-hop</a>ユーザインタフェースのタブのサポート。topk()、nth_percentile()、stdev()を含む<a href=\"https://man7.org/linux/man-pages/man1/pmseries.1.html\">pmseries</a>言語での新しい関数のサポート。<a href=\"https://man7.org/linux/man-pages/man1/pmdabpf.1.html\">BPF PMDA</a>CO-RE メトリックモジュール、<a href=\"https://man7.org/linux/man-pages/man1/pmdadenki.1.html\">denki</a>メトリックにおける複数バッテリのサポート、<a href=\"https://man7.org/linux/man-pages/man1/pmdaopenvswitch.1.html\">Open vSwitch</a>と<a href=\"https://man7.org/linux/man-pages/man1/pmdalinux.1.html\">Linux カーネル</a>MpTcp メトリックの追加。特に<a href=\"https://man7.org/linux/man-pages/man1/pmproxy.1.html\">pmproxy</a>と<a href=\"https://man7.org/linux/man-pages/man1/pmlogger_daily.1.html\">ロギング・インフラストラクチャ</a>における多数のバグ修正と性能向上。"
 
+#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:247-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:214-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:190-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
@@ -170,6 +186,7 @@ msgstr "主な機能とバグ修正のリリースです。インスタンスド
 msgid "Apr 2022 <br> PCP 5.3.7"
 msgstr "2022年4月<br>PCP 5.3.7</br>"
 
+#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:256-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:223-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:199-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:152-1
@@ -177,6 +194,7 @@ msgstr "2022年4月<br>PCP 5.3.7</br>"
 msgid "Bug fix release. Added Linux kernel multipath, network and disk metrics. Security Enhanced Linux improvements."
 msgstr "バグフィックスリリース。Linuxカーネルのマルチパス、ネットワーク、ディスクのメトリックスを追加しました。セキュリティ強化Linuxの改良。"
 
+#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:269-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:236-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:212-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:165-1
@@ -185,6 +203,7 @@ msgstr "バグフィックスリリース。Linuxカーネルのマルチパス�
 msgid "Feb 2022 <br> PCP 5.3.6"
 msgstr "2022年2月<br>PCP 5.3.6</br>"
 
+#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:278-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:245-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:221-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:174-1
@@ -192,6 +211,7 @@ msgstr "2022年2月<br>PCP 5.3.6</br>"
 msgid "Bug fix release. Updates to the BCC, Elasticsearch and rsyslog metrics."
 msgstr "バグフィックスリリース。BCC、Elasticsearch、rsyslogのメトリクスを更新しました。"
 
+#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:290-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:257-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:233-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:186-1
@@ -201,6 +221,7 @@ msgstr "バグフィックスリリース。BCC、Elasticsearch、rsyslogのメ�
 msgid "Nov 2021 <br> PCP 5.3.5"
 msgstr "2021年11月<br>PCP 5.3.5</br> "
 
+#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:299-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:266-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:242-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:195-1
@@ -210,6 +231,7 @@ msgstr "2021年11月<br>PCP 5.3.5</br> "
 msgid "Startup latency improvements in the <a href=\"https://man7.org/linux/man-pages/man1/pmlogger.1.html\">pmlogger</a> utility and service separation between local loggers and remote logging \"farms\". New MongoDB, KVM, Nvidia GPU and Linux kernel metrics."
 msgstr " <a href=\"https://man7.org/linux/man-pages/man1/pmlogger.1.html\">pmlogger</a>ユーティリティーのスタートアップレイテンシーの改善と、ローカルロガーとリモートロギング \"ファーム \"間のサービス分離。MongoDB、KVM、Nvidia GPU、Linuxカーネルの新しい測定基準。"
 
+#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:314-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:281-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:257-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:210-1
@@ -220,6 +242,7 @@ msgstr " <a href=\"https://man7.org/linux/man-pages/man1/pmlogger.1.html\">pmlog
 msgid "Oct 2021 <br> PCP 5.3.4"
 msgstr "2021年10月<br>PCP 5.3.4</br> "
 
+#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:323-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:290-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:266-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:219-1
@@ -230,28 +253,7 @@ msgstr "2021年10月<br>PCP 5.3.4</br> "
 msgid "Bug fix release, especially in systemd integration for <a href=\"https://man7.org/linux/man-pages/man1/pmlogger.1.html\">pmlogger</a> farms. Adds new detailed processor frequency scaling metrics on Linux. Improvements to the <a href=\"https://man7.org/linux/man-pages/man1/pcp-atop.1.html\">pcp-atop</a> and <a href=\"https://man7.org/linux/man-pages/man1/pcp-htop.1.html\">pcp-htop</a> utilities."
 msgstr "特に<a href=\"https://man7.org/linux/man-pages/man1/pmlogger.1.html\">pmlogger</a>ファームのsystemd統合におけるバグフィックスのリリースです。Linux において、プロセッサ周波数のスケーリングに関する詳細なメトリクスを追加しました。<a href=\"https://man7.org/linux/man-pages/man1/pcp-atop.1.html\">pcp-atop</a>および<a href=\"https://man7.org/linux/man-pages/man1/pcp-htop.1.html\">pcp-htop</a>ユーティリティの改善。"
 
-#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:309-1
-#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:285-1
-#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:238-1
-#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:217-1
-#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:195-1
-#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:171-1
-#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
-#, fuzzy
-msgid "Sep 2021 <br> PCP 5.3.3"
-msgstr "2021年9月<br>PCP 5.3.3</br> "
-
-#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:318-1
-#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:294-1
-#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:247-1
-#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:226-1
-#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:204-1
-#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:180-1
-#: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:152-1
-#, fuzzy
-msgid "New eBPF ELF binary PMDA based on libbpf. Improved <a href=\"https://man7.org/linux/man-pages/man1/pmdabcc.1.html\">pmdabcc</a> memory footprint. Dynamic columns in <a href=\"https://man7.org/linux/man-pages/man1/pcp-htop.1.html\">pcp-htop</a> allowing columns for any process metric in PCP. New Linux autogroup metrics. New and improved processor and block device saturation <a href=\"https://man7.org/linux/man-pages/man1/pmie.1.html\">pmie</a> rules."
-msgstr "libbpfをベースにした新しいeBPF ELFバイナリPMDAです。<a href=\"https://man7.org/linux/man-pages/man1/pmdabcc.1.html\">pmdabcc</a>のメモリフットプリントを改善しました。<a href=\"https://man7.org/linux/man-pages/man1/pcp-htop.1.html\">pcp-ht</a>opの動的カラムにより、PCPの任意のプロセスメトリクスのカラムが可能になりました。新しいLinuxオートグループメトリクスプロセッサとブロックデバイスの飽和<a href=\"https://man7.org/linux/man-pages/man1/pmie.1.html\">PMIE</a>ルールの新規追加と改善"
-
+#: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:348-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:345-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:349-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:331-1
@@ -264,24 +266,25 @@ msgstr "libbpfをベースにした新しいeBPF ELFバイナリPMDAです。<a 
 msgid "Main Menu"
 msgstr "メインメニュー"
 
-#: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:347-1
-#, fuzzy
-msgctxt "upstream/docs/index.html+html.body.footer.div.div.section.div.div.ul.li:347-1"
-msgid "Features"
-msgstr "特徴"
-
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:350-1
 #, fuzzy
 msgctxt "upstream/docs/index.html+html.body.footer.div.div.section.div.div.ul.li:350-1"
-msgid "Documentation"
-msgstr "ドキュメント"
+msgid "Features"
+msgstr "特徴"
 
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:353-1
 #, fuzzy
 msgctxt "upstream/docs/index.html+html.body.footer.div.div.section.div.div.ul.li:353-1"
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:356-1
+#, fuzzy
+msgctxt "upstream/docs/index.html+html.body.footer.div.div.section.div.div.ul.li:356-1"
 msgid "Download"
 msgstr "ダウンロード"
 
+#: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:364-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:361-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:365-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:347-1
@@ -294,6 +297,7 @@ msgstr "ダウンロード"
 msgid "Developers"
 msgstr "開発者"
 
+#: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:366-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:363-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:367-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:349-1
@@ -306,6 +310,7 @@ msgstr "開発者"
 msgid "Report an issue"
 msgstr "問題を報告する"
 
+#: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:369-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:366-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:370-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:352-1
@@ -318,6 +323,7 @@ msgstr "問題を報告する"
 msgid "Roadmap"
 msgstr "ロードマップ"
 
+#: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:372-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:369-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:373-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:355-1
@@ -330,6 +336,7 @@ msgstr "ロードマップ"
 msgid "Contributing"
 msgstr "貢献する"
 
+#: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:375-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:372-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:376-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:358-1
@@ -342,6 +349,7 @@ msgstr "貢献する"
 msgid "Team"
 msgstr "チーム"
 
+#: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:383-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:380-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:384-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:366-1
@@ -354,6 +362,7 @@ msgstr "チーム"
 msgid "About"
 msgstr "About"
 
+#: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:385-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:382-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:386-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:368-1
@@ -366,6 +375,7 @@ msgstr "About"
 msgid "Testimonials"
 msgstr "ユーザーの声"
 
+#: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:388-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:385-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:389-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:371-1
@@ -378,6 +388,7 @@ msgstr "ユーザーの声"
 msgid "FAQ"
 msgstr "よくある質問"
 
+#: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:391-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:388-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:392-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:374-1
@@ -390,6 +401,7 @@ msgstr "よくある質問"
 msgid "Website"
 msgstr "ウェブサイト"
 
+#: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:399-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:396-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:400-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.h4:382-1
@@ -402,6 +414,7 @@ msgstr "ウェブサイト"
 msgid "Get Social"
 msgstr "ソーシャル"
 
+#: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:401-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:398-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:402-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:384-1
@@ -414,6 +427,7 @@ msgstr "ソーシャル"
 msgid "Twitter"
 msgstr "Twitter"
 
+#: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:404-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:401-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:405-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:387-1
@@ -426,6 +440,7 @@ msgstr "Twitter"
 msgid "Github"
 msgstr "Github"
 
+#: upstream/docs/index.html%2Bhtml.body.footer.div.div.div.p:414-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.div.p:411-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.div.p:415-1
 #: upstream/docs/index.html%2Bhtml.body.footer.div.div.div.p:397-1
