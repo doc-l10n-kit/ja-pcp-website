@@ -148,12 +148,14 @@ msgid "News"
 msgstr "ニュース"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
+#, fuzzy
 msgid "Feb 2023 <br> PCP 6.0.3"
-msgstr ""
+msgstr "2023年2月<br> PCP 6.0.3"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:152-1
+#, fuzzy
 msgid "New Linux kernel IRQ Pressure Stall Information metrics (system wide and for individual cgroups). Debian packaging and <a href=\"https://man7.org/linux/man-pages/man1/pmlogreduce.1.html\">pmlogreduce</a> improvements."
-msgstr ""
+msgstr "新しい Linux カーネルの IRQ Pressure Stall Information メトリクス (システム全体と個々の cgroups について)。Debian のパッケージングと<a href=\"https://man7.org/linux/man-pages/man1/pmlogreduce.1.html\">pmlogreduce の</a>改良。"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:167-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
