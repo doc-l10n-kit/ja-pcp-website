@@ -151,12 +151,14 @@ msgid "News"
 msgstr "ニュース"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
+#, fuzzy
 msgid "May 2023 <br> PCP 6.0.4"
-msgstr ""
+msgstr "2023年5月<br> PCP 6.0.4"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:152-1
+#, fuzzy
 msgid "Improved handling of hostname changes in <a href=\"https://man7.org/linux/man-pages/man1/pmcd.1.html\">pmcd ,</a> <a href=\"https://man7.org/linux/man-pages/man1/pmie.1.html\">pmie ,</a> and <a href=\"https://man7.org/linux/man-pages/man1/pmlogger.1.html\">pmlogger .</a> Derived metrics help text API and instance domain similarity feature. New Linux kernel metrics in networking and shared process maps."
-msgstr ""
+msgstr "<a href=\"https://man7.org/linux/man-pages/man1/pmcd.1.html\">pmcd ,</a> <a href=\"https://man7.org/linux/man-pages/man1/pmie.1.html\">pmie ,</a> <a href=\"https://man7.org/linux/man-pages/man1/pmlogger.1.html\">pmlogger</a>でのホスト名変更の取り扱いが改善されました。派生メトリクスは、テキストAPIとインスタンスドメインの類似性機能を支援します。ネットワークと共有プロセス・マップにおける新しいLinuxカーネル・メトリクス。"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:169-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
