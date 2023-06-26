@@ -151,12 +151,14 @@ msgid "News"
 msgstr "ニュース"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
+#, fuzzy
 msgid "Jun 2023 <br> PCP 6.0.5"
-msgstr ""
+msgstr "2023年6月<br> PCP 6.0.5"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:152-1
+#, fuzzy
 msgid "Bug fix release. Updates to SMART, NVME and hacluster metrics. <a href=\"https://man7.org/linux/man-pages/man1/pcp2json.1.html\">pcp2json</a> extended with new HTTP POST functionality."
-msgstr ""
+msgstr "バグ修正リリース。SMART、NVME、hacluster メトリクスの更新。<a href=\"https://man7.org/linux/man-pages/man1/pcp2json.1.html\">pcp2json</a>に新しい HTTP POST 機能が追加されました。"
 
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:166-1
 #: upstream/docs/index.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:143-1
