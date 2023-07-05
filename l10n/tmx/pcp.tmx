@@ -5,6 +5,382 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>Main Menu</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>メインメニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>開発者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Report an issue</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>問題を報告する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Roadmap</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ロードマップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contributing</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>貢献する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Team</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>チーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>About</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Testimonials</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ユーザーの声</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>FAQ</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>よくある質問</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Website</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ウェブサイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Get Social</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>Get Social</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Twitter</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>Twitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Github</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>Github</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Collect</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>収集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;strong&gt;Kernel agents&lt;/strong&gt; for each supported platform. The Linux agent exports a broad range of performance data from kernels since 2.0.36 or later. This includes coverage of activity in the areas of: CPU, disk, memory, swapping, network, NFS, RPC, filesystems, and per-process statistics.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>サポートされている各プラットフォーム用の&lt;strong&gt;カーネルエージェント&lt;/strong&gt;です。Linuxエージェントは、2.0.36以降のカーネルから広範なパフォーマンスデータをエクスポートします。これには以下の分野のアクティビティが含まれます。CPU、ディスク、メモリ、スワップ、ネットワーク、NFS、RPC、ファイルシステム、プロセスごとの統計などです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;strong&gt;Other agents&lt;/strong&gt; export performance data from: Databases, Log files, Web servers, Mail systems, Cisco routers, Search engines, Cluster infrastructure, Application instrumentation (including the JVM) and the PCP infrastructure itself.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>&lt;strong&gt;その他のエージェント&lt;/strong&gt;は、データベース、ログファイル、ウェブサーバー、メールシステム、シスコルーター、検索エンジン、クラスターインフラストラクチャー、アプリケーション計測（JVMを含む）、PCP インフラストラクチャー自体などからパフォーマンスデータをエクスポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assorted simple &lt;strong&gt;monitoring tools&lt;/strong&gt; that use the PCP APIs to retrieve and display either arbitrary performance metrics, or specific groups of metrics (as in pmstat, a cluster-aware vmstat lookalike).</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>シンプルな&lt;strong&gt;モニタリングツール&lt;/strong&gt;の数々が PCP API を使用して任意のパフォーマンスメトリクスや特定のメトリクスグループを取得し表示します（例えばクラスター対応の vmstat 相当である pmstat のように）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analyze</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A single &lt;strong&gt;API&lt;/strong&gt; for accessing the performance data that hides details of where the data comes from and how it was captured and imported into the PCP framework.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>パフォーマンスデータにアクセスするための単一の&lt;strong&gt;API&lt;/strong&gt;は、データがどこから来たのか、どのように取得され、PCP フレームワークに取り込まれたのかという詳細を隠します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Integrated archive logging and replay so a client application can use the same API to process real-time data from a host or historical data from an archive.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>アーカイブのロギングとリプレイが統合されているため、クライアントアプリケーションは同じ API を使ってホストからのリアルタイムデータとアーカイブからの履歴データを処理することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The framework supports APIs and configuration file formats that enable the scope of performance monitoring to be extended at all levels.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>このフレームワークは、パフォーマンスモニタリングの範囲をすべてのレベルで拡張できるような API や設定ファイルフォーマットをサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The PCP inference engine supports automated monitoring through a rule-based language and interpreter that performs user-defined actions when rule predicates are found to be true.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>PCP の推論エンジンは、ルールベースの言語とインタープリターによって自動モニタリングをサポートし、ルールの述語が真であったときにユーザーが定義したアクションを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Access the graph data through a web interface or a GUI</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>Web インターフェースや GUI でグラフデータにアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Distributed</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>分散</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A client-server architecture allows multiple clients to monitor the same host, and a single client to monitor multiple hosts (e.g. in a cluster). This enables centralized monitoring of distributed processing.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>クライアントサーバーアーキテクチャでは、複数のクライアントが同じホストを監視したり、1つのクライアントが複数のホスト（クラスターなど）を監視することができます。これにより、分散した処理を集中的にモニタリングすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An endian-safe transport layer for moving performance metrics between the collector and the monitoring applications over TCP/IP. This means a desktop with PCP can monitor remote server systems with different architectures and operating systems.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>エンディアンセーフなトランスポートレイヤーによって TCP/IP を介してコレクターとモニタリングアプリケーションの間でパフォーマンスメトリクスを移動させることができます。これは、PCP を搭載したデスクトップが、異なるアーキテクチャや OS を持つリモートサーバーシステムを監視できることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Extend</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>拡張</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A "plugin" framework (libraries, APIs, agents and daemon) to collect performance data from multiple sources on a single host, e.g. from the hardware, the kernel, the service layers, the application libraries, and the applications themselves.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>1つのホスト上で複数のソースからパフォーマンスデータを収集するための「プラグイン」フレームワーク（ライブラリ、API、エージェント、デーモン）があります。例えば、ハードウェア、カーネル、サービスレイヤー、アプリケーションライブラリ、アプリケーション自体からデータを収集できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Libraries and sample implementations encourage the development of new "plugins" (or agents) to capture and export the performance data that matters in your application environment, along side the other generic performance data.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ライブラリとサンプル実装によって、あなたのアプリケーション環境で重要となるパフォーマンスデータを、他の一般的なパフォーマンスデータと一緒にキャプチャしてエクスポートするための新しい「プラグイン」（またはエージェント）の開発が容易になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Performance Co-Pilot</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>Performance Co-Pilot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Performance Co-Pilot</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>Performance Co-Pilot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Performance Co-Pilot</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>Performance Co-Pilot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Performance Co-Pilot is a system performance analysis toolkit.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>Performance Co-Pilotはシステムパフォーマンスの分析ツールキットです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;strong&gt;Lightweight&lt;/strong&gt; : &lt;a href="/features.html#collect"&gt;Collect&lt;/a&gt; performance metrics from your systems efficiently.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>&lt;strong&gt;軽量&lt;/strong&gt;: システムのパフォーマンスメトリクスを効率的に&lt;a href="/features.html#collect"&gt;収集&lt;/a&gt;します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;strong&gt;Distributed&lt;/strong&gt; : Collate metrics from &lt;a href="/features.html#distributed"&gt;multiple hosts&lt;/a&gt; and a variety of operating systems.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>&lt;strong&gt;分散&lt;/strong&gt;:&lt;a href="/features.html#distributed"&gt;複数のホスト&lt;/a&gt;や様々なOSからのメトリクスを照合します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;strong&gt;Included&lt;/strong&gt; : Everything you need is already included in the major distributions: Fedora, RHEL, Debian, SUSE, Ubuntu, Gentoo</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>&lt;strong&gt;組込済&lt;/strong&gt;: 主要なディストリビューション:Fedora, RHEL, Debian, SUSE, Ubuntu, Gentooで必要なものがすべて組込済です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;a href="/features.html#analyze"&gt;Analyze&lt;/a&gt; systems' performance metrics in real-time or using historical data.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>システムのパフォーマンスメトリクスをリアルタイムまたは過去のデータを使って&lt;a href="/features.html#analyze"&gt;分析&lt;/a&gt;します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compare performance metrics between different hosts and different intervals. Observe trends and identify abnormal patterns.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>異なるホストや異なる間隔でのパフォーマンスメトリクスを比較し、トレンドを観察、異常なパターンを特定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;a href="/features.html#extend"&gt;Extend&lt;/a&gt; the collected performance metrics in a simple way.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>収集したパフォーマンスメトリクスをシンプルな方法で&lt;a href="/features.html#extend"&gt;拡張&lt;/a&gt;します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PCP offers a multitude of APIs and libraries to extract and make use of performance metrics from your own application.</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>PCPは、自身のアプリケーションからパフォーマンスメトリクスを抽出して利用するための多数のAPIとライブラリを提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use Performance Co-Pilot Now</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>今すぐPerformance Co-Pilotを使う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Who's Using It?</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>誰が使っているの？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Learn More</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>さらに詳しく</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>News</seg>
+      </tuv>
+      <tuv xml:lang="ja_JP">
+        <seg>ニュース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Documentation</seg>
       </tuv>
       <tuv xml:lang="ja_JP">
@@ -161,382 +537,6 @@
       </tuv>
       <tuv xml:lang="ja_JP">
         <seg>実践的な Performance Co-Pilot と Grafana</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Main Menu</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>メインメニュー</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Developers</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>開発者</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Report an issue</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>問題を報告する</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Roadmap</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ロードマップ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Contributing</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>貢献する</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Team</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>チーム</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>About</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>About</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Testimonials</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ユーザーの声</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>FAQ</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>よくある質問</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Website</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ウェブサイト</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Get Social</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>Get Social</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Twitter</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>Twitter</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Github</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>Github</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>This website is Copyright © 2000-2004 Silicon Graphics Inc, 2007-2010 Aconex, 2012-2021 Red Hat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Performance Co-Pilot</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>Performance Co-Pilot</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Performance Co-Pilot</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>Performance Co-Pilot</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Performance Co-Pilot</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>Performance Co-Pilot</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Performance Co-Pilot is a system performance analysis toolkit.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>Performance Co-Pilotはシステムパフォーマンスの分析ツールキットです。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Collect</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>収集</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>&lt;strong&gt;Lightweight&lt;/strong&gt; : &lt;a href="/features.html#collect"&gt;Collect&lt;/a&gt; performance metrics from your systems efficiently.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>&lt;strong&gt;軽量&lt;/strong&gt;: システムのパフォーマンスメトリクスを効率的に&lt;a href="/features.html#collect"&gt;収集&lt;/a&gt;します。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>&lt;strong&gt;Distributed&lt;/strong&gt; : Collate metrics from &lt;a href="/features.html#distributed"&gt;multiple hosts&lt;/a&gt; and a variety of operating systems.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>&lt;strong&gt;分散&lt;/strong&gt;:&lt;a href="/features.html#distributed"&gt;複数のホスト&lt;/a&gt;や様々なOSからのメトリクスを照合します。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>&lt;strong&gt;Included&lt;/strong&gt; : Everything you need is already included in the major distributions: Fedora, RHEL, Debian, SUSE, Ubuntu, Gentoo</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>&lt;strong&gt;組込済&lt;/strong&gt;: 主要なディストリビューション:Fedora, RHEL, Debian, SUSE, Ubuntu, Gentooで必要なものがすべて組込済です。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Analyze</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>分析</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>&lt;a href="/features.html#analyze"&gt;Analyze&lt;/a&gt; systems' performance metrics in real-time or using historical data.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>システムのパフォーマンスメトリクスをリアルタイムまたは過去のデータを使って&lt;a href="/features.html#analyze"&gt;分析&lt;/a&gt;します。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Compare performance metrics between different hosts and different intervals. Observe trends and identify abnormal patterns.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>異なるホストや異なる間隔でのパフォーマンスメトリクスを比較し、トレンドを観察、異常なパターンを特定します。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Extend</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>拡張</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>&lt;a href="/features.html#extend"&gt;Extend&lt;/a&gt; the collected performance metrics in a simple way.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>収集したパフォーマンスメトリクスをシンプルな方法で&lt;a href="/features.html#extend"&gt;拡張&lt;/a&gt;します。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>PCP offers a multitude of APIs and libraries to extract and make use of performance metrics from your own application.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>PCPは、自身のアプリケーションからパフォーマンスメトリクスを抽出して利用するための多数のAPIとライブラリを提供しています。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Use Performance Co-Pilot Now</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>今すぐPerformance Co-Pilotを使う</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Quickstart</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>クイックスタート</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Download</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ダウンロード</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Who's Using It?</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>誰が使っているの？</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Learn More</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>さらに詳しく</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>News</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ニュース</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>&lt;strong&gt;Kernel agents&lt;/strong&gt; for each supported platform. The Linux agent exports a broad range of performance data from kernels since 2.0.36 or later. This includes coverage of activity in the areas of: CPU, disk, memory, swapping, network, NFS, RPC, filesystems, and per-process statistics.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>サポートされている各プラットフォーム用の&lt;strong&gt;カーネルエージェント&lt;/strong&gt;です。Linuxエージェントは、2.0.36以降のカーネルから広範なパフォーマンスデータをエクスポートします。これには以下の分野のアクティビティが含まれます。CPU、ディスク、メモリ、スワップ、ネットワーク、NFS、RPC、ファイルシステム、プロセスごとの統計などです。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>&lt;strong&gt;Other agents&lt;/strong&gt; export performance data from: Databases, Log files, Web servers, Mail systems, Cisco routers, Search engines, Cluster infrastructure, Application instrumentation (including the JVM) and the PCP infrastructure itself.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>&lt;strong&gt;その他のエージェント&lt;/strong&gt;は、データベース、ログファイル、ウェブサーバー、メールシステム、シスコルーター、検索エンジン、クラスターインフラストラクチャー、アプリケーション計測（JVMを含む）、PCP インフラストラクチャー自体などからパフォーマンスデータをエクスポートします。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Assorted simple &lt;strong&gt;monitoring tools&lt;/strong&gt; that use the PCP APIs to retrieve and display either arbitrary performance metrics, or specific groups of metrics (as in pmstat, a cluster-aware vmstat lookalike).</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>シンプルな&lt;strong&gt;モニタリングツール&lt;/strong&gt;の数々が PCP API を使用して任意のパフォーマンスメトリクスや特定のメトリクスグループを取得し表示します（例えばクラスター対応の vmstat 相当である pmstat のように）。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>A single &lt;strong&gt;API&lt;/strong&gt; for accessing the performance data that hides details of where the data comes from and how it was captured and imported into the PCP framework.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>パフォーマンスデータにアクセスするための単一の&lt;strong&gt;API&lt;/strong&gt;は、データがどこから来たのか、どのように取得され、PCP フレームワークに取り込まれたのかという詳細を隠します。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Integrated archive logging and replay so a client application can use the same API to process real-time data from a host or historical data from an archive.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>アーカイブのロギングとリプレイが統合されているため、クライアントアプリケーションは同じ API を使ってホストからのリアルタイムデータとアーカイブからの履歴データを処理することができます。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>The framework supports APIs and configuration file formats that enable the scope of performance monitoring to be extended at all levels.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>このフレームワークは、パフォーマンスモニタリングの範囲をすべてのレベルで拡張できるような API や設定ファイルフォーマットをサポートしています。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>The PCP inference engine supports automated monitoring through a rule-based language and interpreter that performs user-defined actions when rule predicates are found to be true.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>PCP の推論エンジンは、ルールベースの言語とインタープリターによって自動モニタリングをサポートし、ルールの述語が真であったときにユーザーが定義したアクションを実行します。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Access the graph data through a web interface or a GUI</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>Web インターフェースや GUI でグラフデータにアクセスできます。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Distributed</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>分散</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>A client-server architecture allows multiple clients to monitor the same host, and a single client to monitor multiple hosts (e.g. in a cluster). This enables centralized monitoring of distributed processing.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>クライアントサーバーアーキテクチャでは、複数のクライアントが同じホストを監視したり、1つのクライアントが複数のホスト（クラスターなど）を監視することができます。これにより、分散した処理を集中的にモニタリングすることができます。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>An endian-safe transport layer for moving performance metrics between the collector and the monitoring applications over TCP/IP. This means a desktop with PCP can monitor remote server systems with different architectures and operating systems.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>エンディアンセーフなトランスポートレイヤーによって TCP/IP を介してコレクターとモニタリングアプリケーションの間でパフォーマンスメトリクスを移動させることができます。これは、PCP を搭載したデスクトップが、異なるアーキテクチャや OS を持つリモートサーバーシステムを監視できることを意味します。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>A "plugin" framework (libraries, APIs, agents and daemon) to collect performance data from multiple sources on a single host, e.g. from the hardware, the kernel, the service layers, the application libraries, and the applications themselves.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>1つのホスト上で複数のソースからパフォーマンスデータを収集するための「プラグイン」フレームワーク（ライブラリ、API、エージェント、デーモン）があります。例えば、ハードウェア、カーネル、サービスレイヤー、アプリケーションライブラリ、アプリケーション自体からデータを収集できます。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
-        <seg>Libraries and sample implementations encourage the development of new "plugins" (or agents) to capture and export the performance data that matters in your application environment, along side the other generic performance data.</seg>
-      </tuv>
-      <tuv xml:lang="ja_JP">
-        <seg>ライブラリとサンプル実装によって、あなたのアプリケーション環境で重要となるパフォーマンスデータを、他の一般的なパフォーマンスデータと一緒にキャプチャしてエクスポートするための新しい「プラグイン」（またはエージェント）の開発が容易になります。</seg>
       </tuv>
     </tu>
   </body>
