@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.9.2\n"
+"X-Generator: Translate Toolkit 3.10.0\n"
 
 #: upstream/docs/papers/pcp-presentation/plugin/markdown/example.html%2Bhtml[lang]:2-1
 #, fuzzy
