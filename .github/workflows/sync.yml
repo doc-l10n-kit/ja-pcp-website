@@ -47,11 +47,12 @@ jobs:
       - name: Push changes
         run: bin/push-changes "Update translation stats"
 
-      - name: Machine translate
-        run: bin/machine-translate
-        env:
-          TRANSLATOR_ENGINE: deepL
-          TRANSLATOR_DEEPL_APIKEY: ${{ secrets.TRANSLATOR_DEEPL_APIKEY }}
+# suspend machine translation
+#      - name: Machine translate
+#        run: bin/machine-translate
+#        env:
+#          TRANSLATOR_ENGINE: deepL
+#          TRANSLATOR_DEEPL_APIKEY: ${{ secrets.TRANSLATOR_DEEPL_APIKEY }}
 
       - name: Push changes
         run: bin/push-changes "Add machine translation"
