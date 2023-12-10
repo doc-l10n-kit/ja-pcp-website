@@ -161,207 +161,240 @@ msgid "Authenticated Connections"
 msgstr "認証済みの接続"
 
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:123-1
+msgid "Explaining Value Interpolation with PCP Archives"
+msgstr ""
+
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:126-1
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:123-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:135-1
 msgid "Importing data and creating PCP archives (C, Perl, Python)"
 msgstr "データのインポートと PCP アーカイブの作成 (C、Perl、Python)"
 
-#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:126-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:129-1
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:126-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.section.div.div.ul.li:138-1
 msgid "Using 3D Views (experimental, source only)"
 msgstr "3D ビューの使用 (実験的、ソースのみ)"
 
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.h1:143-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.h1:140-1
 #, fuzzy
 msgid "Blog"
 msgstr "ブログ"
 
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:144-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:141-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:147-1
 #, fuzzy
 msgid "PCP and Grafana (Part 1)"
 msgstr "PCPとGrafana(前編)"
 
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:147-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:144-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:150-1
 #, fuzzy
 msgid "PCP and Grafana (Part 2)"
 msgstr "PCPとGrafana (その2)"
 
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:150-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:147-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:153-1
 #, fuzzy
 msgid "PCP and Grafana (Part 3)"
 msgstr "PCPとGrafana(その3)"
 
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:153-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:150-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:141-1
 #, fuzzy
 msgid "Monitoring eBPF-based metrics"
 msgstr "eBPFベースのメトリクスのモニタリング"
 
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:156-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:153-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:144-1
 #, fuzzy
 msgid "Automating performance analysis"
 msgstr "パフォーマンス解析の自動化"
 
-#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:156-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:159-1
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:156-1
 #, fuzzy
 msgid "Ansible Metrics Role"
 msgstr "Ansible Metricsの役割"
 
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:162-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div:159-1
 #, fuzzy
 msgid "Application Performance and OpenMetrics"
 msgstr "アプリケーションのパフォーマンスとOpenMetrics"
 
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.h1:171-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.h1:168-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.h1:165-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.h1:177-1
 msgid "Videos"
 msgstr "ビデオ"
 
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:184-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:181-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:178-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:190-1
 msgid "Ansible 'metrics' Role"
 msgstr "Ansible の「metric」ロール"
 
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:202-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:199-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:196-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:208-1
 msgid "Practical Performance Co-Pilot and Grafana"
 msgstr "実践的な Performance Co-Pilot と Grafana"
 
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:220-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:217-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:214-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:226-1
 msgid "Performance Co-Pilot and Vector new features in RHEL-8.0"
 msgstr "RHEL-8.0 における Performance Co-Pilot と Vector の新機能"
 
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:238-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:235-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:232-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:244-1
 msgid "Exploratory Performance Analysis with Performance Co-Pilot"
 msgstr "Performance Co-Pilot による探索的データ分析"
 
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:256-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:253-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:250-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:262-1
 msgid "Evaluating Red Hat Storage Performance using Performance Co-Pilot"
 msgstr "Performance Co-Pilot を使用した Red Hat ストレージパフォーマンスの評価"
 
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:274-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:271-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:268-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:280-1
 msgid "Programming the Performance Co-Pilot toolkit"
 msgstr "Performance Co-Pilot ツールキットのプログラミング"
 
+#: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:292-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:289-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:286-1
 #: upstream/docs/documentation.html%2Bhtml.body.div.div.div.div.div.section.div.div.p:298-1
 msgid "Regression Analysis with Performance Co-Pilot"
 msgstr "Performance Co-Pilot による回帰分析"
 
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:307-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:304-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:301-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:313-1
 msgid "Main Menu"
 msgstr "メインメニュー"
 
-#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:306-1
-#, fuzzy
-msgctxt "upstream/docs/documentation.html+html.body.footer.div.div.section.div.div.ul.li:306-1"
-msgid "Features"
-msgstr "特徴"
-
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:309-1
 #, fuzzy
 msgctxt "upstream/docs/documentation.html+html.body.footer.div.div.section.div.div.ul.li:309-1"
-msgid "Documentation"
-msgstr "ドキュメント"
+msgid "Features"
+msgstr "特徴"
 
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:312-1
 #, fuzzy
 msgctxt "upstream/docs/documentation.html+html.body.footer.div.div.section.div.div.ul.li:312-1"
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:315-1
+#, fuzzy
+msgctxt "upstream/docs/documentation.html+html.body.footer.div.div.section.div.div.ul.li:315-1"
 msgid "Download"
 msgstr "ダウンロード"
 
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:323-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:320-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:317-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:329-1
 msgid "Developers"
 msgstr "開発者"
 
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:325-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:322-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:319-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:331-1
 msgid "Report an issue"
 msgstr "問題を報告する"
 
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:328-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:325-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:322-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:334-1
 msgid "Roadmap"
 msgstr "ロードマップ"
 
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:331-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:328-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:325-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:337-1
 msgid "Contributing"
 msgstr "貢献する"
 
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:334-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:331-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:328-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:340-1
 msgid "Team"
 msgstr "チーム"
 
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:342-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:339-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:336-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:348-1
 msgid "About"
 msgstr "About"
 
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:344-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:341-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:338-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:350-1
 msgid "Testimonials"
 msgstr "ユーザーの声"
 
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:347-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:344-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:341-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:353-1
 msgid "FAQ"
 msgstr "よくある質問"
 
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:350-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:347-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:344-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:356-1
 msgid "Website"
 msgstr "ウェブサイト"
 
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:358-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:355-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:352-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.h4:364-1
 msgid "Get Social"
 msgstr "Get Social"
 
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:360-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:357-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:354-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:366-1
 msgid "Twitter"
 msgstr "Twitter"
 
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:363-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:360-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:357-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.section.div.div.ul.li:369-1
 msgid "Github"
 msgstr "Github"
 
+#: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.div.p:373-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.div.p:370-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.div.p:367-1
 #: upstream/docs/documentation.html%2Bhtml.body.footer.div.div.div.p:379-1
